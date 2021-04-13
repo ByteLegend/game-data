@@ -141,23 +141,23 @@
   format: HTML
   data:
     EN: |
-      <a href="https://gradle.org" target="_blank" class="badge badge-success">Gradle</a>: an awesome automated tool, by which the game is built.
+      <a href="https://gradle.org" target="_blank" class="badge badge-success notranslate">Gradle</a>: an awesome automated tool, by which the game is built.
     ZH_HANS: |
-      <a href="https://gradle.org" target="_blank" class="badge badge-success">Gradle</a>：非常好用的自动化工具，这个游戏使用它进行构建。
+      <a href="https://gradle.org" target="_blank" class="badge badge-success notranslate">Gradle</a>：非常好用的自动化工具，这个游戏使用它进行构建。
 - id: SpecialThanksKotlinParagraph
   format: HTML
   data:
     EN: |
-      <a href="https://kotlinlang.org/" target="_blank" class="badge badge-primary">Kotlin</a>: Everything you see in the game is written in Kotlin: frontend, backend, game script.
+      <a href="https://kotlinlang.org/" target="_blank" class="badge badge-primary notranslate">Kotlin</a>: Everything you see in the game is written in Kotlin: frontend, backend, game script.
     ZH_HANS: |
-      <a href="https://kotlinlang.org/" target="_blank" class="badge badge-primary">Kotlin</a>: 游戏的一切都是用Kotlin实现的，包括前端、后端以及游戏脚本。
+      <a href="https://kotlinlang.org/" target="_blank" class="badge badge-primary notranslate">Kotlin</a>: 游戏的一切都是用Kotlin实现的，包括前端、后端以及游戏脚本。
 - id: SpecialThanksTiledParagraph
   format: HTML
   data:
     EN: |
-      <a href="https://www.mapeditor.org/" target="_blank" class="badge badge-info">Tiled</a>: a free, easy-to-use map editor. All maps in the game are created with it.
+      <a href="https://www.mapeditor.org/" target="_blank" class="badge badge-info notranslate">Tiled</a>: a free, easy-to-use map editor. All maps in the game are created with it.
     ZH_HANS: |
-      <a href="https://www.mapeditor.org/" target="_blank" class="badge badge-info">Tiled</a>：游戏的所有地图都是通过它创建的。
+      <a href="https://www.mapeditor.org/" target="_blank" class="badge badge-info notranslate">Tiled</a>：游戏的所有地图都是通过它创建的。
 - id: MenuAboutTitle
   data:
     EN: Contact & About
@@ -262,9 +262,19 @@
     EN: Java Island
     ZH_HANS: 爪哇岛
 - id: JavaIslandNewbieVillagePub
+  format: HTML
   data:
-    EN: Foo Bar
+    EN: <span class="notranslate">Foo Bar</span>
     ZH_HANS: 福报酒吧
+- id: YouAreNotLoggedIn
+  data:
+    EN: You are not logged in
+    ZH_HANS: 未登录
+- id: ClickHereToLogin
+  format: HTML
+  data:
+    EN: Click <a href="/game/login?redirect=/">here</a> to log in.
+    ZH_HANS: 点击<a href="/game/login?redirect=/">这里</a>登录。
 - id: HelpUsImproveTheTranslationQuality
   data:
     EN: Help us improve the translation quality
