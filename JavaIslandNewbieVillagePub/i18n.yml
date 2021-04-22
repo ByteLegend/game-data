@@ -66,3 +66,8 @@
   data:
     EN: That means... you are a gay.
     ZH_HANS: 这说明……你是一个gay。
+- id: install-java-title
+  format: HTML
+  data:
+    EN: Install <span class="notranslate">Java</span>
+    ZH_HANS: 安装<span class="notranslate">Java</span>
