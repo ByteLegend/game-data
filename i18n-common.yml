@@ -361,3 +361,27 @@
       <p>
       在完成这个挑战后，你可以得到一颗⭐作为奖励。祝你玩的开心！
       </p>
+- id: GitIsland
+  data:
+    EN: Git island
+    ZH_HANS: Git岛
+- id: KotlinIsland
+  data:
+    EN: Kotlin island
+    ZH_HANS: Kotlin岛
+- id: GradleIsland
+  data:
+    EN: Gradle island
+    ZH_HANS: Gradle岛
+- id: PythonIsland
+  data:
+    EN: Python island
+    ZH_HANS: 灵蛇岛
+- id: GopherIsland
+  data:
+    EN: Gopher island
+    ZH_HANS: 地鼠岛
+- id: ThisIslandIsNotFinishedYet
+  data:
+    EN: This island is not finished yet😞
+    ZH_HANS: 这个岛还没完成😞

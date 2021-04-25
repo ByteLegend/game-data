@@ -5,3 +5,13 @@
     children: [ ]
     frames: 1
     roadmap: false
+- id: GitIsland
+  frames: 2
+- id: KotlinIsland
+  frames: 2
+- id: GradleIsland
+  frames: 2
+- id: GopherIsland
+  frames: 2
+- id: PythonIsland
+  frames: 2
