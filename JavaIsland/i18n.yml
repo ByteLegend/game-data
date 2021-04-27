@@ -2,13 +2,13 @@
   format: HTML
   data:
     EN: |
-      I only allow people with more than <span style='color:red'>{0} ⭐</span> to pass,
+      Oh sorry, I only allow people with more than <span style='color:red'>{0} ⭐</span> to pass,
       but you only have <span style='color:red'>{1} ⭐</span>.
-    ZH_HANS: 我允许拥有<span style='color:red'>{0}颗⭐</span>的人通过，但是你只有<span style='color:red'>{1}颗⭐</span>。
-- id: ICantHearYou
+    ZH_HANS: 哦对不起，我允许拥有<span style='color:red'>{0}颗⭐</span>的人通过，但是你只有<span style='color:red'>{1}颗⭐</span>。
+- id: DoYouPreferToBeMediocre
   data:
-    EN: I can't hear you! Step closer!
-    ZH_HANS: 你说啥？听不见！离近点！
+    EN: Hey! Do you prefer to be mediocre for the rest of your life or come in for a 🍺 then change the world?
+    ZH_HANS: 嘿！你是想一辈子平庸，还是进来喝一杯🍺然后改变世界？
 - id: StepCloserToOpenTheBook
   data:
     EN: Step closer to open the book!
@@ -19,8 +19,8 @@
     ZH_HANS: 但是我去哪弄⭐呢？
 - id: NiceJob
   data:
-    EN: Nice job! Now I have to let you in.
-    ZH_HANS: 干的漂亮！现在我得放你进去了。
+    EN: I see you have already starred ByteLegend. Nice job! Now I have to let you in.
+    ZH_HANS: 我看到你已经Star了ByteLegend。干的漂亮！现在我得放你进去了。
 - id: NiceDayHub
   data:
     EN: Nice day, huh?
