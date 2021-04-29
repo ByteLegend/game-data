@@ -13,6 +13,10 @@
   data:
     EN: Step closer to open the book!
     ZH_HANS: 离近点才能打开！
+- id: CanYouPleaseGrabACoffee
+  data:
+    EN: Hey, can you please grab a coffee for me?
+    ZH_HANS: 嘿，你能给我弄杯咖啡嘛？
 - id: WhereToFindStar
   data:
     EN: But where can I get ⭐?
