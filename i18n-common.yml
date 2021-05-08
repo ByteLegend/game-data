@@ -385,3 +385,7 @@
   data:
     EN: This island is not finished yet😞
     ZH_HANS: 这个岛还没完成😞
+- id: Items
+  data:
+    EN: Items
+    ZH_HANS: 物品
