@@ -1,5 +1,9 @@
 id: install-java
 title: install-java-title
-spec:
+challenge:
   type: Question
   spec: "(?s).*(jdk|java) version.*"
+onFinish:
+  items:
+    add: ["git-icon"]
+

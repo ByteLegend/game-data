@@ -17,6 +17,10 @@
   data:
     EN: Hey, can you please grab a coffee for me?
     ZH_HANS: 嘿，你能给我弄杯咖啡嘛？
+- id: ThankYouForYourCoffee
+  data:
+    EN: Thank you for your coffee!
+    ZH_HANS: 谢谢你的咖啡！
 - id: WhereToFindStar
   data:
     EN: But where can I get ⭐?
