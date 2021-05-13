@@ -1,23 +1,20 @@
 id: clone-and-run-java-project
 title: clone-and-run-java-project-title
-spec:
+challenge:
   type: Question
   star: 1
   spec: "(?s).*"
-next: clone-and-switch-branch
 ---
 id: clone-and-switch-branch
 title: clone-and-switch-branch-title
-spec:
+challenge:
   type: Question
   star: 1
   spec: "(?s).*"
-next: fix-simple-add
 ---
 id: fix-simple-add
 title: fix-simple-add-title
-spec:
-  type: PR
+challenge:
+  type: PullRequest
   star: 3
   spec: github.com/ByteLegendQuest/fix-simple-add
-next: JavaBasicStructure

@@ -17,6 +17,10 @@
   data:
     EN: Hey, can you please grab a coffee for me?
     ZH_HANS: 嘿，你能给我弄杯咖啡嘛？
+- id: ThankYouForYourCoffee
+  data:
+    EN: Thank you for your coffee!
+    ZH_HANS: 谢谢你的咖啡！
 - id: WhereToFindStar
   data:
     EN: But where can I get ⭐?
@@ -122,3 +126,32 @@
   data:
     EN: I don't know, maybe take a look at coordinate <span style='color:red'>{0}</span>?
     ZH_HANS: 我不知道，看一下<span style='color:red'>{0}</span>坐标？
+- id: ImSupposedToTakeYouToGitIsland
+  data:
+    EN: I'm supposed to take you to Git island, but the author hasn't finished the code...
+    ZH_HANS: 我本来应该带你去Git岛的，但是作者还没写完这部分的代码……
+- id: ImSupposedToDoSomething
+  data:
+    EN: I'm supposed to do something, but the author hasn't finished the code...
+    ZH_HANS: 我本来应该做点什么的，但是作者还没写完这部分的代码……
+- id: OutsideWorldIsDangerous
+  data:
+    EN: Where are you going? The outside world is full of dangerous monsters, evils ... and bugs.
+    ZH_HANS: 你要去哪儿？外面的世界充满了危险，到处都是怪物、恶魔……以及幺蛾子。
+- id: OutsideWorldIsDangerousButIHaveToLetYouGo
+  data:
+    EN: Even though the outside world is full of dangerous monsters, evils ... and bugs, I have to let you go.
+    ZH_HANS: 虽然外面的世界充满了危险，到处都是怪物、恶魔……以及幺蛾子，但是我还是得让你过去。
+- id: ButIHaveTo
+  data:
+    EN: But I have to pursue the holy Java coffee, to eradicate all bugs.
+    ZH_HANS: 但是我必须去找到神圣的爪哇咖啡，终结所有的幺蛾子。
+- id: LeaveYourName
+  format: HTML
+  data:
+    EN: OK... brave person, leave your name at coordinate <span style='color:red'>{0}</span>, we'll remember your forever.
+    ZH_HANS: 好吧，勇敢的人啊，请在<span style='color:red'>{0}</span>坐标留下你的名字吧，你会永远活在我们心中的。
+- id: GoodLuck
+  data:
+    EN: Good luck!
+    ZH_HANS: 祝你好运！
