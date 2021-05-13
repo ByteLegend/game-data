@@ -44,6 +44,10 @@
     EN: Seoul Server
     ZH_HANS: 首尔服务器
     ZH_HANT: 首爾伺服器
+- id: ThisIsCoordinate
+  data:
+    EN: This is coordinate
+    ZH_HANS: 这是坐标
 - id: ServerLocationTitle
   data:
     EN: You're accessing {0}
