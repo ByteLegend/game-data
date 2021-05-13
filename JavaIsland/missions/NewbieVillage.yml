@@ -21,7 +21,7 @@ id: remember-brave-people
 title: remember-brave-people-title
 challenge:
   type: PullRequest
-  star: 1
+  star: 3
   spec: github.com/ByteLegendQuest/remember-brave-people
 discussions:
   url: github.com/ByteLegendQuest/remember-brave-people/discussions

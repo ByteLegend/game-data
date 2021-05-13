@@ -389,3 +389,11 @@
   data:
     EN: Items
     ZH_HANS: 物品
+- id: Material
+  data:
+    EN: Material
+    ZH_HANS: 素材
+- id: Author
+  data:
+    EN: Author
+    ZH_HANS: 作者
