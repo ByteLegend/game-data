@@ -299,7 +299,7 @@
       （包括UI元素、游戏数据等）都是开源的，因此您可以通过提交GitHub的pull request帮助我们改进翻译的质量。
       <p>点击这里查看如何向我们的代码仓库贡献您的智慧。<strong>任何文本都可以。</strong></p>
       <p>我们对您的贡献感激不尽。</p>
-- id: MissionTutorial
+- id: MissionTutorials
   data:
     EN: Tutorials
     ZH_HANS: 教程
@@ -401,3 +401,27 @@
   data:
     EN: Author
     ZH_HANS: 作者
+- id: Language
+  data:
+    EN: Language
+    ZH_HANS: 语言
+- id: OrderBy
+  data:
+    EN: Order by
+    ZH_HANS: 排序
+- id: UpdateTime
+  data:
+    EN: Update time
+    ZH_HANS: 更新时间
+- id: Upvote
+  data:
+    EN: upvote
+    ZH_HANS: 赞同数
+- id: Type
+  data:
+    EN: Type
+    ZH_HANS: 类型
+- id: Refresh
+  data:
+    EN: Refresh
+    ZH_HANS: 刷新
