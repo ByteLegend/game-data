@@ -1,6 +1,6 @@
-- id: HiBroCoolOutfit
+- id: HiBroYouAreCool
   data:
-    EN: Hi bro, cool outfit! I've never seen you before.
+    EN: Hi bro, you are so cool! I've never seen you before.
     ZH_HANS: 哥们挺酷啊，我好像从来没见过你？
 - id: ImAProgrammer
   data:
@@ -71,3 +71,60 @@
   data:
     EN: Install <span class="notranslate">Java</span>
     ZH_HANS: 安装<span class="notranslate">Java</span>
+- id: WillYouGoOutWithMe
+  data:
+    EN: Hmm... I know this sounds a bit crazy, but would you go out with me sometime, like, tonight?
+    ZH_HANS: 嗯……我知道这听上去有点突然，但是你有空的时候和我一起出去玩么？比如说，今天晚上？
+- id: StayAwayFromMyDaughter
+  data:
+    EN: Hey! Stay away from my daughter!
+    ZH_HANS: 喂！离我女儿远一点！
+- id: SorryMyFatherDoesntAllow
+  data:
+    EN: Sorry, my father doesn't allow me to go out after dark.
+    ZH_HANS: 对不起，我爸爸不让我天黑之后出去。
+- id: Why
+  data:
+    EN: Why?
+    ZH_HANS: 为什么？
+- id: HugeBugsOnJavaIsland
+  data:
+    EN: Java island used to be a fertile land, but since some point many bugs appeared on the island.
+    ZH_HANS: 爪哇岛从前是一块富饶的土地，但是不知道从什么时候开始，岛上出现了很多的幺蛾子。
+- id: Bugs
+  data:
+    EN: Bugs?
+    ZH_HANS: 幺蛾子？
+- id: IWillEliminateAllBugs
+  data:
+    EN: If I can eliminate all bugs, would you like to go out with me?
+    ZH_HANS: 如果我能清除掉所有的幺蛾子，你愿意和我一起出去玩吗？
+- id: HmmmYes
+  data:
+    EN: Hmmm... yes.
+    ZH_HANS: 嗯……愿意。
+- id: SeeTheCoffeeMachine
+  format: HTML
+  data:
+    EN: Are you looking for coffee? You have to do it by yourself - the coffee machine at <span style='color:red'>{0}</span>.
+    ZH_HANS: 你在找咖啡么？你得自己动手了，<span style='color:red'>{0}</span>有一个咖啡机。
+- id: ThatsWhyWeDontGoOutAfterDark
+  data:
+    EN: Yes. That's why we don't go out after dark.
+    ZH_HANS: 是的。这就是我们天黑之后不能出门的原因。
+- id: DoYouHaveCoffee
+  data:
+    EN: Hi, do you have coffee?
+    ZH_HANS: 你好，请问有咖啡么？
+- id: WeDontSellCoffee
+  data:
+    EN: Are you kidding me? We don't sell coffee in pubs!
+    ZH_HANS: 你在逗我吧？我们酒吧从来不卖咖啡！
+- id: DidYouEliminateAllBugs
+  data:
+    EN: Did you eliminate all bugs on Java island?
+    ZH_HANS: 你清除掉爪哇岛上的所有幺蛾子了么？
+- id: NoIWillDoRightNow
+  data:
+    EN: No... I will do right now.
+    ZH_HANS: 还没有……我现在就去。
