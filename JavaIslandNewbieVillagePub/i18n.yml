@@ -128,3 +128,15 @@
   data:
     EN: No... I will do right now.
     ZH_HANS: 还没有……我现在就去。
+- id: install-java-tldr
+  format: MARKDOWN
+  data:
+    EN: To finish this challenge, install <span class="notranslate">Java Development Kit (JDK)</span>, then put the output of `java -version` into the input box.
+    ZH_HANS: 要完成这个挑战，你需要先安装一个<span class="notranslate">Java Development Kit (JDK)</span>，然后把`java -version`的输出结果放到输入框中。
+- id: install-java-readme
+  format: MARKDOWN
+  data:
+    EN: |
+      To finish this challenge, install <span class="notranslate">Java Development Kit (JDK)</span>, then put the output of `java -version` into the input box.
+    ZH_HANS: |
+      要完成这个挑战，你需要先安装一个<span class="notranslate">Java Development Kit (JDK)</span>，然后把`java -version`的输出结果放到输入框中。

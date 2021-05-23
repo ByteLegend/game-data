@@ -3,7 +3,15 @@ title: install-java-title
 challenge:
   type: Question
   spec: "(?s).*(jdk|java) version.*"
+  tldr: install-java-tldr
+  readme: install-java-readme
 onFinish:
   items:
     add: ["git-icon"]
-
+tutorials:
+  data:
+    - id: HowToStarByteLegendEn
+      title: Get the first star
+      href: https://www.youtube.com/watch?v=17Xmu99vP4c
+      type: video/youtube
+      language: EN

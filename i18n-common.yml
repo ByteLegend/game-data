@@ -425,3 +425,24 @@
   data:
     EN: Refresh
     ZH_HANS: 刷新
+- id: TLDR
+  format: HTML
+  data:
+    EN: <span class="notranslate">TL;DR</span>
+    ZH_HANS: 太长不看
+- id: YourAnswer
+  data:
+    EN: Your answer
+    ZH_HANS: 你的回答
+- id: Description
+  data:
+    EN: Description
+    ZH_HANS: 描述
+- id: Submit
+  data:
+    EN: Submit
+    ZH_HANS: 提交
+- id: AnswerHistory
+  data:
+    EN: Answer history
+    ZH_HANS: 回答历史
