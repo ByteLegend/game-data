@@ -434,10 +434,10 @@
   data:
     EN: Your answer
     ZH_HANS: 你的回答
-- id: Description
+- id: Problem
   data:
-    EN: Description
-    ZH_HANS: 描述
+    EN: Problem
+    ZH_HANS: 题目
 - id: Submit
   data:
     EN: Submit
@@ -446,3 +446,12 @@
   data:
     EN: Answer history
     ZH_HANS: 回答历史
+- id: AnswerCorrect
+  format: HTML
+  data:
+    EN: <div class="mission-success-tick-icon inline-icon"></div> Your answer is correct! Please go back to the game.
+    ZH_HANS: <div class="mission-success-tick-icon inline-icon"></div> 回答正确！请返回游戏。
+- id: GetItem
+  data:
+    EN: Got item {0}
+    ZH_HANS: 获得物品{0}

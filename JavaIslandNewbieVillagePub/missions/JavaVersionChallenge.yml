@@ -2,12 +2,13 @@ id: install-java
 title: install-java-title
 challenge:
   type: Question
+  star: 1
   spec: "(?s).*(jdk|java) version.*"
   tldr: install-java-tldr
   readme: install-java-readme
 onFinish:
   items:
-    add: ["git-icon"]
+    add: ["coffee-icon"]
 tutorials:
   data:
     - id: HowToStarByteLegendEn

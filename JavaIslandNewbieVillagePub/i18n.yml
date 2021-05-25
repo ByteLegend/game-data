@@ -88,17 +88,20 @@
     EN: Why?
     ZH_HANS: 为什么？
 - id: HugeBugsOnJavaIsland
+  format: HTML
   data:
-    EN: Java island used to be a fertile land, but since some point many bugs appeared on the island.
-    ZH_HANS: 爪哇岛从前是一块富饶的土地，但是不知道从什么时候开始，岛上出现了很多的幺蛾子。
+    EN: Java island used to be a fertile land, but since some point many <span style='color:red'>bugs</span> appeared on the island.
+    ZH_HANS: 爪哇岛从前是一块富饶的土地，但是不知道从什么时候开始，岛上出现了很多的<span style='color:red'>幺蛾子</span>。
 - id: Bugs
+  format: HTML
   data:
-    EN: Bugs?
-    ZH_HANS: 幺蛾子？
+    EN: <span style='color:red'>Bugs</span>?
+    ZH_HANS: <span style='color:red'>幺蛾子</span>？
 - id: IWillEliminateAllBugs
+  format: HTML
   data:
-    EN: If I can eliminate all bugs, would you like to go out with me?
-    ZH_HANS: 如果我能清除掉所有的幺蛾子，你愿意和我一起出去玩吗？
+    EN: If I can eliminate all <span style='color:red'>bugs</span>, would you like to go out with me?
+    ZH_HANS: 如果我能清除掉所有的<span style='color:red'>幺蛾子</span>，你愿意和我一起出去玩吗？
 - id: HmmmYes
   data:
     EN: Hmmm... yes.
@@ -131,8 +134,8 @@
 - id: install-java-tldr
   format: MARKDOWN
   data:
-    EN: To finish this challenge, install <span class="notranslate">Java Development Kit (JDK)</span>, then put the output of `java -version` into the input box.
-    ZH_HANS: 要完成这个挑战，你需要先安装一个<span class="notranslate">Java Development Kit (JDK)</span>，然后把`java -version`的输出结果放到输入框中。
+    EN: Install <span class="notranslate">Java Development Kit (JDK)</span>, then put the output of `java -version` into the input box.
+    ZH_HANS: 安装<span class="notranslate">Java Development Kit (JDK)</span>，然后把`java -version`的输出结果放到输入框中。
 - id: install-java-readme
   format: MARKDOWN
   data:
