@@ -135,23 +135,45 @@
     EN: I'm supposed to do something, but the author hasn't finished the code...
     ZH_HANS: 我本来应该做点什么的，但是作者还没写完这部分的代码……
 - id: OutsideWorldIsDangerous
+  format: HTML
   data:
-    EN: Where are you going? The outside world is full of dangerous monsters, evils ... and bugs.
-    ZH_HANS: 你要去哪儿？外面的世界充满了危险，到处都是怪物、恶魔……以及幺蛾子。
+    EN: Where are you going? The outside world is full of dangerous monsters, evils ... and <span style='color:red'>poisonous <span class='notranslate'>bugs</span></span>.
+    ZH_HANS: 你要去哪儿？外面的世界充满了危险，到处都是怪物、恶魔……以及<span style='color:red'>有毒的幺蛾子</span>。
 - id: OutsideWorldIsDangerousButIHaveToLetYouGo
+  format: HTML
   data:
-    EN: Even though the outside world is full of dangerous monsters, evils ... and bugs, I have to let you go.
-    ZH_HANS: 虽然外面的世界充满了危险，到处都是怪物、恶魔……以及幺蛾子，但是我还是得让你过去。
-- id: ButIHaveTo
+    EN: Even though the outside world is full of dangerous monsters, evils ... and <span style='color:red'>poisonous <span class='notranslate'>bugs</span></span>, I have to let you go.
+    ZH_HANS: 虽然外面的世界充满了危险，到处都是怪物、恶魔……以及<span style='color:red'>有毒的幺蛾子</span>，但是我还是得让你过去。
+- id: ButIHaveToDoSomething
   data:
-    EN: But I have to pursue the holy Java coffee, to eradicate all bugs.
-    ZH_HANS: 但是我必须去找到神圣的爪哇咖啡，终结所有的幺蛾子。
+    EN: But I have to do something, to eradicate the bugs, I don't want to stay at home all the time!
+    ZH_HANS: 但是我必须做点什么终结所有的幺蛾子！我不想整天呆在家里！
+- id: YouCanFindHolyJavaCoffee
+  format: HTML
+  data:
+    EN: There is a way... you can find <span style='color:red'>Holy Java Coffee</span> in the castle at <span style='color:red'>{0}</span>...
+    ZH_HANS: 有一个办法……在<span style='color:red'>{0}坐标</span>的城堡里有<span style='color:red'>神圣爪哇咖啡</span>……
+- id: HolyJavaCoffeeIsAntidote
+  format: HTML
+  data:
+    EN: which is the antidote of <span style='color:red'>poisonous <span class='notranslate'>bugs</span></span>.
+    ZH_HANS: 是<span style='color:red'>有毒的幺蛾子</span>的克星。
+- id: ButYouHaveToGoThroughJavaIsland
+  data:
+    EN: But you have to go through Java island, with dangerous bugs all over the island.
+    ZH_HANS: 但是你必须穿越满是危险幺蛾子的爪哇岛。
+- id: WithItICanDate
+  format: HTML
+  data:
+    EN: So with <span style='color:red'>Holy Java Coffee</span> I can date girls, I mean, heal the world?
+    ZH_HANS: 所以有了<span style='color:red'>神圣爪哇咖啡</span>我就可以和女孩子约会……我的意思是……拯救世界了？
 - id: LeaveYourName
   format: HTML
   data:
-    EN: OK... brave person, leave your name at coordinate <span style='color:red'>{0}</span>, we'll remember your forever.
-    ZH_HANS: 好吧，勇敢的人啊，请在<span style='color:red'>{0}</span>坐标留下你的名字吧，你会永远活在我们心中的。
-- id: GoodLuck
+    EN: Yes... brave person, if you insist, leave your name on the noticeboard at coordinate <span style='color:red'>{0}</span>, we'll remember your forever.
+    ZH_HANS: 是的。勇敢的人啊，如果你非要去，请在<span style='color:red'>{0}</span>坐标的公告牌留下你的名字吧，你会永远活在我们心中的。
+- id: GoodLuckPursueHolyJavaCoffee
+  format: HTML
   data:
-    EN: Good luck!
-    ZH_HANS: 祝你好运！
+    EN: Good luck pursuing <span style='color:red'>Holy Java Coffee</span>!
+    ZH_HANS: 祝你追寻<span style='color:red'>神圣爪哇咖啡</span>好运！
