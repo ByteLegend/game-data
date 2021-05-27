@@ -17,15 +17,6 @@ tutorials:
       type: video/bilibili
       language: ZH_HANS
 ---
-id: remember-brave-people
-title: remember-brave-people-title
-challenge:
-  type: PullRequest
-  star: 3
-  spec: github.com/ByteLegendQuest/remember-brave-people
-discussions:
-  url: github.com/ByteLegendQuest/remember-brave-people/discussions
----
 id: install-ide
 title: install-ide-title
 challenge:
