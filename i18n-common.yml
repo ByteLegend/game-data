@@ -155,6 +155,13 @@
       <a href="https://kotlinlang.org/" target="_blank" class="badge badge-primary notranslate">Kotlin</a>: Everything you see in the game is written in Kotlin: frontend, backend, game script.
     ZH_HANS: |
       <a href="https://kotlinlang.org/" target="_blank" class="badge badge-primary notranslate">Kotlin</a>: 游戏的一切都是用Kotlin实现的，包括前端、后端以及游戏脚本。
+- id: SpecialThanksIdeaParagraph
+  format: HTML
+  data:
+    EN: |
+      <a href="https://www.jetbrains.com/community/opensource/#support" target="_blank" class="badge badge-warning notranslate">JetBrains Open Source Support</a>: the game is developed with IntelliJ IDEA.
+    ZH_HANS: |
+      <a href="https://www.jetbrains.com/community/opensource/#support" target="_blank" class="badge badge-warning notranslate">JetBrains开源支持</a>: 本游戏主要使用IntelliJ IDEA开发。
 - id: SpecialThanksTiledParagraph
   format: HTML
   data:
