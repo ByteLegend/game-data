@@ -1,0 +1,27 @@
+- id: ThanksForCreatingPullRequest
+  format: HTML
+  data:
+    EN: ":heart: Thanks for the <span class='notranslate'>pull request</span>! A sec please, we've already submitted it to CI, and will let you know once it's done!"
+    ZH_HANS: ":heart: 感谢提交Pull Request！请稍等片刻，我们已经将其提交到CI进行检查，一旦有结果会立即通知您！"
+- id: YourAnswerIsBeingTested
+  data:
+    EN: ":smile: Your answer is being tested by CI. Click [here]({0}) to see more details."
+    ZH_HANS: ":smile: 您的答案正在被CI测试。点击[这里]({0})查看更多信息。"
+- id: YourAnswerPassedCI
+  format: HTML
+  data:
+    EN: |
+      :tada: Congrats! Your answer passed our CI test. I will merge the <span class='notranslate'>pull request</span> for you. Please keep challenging and enjoy programming!
+      Click [here]({0}) to see more details.
+    ZH_HANS: |
+      :tada: 恭喜！您的答案通过了CI测试。请再接再厉，继续挑战，享受编程的乐趣！
+      点击[这里]({0})查看更多信息。
+- id: YourAnswerFailedCI
+  format: HTML
+  data:
+    EN: |
+      :sob: Sorry, your answer seemed not pass our CI test. Don't worry, click [here]({0}) to see more details.
+      I absolutely believe you can do better next time!
+    ZH_HANS: |
+      :sob: 对不起，您的答案似乎没有通过CI测试，请不要气馁，点击[这里]({0})查看原因，再接再厉！
+      下次一定可以做得更好！
