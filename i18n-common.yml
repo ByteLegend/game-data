@@ -465,4 +465,4 @@
 - id: YouAreOfflineBecauseOfAnotherLogin
   data:
     EN: You're entering offline mode because your account is logged in somewhere else.
-    ZH_HANS: 因为您的账号在其他地方登陆，您已经进入离线模式。
+    ZH_HANS: 因为您的账号在其他地方登录，您已经进入离线模式。
