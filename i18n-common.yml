@@ -470,3 +470,11 @@
   data:
     EN: To answer the question, you must enter the adjacent tile.
     ZH_HANS: 要回答问题，您必须走到相邻的格子里。
+- id: MissionDiscussion
+  data:
+    EN: Discussions
+    ZH_HANS: 讨论
+- id: BravePeopleBoard
+  data:
+    EN: Brave people board
+    ZH_HANS: 勇士榜
