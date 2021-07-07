@@ -134,8 +134,8 @@
 - id: install-java-tldr
   format: MARKDOWN
   data:
-    EN: Install <span class="notranslate">Java Development Kit (JDK)</span>, then put the output of `java -version` into the input box.
-    ZH_HANS: 安装<span class="notranslate">Java Development Kit (JDK)</span>，然后把`java -version`的输出结果放到输入框中。
+    EN: Install <a href="https://adoptopenjdk.net/" class="notranslate" target="_blank">Java Development Kit (JDK)</a>, then put the output of `java -version` into the input box.
+    ZH_HANS: 安装<a href="https://adoptopenjdk.net/" class="notranslate" target="_blank">Java Development Kit (JDK)</a>，然后把`java -version`的输出结果放到输入框中。
 - id: install-java-readme
   format: MARKDOWN
   data:

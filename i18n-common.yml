@@ -466,3 +466,7 @@
   data:
     EN: You're entering offline mode because your account is logged in somewhere else.
     ZH_HANS: 因为您的账号在其他地方登录，您已经进入离线模式。
+- id: YouMustBeAdjacentToTheMission
+  data:
+    EN: To answer the question, you must enter the adjacent tile.
+    ZH_HANS: 要回答问题，您必须走到相邻的格子里。
