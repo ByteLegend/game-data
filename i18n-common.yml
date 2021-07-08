@@ -478,3 +478,7 @@
   data:
     EN: Brave people board
     ZH_HANS: 勇士榜
+- id: ThisIsNotFinishedYet
+  data:
+    EN: This is not finished yet😞
+    ZH_HANS: 未完成😞

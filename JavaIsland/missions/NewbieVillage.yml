@@ -23,3 +23,5 @@ challenge:
   type: Question
   star: 1
   spec: "(?s).*"
+  tldr: "ThisIsNotFinishedYet"
+  readme: "ThisIsNotFinishedYet"
