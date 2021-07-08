@@ -7,15 +7,27 @@ challenge:
 tutorials:
   data:
     - id: HowToStarByteLegendEn
-      title: Get the first star
-      href: https://www.youtube.com/watch?v=17Xmu99vP4c
+      title: Get your first star
+      href: https://www.youtube.com/watch?v=lu_VnMThTo0
+      type: video/youtube
+      language: EN
+    - id: CreateGitHubAccountEn
+      title: Create a GitHub account
+      href: https://www.youtube.com/watch?v=-Di-ZfcBDXU
       type: video/youtube
       language: EN
     - id: HowToStarByteLegendZhHans
       title: 获得第一颗星
-      href: https://www.youtube.com/watch?v=17Xmu99vP4c
+      href: https://www.bilibili.com/video/BV1Rf4y1L7Vy
       type: video/bilibili
       language: ZH_HANS
+    - id: CreateGitHubAccountZhHans
+      title: 如何注册GitHub账号
+      href: https://www.bilibili.com/video/BV1A441157V1
+      type: video/bilibili
+      language: ZH_HANS
+discussions:
+  url: https://github.com/ByteLegend/ByteLegend/discussions
 ---
 id: install-ide
 title: install-ide-title
