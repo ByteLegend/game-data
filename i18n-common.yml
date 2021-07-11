@@ -482,3 +482,17 @@
   data:
     EN: This is not finished yet😞
     ZH_HANS: 未完成😞
+- id: Speak
+  data:
+    EN: Speak
+    ZH_HANS: 讲话
+- id: HelloWorld
+  format: HTML
+  data:
+    EN: <span class="notranslate">Hello, world!</span>
+    ZH_HANS: <span class="notranslate">Hello, world!</span>
+- id: GamesAreTheLadder
+  format: HTML
+  data:
+    EN: Games are the ladder of human progress.
+    ZH_HANS: 游戏是人类进步的阶梯。
