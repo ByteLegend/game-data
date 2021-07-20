@@ -1,1 +1,613 @@
-[{"id":"HiBroYouAreCool","data":{"EN":"Hi bro, you are so cool! I've never seen you before.","ZH_HANS":"哥们挺酷啊，我好像从来没见过你？","ZH_HANT":"哥們挺酷啊，我好像從來沒見過你？","ES":"¡Hola hermano, eres tan genial! Nunca te había visto antes.","AR":"مرحبا اخي ، انت رائع جدا! لم أرك من قبل.","PT":"Oi mano, você é tão legal! Eu nunca te vi antes.","ID":"Hai bro, kamu sangat keren! Aku belum pernah melihatmu sebelumnya.","FR":"Salut mon frère, tu es tellement cool! Je ne t'ai jamais vu auparavant.","JA":"こんにちは仲間、あなたはとてもクールです！私はあなたに会ったことがありません。","RU":"Привет, братан, ты такой классный! Я тебя раньше не видел.","DE":"Hallo Bruder, du bist so cool! Ich habe dich noch nie gesehen.","KO":"안녕 형님, 정말 멋져요! 나는 당신을 전에 본 적이 없습니다.","IT":"Ciao fratello, sei così forte! Non ti ho mai visto prima."},"format":"TEXT"},{"id":"ImAProgrammer","data":{"EN":"I'm a programmer.","ZH_HANS":"我是一个程序员。","ZH_HANT":"我是一個程序員。","ES":"Soy programador.","AR":"انا مبرمج.","PT":"Sou um programador.","ID":"Saya seorang programmer.","FR":"Je suis programmeur.","JA":"私はプログラマーです。","RU":"Я программист.","DE":"Ich bin Programmierer.","KO":"저는 프로그래머입니다.","IT":"Sono un programmatore."},"format":"TEXT"},{"id":"WhatIsProgrammer","data":{"EN":"What is programmer?","ZH_HANS":"程序员是啥？","ZH_HANT":"程序員是啥？","ES":"¿Qué es programador?","AR":"ما هو المبرمج؟","PT":"O que é programador?","ID":"Apa itu programmer?","FR":"Qu'est-ce que le programmeur?","JA":"プログラマーとは？","RU":"Что такое программист?","DE":"Was ist Programmierer?","KO":"프로그래머는 무엇입니까?","IT":"Cos'è il programmatore?"},"format":"TEXT"},{"id":"ProgrammerNeedsLogic","data":{"EN":"Well... programmer is a job where you need to be a \"logic thinker\".","ZH_HANS":"嗯……程序员是一个需要很多逻辑思考的职业。","ZH_HANT":"嗯……程序員是一個需要很多邏輯思考的職業。","ES":"Bueno ... programador es un trabajo en el que necesitas ser un \"pensador lógico\".","AR":"حسنًا ... المبرمج وظيفة تحتاج فيها إلى أن تكون \"مفكرًا منطقيًا\".","PT":"Bem ... programador é um trabalho em que você precisa ser um \"pensador lógico\".","ID":"Nah ... programmer adalah pekerjaan di mana Anda harus menjadi \"pemikir logika\".","FR":"Eh bien ... le programmeur est un travail où vous devez être un \"penseur logique\".","JA":"ええと...プログラマーはあなたが「論理思想家」である必要がある仕事です。","RU":"Ну ... программист - это работа, где нужно быть «логическим мыслителем».","DE":"Nun ... Programmierer ist ein Job, bei dem man ein \"logischer Denker\" sein muss.","KO":"글쎄요 ... 프로그래머는 당신이 \"논리적 사상가\"가되어야하는 직업입니다.","IT":"Beh ... il programmatore è un lavoro in cui devi essere un \"pensatore logico\"."},"format":"TEXT"},{"id":"LogicThinker","data":{"EN":"Logic thinker?","ZH_HANS":"逻辑思考？","ZH_HANT":"邏輯思考？","ES":"¿Pensador lógico?","AR":"مفكر منطقي؟","PT":"Pensador lógico?","ID":"Pemikir logika?","FR":"Penseur de la logique?","JA":"論理思想家？","RU":"Мыслитель логики?","DE":"Logikdenker?","KO":"논리 사상가?","IT":"Pensatore logico?"},"format":"TEXT"},{"id":"HardToExplain","data":{"EN":"It's kind of hard to explain, let's practise... do you have a dog?","ZH_HANS":"解释起来有点难，我们来举个例子，你养狗么？","ZH_HANT":"解釋起來有點難，我們來舉個例子，你養狗麼？","ES":"Es un poco difícil de explicar, practiquemos ... ¿tienes un perro?","AR":"من الصعب شرح ذلك ، دعنا نتدرب ... هل لديك كلب؟","PT":"É meio difícil de explicar, vamos praticar ... você tem cachorro?","ID":"Agak sulit untuk dijelaskan, ayo berlatih ... apakah kamu punya anjing?","FR":"C'est un peu difficile à expliquer, pratiquons-nous ... avez-vous un chien?","JA":"説明するのはちょっと難しいです、練習しましょう...あなたは犬を飼っていますか？","RU":"Это сложно объяснить, давай потренируемся ... у тебя есть собака?","DE":"Es ist schwer zu erklären, lass uns üben ... hast du einen Hund?","KO":"설명하기 좀 어렵 네요. 연습 해 보죠 ... 개가 있나요?","IT":"È un po 'difficile da spiegare, facciamo pratica ... hai un cane?"},"format":"TEXT"},{"id":"YesIHaveDog","data":{"EN":"Yes!","ZH_HANS":"养啊。","ZH_HANT":"養啊。","ES":"¡Sí!","AR":"نعم!","PT":"Sim!","ID":"Iya!","FR":"Oui!","JA":"はい！","RU":"Да!","DE":"Ja!","KO":"예!","IT":"Sì!"},"format":"TEXT"},{"id":"YouLoveAnimal","data":{"EN":"So that means you love animal.","ZH_HANS":"所以你肯定喜欢小动物。","ZH_HANT":"所以你肯定喜歡小動物。","ES":"Eso significa que amas a los animales.","AR":"هذا يعني أنك تحب الحيوانات.","PT":"Então isso significa que você ama os animais.","ID":"Jadi itu artinya Anda mencintai binatang.","FR":"Cela signifie donc que vous aimez les animaux.","JA":"つまり、あなたは動物を愛しているということです。","RU":"Значит, вы любите животных.","DE":"Das heißt also, du liebst Tier.","KO":"그것은 당신이 동물을 사랑한다는 것을 의미합니다.","IT":"Quindi questo significa che ami gli animali."},"format":"TEXT"},{"id":"OfCourse","data":{"EN":"Of course!","ZH_HANS":"那当然！","ZH_HANT":"那當然！","ES":"¡Por supuesto!","AR":"بالتاكيد!","PT":"Claro!","ID":"Tentu saja!","FR":"Bien sûr!","JA":"もちろん！","RU":"Конечно!","DE":"Natürlich!","KO":"물론이야!","IT":"Ovviamente!"},"format":"TEXT"},{"id":"YouMustLoveYourKids","data":{"EN":"If you love animal, you must be really love your kid.","ZH_HANS":"如果你喜欢小动物，你肯定喜欢自己的孩子。","ZH_HANT":"如果你喜歡小動物，你肯定喜歡自己的孩子。","ES":"Si amas a los animales, debes amar realmente a tu hijo.","AR":"إذا كنت تحب الحيوانات ، فلا بد أنك تحب ابنك حقًا.","PT":"Se você ama animais, você deve realmente amar seu filho.","ID":"Jika Anda menyukai binatang, Anda pasti sangat menyayangi anak Anda.","FR":"Si vous aimez les animaux, vous devez vraiment aimer votre enfant.","JA":"あなたが動物を愛しているなら、あなたは本当にあなたの子供を愛しているに違いありません。","RU":"Если вы любите животных, вы, должно быть, действительно любите своего ребенка.","DE":"Wenn Sie Tier lieben, müssen Sie Ihr Kind wirklich lieben.","KO":"동물을 사랑한다면 아이를 정말 사랑해야합니다.","IT":"Se ami gli animali, devi amare davvero tuo figlio."},"format":"TEXT"},{"id":"Right","data":{"EN":"Right!","ZH_HANS":"对！","ZH_HANT":"對！","ES":"¡Derecha!","AR":"حق!","PT":"Direito!","ID":"Baik!","FR":"Droite!","JA":"正しい！","RU":"Верно!","DE":"Recht!","KO":"권리!","IT":"Giusto!"},"format":"TEXT"},{"id":"YouHaveAWife","data":{"EN":"So, if you have a kid, you have a wife.","ZH_HANS":"所以，如果你有一个孩子，那你肯定有一个老婆。","ZH_HANT":"所以，如果你有一個孩子，那你肯定有一個老婆。","ES":"Entonces, si tienes un hijo, tienes esposa.","AR":"لذا ، إذا كان لديك طفل ، فلديك زوجة.","PT":"Então, se você tem um filho, você tem uma esposa.","ID":"Jadi, jika Anda punya anak, Anda punya istri.","FR":"Donc, si vous avez un enfant, vous avez une femme.","JA":"ですから、子供がいるなら、妻がいます。","RU":"Итак, если у вас есть ребенок, у вас есть жена.","DE":"Wenn Sie also ein Kind haben, haben Sie eine Frau.","KO":"그래서 아이가 있다면 아내가 있습니다.","IT":"Quindi, se hai un figlio, hai una moglie."},"format":"TEXT"},{"id":"YesIHaveAWife","data":{"EN":"Yes, I have a beautiful wife, is this logical? Interesting.","ZH_HANS":"是啊，我有一个漂亮老婆，这就是逻辑？真神奇。","ZH_HANT":"是啊，我有一個漂亮老婆，這就是邏輯？真神奇。","ES":"Sí, tengo una hermosa esposa, ¿es lógico? Interesante.","AR":"نعم لدي زوجة جميلة هل هذا منطقي؟ مثير للإعجاب.","PT":"Sim, tenho uma linda esposa, isso é lógico? Interessante.","ID":"Ya, saya punya istri yang cantik, apakah ini logis? Menarik.","FR":"Oui, j'ai une belle femme, est-ce logique? Intéressant.","JA":"はい、私には美しい妻がいます、これは論理的ですか？面白い。","RU":"Да, у меня красивая жена, это логично? Интересно.","DE":"Ja, ich habe eine schöne Frau, ist das logisch? Interessant.","KO":"예, 저는 아름다운 아내가 있습니다. 이것이 논리적입니까? 흥미 롭군.","IT":"Sì, ho una bella moglie, è logico? Interessante."},"format":"TEXT"},{"id":"NowItsYourTurnToPractise","data":{"EN":"Now it's your turn to be logical thinker.","ZH_HANS":"现在轮到你来进行逻辑思考了。","ZH_HANT":"現在輪到你來進行邏輯思考了。","ES":"Ahora es tu turno de ser un pensador lógico.","AR":"الآن حان دورك لتكون مفكرًا منطقيًا.","PT":"Agora é a sua vez de ser um pensador lógico.","ID":"Sekarang giliran Anda untuk menjadi pemikir logis.","FR":"Maintenant, c'est à votre tour d'être un penseur logique.","JA":"今度は論理的な思想家になる番です。","RU":"Теперь ваша очередь мыслить логически.","DE":"Jetzt sind Sie an der Reihe, logischer Denker zu sein.","KO":"이제 논리적 사고가 될 차례입니다.","IT":"Ora tocca a te essere un pensatore logico."},"format":"TEXT"},{"id":"DoYouHaveADog","data":{"EN":"OK, do you have a dog?","ZH_HANS":"好，你养狗么？","ZH_HANT":"好，你養狗麼？","ES":"OK, tienes un perro?","AR":"حسنا هل لديك كلب؟","PT":"OK, você tem um cachorro?","ID":"Oke, apakah Anda punya anjing?","FR":"OK, avez-vous un chien?","JA":"OK、犬はいますか？","RU":"Хорошо, а у тебя есть собака?","DE":"OK, hast du einen Hund?","KO":"좋아요, 개 있어요?","IT":"OK, hai un cane?"},"format":"TEXT"},{"id":"NoIDontHaveDog","data":{"EN":"No.","ZH_HANS":"不养。","ZH_HANT":"不養。","ES":"No.","AR":"لا.","PT":"Não.","ID":"Tidak.","FR":"Non.","JA":"番号。","RU":"Нет.","DE":"Nein.","KO":"아니.","IT":"No."},"format":"TEXT"},{"id":"YouAreGay","data":{"EN":"That means... you are a gay.","ZH_HANS":"这说明……你是一个gay。","ZH_HANT":"這說明……你是一個gay。","ES":"Eso significa ... que eres gay.","AR":"هذا يعني ... أنك مثلي الجنس.","PT":"Isso significa ... você é um gay.","ID":"Itu artinya ... kamu seorang gay.","FR":"Cela signifie que vous êtes gay.","JA":"つまり...あなたは同性愛者です。","RU":"Значит ... ты гей.","DE":"Das heißt ... du bist schwul.","KO":"그 말은 ... 당신은 게이입니다.","IT":"Ciò significa ... che sei gay."},"format":"TEXT"},{"id":"install-java-title","data":{"EN":"Install <span class=\"notranslate\">Java</span>","ZH_HANS":"安装<span class=\"notranslate\">Java</span>","ZH_HANT":"安裝<span class=\"notranslate\">Java</span>","ES":"Instalar <span class=\"notranslate\">Java</span>","AR":"قم بتثبيت <span class=\"notranslate\">Java</span>","PT":"Instale o <span class=\"notranslate\">Java</span>","ID":"Instal <span class=\"notranslate\">Java</span>","FR":"Installez <span class=\"notranslate\">Java</span>","JA":"<span class=\"notranslate\">Java</span>をインストールする","RU":"Установить <span class=\"notranslate\">Java</span>","DE":"Installieren Sie <span class=\"notranslate\">Java</span>","KO":"<span class=\"notranslate\">Java</span> 설치","IT":"Installa <span class=\"notranslate\">Java</span>"},"format":"HTML"},{"id":"WillYouGoOutWithMe","data":{"EN":"Hmm... I know this sounds a bit crazy, but would you go out with me sometime, like, tonight?","ZH_HANS":"嗯……我知道这听上去有点突然，但是你有空的时候和我一起出去玩么？比如说，今天晚上？","ZH_HANT":"嗯……我知道這聽上去有點突然，但是你有空的時候和我一起出去玩么？比如說，今天晚上？","ES":"Hmm ... sé que esto suena un poco loco, pero ¿saldrías conmigo alguna vez, como esta noche?","AR":"حسنًا ... أعلم أن هذا يبدو مجنونًا بعض الشيء ، لكن هل ستخرج معي في وقت ما ، مثل الليلة؟","PT":"Hmm ... Eu sei que parece um pouco louco, mas você sairia comigo algum dia, tipo, esta noite?","ID":"Hmm ... Aku tahu ini kedengarannya agak gila, tapi maukah kamu berkencan denganku kapan-kapan, seperti, malam ini?","FR":"Hmm ... Je sais que ça a l'air un peu fou, mais voudriez-vous sortir avec moi un jour, comme, ce soir?","JA":"うーん...これは少しクレイジーに聞こえるかもしれませんが、今夜のように、いつか私と一緒に出かけませんか？","RU":"Хм ... Я знаю, это звучит немного безумно, но не могли бы вы пойти со мной как-нибудь сегодня вечером?","DE":"Hmm ... ich weiß, das klingt ein bisschen verrückt, aber würdest du irgendwann heute Abend mit mir ausgehen?","KO":"흠 ...이게 좀 이상하게 들리는 건 알지만, 오늘 밤처럼 언젠가 나랑 같이 갈래?","IT":"Hmm ... so che suona un po 'folle, ma usciresti con me qualche volta, tipo, stasera?"},"format":"TEXT"},{"id":"StayAwayFromMyDaughter","data":{"EN":"Hey! Stay away from my daughter!","ZH_HANS":"喂！离我女儿远一点！","ZH_HANT":"餵！離我女兒遠一點！","ES":"¡Oye! ¡Manténgase alejado de mi hija!","AR":"مهلا! ابتعد عن ابنتي!","PT":"Ei! Fique longe da minha filha!","ID":"Hei! Menjauhlah dari putriku!","FR":"Hey! Éloignez-vous de ma fille!","JA":"ねえ！娘に近づかないで！","RU":"Привет! Держись подальше от моей дочери!","DE":"Hallo! Bleib weg von meiner Tochter!","KO":"야! 내 딸에게서 떨어져!","IT":"Hey! Stai lontano da mia figlia!"},"format":"TEXT"},{"id":"SorryMyFatherDoesntAllow","data":{"EN":"Sorry, my father doesn't allow me to go out after dark.","ZH_HANS":"对不起，我爸爸不让我天黑之后出去。","ZH_HANT":"對不起，我爸爸不讓我天黑之後出去。","ES":"Lo siento, mi padre no me permite salir después del anochecer.","AR":"آسف ، والدي لا يسمح لي بالخروج بعد حلول الظلام.","PT":"Desculpe, meu pai não me permite sair depois de escurecer.","ID":"Maaf, ayah saya tidak mengizinkan saya keluar setelah gelap.","FR":"Désolé, mon père ne me permet pas de sortir après la tombée de la nuit.","JA":"申し訳ありませんが、父は私が暗くなってから外出することを許可していません。","RU":"Извини, отец не разрешает мне выходить на улицу после наступления темноты.","DE":"Entschuldigung, mein Vater erlaubt mir nicht, nach Einbruch der Dunkelheit auszugehen.","KO":"죄송합니다. 아버지는 어두워 진 후에 외출하는 것을 허락하지 않으 셨습니다.","IT":"Scusa, mio padre non mi permette di uscire dopo il tramonto."},"format":"TEXT"},{"id":"Why","data":{"EN":"Why?","ZH_HANS":"为什么？","ZH_HANT":"為什麼？","ES":"¿Por qué?","AR":"لماذا ا؟","PT":"Por quê?","ID":"Mengapa?","FR":"Pourquoi?","JA":"どうして？","RU":"Почему?","DE":"Warum?","KO":"왜?","IT":"Perché?"},"format":"TEXT"},{"id":"HugeBugsOnJavaIsland","data":{"EN":"Java island used to be a fertile land, but since some point many <span style='color:red'>bugs</span> appeared on the island.","ZH_HANS":"爪哇岛从前是一块富饶的土地，但是不知道从什么时候开始，岛上出现了很多的<span style='color:red'>幺蛾子</span>。","ZH_HANT":"爪哇島從前是一塊富饒的土地，但是不知道從什麼時候開始，島上出現了很多的<span style='color:red'>么蛾子</span>。","ES":"La isla de Java solía ser una tierra fértil, pero desde algún momento <span style='color:red'>aparecieron muchos insectos</span> en la isla.","AR":"اعتادت جزيرة جافا أن تكون أرضًا خصبة ، ولكن منذ فترة <span style='color:red'>ظهرت العديد من الحشرات</span> على الجزيرة.","PT":"A ilha de Java costumava ser uma terra fértil, mas desde então muitos <span style='color:red'>insetos</span> apareceram na ilha.","ID":"Pulau Jawa dulunya merupakan tanah yang subur, namun sejak beberapa titik banyak <span style='color:red'>muncul serangga</span> di pulau tersebut.","FR":"L&#39;île de Java était autrefois une terre fertile, mais depuis un certain temps, de nombreux <span style='color:red'>insectes</span> sont apparus sur l&#39;île.","JA":"ジャワ島はかつては肥沃な土地でしたが、ある時点から多くの<span style='color:red'>虫</span>が島に現れました。","RU":"Раньше остров Ява был плодородной землей, но с некоторых пор на острове появилось <span style='color:red'>много жуков.</span>","DE":"Die Insel Java war früher ein fruchtbares Land, aber seitdem <span style='color:red'>tauchten viele Insekten</span> auf der Insel auf.","KO":"자바 섬은 비옥 한 땅 이었지만 어느 시점부터 많은 <span style='color:red'>벌레</span> 가 섬에 나타났습니다.","IT":"L&#39;isola di Giava era una terra fertile, ma da un certo punto sono <span style='color:red'>apparsi molti insetti</span> sull&#39;isola."},"format":"HTML"},{"id":"Bugs","data":{"EN":"<span style='color:red'>Bugs</span>?","ZH_HANS":"<span style='color:red'>幺蛾子</span>？","ZH_HANT":"<span style='color:red'>么蛾子</span>？","ES":"<span style='color:red'>Bichos</span> ?","AR":"<span style='color:red'>البق</span> ؟","PT":"<span style='color:red'>Bugs</span> ?","ID":"<span style='color:red'>Bug</span> ?","FR":"<span style='color:red'>Des bugs</span> ?","JA":"<span style='color:red'>バグ</span>？","RU":"<span style='color:red'>Ошибки</span> ?","DE":"<span style='color:red'>Bugs</span> ?","KO":"<span style='color:red'>버그</span> ?","IT":"<span style='color:red'>Bug</span> ?"},"format":"HTML"},{"id":"IWillEliminateAllBugs","data":{"EN":"If I can eliminate all <span style='color:red'>bugs</span>, would you like to go out with me?","ZH_HANS":"如果我能清除掉所有的<span style='color:red'>幺蛾子</span>，你愿意和我一起出去玩吗？","ZH_HANT":"如果我能清除掉所有的<span style='color:red'>么蛾子</span>，你願意和我一起出去玩嗎？","ES":"Si puedo eliminar todos los <span style='color:red'>errores</span> , ¿te gustaría salir conmigo?","AR":"إذا كان بإمكاني القضاء على جميع <span style='color:red'>الأخطاء</span> ، هل ترغب في الخروج معي؟","PT":"Se eu puder eliminar todos os <span style='color:red'>bugs</span> , você gostaria de sair comigo?","ID":"Jika saya dapat menghilangkan semua <span style='color:red'>bug</span> , apakah Anda ingin berkencan dengan saya?","FR":"Si je peux éliminer tous les <span style='color:red'>bugs</span> , voudriez-vous sortir avec moi?","JA":"<span style='color:red'>すべてのバグ</span>を取り除くことができたら、一緒に出かけませんか？","RU":"Если я смогу устранить все <span style='color:red'>ошибки</span> , не могли бы вы пойти со мной?","DE":"Wenn ich alle <span style='color:red'>Fehler</span> beseitigen kann, möchten Sie mit mir ausgehen?","KO":"<span style='color:red'>제가 모든 버그</span> 를 제거 할 수 있다면 저와 함께 나가시겠습니까?","IT":"Se riesco a eliminare tutti i <span style='color:red'>bug</span> , ti piacerebbe uscire con me?"},"format":"HTML"},{"id":"HmmmYes","data":{"EN":"Hmmm... yes.","ZH_HANS":"嗯……愿意。","ZH_HANT":"嗯……願意。","ES":"Hmmm ... sí.","AR":"هممم ... نعم.","PT":"Hmmm ... sim.","ID":"Hmmm ... ya.","FR":"Hmmm ... oui.","JA":"うーん...はい。","RU":"Хммм ... да.","DE":"Hmmm ... ja.","KO":"흠 ... 그래.","IT":"Hmmm ... sì."},"format":"TEXT"},{"id":"SeeTheCoffeeMachine","data":{"EN":"Are you looking for coffee? You have to do it by yourself - the coffee machine at <span style='color:red'>{0}</span>.","ZH_HANS":"你在找咖啡么？你得自己动手了，<span style='color:red'>{0}</span>有一个咖啡机。","ZH_HANT":"你在找咖啡麼？你得自己動手了， <span style='color:red'>{0}</span>有一個咖啡機。","ES":"¿Buscas café? Tienes que hacerlo tú mismo: la máquina de café en <span style='color:red'>{0}</span> .","AR":"هل تبحث عن قهوة؟ عليك أن تفعل ذلك بنفسك - ماكينة القهوة في <span style='color:red'>{0}</span>","PT":"Esta procurando um café? Você tem que fazer isso sozinho - a máquina de café em <span style='color:red'>{0}</span> .","ID":"Apakah Anda sedang mencari kopi? Anda harus melakukannya sendiri - mesin kopi di <span style='color:red'>{0}</span> .","FR":"Cherchez-vous du café? Vous devez le faire vous-même - la machine à café de <span style='color:red'>{0}</span> .","JA":"コーヒーをお探しですか？あなたは自分でそれをしなければなりません- <span style='color:red'>{0}の</span>コーヒーマシン。","RU":"Вы хотите кофе? Вы должны сделать это сами - с помощью кофемашины в <span style='color:red'>{0}</span> .","DE":"Suchen Sie Kaffee? Sie müssen es selbst tun - die Kaffeemaschine bei <span style='color:red'>{0}</span> .","KO":"커피를 찾으십니까? <span style='color:red'>{0}에</span> 있는 커피 머신은 혼자서해야합니다.","IT":"Cerchi un caffè? Devi farlo da solo: la macchina del caffè di <span style='color:red'>{0}</span> ."},"format":"HTML"},{"id":"ThatsWhyWeDontGoOutAfterDark","data":{"EN":"Yes. That's why we don't go out after dark.","ZH_HANS":"是的。这就是我们天黑之后不能出门的原因。","ZH_HANT":"是的。這就是我們天黑之後不能出門的原因。","ES":"Si. Por eso no salimos después del anochecer.","AR":"نعم. لهذا السبب لا نخرج بعد حلول الظلام.","PT":"sim. É por isso que não saímos depois de escurecer.","ID":"Iya. Itu sebabnya kami tidak keluar setelah gelap.","FR":"Oui. C'est pourquoi nous ne sortons pas après la tombée de la nuit.","JA":"はい。だから私たちは暗くなってから出かけません。","RU":"Да. Вот почему мы не выходим после наступления темноты.","DE":"Ja. Deshalb gehen wir nicht nach Einbruch der Dunkelheit aus.","KO":"예. 그래서 우리는 어두워 진 후에 외출하지 않습니다.","IT":"Sì. Ecco perché non usciamo dopo il tramonto."},"format":"TEXT"},{"id":"DoYouHaveCoffee","data":{"EN":"Hi, do you have coffee?","ZH_HANS":"你好，请问有咖啡么？","ZH_HANT":"你好，請問有咖啡麼？","ES":"Hola tienes cafe","AR":"مرحبا هل لديك قهوة؟","PT":"Oi você tem café?","ID":"Hai apa kamu punya kopi","FR":"Salut, tu prends un café?","JA":"こんにちは、コーヒーはありますか？","RU":"Привет, у тебя есть кофе?","DE":"Hallo, trinkst du Kaffee?","KO":"안녕하세요, 커피 있어요?","IT":"Ciao, hai un caffè?"},"format":"TEXT"},{"id":"WeDontSellCoffee","data":{"EN":"Are you kidding me? We don't sell coffee in pubs!","ZH_HANS":"你在逗我吧？我们酒吧从来不卖咖啡！","ZH_HANT":"你在逗我吧？我們酒吧從來不賣咖啡！","ES":"¿Me estás tomando el pelo? ¡No vendemos café en pubs!","AR":"هل تمزح معي؟ نحن لا نبيع القهوة في الحانات!","PT":"Você está brincando comigo? Não vendemos café em pubs!","ID":"Apakah kamu bercanda? Kami tidak menjual kopi di pub!","FR":"Vous plaisantez j'espère? Nous ne vendons pas de café dans les pubs!","JA":"私をからかってるの？パブではコーヒーを販売していません！","RU":"Ты шутишь, что ли? Мы не продаем кофе в пабах!","DE":"Willst du mich veräppeln? Wir verkaufen keinen Kaffee in Pubs!","KO":"장난 해? 우리는 술집에서 커피를 팔지 않습니다!","IT":"Ma stai scherzando? Non vendiamo caffè nei pub!"},"format":"TEXT"},{"id":"DidYouEliminateAllBugs","data":{"EN":"Did you eliminate all bugs on Java island?","ZH_HANS":"你清除掉爪哇岛上的所有幺蛾子了么？","ZH_HANT":"你清除掉爪哇島上的所有么蛾子了麼？","ES":"¿Eliminaste todos los errores en la isla de Java?","AR":"هل قضيت على كل الحشرات في جزيرة جافا؟","PT":"Você eliminou todos os bugs na ilha de Java?","ID":"Apakah Anda menghilangkan semua bug di pulau Jawa?","FR":"Avez-vous éliminé tous les bogues sur l'île de Java?","JA":"Javaアイランドのすべてのバグを排除しましたか？","RU":"Вы устранили все ошибки на острове Ява?","DE":"Haben Sie alle Fehler auf Java Island beseitigt?","KO":"자바 섬의 모든 버그를 제거 했습니까?","IT":"Hai eliminato tutti i bug sull'isola di Java?"},"format":"TEXT"},{"id":"NoIWillDoRightNow","data":{"EN":"No... I will do right now.","ZH_HANS":"还没有……我现在就去。","ZH_HANT":"還沒有……我現在就去。","ES":"No ... lo haré ahora mismo.","AR":"لا ... سأفعل الآن.","PT":"Não ... vou fazer agora.","ID":"Tidak ... aku akan melakukannya sekarang.","FR":"Non ... je vais le faire maintenant.","JA":"いいえ...今すぐやります。","RU":"Нет ... Я сделаю прямо сейчас.","DE":"Nein ... ich werde es jetzt tun.","KO":"아니 ... 지금 당장 할게.","IT":"No ... lo farò adesso."},"format":"TEXT"},{"id":"install-java-tldr","data":{"EN":"<p>Install <a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a>, then put the output of <code class=\"notranslate\">java -version</code> into the input box.</p>\n","ZH_HANS":"<p>安装<a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a>，然后把<code class=\"notranslate\">java -version</code>的输出结果放到输入框中。</p>\n","ZH_HANT":"<p>安裝<a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK) ，然后把<code class=\"notranslate\">java -version</code>的输出结果放到输入框中。</a></p>","ES":"<p>Instale <a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a> , luego coloque la salida de <code class=\"notranslate\">java -version</code> en el cuadro de entrada.</p>","AR":"<p style=\";text-align:right;direction:rtl\">قم بتثبيت <a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a> ، ثم ضع إخراج <code class=\"notranslate\">java -version</code> في مربع الإدخال.</p>","PT":"<p>Instale o <a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a> e coloque a saída da <code class=\"notranslate\">java -version</code> na caixa de entrada.</p>","ID":"<p>Instal <a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a> , lalu masukkan output dari <code class=\"notranslate\">java -version</code> ke dalam kotak input.</p>","FR":"<p>Installez <a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a> , puis placez la sortie de <code class=\"notranslate\">java -version</code> dans la zone de saisie.</p>","JA":"<p><a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a>をインストールし<code class=\"notranslate\">java -version</code>の出力を入力ボックスに入力します。</p>","RU":"<p>Установите <a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a> , затем поместите вывод <code class=\"notranslate\">java -version</code> в поле ввода.</p>","DE":"<p>Installieren Sie das <a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a> und geben Sie dann die Ausgabe von <code class=\"notranslate\">java -version</code> in das Eingabefeld ein.</p>","KO":"<p><a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a> 설치 <code class=\"notranslate\">java -version</code> 의 출력을 입력 상자에 입력합니다.</p>","IT":"<p>Installa <a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a> , quindi inserisci l&#39;output di <code class=\"notranslate\">java -version</code> nella casella di input.</p>"},"format":"HTML"},{"id":"install-java-readme","data":{"EN":"<p>To finish this challenge, install <span class=\"notranslate\">Java Development Kit (JDK)</span>, then put the output of <code class=\"notranslate\">java -version</code> into the input box.</p>\n","ZH_HANS":"<p>要完成这个挑战，你需要先安装一个<span class=\"notranslate\">Java Development Kit (JDK)</span>，然后把<code class=\"notranslate\">java -version</code>的输出结果放到输入框中。</p>\n","ZH_HANT":"<p>要完成這個挑戰，你需要先安裝一個<span class=\"notranslate\">Java Development Kit (JDK)</span> ，然後把<code class=\"notranslate\">java -version</code>的輸出結果放到輸入框中。</p>","ES":"<p>Para finalizar este desafío, instale <span class=\"notranslate\">Java Development Kit (JDK)</span> , luego coloque la salida de <code class=\"notranslate\">java -version</code> en el cuadro de entrada.</p>","AR":"<p style=\";text-align:right;direction:rtl\">لإنهاء هذا التحدي ، قم بتثبيت <span class=\"notranslate\">Java Development Kit (JDK)</span> ، ثم ضع إخراج <code class=\"notranslate\">java -version</code> في مربع الإدخال.</p>","PT":"<p>Para terminar este desafio, instale o <span class=\"notranslate\">Java Development Kit (JDK)</span> , em seguida, coloque a saída de <code class=\"notranslate\">java -version</code> na caixa de entrada.</p>","ID":"<p>Untuk menyelesaikan tantangan ini, instal <span class=\"notranslate\">Java Development Kit (JDK)</span> , lalu masukkan keluaran <code class=\"notranslate\">java -version</code> ke dalam kotak masukan.</p>","FR":"<p>Pour terminer ce défi, installez <span class=\"notranslate\">Java Development Kit (JDK)</span> , puis placez la sortie de la version <code class=\"notranslate\">java -version</code> dans la zone d&#39;entrée.</p>","JA":"<p>このチャレンジを完了するには、 <span class=\"notranslate\">Java Development Kit (JDK)</span> <code class=\"notranslate\">java -version</code>の出力を入力ボックスに入力します。</p>","RU":"<p>Чтобы выполнить эту задачу, установите <span class=\"notranslate\">Java Development Kit (JDK)</span> , а затем поместите вывод <code class=\"notranslate\">java -version</code> в поле ввода.</p>","DE":"<p>Um diese Herausforderung abzuschließen, installieren Sie das <span class=\"notranslate\">Java Development Kit (JDK)</span> und geben Sie die Ausgabe von <code class=\"notranslate\">java -version</code> in das Eingabefeld ein.</p>","KO":"<p>이 과제를 완료하려면 <span class=\"notranslate\">Java Development Kit (JDK)</span> <code class=\"notranslate\">java -version</code> 의 출력을 입력 상자에 입력합니다.</p>","IT":"<p>Per completare questa sfida, installare <span class=\"notranslate\">Java Development Kit (JDK)</span> , quindi inserire l&#39;output di <code class=\"notranslate\">java -version</code> nella casella di input.</p>"},"format":"HTML"}]
+[ {
+  "id" : "HiBroYouAreCool",
+  "data" : {
+    "EN" : "Hi bro, you are so cool! I've never seen you before.",
+    "ZH_HANS" : "哥们挺酷啊，我好像从来没见过你？",
+    "ZH_HANT" : "哥們挺酷啊，我好像從來沒見過你？",
+    "ES" : "¡Hola hermano, eres tan genial! Nunca te había visto antes.",
+    "AR" : "مرحبا اخي ، انت رائع جدا! لم أرك من قبل.",
+    "PT" : "Oi mano, você é tão legal! Eu nunca te vi antes.",
+    "ID" : "Hai bro, kamu sangat keren! Aku belum pernah melihatmu sebelumnya.",
+    "FR" : "Salut mon frère, tu es tellement cool! Je ne t'ai jamais vu auparavant.",
+    "JA" : "こんにちは仲間、あなたはとてもクールです！私はあなたに会ったことがありません。",
+    "RU" : "Привет, братан, ты такой классный! Я тебя раньше не видел.",
+    "DE" : "Hallo Bruder, du bist so cool! Ich habe dich noch nie gesehen.",
+    "KO" : "안녕 형님, 정말 멋져요! 나는 당신을 전에 본 적이 없습니다.",
+    "IT" : "Ciao fratello, sei così forte! Non ti ho mai visto prima."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "ImAProgrammer",
+  "data" : {
+    "EN" : "I'm a programmer.",
+    "ZH_HANS" : "我是一个程序员。",
+    "ZH_HANT" : "我是一個程序員。",
+    "ES" : "Soy programador.",
+    "AR" : "انا مبرمج.",
+    "PT" : "Sou um programador.",
+    "ID" : "Saya seorang programmer.",
+    "FR" : "Je suis programmeur.",
+    "JA" : "私はプログラマーです。",
+    "RU" : "Я программист.",
+    "DE" : "Ich bin Programmierer.",
+    "KO" : "저는 프로그래머입니다.",
+    "IT" : "Sono un programmatore."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "WhatIsProgrammer",
+  "data" : {
+    "EN" : "What is programmer?",
+    "ZH_HANS" : "程序员是啥？",
+    "ZH_HANT" : "程序員是啥？",
+    "ES" : "¿Qué es programador?",
+    "AR" : "ما هو المبرمج؟",
+    "PT" : "O que é programador?",
+    "ID" : "Apa itu programmer?",
+    "FR" : "Qu'est-ce que le programmeur?",
+    "JA" : "プログラマーとは？",
+    "RU" : "Что такое программист?",
+    "DE" : "Was ist Programmierer?",
+    "KO" : "프로그래머는 무엇입니까?",
+    "IT" : "Cos'è il programmatore?"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "ProgrammerNeedsLogic",
+  "data" : {
+    "EN" : "Well... programmer is a job where you need to be a \"logic thinker\".",
+    "ZH_HANS" : "嗯……程序员是一个需要很多逻辑思考的职业。",
+    "ZH_HANT" : "嗯……程序員是一個需要很多邏輯思考的職業。",
+    "ES" : "Bueno ... programador es un trabajo en el que necesitas ser un \"pensador lógico\".",
+    "AR" : "حسنًا ... المبرمج وظيفة تحتاج فيها إلى أن تكون \"مفكرًا منطقيًا\".",
+    "PT" : "Bem ... programador é um trabalho em que você precisa ser um \"pensador lógico\".",
+    "ID" : "Nah ... programmer adalah pekerjaan di mana Anda harus menjadi \"pemikir logika\".",
+    "FR" : "Eh bien ... le programmeur est un travail où vous devez être un \"penseur logique\".",
+    "JA" : "ええと...プログラマーはあなたが「論理思想家」である必要がある仕事です。",
+    "RU" : "Ну ... программист - это работа, где нужно быть «логическим мыслителем».",
+    "DE" : "Nun ... Programmierer ist ein Job, bei dem man ein \"logischer Denker\" sein muss.",
+    "KO" : "글쎄요 ... 프로그래머는 당신이 \"논리적 사상가\"가되어야하는 직업입니다.",
+    "IT" : "Beh ... il programmatore è un lavoro in cui devi essere un \"pensatore logico\"."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "LogicThinker",
+  "data" : {
+    "EN" : "Logic thinker?",
+    "ZH_HANS" : "逻辑思考？",
+    "ZH_HANT" : "邏輯思考？",
+    "ES" : "¿Pensador lógico?",
+    "AR" : "مفكر منطقي؟",
+    "PT" : "Pensador lógico?",
+    "ID" : "Pemikir logika?",
+    "FR" : "Penseur de la logique?",
+    "JA" : "論理思想家？",
+    "RU" : "Мыслитель логики?",
+    "DE" : "Logikdenker?",
+    "KO" : "논리 사상가?",
+    "IT" : "Pensatore logico?"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "HardToExplain",
+  "data" : {
+    "EN" : "It's kind of hard to explain, let's practise... do you have a dog?",
+    "ZH_HANS" : "解释起来有点难，我们来举个例子，你养狗么？",
+    "ZH_HANT" : "解釋起來有點難，我們來舉個例子，你養狗麼？",
+    "ES" : "Es un poco difícil de explicar, practiquemos ... ¿tienes un perro?",
+    "AR" : "من الصعب شرح ذلك ، دعنا نتدرب ... هل لديك كلب؟",
+    "PT" : "É meio difícil de explicar, vamos praticar ... você tem cachorro?",
+    "ID" : "Agak sulit untuk dijelaskan, ayo berlatih ... apakah kamu punya anjing?",
+    "FR" : "C'est un peu difficile à expliquer, pratiquons-nous ... avez-vous un chien?",
+    "JA" : "説明するのはちょっと難しいです、練習しましょう...あなたは犬を飼っていますか？",
+    "RU" : "Это сложно объяснить, давай потренируемся ... у тебя есть собака?",
+    "DE" : "Es ist schwer zu erklären, lass uns üben ... hast du einen Hund?",
+    "KO" : "설명하기 좀 어렵 네요. 연습 해 보죠 ... 개가 있나요?",
+    "IT" : "È un po 'difficile da spiegare, facciamo pratica ... hai un cane?"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "YesIHaveDog",
+  "data" : {
+    "EN" : "Yes!",
+    "ZH_HANS" : "养啊。",
+    "ZH_HANT" : "養啊。",
+    "ES" : "¡Sí!",
+    "AR" : "نعم!",
+    "PT" : "Sim!",
+    "ID" : "Iya!",
+    "FR" : "Oui!",
+    "JA" : "はい！",
+    "RU" : "Да!",
+    "DE" : "Ja!",
+    "KO" : "예!",
+    "IT" : "Sì!"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "YouLoveAnimal",
+  "data" : {
+    "EN" : "So that means you love animal.",
+    "ZH_HANS" : "所以你肯定喜欢小动物。",
+    "ZH_HANT" : "所以你肯定喜歡小動物。",
+    "ES" : "Eso significa que amas a los animales.",
+    "AR" : "هذا يعني أنك تحب الحيوانات.",
+    "PT" : "Então isso significa que você ama os animais.",
+    "ID" : "Jadi itu artinya Anda mencintai binatang.",
+    "FR" : "Cela signifie donc que vous aimez les animaux.",
+    "JA" : "つまり、あなたは動物を愛しているということです。",
+    "RU" : "Значит, вы любите животных.",
+    "DE" : "Das heißt also, du liebst Tier.",
+    "KO" : "그것은 당신이 동물을 사랑한다는 것을 의미합니다.",
+    "IT" : "Quindi questo significa che ami gli animali."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "OfCourse",
+  "data" : {
+    "EN" : "Of course!",
+    "ZH_HANS" : "那当然！",
+    "ZH_HANT" : "那當然！",
+    "ES" : "¡Por supuesto!",
+    "AR" : "بالتاكيد!",
+    "PT" : "Claro!",
+    "ID" : "Tentu saja!",
+    "FR" : "Bien sûr!",
+    "JA" : "もちろん！",
+    "RU" : "Конечно!",
+    "DE" : "Natürlich!",
+    "KO" : "물론이야!",
+    "IT" : "Ovviamente!"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "YouMustLoveYourKids",
+  "data" : {
+    "EN" : "If you love animal, you must be really love your kid.",
+    "ZH_HANS" : "如果你喜欢小动物，你肯定喜欢自己的孩子。",
+    "ZH_HANT" : "如果你喜歡小動物，你肯定喜歡自己的孩子。",
+    "ES" : "Si amas a los animales, debes amar realmente a tu hijo.",
+    "AR" : "إذا كنت تحب الحيوانات ، فلا بد أنك تحب ابنك حقًا.",
+    "PT" : "Se você ama animais, você deve realmente amar seu filho.",
+    "ID" : "Jika Anda menyukai binatang, Anda pasti sangat menyayangi anak Anda.",
+    "FR" : "Si vous aimez les animaux, vous devez vraiment aimer votre enfant.",
+    "JA" : "あなたが動物を愛しているなら、あなたは本当にあなたの子供を愛しているに違いありません。",
+    "RU" : "Если вы любите животных, вы, должно быть, действительно любите своего ребенка.",
+    "DE" : "Wenn Sie Tier lieben, müssen Sie Ihr Kind wirklich lieben.",
+    "KO" : "동물을 사랑한다면 아이를 정말 사랑해야합니다.",
+    "IT" : "Se ami gli animali, devi amare davvero tuo figlio."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "Right",
+  "data" : {
+    "EN" : "Right!",
+    "ZH_HANS" : "对！",
+    "ZH_HANT" : "對！",
+    "ES" : "¡Derecha!",
+    "AR" : "حق!",
+    "PT" : "Direito!",
+    "ID" : "Baik!",
+    "FR" : "Droite!",
+    "JA" : "正しい！",
+    "RU" : "Верно!",
+    "DE" : "Recht!",
+    "KO" : "권리!",
+    "IT" : "Giusto!"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "YouHaveAWife",
+  "data" : {
+    "EN" : "So, if you have a kid, you have a wife.",
+    "ZH_HANS" : "所以，如果你有一个孩子，那你肯定有一个老婆。",
+    "ZH_HANT" : "所以，如果你有一個孩子，那你肯定有一個老婆。",
+    "ES" : "Entonces, si tienes un hijo, tienes esposa.",
+    "AR" : "لذا ، إذا كان لديك طفل ، فلديك زوجة.",
+    "PT" : "Então, se você tem um filho, você tem uma esposa.",
+    "ID" : "Jadi, jika Anda punya anak, Anda punya istri.",
+    "FR" : "Donc, si vous avez un enfant, vous avez une femme.",
+    "JA" : "ですから、子供がいるなら、妻がいます。",
+    "RU" : "Итак, если у вас есть ребенок, у вас есть жена.",
+    "DE" : "Wenn Sie also ein Kind haben, haben Sie eine Frau.",
+    "KO" : "그래서 아이가 있다면 아내가 있습니다.",
+    "IT" : "Quindi, se hai un figlio, hai una moglie."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "YesIHaveAWife",
+  "data" : {
+    "EN" : "Yes, I have a beautiful wife, is this logical? Interesting.",
+    "ZH_HANS" : "是啊，我有一个漂亮老婆，这就是逻辑？真神奇。",
+    "ZH_HANT" : "是啊，我有一個漂亮老婆，這就是邏輯？真神奇。",
+    "ES" : "Sí, tengo una hermosa esposa, ¿es lógico? Interesante.",
+    "AR" : "نعم لدي زوجة جميلة هل هذا منطقي؟ مثير للإعجاب.",
+    "PT" : "Sim, tenho uma linda esposa, isso é lógico? Interessante.",
+    "ID" : "Ya, saya punya istri yang cantik, apakah ini logis? Menarik.",
+    "FR" : "Oui, j'ai une belle femme, est-ce logique? Intéressant.",
+    "JA" : "はい、私には美しい妻がいます、これは論理的ですか？面白い。",
+    "RU" : "Да, у меня красивая жена, это логично? Интересно.",
+    "DE" : "Ja, ich habe eine schöne Frau, ist das logisch? Interessant.",
+    "KO" : "예, 저는 아름다운 아내가 있습니다. 이것이 논리적입니까? 흥미 롭군.",
+    "IT" : "Sì, ho una bella moglie, è logico? Interessante."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "NowItsYourTurnToPractise",
+  "data" : {
+    "EN" : "Now it's your turn to be logical thinker.",
+    "ZH_HANS" : "现在轮到你来进行逻辑思考了。",
+    "ZH_HANT" : "現在輪到你來進行邏輯思考了。",
+    "ES" : "Ahora es tu turno de ser un pensador lógico.",
+    "AR" : "الآن حان دورك لتكون مفكرًا منطقيًا.",
+    "PT" : "Agora é a sua vez de ser um pensador lógico.",
+    "ID" : "Sekarang giliran Anda untuk menjadi pemikir logis.",
+    "FR" : "Maintenant, c'est à votre tour d'être un penseur logique.",
+    "JA" : "今度は論理的な思想家になる番です。",
+    "RU" : "Теперь ваша очередь мыслить логически.",
+    "DE" : "Jetzt sind Sie an der Reihe, logischer Denker zu sein.",
+    "KO" : "이제 논리적 사고가 될 차례입니다.",
+    "IT" : "Ora tocca a te essere un pensatore logico."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "DoYouHaveADog",
+  "data" : {
+    "EN" : "OK, do you have a dog?",
+    "ZH_HANS" : "好，你养狗么？",
+    "ZH_HANT" : "好，你養狗麼？",
+    "ES" : "OK, tienes un perro?",
+    "AR" : "حسنا هل لديك كلب؟",
+    "PT" : "OK, você tem um cachorro?",
+    "ID" : "Oke, apakah Anda punya anjing?",
+    "FR" : "OK, avez-vous un chien?",
+    "JA" : "OK、犬はいますか？",
+    "RU" : "Хорошо, а у тебя есть собака?",
+    "DE" : "OK, hast du einen Hund?",
+    "KO" : "좋아요, 개 있어요?",
+    "IT" : "OK, hai un cane?"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "NoIDontHaveDog",
+  "data" : {
+    "EN" : "No.",
+    "ZH_HANS" : "不养。",
+    "ZH_HANT" : "不養。",
+    "ES" : "No.",
+    "AR" : "لا.",
+    "PT" : "Não.",
+    "ID" : "Tidak.",
+    "FR" : "Non.",
+    "JA" : "番号。",
+    "RU" : "Нет.",
+    "DE" : "Nein.",
+    "KO" : "아니.",
+    "IT" : "No."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "YouAreGay",
+  "data" : {
+    "EN" : "That means... you are a gay.",
+    "ZH_HANS" : "这说明……你是一个gay。",
+    "ZH_HANT" : "這說明……你是一個gay。",
+    "ES" : "Eso significa ... que eres gay.",
+    "AR" : "هذا يعني ... أنك مثلي الجنس.",
+    "PT" : "Isso significa ... você é um gay.",
+    "ID" : "Itu artinya ... kamu seorang gay.",
+    "FR" : "Cela signifie que vous êtes gay.",
+    "JA" : "つまり...あなたは同性愛者です。",
+    "RU" : "Значит ... ты гей.",
+    "DE" : "Das heißt ... du bist schwul.",
+    "KO" : "그 말은 ... 당신은 게이입니다.",
+    "IT" : "Ciò significa ... che sei gay."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "install-java-title",
+  "data" : {
+    "EN" : "Install <span class=\"notranslate\">Java</span>",
+    "ZH_HANS" : "安装<span class=\"notranslate\">Java</span>",
+    "ZH_HANT" : "安裝<span class=\"notranslate\">Java</span>",
+    "ES" : "Instalar <span class=\"notranslate\">Java</span>",
+    "AR" : "قم بتثبيت <span class=\"notranslate\">Java</span>",
+    "PT" : "Instale o <span class=\"notranslate\">Java</span>",
+    "ID" : "Instal <span class=\"notranslate\">Java</span>",
+    "FR" : "Installez <span class=\"notranslate\">Java</span>",
+    "JA" : "<span class=\"notranslate\">Java</span>をインストールする",
+    "RU" : "Установить <span class=\"notranslate\">Java</span>",
+    "DE" : "Installieren Sie <span class=\"notranslate\">Java</span>",
+    "KO" : "<span class=\"notranslate\">Java</span> 설치",
+    "IT" : "Installa <span class=\"notranslate\">Java</span>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "WillYouGoOutWithMe",
+  "data" : {
+    "EN" : "Hmm... I know this sounds a bit crazy, but would you go out with me sometime, like, tonight?",
+    "ZH_HANS" : "嗯……我知道这听上去有点突然，但是你有空的时候和我一起出去玩么？比如说，今天晚上？",
+    "ZH_HANT" : "嗯……我知道這聽上去有點突然，但是你有空的時候和我一起出去玩么？比如說，今天晚上？",
+    "ES" : "Hmm ... sé que esto suena un poco loco, pero ¿saldrías conmigo alguna vez, como esta noche?",
+    "AR" : "حسنًا ... أعلم أن هذا يبدو مجنونًا بعض الشيء ، لكن هل ستخرج معي في وقت ما ، مثل الليلة؟",
+    "PT" : "Hmm ... Eu sei que parece um pouco louco, mas você sairia comigo algum dia, tipo, esta noite?",
+    "ID" : "Hmm ... Aku tahu ini kedengarannya agak gila, tapi maukah kamu berkencan denganku kapan-kapan, seperti, malam ini?",
+    "FR" : "Hmm ... Je sais que ça a l'air un peu fou, mais voudriez-vous sortir avec moi un jour, comme, ce soir?",
+    "JA" : "うーん...これは少しクレイジーに聞こえるかもしれませんが、今夜のように、いつか私と一緒に出かけませんか？",
+    "RU" : "Хм ... Я знаю, это звучит немного безумно, но не могли бы вы пойти со мной как-нибудь сегодня вечером?",
+    "DE" : "Hmm ... ich weiß, das klingt ein bisschen verrückt, aber würdest du irgendwann heute Abend mit mir ausgehen?",
+    "KO" : "흠 ...이게 좀 이상하게 들리는 건 알지만, 오늘 밤처럼 언젠가 나랑 같이 갈래?",
+    "IT" : "Hmm ... so che suona un po 'folle, ma usciresti con me qualche volta, tipo, stasera?"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "StayAwayFromMyDaughter",
+  "data" : {
+    "EN" : "Hey! Stay away from my daughter!",
+    "ZH_HANS" : "喂！离我女儿远一点！",
+    "ZH_HANT" : "餵！離我女兒遠一點！",
+    "ES" : "¡Oye! ¡Manténgase alejado de mi hija!",
+    "AR" : "مهلا! ابتعد عن ابنتي!",
+    "PT" : "Ei! Fique longe da minha filha!",
+    "ID" : "Hei! Menjauhlah dari putriku!",
+    "FR" : "Hey! Éloignez-vous de ma fille!",
+    "JA" : "ねえ！娘に近づかないで！",
+    "RU" : "Привет! Держись подальше от моей дочери!",
+    "DE" : "Hallo! Bleib weg von meiner Tochter!",
+    "KO" : "야! 내 딸에게서 떨어져!",
+    "IT" : "Hey! Stai lontano da mia figlia!"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "SorryMyFatherDoesntAllow",
+  "data" : {
+    "EN" : "Sorry, my father doesn't allow me to go out after dark.",
+    "ZH_HANS" : "对不起，我爸爸不让我天黑之后出去。",
+    "ZH_HANT" : "對不起，我爸爸不讓我天黑之後出去。",
+    "ES" : "Lo siento, mi padre no me permite salir después del anochecer.",
+    "AR" : "آسف ، والدي لا يسمح لي بالخروج بعد حلول الظلام.",
+    "PT" : "Desculpe, meu pai não me permite sair depois de escurecer.",
+    "ID" : "Maaf, ayah saya tidak mengizinkan saya keluar setelah gelap.",
+    "FR" : "Désolé, mon père ne me permet pas de sortir après la tombée de la nuit.",
+    "JA" : "申し訳ありませんが、父は私が暗くなってから外出することを許可していません。",
+    "RU" : "Извини, отец не разрешает мне выходить на улицу после наступления темноты.",
+    "DE" : "Entschuldigung, mein Vater erlaubt mir nicht, nach Einbruch der Dunkelheit auszugehen.",
+    "KO" : "죄송합니다. 아버지는 어두워 진 후에 외출하는 것을 허락하지 않으 셨습니다.",
+    "IT" : "Scusa, mio padre non mi permette di uscire dopo il tramonto."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "Why",
+  "data" : {
+    "EN" : "Why?",
+    "ZH_HANS" : "为什么？",
+    "ZH_HANT" : "為什麼？",
+    "ES" : "¿Por qué?",
+    "AR" : "لماذا ا؟",
+    "PT" : "Por quê?",
+    "ID" : "Mengapa?",
+    "FR" : "Pourquoi?",
+    "JA" : "どうして？",
+    "RU" : "Почему?",
+    "DE" : "Warum?",
+    "KO" : "왜?",
+    "IT" : "Perché?"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "HugeBugsOnJavaIsland",
+  "data" : {
+    "EN" : "Java island used to be a fertile land, but since some point many <span style='color:red'>bugs</span> appeared on the island.",
+    "ZH_HANS" : "爪哇岛从前是一块富饶的土地，但是不知道从什么时候开始，岛上出现了很多的<span style='color:red'>幺蛾子</span>。",
+    "ZH_HANT" : "爪哇島從前是一塊富饒的土地，但是不知道從什麼時候開始，島上出現了很多的<span style='color:red'>么蛾子</span>。",
+    "ES" : "La isla de Java solía ser una tierra fértil, pero desde algún momento <span style='color:red'>aparecieron muchos insectos</span> en la isla.",
+    "AR" : "اعتادت جزيرة جافا أن تكون أرضًا خصبة ، ولكن منذ فترة <span style='color:red'>ظهرت العديد من الحشرات</span> على الجزيرة.",
+    "PT" : "A ilha de Java costumava ser uma terra fértil, mas desde então muitos <span style='color:red'>insetos</span> apareceram na ilha.",
+    "ID" : "Pulau Jawa dulunya merupakan tanah yang subur, namun sejak beberapa titik banyak <span style='color:red'>muncul serangga</span> di pulau tersebut.",
+    "FR" : "L&#39;île de Java était autrefois une terre fertile, mais depuis un certain temps, de nombreux <span style='color:red'>insectes</span> sont apparus sur l&#39;île.",
+    "JA" : "ジャワ島はかつては肥沃な土地でしたが、ある時点から多くの<span style='color:red'>虫</span>が島に現れました。",
+    "RU" : "Раньше остров Ява был плодородной землей, но с некоторых пор на острове появилось <span style='color:red'>много жуков.</span>",
+    "DE" : "Die Insel Java war früher ein fruchtbares Land, aber seitdem <span style='color:red'>tauchten viele Insekten</span> auf der Insel auf.",
+    "KO" : "자바 섬은 비옥 한 땅 이었지만 어느 시점부터 많은 <span style='color:red'>벌레</span> 가 섬에 나타났습니다.",
+    "IT" : "L&#39;isola di Giava era una terra fertile, ma da un certo punto sono <span style='color:red'>apparsi molti insetti</span> sull&#39;isola."
+  },
+  "format" : "HTML"
+}, {
+  "id" : "Bugs",
+  "data" : {
+    "EN" : "<span style='color:red'>Bugs</span>?",
+    "ZH_HANS" : "<span style='color:red'>幺蛾子</span>？",
+    "ZH_HANT" : "<span style='color:red'>么蛾子</span>？",
+    "ES" : "<span style='color:red'>Bichos</span> ?",
+    "AR" : "<span style='color:red'>البق</span> ؟",
+    "PT" : "<span style='color:red'>Bugs</span> ?",
+    "ID" : "<span style='color:red'>Bug</span> ?",
+    "FR" : "<span style='color:red'>Des bugs</span> ?",
+    "JA" : "<span style='color:red'>バグ</span>？",
+    "RU" : "<span style='color:red'>Ошибки</span> ?",
+    "DE" : "<span style='color:red'>Bugs</span> ?",
+    "KO" : "<span style='color:red'>버그</span> ?",
+    "IT" : "<span style='color:red'>Bug</span> ?"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "IWillEliminateAllBugs",
+  "data" : {
+    "EN" : "If I can eliminate all <span style='color:red'>bugs</span>, would you like to go out with me?",
+    "ZH_HANS" : "如果我能清除掉所有的<span style='color:red'>幺蛾子</span>，你愿意和我一起出去玩吗？",
+    "ZH_HANT" : "如果我能清除掉所有的<span style='color:red'>么蛾子</span>，你願意和我一起出去玩嗎？",
+    "ES" : "Si puedo eliminar todos los <span style='color:red'>errores</span> , ¿te gustaría salir conmigo?",
+    "AR" : "إذا كان بإمكاني القضاء على جميع <span style='color:red'>الأخطاء</span> ، هل ترغب في الخروج معي؟",
+    "PT" : "Se eu puder eliminar todos os <span style='color:red'>bugs</span> , você gostaria de sair comigo?",
+    "ID" : "Jika saya dapat menghilangkan semua <span style='color:red'>bug</span> , apakah Anda ingin berkencan dengan saya?",
+    "FR" : "Si je peux éliminer tous les <span style='color:red'>bugs</span> , voudriez-vous sortir avec moi?",
+    "JA" : "<span style='color:red'>すべてのバグ</span>を取り除くことができたら、一緒に出かけませんか？",
+    "RU" : "Если я смогу устранить все <span style='color:red'>ошибки</span> , не могли бы вы пойти со мной?",
+    "DE" : "Wenn ich alle <span style='color:red'>Fehler</span> beseitigen kann, möchten Sie mit mir ausgehen?",
+    "KO" : "<span style='color:red'>제가 모든 버그</span> 를 제거 할 수 있다면 저와 함께 나가시겠습니까?",
+    "IT" : "Se riesco a eliminare tutti i <span style='color:red'>bug</span> , ti piacerebbe uscire con me?"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "HmmmYes",
+  "data" : {
+    "EN" : "Hmmm... yes.",
+    "ZH_HANS" : "嗯……愿意。",
+    "ZH_HANT" : "嗯……願意。",
+    "ES" : "Hmmm ... sí.",
+    "AR" : "هممم ... نعم.",
+    "PT" : "Hmmm ... sim.",
+    "ID" : "Hmmm ... ya.",
+    "FR" : "Hmmm ... oui.",
+    "JA" : "うーん...はい。",
+    "RU" : "Хммм ... да.",
+    "DE" : "Hmmm ... ja.",
+    "KO" : "흠 ... 그래.",
+    "IT" : "Hmmm ... sì."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "SeeTheCoffeeMachine",
+  "data" : {
+    "EN" : "Are you looking for coffee? You have to do it by yourself - the coffee machine at <span style='color:red'>{0}</span>.",
+    "ZH_HANS" : "你在找咖啡么？你得自己动手了，<span style='color:red'>{0}</span>有一个咖啡机。",
+    "ZH_HANT" : "你在找咖啡麼？你得自己動手了， <span style='color:red'>{0}</span>有一個咖啡機。",
+    "ES" : "¿Buscas café? Tienes que hacerlo tú mismo: la máquina de café en <span style='color:red'>{0}</span> .",
+    "AR" : "هل تبحث عن قهوة؟ عليك أن تفعل ذلك بنفسك - ماكينة القهوة في <span style='color:red'>{0}</span>",
+    "PT" : "Esta procurando um café? Você tem que fazer isso sozinho - a máquina de café em <span style='color:red'>{0}</span> .",
+    "ID" : "Apakah Anda sedang mencari kopi? Anda harus melakukannya sendiri - mesin kopi di <span style='color:red'>{0}</span> .",
+    "FR" : "Cherchez-vous du café? Vous devez le faire vous-même - la machine à café de <span style='color:red'>{0}</span> .",
+    "JA" : "コーヒーをお探しですか？あなたは自分でそれをしなければなりません- <span style='color:red'>{0}の</span>コーヒーマシン。",
+    "RU" : "Вы хотите кофе? Вы должны сделать это сами - с помощью кофемашины в <span style='color:red'>{0}</span> .",
+    "DE" : "Suchen Sie Kaffee? Sie müssen es selbst tun - die Kaffeemaschine bei <span style='color:red'>{0}</span> .",
+    "KO" : "커피를 찾으십니까? <span style='color:red'>{0}에</span> 있는 커피 머신은 혼자서해야합니다.",
+    "IT" : "Cerchi un caffè? Devi farlo da solo: la macchina del caffè di <span style='color:red'>{0}</span> ."
+  },
+  "format" : "HTML"
+}, {
+  "id" : "ThatsWhyWeDontGoOutAfterDark",
+  "data" : {
+    "EN" : "Yes. That's why we don't go out after dark.",
+    "ZH_HANS" : "是的。这就是我们天黑之后不能出门的原因。",
+    "ZH_HANT" : "是的。這就是我們天黑之後不能出門的原因。",
+    "ES" : "Si. Por eso no salimos después del anochecer.",
+    "AR" : "نعم. لهذا السبب لا نخرج بعد حلول الظلام.",
+    "PT" : "sim. É por isso que não saímos depois de escurecer.",
+    "ID" : "Iya. Itu sebabnya kami tidak keluar setelah gelap.",
+    "FR" : "Oui. C'est pourquoi nous ne sortons pas après la tombée de la nuit.",
+    "JA" : "はい。だから私たちは暗くなってから出かけません。",
+    "RU" : "Да. Вот почему мы не выходим после наступления темноты.",
+    "DE" : "Ja. Deshalb gehen wir nicht nach Einbruch der Dunkelheit aus.",
+    "KO" : "예. 그래서 우리는 어두워 진 후에 외출하지 않습니다.",
+    "IT" : "Sì. Ecco perché non usciamo dopo il tramonto."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "DoYouHaveCoffee",
+  "data" : {
+    "EN" : "Hi, do you have coffee?",
+    "ZH_HANS" : "你好，请问有咖啡么？",
+    "ZH_HANT" : "你好，請問有咖啡麼？",
+    "ES" : "Hola tienes cafe",
+    "AR" : "مرحبا هل لديك قهوة؟",
+    "PT" : "Oi você tem café?",
+    "ID" : "Hai apa kamu punya kopi",
+    "FR" : "Salut, tu prends un café?",
+    "JA" : "こんにちは、コーヒーはありますか？",
+    "RU" : "Привет, у тебя есть кофе?",
+    "DE" : "Hallo, trinkst du Kaffee?",
+    "KO" : "안녕하세요, 커피 있어요?",
+    "IT" : "Ciao, hai un caffè?"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "WeDontSellCoffee",
+  "data" : {
+    "EN" : "Are you kidding me? We don't sell coffee in pubs!",
+    "ZH_HANS" : "你在逗我吧？我们酒吧从来不卖咖啡！",
+    "ZH_HANT" : "你在逗我吧？我們酒吧從來不賣咖啡！",
+    "ES" : "¿Me estás tomando el pelo? ¡No vendemos café en pubs!",
+    "AR" : "هل تمزح معي؟ نحن لا نبيع القهوة في الحانات!",
+    "PT" : "Você está brincando comigo? Não vendemos café em pubs!",
+    "ID" : "Apakah kamu bercanda? Kami tidak menjual kopi di pub!",
+    "FR" : "Vous plaisantez j'espère? Nous ne vendons pas de café dans les pubs!",
+    "JA" : "私をからかってるの？パブではコーヒーを販売していません！",
+    "RU" : "Ты шутишь, что ли? Мы не продаем кофе в пабах!",
+    "DE" : "Willst du mich veräppeln? Wir verkaufen keinen Kaffee in Pubs!",
+    "KO" : "장난 해? 우리는 술집에서 커피를 팔지 않습니다!",
+    "IT" : "Ma stai scherzando? Non vendiamo caffè nei pub!"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "DidYouEliminateAllBugs",
+  "data" : {
+    "EN" : "Did you eliminate all bugs on Java island?",
+    "ZH_HANS" : "你清除掉爪哇岛上的所有幺蛾子了么？",
+    "ZH_HANT" : "你清除掉爪哇島上的所有么蛾子了麼？",
+    "ES" : "¿Eliminaste todos los errores en la isla de Java?",
+    "AR" : "هل قضيت على كل الحشرات في جزيرة جافا؟",
+    "PT" : "Você eliminou todos os bugs na ilha de Java?",
+    "ID" : "Apakah Anda menghilangkan semua bug di pulau Jawa?",
+    "FR" : "Avez-vous éliminé tous les bogues sur l'île de Java?",
+    "JA" : "Javaアイランドのすべてのバグを排除しましたか？",
+    "RU" : "Вы устранили все ошибки на острове Ява?",
+    "DE" : "Haben Sie alle Fehler auf Java Island beseitigt?",
+    "KO" : "자바 섬의 모든 버그를 제거 했습니까?",
+    "IT" : "Hai eliminato tutti i bug sull'isola di Java?"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "NoIWillDoRightNow",
+  "data" : {
+    "EN" : "No... I will do right now.",
+    "ZH_HANS" : "还没有……我现在就去。",
+    "ZH_HANT" : "還沒有……我現在就去。",
+    "ES" : "No ... lo haré ahora mismo.",
+    "AR" : "لا ... سأفعل الآن.",
+    "PT" : "Não ... vou fazer agora.",
+    "ID" : "Tidak ... aku akan melakukannya sekarang.",
+    "FR" : "Non ... je vais le faire maintenant.",
+    "JA" : "いいえ...今すぐやります。",
+    "RU" : "Нет ... Я сделаю прямо сейчас.",
+    "DE" : "Nein ... ich werde es jetzt tun.",
+    "KO" : "아니 ... 지금 당장 할게.",
+    "IT" : "No ... lo farò adesso."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "install-java-tldr",
+  "data" : {
+    "EN" : "<p>Install <a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a>, then put the output of <code class=\"notranslate\">java -version</code> into the input box.</p>\n",
+    "ZH_HANS" : "<p>安装<a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a>，然后把<code class=\"notranslate\">java -version</code>的输出结果放到输入框中。</p>\n",
+    "ZH_HANT" : "<p>安裝<a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK) ，然后把<code class=\"notranslate\">java -version</code>的输出结果放到输入框中。</a></p>",
+    "ES" : "<p>Instale <a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a> , luego coloque la salida de <code class=\"notranslate\">java -version</code> en el cuadro de entrada.</p>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">قم بتثبيت <a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a> ، ثم ضع إخراج <code class=\"notranslate\">java -version</code> في مربع الإدخال.</p>",
+    "PT" : "<p>Instale o <a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a> e coloque a saída da <code class=\"notranslate\">java -version</code> na caixa de entrada.</p>",
+    "ID" : "<p>Instal <a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a> , lalu masukkan output dari <code class=\"notranslate\">java -version</code> ke dalam kotak input.</p>",
+    "FR" : "<p>Installez <a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a> , puis placez la sortie de <code class=\"notranslate\">java -version</code> dans la zone de saisie.</p>",
+    "JA" : "<p><a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a>をインストールし<code class=\"notranslate\">java -version</code>の出力を入力ボックスに入力します。</p>",
+    "RU" : "<p>Установите <a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a> , затем поместите вывод <code class=\"notranslate\">java -version</code> в поле ввода.</p>",
+    "DE" : "<p>Installieren Sie das <a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a> und geben Sie dann die Ausgabe von <code class=\"notranslate\">java -version</code> in das Eingabefeld ein.</p>",
+    "KO" : "<p><a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a> 설치 <code class=\"notranslate\">java -version</code> 의 출력을 입력 상자에 입력합니다.</p>",
+    "IT" : "<p>Installa <a href=\"https://adoptopenjdk.net/\" class=\"notranslate\" target=\"_blank\">Java Development Kit (JDK)</a> , quindi inserisci l&#39;output di <code class=\"notranslate\">java -version</code> nella casella di input.</p>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "install-java-readme",
+  "data" : {
+    "EN" : "<p>To finish this challenge, install <span class=\"notranslate\">Java Development Kit (JDK)</span>, then put the output of <code class=\"notranslate\">java -version</code> into the input box.</p>\n",
+    "ZH_HANS" : "<p>要完成这个挑战，你需要先安装一个<span class=\"notranslate\">Java Development Kit (JDK)</span>，然后把<code class=\"notranslate\">java -version</code>的输出结果放到输入框中。</p>\n",
+    "ZH_HANT" : "<p>要完成這個挑戰，你需要先安裝一個<span class=\"notranslate\">Java Development Kit (JDK)</span> ，然後把<code class=\"notranslate\">java -version</code>的輸出結果放到輸入框中。</p>",
+    "ES" : "<p>Para finalizar este desafío, instale <span class=\"notranslate\">Java Development Kit (JDK)</span> , luego coloque la salida de <code class=\"notranslate\">java -version</code> en el cuadro de entrada.</p>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">لإنهاء هذا التحدي ، قم بتثبيت <span class=\"notranslate\">Java Development Kit (JDK)</span> ، ثم ضع إخراج <code class=\"notranslate\">java -version</code> في مربع الإدخال.</p>",
+    "PT" : "<p>Para terminar este desafio, instale o <span class=\"notranslate\">Java Development Kit (JDK)</span> , em seguida, coloque a saída de <code class=\"notranslate\">java -version</code> na caixa de entrada.</p>",
+    "ID" : "<p>Untuk menyelesaikan tantangan ini, instal <span class=\"notranslate\">Java Development Kit (JDK)</span> , lalu masukkan keluaran <code class=\"notranslate\">java -version</code> ke dalam kotak masukan.</p>",
+    "FR" : "<p>Pour terminer ce défi, installez <span class=\"notranslate\">Java Development Kit (JDK)</span> , puis placez la sortie de la version <code class=\"notranslate\">java -version</code> dans la zone d&#39;entrée.</p>",
+    "JA" : "<p>このチャレンジを完了するには、 <span class=\"notranslate\">Java Development Kit (JDK)</span> <code class=\"notranslate\">java -version</code>の出力を入力ボックスに入力します。</p>",
+    "RU" : "<p>Чтобы выполнить эту задачу, установите <span class=\"notranslate\">Java Development Kit (JDK)</span> , а затем поместите вывод <code class=\"notranslate\">java -version</code> в поле ввода.</p>",
+    "DE" : "<p>Um diese Herausforderung abzuschließen, installieren Sie das <span class=\"notranslate\">Java Development Kit (JDK)</span> und geben Sie die Ausgabe von <code class=\"notranslate\">java -version</code> in das Eingabefeld ein.</p>",
+    "KO" : "<p>이 과제를 완료하려면 <span class=\"notranslate\">Java Development Kit (JDK)</span> <code class=\"notranslate\">java -version</code> 의 출력을 입력 상자에 입력합니다.</p>",
+    "IT" : "<p>Per completare questa sfida, installare <span class=\"notranslate\">Java Development Kit (JDK)</span> , quindi inserire l&#39;output di <code class=\"notranslate\">java -version</code> nella casella di input.</p>"
+  },
+  "format" : "HTML"
+} ]
