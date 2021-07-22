@@ -1,0 +1,7 @@
+id: clone-and-run-java-project
+title: clone-and-run-java-project-title
+challenges:
+  - id: clone-and-run-java-project-challenge
+    type: Question
+    star: 1
+    spec: "(?s).*"

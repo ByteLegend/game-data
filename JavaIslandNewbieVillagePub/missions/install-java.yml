@@ -1,0 +1,18 @@
+id: install-java
+title: install-java-title
+challenges:
+  - id: install-java-challenge
+    type: Question
+    star: 1
+    spec: "(?s).*(jdk|java) version.*"
+    tldr: install-java-tldr
+    readme: install-java-readme
+onFinish:
+  items:
+    add: ["coffee-icon"]
+tutorials:
+  - id: HowToStarByteLegendEn
+    title: Get the first star
+    href: https://www.youtube.com/watch?v=17Xmu99vP4c
+    type: video/youtube
+    language: EN

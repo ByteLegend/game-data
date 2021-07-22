@@ -1,0 +1,7 @@
+id: clone-and-switch-branch
+title: clone-and-switch-branch-title
+challenges:
+  - id: clone-and-switch-branch-challenge
+    type: Question
+    star: 1
+    spec: "(?s).*"

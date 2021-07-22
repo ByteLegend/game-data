@@ -1,0 +1,7 @@
+id: import-third-party-package
+title: import-third-party-package-title
+challenges:
+  - id: import-third-party-package-challenge
+    type: PullRequest
+    star: 3
+    spec: github.com/ByteLegendQuest/import-third-party-package
