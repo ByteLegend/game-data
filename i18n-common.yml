@@ -201,46 +201,7 @@
   data:
     EN: My achievement
     ZH_HANS: 我的成就
-- id: JavaBasicStructureRegionName
-  data:
-    EN: Java Basic Structure
-    ZH_HANS: Java程序的基本结构
-- id: JavaNewbieVillageRegionName
-  data:
-    EN: Newbie Village
-    ZH_HANS: 新手村
-- id: JavaMethodFieldRegionName
-  data:
-    EN: Method and Field
-    ZH_HANS: Java的方法和字段
-- id: JavaDataStructureRegionName
-  data:
-    EN: Java's Data Structure
-    ZH_HANS: Java的数据结构
-- id: JavaOperatorRegionName
-  data:
-    EN: Java's Operator
-    ZH_HANS: Java的运算符
-- id: JavaControlFlowRegionName
-  data:
-    EN: Control Flow
-    ZH_HANS: Java的控制流
-- id: JavaAccessControlRegionName
-  data:
-    EN: "OOP: Encapsulation"
-    ZH_HANS: "面向对象：封装"
-- id: JavaInheritanceRegionName
-  data:
-    EN: "OOP: Inheritance"
-    ZH_HANS: "面向对象：继承"
-- id: JavaPolymorphismRegionName
-  data:
-    EN: "OOP: Polymorphism"
-    ZH_HANS: "面向对象：多态"
-- id: JavaCollectionRegionName
-  data:
-    EN: Collection Framework
-    ZH_HANS: Java的集合框架
+
 - id: MenuContactTitle
   data:
     EN: About & Contact

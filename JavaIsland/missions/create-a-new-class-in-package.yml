@@ -1,0 +1,7 @@
+id: create-a-new-class-in-package
+title: create-a-new-class-in-package-title
+challenges:
+  - id: create-a-new-class-in-package-challenge
+    type: PullRequest
+    star: 3
+    spec: github.com/ByteLegendQuest/create-a-new-class-in-package

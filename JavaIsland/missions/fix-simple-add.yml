@@ -1,0 +1,7 @@
+id: fix-simple-add
+title: fix-simple-add-title
+challenges:
+  - id: fix-simple-add-challenge
+    type: PullRequest
+    star: 3
+    spec: github.com/ByteLegendQuest/fix-simple-add

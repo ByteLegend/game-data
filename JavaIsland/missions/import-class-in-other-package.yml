@@ -1,0 +1,7 @@
+id: import-class-in-other-package
+title: import-class-in-other-package-title
+challenges:
+  - id: import-class-in-other-package-challenge
+    type: PullRequest
+    star: 3
+    spec: github.com/ByteLegendQuest/import-class-in-other-package
