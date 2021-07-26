@@ -1708,4 +1708,22 @@
     "IT" : "I giochi sono la scala del progresso umano."
   },
   "format" : "HTML"
+}, {
+  "id" : "LearningRoadmap",
+  "data" : {
+    "EN" : "Learning roadmap",
+    "ZH_HANS" : "学习路线图",
+    "ZH_HANT" : "學習路線圖",
+    "ES" : "Hoja de ruta de aprendizaje",
+    "AR" : "تعلم خارطة الطريق",
+    "PT" : "Roteiro de aprendizagem",
+    "ID" : "Peta jalan pembelajaran",
+    "FR" : "Feuille de route d'apprentissage",
+    "JA" : "学習ロードマップ",
+    "RU" : "Дорожная карта обучения",
+    "DE" : "Lernfahrplan",
+    "KO" : "학습 로드맵",
+    "IT" : "Programma di apprendimento"
+  },
+  "format" : "TEXT"
 } ]
