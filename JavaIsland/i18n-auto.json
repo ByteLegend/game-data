@@ -686,8 +686,8 @@
   "id" : "JavaMethodFieldRegionName",
   "data" : {
     "EN" : "Method and Field",
-    "ZH_HANS" : "Java的方法和字段",
-    "ZH_HANT" : "Java的方法和字段",
+    "ZH_HANS" : "方法和字段",
+    "ZH_HANT" : "方法和字段",
     "ES" : "Método y campo",
     "AR" : "الطريقة والمجال",
     "PT" : "Método e Campo",
@@ -734,6 +734,222 @@
     "DE" : "Javas Operator",
     "KO" : "자바의 연산자",
     "IT" : "Operatore di Java"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "ExceptionHierarchyRegionName",
+  "data" : {
+    "EN" : "Exception Hierarchy",
+    "ZH_HANS" : "异常体系",
+    "ZH_HANT" : "異常體系",
+    "ES" : "Jerarquía de excepciones",
+    "AR" : "التسلسل الهرمي للاستثناءات",
+    "PT" : "Hierarquia de exceção",
+    "ID" : "Hierarki Pengecualian",
+    "FR" : "Hiérarchie des exceptions",
+    "JA" : "例外階層",
+    "RU" : "Иерархия исключений",
+    "DE" : "Ausnahmehierarchie",
+    "KO" : "예외 계층",
+    "IT" : "Gerarchia delle eccezioni"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaAnnotationRegionName",
+  "data" : {
+    "EN" : "Annotation",
+    "ZH_HANS" : "注解",
+    "ZH_HANT" : "註解",
+    "ES" : "Anotación",
+    "AR" : "حاشية. ملاحظة",
+    "PT" : "Anotação",
+    "ID" : "Anotasi",
+    "FR" : "Annotation",
+    "JA" : "注釈",
+    "RU" : "Аннотации",
+    "DE" : "Anmerkung",
+    "KO" : "주석",
+    "IT" : "Annotazione"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaSocketRegionName",
+  "data" : {
+    "EN" : "Socket",
+    "ZH_HANS" : "Socket",
+    "ZH_HANT" : "Socket",
+    "ES" : "Enchufe",
+    "AR" : "قابس كهرباء",
+    "PT" : "Soquete",
+    "ID" : "Stopkontak",
+    "FR" : "Prise",
+    "JA" : "ソケット",
+    "RU" : "Разъем",
+    "DE" : "Steckdose",
+    "KO" : "소켓",
+    "IT" : "Presa"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaIORegionName",
+  "data" : {
+    "EN" : "IO",
+    "ZH_HANS" : "IO",
+    "ZH_HANT" : "IO",
+    "ES" : "IO",
+    "AR" : "IO",
+    "PT" : "IO",
+    "ID" : "saya",
+    "FR" : "OI",
+    "JA" : "IO",
+    "RU" : "IO",
+    "DE" : "IO",
+    "KO" : "IO",
+    "IT" : "io"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaThreadRegionName",
+  "data" : {
+    "EN" : "Thread and Concurrency",
+    "ZH_HANS" : "线程与并发",
+    "ZH_HANT" : "線程與並發",
+    "ES" : "Hilo y simultaneidad",
+    "AR" : "الخيط والتزامن",
+    "PT" : "Tópico e simultaneidade",
+    "ID" : "Utas dan Konkurensi",
+    "FR" : "Thread et concurrence",
+    "JA" : "スレッドと並行性",
+    "RU" : "Поток и параллелизм",
+    "DE" : "Thread und Parallelität",
+    "KO" : "스레드와 동시성",
+    "IT" : "Discussione e concorrenza"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "DatabaseBasicRegionName",
+  "data" : {
+    "EN" : "Database and JDBC",
+    "ZH_HANS" : "数据库与JDBC",
+    "ZH_HANT" : "數據庫與JDBC",
+    "ES" : "Base de datos y JDBC",
+    "AR" : "قاعدة البيانات و JDBC",
+    "PT" : "Banco de dados e JDBC",
+    "ID" : "Database dan JDBC",
+    "FR" : "Base de données et JDBC",
+    "JA" : "データベースとJDBC",
+    "RU" : "База данных и JDBC",
+    "DE" : "Datenbank und JDBC",
+    "KO" : "데이터베이스 및 JDBC",
+    "IT" : "Database e JDBC"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaGenericsRegionName",
+  "data" : {
+    "EN" : "Generics",
+    "ZH_HANS" : "泛型",
+    "ZH_HANT" : "泛型",
+    "ES" : "Genéricos",
+    "AR" : "علم الوراثة",
+    "PT" : "Genéricos",
+    "ID" : "Obat generik",
+    "FR" : "Génériques",
+    "JA" : "ジェネリック",
+    "RU" : "Дженерики",
+    "DE" : "Generika",
+    "KO" : "제네릭",
+    "IT" : "generici"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "FunctionalProgrammingRegionName",
+  "data" : {
+    "EN" : "Functional Programming",
+    "ZH_HANS" : "函数式编程",
+    "ZH_HANT" : "函數式編程",
+    "ES" : "Programación funcional",
+    "AR" : "البرمجة الوظيفية",
+    "PT" : "Programação Funcional",
+    "ID" : "Pemrograman Fungsional",
+    "FR" : "Programmation fonctionnelle",
+    "JA" : "関数型プログラミング",
+    "RU" : "Функциональное программирование",
+    "DE" : "Funktionale Programmierung",
+    "KO" : "함수형 프로그래밍",
+    "IT" : "Programmazione funzionale"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaStreamRegionName",
+  "data" : {
+    "EN" : "Java Stream",
+    "ZH_HANS" : "Java的流",
+    "ZH_HANT" : "Java的流",
+    "ES" : "Secuencia de Java",
+    "AR" : "جافا ستريم",
+    "PT" : "Java Stream",
+    "ID" : "Aliran Jawa",
+    "FR" : "Flux Java",
+    "JA" : "Javaストリーム",
+    "RU" : "Java Stream",
+    "DE" : "Java-Stream",
+    "KO" : "자바 스트림",
+    "IT" : "Stream Java"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "SpringRegionName",
+  "data" : {
+    "EN" : "Spring Framework",
+    "ZH_HANS" : "Spring框架",
+    "ZH_HANT" : "Spring框架",
+    "ES" : "Marco de primavera",
+    "AR" : "إطار الربيع",
+    "PT" : "Spring Framework",
+    "ID" : "Kerangka Musim Semi",
+    "FR" : "Cadre de printemps",
+    "JA" : "SpringFramework",
+    "RU" : "Spring Framework",
+    "DE" : "Frühlings-Framework",
+    "KO" : "스프링 프레임워크",
+    "IT" : "Quadro primaverile"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaReflectionRegionName",
+  "data" : {
+    "EN" : "Reflection",
+    "ZH_HANS" : "反射",
+    "ZH_HANT" : "反射",
+    "ES" : "Reflexión",
+    "AR" : "انعكاس",
+    "PT" : "Reflexão",
+    "ID" : "Cerminan",
+    "FR" : "Réflexion",
+    "JA" : "反射",
+    "RU" : "Отражение",
+    "DE" : "Reflexion",
+    "KO" : "반사",
+    "IT" : "Riflessione"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaClassObjectRegionName",
+  "data" : {
+    "EN" : "Class and Object",
+    "ZH_HANS" : "类和对象",
+    "ZH_HANT" : "類和對象",
+    "ES" : "Clase y objeto",
+    "AR" : "فئة وكائن",
+    "PT" : "Classe e Objeto",
+    "ID" : "Kelas dan Objek",
+    "FR" : "Classe et objet",
+    "JA" : "クラスとオブジェクト",
+    "RU" : "Класс и объект",
+    "DE" : "Klasse und Objekt",
+    "KO" : "클래스와 객체",
+    "IT" : "Classe e oggetto"
   },
   "format" : "TEXT"
 }, {
@@ -812,8 +1028,8 @@
   "id" : "JavaCollectionRegionName",
   "data" : {
     "EN" : "Collection Framework",
-    "ZH_HANS" : "Java的集合框架",
-    "ZH_HANT" : "Java的集合框架",
+    "ZH_HANS" : "集合框架",
+    "ZH_HANT" : "集合框架",
     "ES" : "Marco de colección",
     "AR" : "إطار المجموعة",
     "PT" : "Estrutura de coleção",
@@ -824,24 +1040,6 @@
     "DE" : "Sammlungsrahmen",
     "KO" : "컬렉션 프레임워크",
     "IT" : "Quadro di raccolta"
-  },
-  "format" : "TEXT"
-}, {
-  "id" : "JavaClassObjectRegionName",
-  "data" : {
-    "EN" : "Java class and object",
-    "ZH_HANS" : "Java的类和对象",
-    "ZH_HANT" : "Java的類和對象",
-    "ES" : "Objeto y clase Java",
-    "AR" : "فئة جافا وكائن",
-    "PT" : "Classe e objeto Java",
-    "ID" : "Kelas dan objek Java",
-    "FR" : "Classe et objet Java",
-    "JA" : "Javaクラスとオブジェクト",
-    "RU" : "Класс и объект Java",
-    "DE" : "Java-Klasse und -Objekt",
-    "KO" : "자바 클래스와 객체",
-    "IT" : "Classe e oggetto Java"
   },
   "format" : "TEXT"
 } ]

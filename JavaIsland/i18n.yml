@@ -196,7 +196,7 @@
 - id: JavaMethodFieldRegionName
   data:
     EN: Method and Field
-    ZH_HANS: Java的方法和字段
+    ZH_HANS: 方法和字段
 - id: JavaDataStructureRegionName
   data:
     EN: Java's Data Structure
@@ -205,6 +205,54 @@
   data:
     EN: Java's Operator
     ZH_HANS: Java的运算符
+- id: ExceptionHierarchyRegionName
+  data:
+    EN: Exception Hierarchy
+    ZH_HANS: 异常体系
+- id: JavaAnnotationRegionName
+  data:
+    EN: Annotation
+    ZH_HANS: 注解
+- id: JavaSocketRegionName
+  data:
+    EN: Socket
+    ZH_HANS: Socket
+- id: JavaIORegionName
+  data:
+    EN: IO
+    ZH_HANS: IO
+- id: JavaThreadRegionName
+  data:
+    EN: Thread and Concurrency
+    ZH_HANS: 线程与并发
+- id: DatabaseBasicRegionName
+  data:
+    EN: Database and JDBC
+    ZH_HANS: 数据库与JDBC
+- id: JavaGenericsRegionName
+  data:
+    EN: Generics
+    ZH_HANS: 泛型
+- id: FunctionalProgrammingRegionName
+  data:
+    EN: Functional Programming
+    ZH_HANS: 函数式编程
+- id: JavaStreamRegionName
+  data:
+    EN: Java Stream
+    ZH_HANS: Java的流
+- id: SpringRegionName
+  data:
+    EN: Spring Framework
+    ZH_HANS: Spring框架
+- id: JavaReflectionRegionName
+  data:
+    EN: Reflection
+    ZH_HANS: 反射
+- id: JavaClassObjectRegionName
+  data:
+    EN: Class and object
+    ZH_HANS: 类与对象
 - id: JavaControlFlowRegionName
   data:
     EN: Control Flow
@@ -224,8 +272,8 @@
 - id: JavaCollectionRegionName
   data:
     EN: Collection Framework
-    ZH_HANS: Java的集合框架
+    ZH_HANS: 集合框架
 - id: JavaClassObjectRegionName
   data:
-    EN: Java class and object
-    ZH_HANS: Java的类和对象
+    EN: Class and Object
+    ZH_HANS: 类和对象
