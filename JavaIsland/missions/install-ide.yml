@@ -1,9 +1,0 @@
-id: install-ide
-title: install-ide-title
-challenges:
-  - id: install-ide-challenge
-    type: Question
-    star: 3
-    spec: "(?s).*"
-    tldr: "ThisIsNotFinishedYet"
-    readme: "ThisIsNotFinishedYet"

@@ -1,0 +1,9 @@
+id: install-java-ide
+title: install-java-ide-title
+challenges:
+  - id: install-java-ide-challenge
+    type: Question
+    star: 3
+    spec: "(?s).*(IntelliJ IDEA|Eclipse IDE|Electron:).*"
+    tldr: "ThisIsNotFinishedYet"
+    readme: "ThisIsNotFinishedYet"

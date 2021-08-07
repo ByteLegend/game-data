@@ -235,27 +235,27 @@
 }, {
   "id" : "star-bytelegend-title",
   "data" : {
-    "EN" : "Get the first star",
-    "ZH_HANS" : "获得第一颗星星",
-    "ZH_HANT" : "獲得第一顆星星",
-    "ES" : "Consigue la primera estrella",
-    "AR" : "احصل على النجمة الأولى",
-    "PT" : "Obtenha a primeira estrela",
-    "ID" : "Dapatkan bintang pertama",
-    "FR" : "Obtenez la première étoile",
-    "JA" : "最初の星を取得する",
-    "RU" : "Получите первую звезду",
-    "DE" : "Hol dir den ersten Stern",
-    "KO" : "첫 번째 별 받기",
-    "IT" : "Ottieni la prima stella"
+    "EN" : "First star",
+    "ZH_HANS" : "第一颗星",
+    "ZH_HANT" : "第一顆星",
+    "ES" : "Primera estrella",
+    "AR" : "النجمة الأولى",
+    "PT" : "Primeira estrela",
+    "ID" : "Bintang pertama",
+    "FR" : "Première étoile",
+    "JA" : "最初の星",
+    "RU" : "Первая звезда",
+    "DE" : "Erster Stern",
+    "KO" : "첫 번째 별",
+    "IT" : "Prima stella"
   },
   "format" : "HTML"
 }, {
   "id" : "remember-brave-people-title",
   "data" : {
     "EN" : "Learn GitHub pull request",
-    "ZH_HANS" : "学习创建GitHub的<br>pull request",
-    "ZH_HANT" : "學習創建GitHub的<br>pull request",
+    "ZH_HANS" : "学习GitHub<br>pull request",
+    "ZH_HANT" : "學習GitHub<br>pull request",
     "ES" : "Solicitud de extracción de Learn GitHub",
     "AR" : "تعلم طلب سحب GitHub",
     "PT" : "Aprenda GitHub pull request",
@@ -263,9 +263,9 @@
     "FR" : "Apprendre la demande d'extraction GitHub",
     "JA" : "GitHubプルリクエストを学ぶ",
     "RU" : "Изучите запрос на вытягивание GitHub",
-    "DE" : "Erfahren Sie mehr über die GitHub-Pull-Anfrage",
-    "KO" : "GitHub 풀 요청 알아보기",
-    "IT" : "Informazioni sulla richiesta pull di GitHub"
+    "DE" : "Lernen Sie GitHub-Pull-Request",
+    "KO" : "GitHub pull 요청 알아보기",
+    "IT" : "Scopri la richiesta pull di GitHub"
   },
   "format" : "TEXT"
 }, {
@@ -395,21 +395,21 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "install-ide-title",
+  "id" : "install-java-ide-title",
   "data" : {
-    "EN" : "Install a <span class=\"notranslate\">Java IDE</span class=\"notranslate\">",
-    "ZH_HANS" : "安装<span class=\"notranslate\">Java IDE</span class=\"notranslate\">",
-    "ZH_HANT" : "安裝一個<span class=\"notranslate\">Java IDE</span>",
-    "ES" : "Instalar un <span class=\"notranslate\">Java IDE</span>",
-    "AR" : "قم بتثبيت <span class=\"notranslate\">Java IDE</span>",
-    "PT" : "Instale um <span class=\"notranslate\">Java IDE</span>",
-    "ID" : "Instal <span class=\"notranslate\">Java IDE</span>",
-    "FR" : "Installer un <span class=\"notranslate\">Java IDE</span>",
-    "JA" : "JavaIDEをインストールし<span class=\"notranslate\">Java IDE</span>",
-    "RU" : "Установите <span class=\"notranslate\">Java IDE</span>",
-    "DE" : "Installieren Sie eine <span class=\"notranslate\">Java IDE</span>",
-    "KO" : "<span class=\"notranslate\">Java IDE</span> 설치",
-    "IT" : "Installa un <span class=\"notranslate\">Java IDE</span>"
+    "EN" : "Install <span class=\"notranslate\">IDE</span class=\"notranslate\">",
+    "ZH_HANS" : "安装<span class=\"notranslate\">IDE</span class=\"notranslate\">",
+    "ZH_HANT" : "安裝",
+    "ES" : "Instalar <span class=\"notranslate\">IDE</span>",
+    "AR" : "قم بتثبيت <span class=\"notranslate\">IDE</span>",
+    "PT" : "Instale <span class=\"notranslate\">IDE</span>",
+    "ID" : "Instal <span class=\"notranslate\">IDE</span>",
+    "FR" : "Installer l&#39; <span class=\"notranslate\">IDE</span>",
+    "JA" : "<span class=\"notranslate\">IDE</span>をインストールする",
+    "RU" : "Установить <span class=\"notranslate\">IDE</span>",
+    "DE" : "<span class=\"notranslate\">IDE</span> installieren",
+    "KO" : "<span class=\"notranslate\">IDE</span> 설치",
+    "IT" : "Installa <span class=\"notranslate\">IDE</span>"
   },
   "format" : "HTML"
 }, {

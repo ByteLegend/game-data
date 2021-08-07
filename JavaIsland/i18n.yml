@@ -82,12 +82,12 @@
 - id: star-bytelegend-title
   format: HTML
   data:
-    EN: Get the first star
-    ZH_HANS: 获得第一颗星星
+    EN: First star
+    ZH_HANS: 第一颗星
 - id: remember-brave-people-title
   data:
     EN: Learn GitHub pull request
-    ZH_HANS: 学习创建GitHub的<br>pull request
+    ZH_HANS: 学习GitHub<br>pull request
 - id: clone-and-run-java-project-title
   data:
     EN: Clone and run a Java project
@@ -116,11 +116,11 @@
   data:
     EN: Import a class from third party package
     ZH_HANS: 导入第三方包的类
-- id: install-ide-title
+- id: install-java-ide-title
   format: HTML
   data:
-    EN: Install a <span class="notranslate">Java IDE</span class="notranslate">
-    ZH_HANS: 安装<span class="notranslate">Java IDE</span class="notranslate">
+    EN: Install <span class="notranslate">IDE</span class="notranslate">
+    ZH_HANS: 安装<span class="notranslate">IDE</span class="notranslate">
 - id: IDontKnowTakeALookAtStarBytelegend
   format: HTML
   data:
