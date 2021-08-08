@@ -1726,4 +1726,76 @@
     "IT" : "Programma di apprendimento"
   },
   "format" : "TEXT"
+}, {
+  "id" : "ShowMissionTitles",
+  "data" : {
+    "EN" : "Show titles",
+    "ZH_HANS" : "显示标题",
+    "ZH_HANT" : "顯示標題",
+    "ES" : "Mostrar títulos",
+    "AR" : "إظهار العناوين",
+    "PT" : "Mostrar títulos",
+    "ID" : "Tampilkan judul",
+    "FR" : "Afficher les titres",
+    "JA" : "タイトルを表示",
+    "RU" : "Показать заголовки",
+    "DE" : "Titel anzeigen",
+    "KO" : "제목 표시",
+    "IT" : "Mostra titoli"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "DownloadMyRoadmap",
+  "data" : {
+    "EN" : "Download my roadmap",
+    "ZH_HANS" : "下载我的路线图",
+    "ZH_HANT" : "下載我的路線圖",
+    "ES" : "Descarga mi hoja de ruta",
+    "AR" : "تنزيل خارطة الطريق الخاصة بي",
+    "PT" : "Baixe meu roteiro",
+    "ID" : "Unduh peta jalan saya",
+    "FR" : "Télécharger ma feuille de route",
+    "JA" : "ロードマップをダウンロードする",
+    "RU" : "Скачать мою дорожную карту",
+    "DE" : "Laden Sie meine Roadmap herunter",
+    "KO" : "내 로드맵 다운로드",
+    "IT" : "Scarica la mia tabella di marcia"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "DontShowThisAgain",
+  "data" : {
+    "EN" : "Don't show again",
+    "ZH_HANS" : "不再显示",
+    "ZH_HANT" : "不再顯示",
+    "ES" : "No vuelvas a aparecer",
+    "AR" : "لا تظهر مرة أخرى",
+    "PT" : "Não mostra de novo",
+    "ID" : "Jangan tampilkan lagi",
+    "FR" : "Ne plus afficher",
+    "JA" : "二度と表示しない",
+    "RU" : "Больше не показывать",
+    "DE" : "Nicht mehr anzeigen",
+    "KO" : "다시 표시하지 않음",
+    "IT" : "Non mostrarti più"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "TryScrollAndDrag",
+  "data" : {
+    "EN" : "Try scroll and drag on the roadmap!",
+    "ZH_HANS" : "试试在路线图上拨动滚轮并拖动！",
+    "ZH_HANT" : "試試在路線圖上撥動滾輪並拖動！",
+    "ES" : "¡Prueba a desplazarte y arrastrar por la hoja de ruta!",
+    "AR" : "حاول التمرير والسحب على خريطة الطريق!",
+    "PT" : "Tente rolar e arrastar no roteiro!",
+    "ID" : "Coba gulir dan seret pada peta jalan!",
+    "FR" : "Essayez de faire défiler et de faire glisser sur la feuille de route !",
+    "JA" : "ロードマップをスクロールしてドラッグしてみてください！",
+    "RU" : "Попробуйте прокрутить и перетащить дорожную карту!",
+    "DE" : "Versuchen Sie, auf der Roadmap zu scrollen und zu ziehen!",
+    "KO" : "로드맵을 스크롤하고 드래그하십시오!",
+    "IT" : "Prova a scorrere e trascinare sulla tabella di marcia!"
+  },
+  "format" : "HTML"
 } ]

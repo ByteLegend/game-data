@@ -478,3 +478,20 @@
   data:
     EN: Learning roadmap
     ZH_HANS: 学习路线图
+- id: ShowMissionTitles
+  data:
+    EN: Show titles
+    ZH_HANS: 显示标题
+- id: DownloadMyRoadmap
+  data:
+    EN: Download my roadmap
+    ZH_HANS: 下载我的路线图
+- id: DontShowThisAgain
+  data:
+    EN: Don't show again
+    ZH_HANS: 不再显示
+- id: TryScrollAndDrag
+  format: HTML
+  data:
+    EN: Try scroll and drag on the roadmap!
+    ZH_HANS: 试试在路线图上拨动滚轮并拖动！
