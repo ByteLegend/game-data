@@ -1,1 +1,37 @@
-[ ]
+[ {
+  "id" : "DoYouKnow",
+  "data" : {
+    "EN" : "Do you know?",
+    "ZH_HANS" : "你知道吗？",
+    "ZH_HANT" : "你知道嗎？",
+    "ES" : "¿Lo sabías?",
+    "AR" : "هل تعرف؟",
+    "PT" : "Você sabe?",
+    "ID" : "Apakah Anda tahu?",
+    "FR" : "Sais-tu?",
+    "JA" : "あなたは知っていますか？",
+    "RU" : "Вы знаете?",
+    "DE" : "Wissen Sie?",
+    "KO" : "아세요?",
+    "IT" : "Lo sai?"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "KotlinIslandIsARealIsland",
+  "data" : {
+    "EN" : "<p>Kotlin Island is a real island on the earth, located in <a href=\"https://www.google.com/maps/place/Kotlin+Island/@60.001918,29.6841031,13z\" target=\"_blank\">60°00′45″N 29°44′01″E</a>.\nWe intentionally make this island have the similar shape as the real Kotlin Island, but unfortunately it's not finished yet \uD83D\uDE1E. Coming soon.</p>\n",
+    "ZH_HANS" : "<p>Kotlin岛是地球上真实存在的一个岛，在<a href=\"https://www.google.com/maps/place/Kotlin+Island/@60.001918,29.6841031,13z\" target=\"_blank\">60°00′45″N 29°44′01″E</a>。\n我们故意让这个岛和真实的Kotlin岛形状相似，但是不幸的是它还没完成\uD83D\uDE1E。敬请期待！</p>\n",
+    "ZH_HANT" : "<p>Kotlin島是地球上真實存在的一個島，在我們故意讓這個島和真實的Kotlin島形狀相似，但是不幸的是它還沒完成\uD83D\uDE1E。敬請期待！</p>",
+    "ES" : "<p>La isla Kotlin es una isla real en la tierra, ubicada en<a href=\"https://www.google.com/maps/place/Kotlin+Island/@60.001918,29.6841031,13z\" target=\"_blank\">60 ° 00′45 ″ N 29 ° 44′01 ″ E.</a> Intencionalmente hacemos que esta isla tenga la forma similar a la verdadera isla Kotlin, pero desafortunadamente aún no está terminada \uD83D\uDE1E. Próximamente, en breve, pronto.</p>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">جزيرة Kotlin هي جزيرة حقيقية على الأرض ، وتقع في<a href=\"https://www.google.com/maps/place/Kotlin+Island/@60.001918,29.6841031,13z\" target=\"_blank\">60 ° 00′45 ″ شمالاً 29 ° 44′01 ″ شرقًا</a> . تعمدنا أن نجعل هذه الجزيرة لها شكل مماثل لجزيرة Kotlin الحقيقية ، لكن للأسف لم تنته بعد \uD83D\uDE1E. قريبا.</p>",
+    "PT" : "<p>A Ilha de Kotlin é uma verdadeira ilha terrestre, localizada em<a href=\"https://www.google.com/maps/place/Kotlin+Island/@60.001918,29.6841031,13z\" target=\"_blank\">60 ° 00′45 ″ N 29 ° 44′01 ″ E.</a> Intencionalmente, fizemos com que esta ilha tivesse um formato semelhante ao da Ilha Kotlin real, mas infelizmente ainda não está concluída \uD83D\uDE1E. Em breve.</p>",
+    "ID" : "<p>Pulau Kotlin adalah pulau nyata di bumi, terletak di<a href=\"https://www.google.com/maps/place/Kotlin+Island/@60.001918,29.6841031,13z\" target=\"_blank\">60°00′45″LU 29°44′01″BT</a> . Kami sengaja membuat pulau ini memiliki bentuk yang mirip dengan Pulau Kotlin yang asli, tapi sayangnya belum selesai . Segera akan datang.</p>",
+    "FR" : "<p>L&#39;île de Kotlin est une véritable île sur terre, située à<a href=\"https://www.google.com/maps/place/Kotlin+Island/@60.001918,29.6841031,13z\" target=\"_blank\">60°00′45″N 29°44′01″E</a> . Nous avons intentionnellement fait en sorte que cette île ait la même forme que la vraie île de Kotlin, mais malheureusement elle n&#39;est pas encore terminée \uD83D\uDE1E. Bientôt disponible.</p>",
+    "JA" : "<p>コトリン島は地球上の実際の島で、<a href=\"https://www.google.com/maps/place/Kotlin+Island/@60.001918,29.6841031,13z\" target=\"_blank\">北緯60度00分45秒東経29度44分01秒</a>に位置しています。この島は意図的に本物のコトリン島に似た形にしていますが、残念ながらまだ完成していません\uD83D\uDE1E。近日公開。</p>",
+    "RU" : "<p>Остров Котлин - настоящий остров на Земле, расположенный в<a href=\"https://www.google.com/maps/place/Kotlin+Island/@60.001918,29.6841031,13z\" target=\"_blank\">60 ° 00′45 ″ с.ш., 29 ° 44′01 ″ в.д.</a> Мы намеренно сделали этот остров по форме похожим на настоящий остров Котлин, но, к сожалению, он еще не закончен \uD83D\uDE1E. Скоро будет.</p>",
+    "DE" : "<p>Kotlin Island ist eine echte Insel auf der Erde, die sich in<a href=\"https://www.google.com/maps/place/Kotlin+Island/@60.001918,29.6841031,13z\" target=\"_blank\">60°00′45″N 29°44′01″E befindet</a> . Wir haben diese Insel bewusst so gestaltet wie die echte Kotlin Island, aber leider ist sie noch nicht fertig \uD83D\uDE1E. Demnächst.</p>",
+    "KO" : "<p><a href=\"https://www.google.com/maps/place/Kotlin+Island/@60.001918,29.6841031,13z\" target=\"_blank\">Kotlin Island는 60°00′45″N 29°44′01″E에</a> 위치한 지구상의 실제 섬입니다. 우리는 의도적으로 이 섬을 실제 Kotlin Island와 비슷한 모양으로 만들었지만 불행히도 아직 완성되지 않았습니다 \uD83D\uDE1E. 곧 출시될 예정입니다.</p>",
+    "IT" : "<p>L&#39;isola di Kotlin è una vera isola sulla terra, situata a<a href=\"https://www.google.com/maps/place/Kotlin+Island/@60.001918,29.6841031,13z\" target=\"_blank\">60° 00&#39;45 &quot;N 29° 44&#39;01&quot; E.</a> Abbiamo intenzionalmente fatto in modo che quest&#39;isola abbia la forma simile alla vera isola di Kotlin, ma sfortunatamente non è ancora finita \uD83D\uDE1E. Prossimamente.</p>"
+  },
+  "format" : "HTML"
+} ]

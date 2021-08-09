@@ -1,8 +1,14 @@
+# See `GameMapDefinition`
 - id: JavaIsland
   frames: 2
   children:
   - id: JavaIslandNewbieVillagePub
-    children: [ ]
+    frames: 1
+    roadmap: false
+  - id: JavaIslandCommentDungeon
+    frames: 1
+    roadmap: false
+  - id: JavaIslandDebuggerDungeon
     frames: 1
     roadmap: false
 - id: GitIsland

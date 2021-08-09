@@ -899,6 +899,42 @@
   },
   "format" : "HTML"
 }, {
+  "id" : "JavaIslandCommentDungeon",
+  "data" : {
+    "EN" : "Dungeon: comment & javadoc",
+    "ZH_HANS" : "地下城：注释与javadoc",
+    "ZH_HANT" : "地下城：註釋與javadoc",
+    "ES" : "Mazmorra: comentario y javadoc",
+    "AR" : "الزنزانة: تعليق وجافادوك",
+    "PT" : "Calabouço: comentário e javadoc",
+    "ID" : "Dungeon: komentar & javadoc",
+    "FR" : "Donjon : commentaire & javadoc",
+    "JA" : "ダンジョン：コメントとjavadoc",
+    "RU" : "Dungeon: комментарии и javadoc",
+    "DE" : "Dungeon: Kommentar & Javadoc",
+    "KO" : "던전: 댓글 및 javadoc",
+    "IT" : "Dungeon: commento e javadoc"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaIslandDebuggerDungeon",
+  "data" : {
+    "EN" : "Dungeon: debugger",
+    "ZH_HANS" : "地下城：调试器",
+    "ZH_HANT" : "地下城：調試器",
+    "ES" : "Mazmorra: depurador",
+    "AR" : "الزنزانة: المصحح",
+    "PT" : "Calabouço: depurador",
+    "ID" : "Penjara Bawah Tanah: debugger",
+    "FR" : "Donjon : débogueur",
+    "JA" : "ダンジョン：デバッガー",
+    "RU" : "Подземелье: отладчик",
+    "DE" : "Dungeon: Debugger",
+    "KO" : "던전: 디버거",
+    "IT" : "Dungeon: debugger"
+  },
+  "format" : "TEXT"
+}, {
   "id" : "YouAreNotLoggedIn",
   "data" : {
     "EN" : "You are not logged in",

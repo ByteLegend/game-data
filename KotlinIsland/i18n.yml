@@ -1,0 +1,14 @@
+- id: DoYouKnow
+  data:
+    EN: Do you know?
+    ZH_HANS: 你知道吗？
+- id: KotlinIslandIsARealIsland
+  format: MARKDOWN
+  data:
+    EN: |
+      Kotlin Island is a real island on the earth, located in [60°00′45″N 29°44′01″E](https://www.google.com/maps/place/Kotlin+Island/@60.001918,29.6841031,13z).
+      We intentionally make this island have the similar shape as the real Kotlin Island, but unfortunately it's not finished yet 😞. Coming soon.
+    ZH_HANS: |
+      Kotlin岛是地球上真实存在的一个岛，在[60°00′45″N 29°44′01″E](https://www.google.com/maps/place/Kotlin+Island/@60.001918,29.6841031,13z)。
+      我们故意让这个岛和真实的Kotlin岛形状相似，但是不幸的是它还没完成😞。敬请期待！
+
