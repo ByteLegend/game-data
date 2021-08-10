@@ -87,7 +87,7 @@
 - id: remember-brave-people-title
   data:
     EN: Learn GitHub pull request
-    ZH_HANS: 学习GitHub<br>pull request
+    ZH_HANS: 学习GitHub pull request
 - id: clone-and-run-java-project-title
   data:
     EN: Clone & run Java program

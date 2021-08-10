@@ -240,8 +240,8 @@
     ZH_HANS: 福报酒吧
 - id: JavaIslandCommentDungeon
   data:
-    EN: "Dungeon: comment & javadoc"
-    ZH_HANS: "地下城：注释与javadoc"
+    EN: "Dungeon: comment & Javadoc"
+    ZH_HANS: "地下城：注释与Javadoc"
 - id: JavaIslandDebuggerDungeon
   data:
     EN: "Dungeon: debugger"

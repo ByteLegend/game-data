@@ -901,19 +901,19 @@
 }, {
   "id" : "JavaIslandCommentDungeon",
   "data" : {
-    "EN" : "Dungeon: comment & javadoc",
-    "ZH_HANS" : "地下城：注释与javadoc",
-    "ZH_HANT" : "地下城：註釋與javadoc",
-    "ES" : "Mazmorra: comentario y javadoc",
+    "EN" : "Dungeon: comment & Javadoc",
+    "ZH_HANS" : "地下城：注释与Javadoc",
+    "ZH_HANT" : "地下城：註釋與Javadoc",
+    "ES" : "Mazmorra: comentario y Javadoc",
     "AR" : "الزنزانة: تعليق وجافادوك",
-    "PT" : "Calabouço: comentário e javadoc",
-    "ID" : "Dungeon: komentar & javadoc",
-    "FR" : "Donjon : commentaire & javadoc",
-    "JA" : "ダンジョン：コメントとjavadoc",
-    "RU" : "Dungeon: комментарии и javadoc",
+    "PT" : "Calabouço: comentário e Javadoc",
+    "ID" : "Penjara Bawah Tanah: komentar & Javadoc",
+    "FR" : "Donjon : commentaire & Javadoc",
+    "JA" : "ダンジョン：コメントとJavadoc",
+    "RU" : "Dungeon: комментарии и Javadoc",
     "DE" : "Dungeon: Kommentar & Javadoc",
-    "KO" : "던전: 댓글 및 javadoc",
-    "IT" : "Dungeon: commento e javadoc"
+    "KO" : "던전: 댓글 및 Javadoc",
+    "IT" : "Dungeon: commento e Javadoc"
   },
   "format" : "TEXT"
 }, {
