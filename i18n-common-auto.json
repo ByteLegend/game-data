@@ -1207,7 +1207,7 @@
 }, {
   "id" : "GitIsland",
   "data" : {
-    "EN" : "Git island",
+    "EN" : "Git Island",
     "ZH_HANS" : "Git岛",
     "ZH_HANT" : "Git島",
     "ES" : "Isla de Git",
@@ -1225,16 +1225,16 @@
 }, {
   "id" : "KotlinIsland",
   "data" : {
-    "EN" : "Kotlin island",
+    "EN" : "Kotlin Island",
     "ZH_HANS" : "Kotlin岛",
     "ZH_HANT" : "Kotlin島",
     "ES" : "Isla de Kotlin",
     "AR" : "جزيرة كوتلن",
     "PT" : "Ilha Kotlin",
     "ID" : "Pulau Kotlin",
-    "FR" : "L'île de Kotlin",
+    "FR" : "Île de Kotlin",
     "JA" : "コトリン島",
-    "RU" : "Котлин остров",
+    "RU" : "Остров Котлин",
     "DE" : "Insel Kotlin",
     "KO" : "코틀린 아일랜드",
     "IT" : "Isola di Kotlin"
@@ -1243,25 +1243,25 @@
 }, {
   "id" : "GradleIsland",
   "data" : {
-    "EN" : "Gradle island",
+    "EN" : "Gradle Island",
     "ZH_HANS" : "Gradle岛",
     "ZH_HANT" : "Gradle島",
-    "ES" : "Isla de Gradle",
+    "ES" : "Isla Gradle",
     "AR" : "جزيرة جرادل",
-    "PT" : "Ilha de gradle",
+    "PT" : "Ilha de Gradle",
     "ID" : "Pulau Gradle",
-    "FR" : "Île de Gradle",
-    "JA" : "Gradle島",
+    "FR" : "Île Gradle",
+    "JA" : "Gradle Island",
     "RU" : "Остров Грейдл",
     "DE" : "Gradle-Insel",
-    "KO" : "그래들 섬",
+    "KO" : "그래들 아일랜드",
     "IT" : "Isola di Gradle"
   },
   "format" : "TEXT"
 }, {
   "id" : "PythonIsland",
   "data" : {
-    "EN" : "Python island",
+    "EN" : "Python Island",
     "ZH_HANS" : "灵蛇岛",
     "ZH_HANT" : "靈蛇島",
     "ES" : "Isla Python",
@@ -1269,8 +1269,8 @@
     "PT" : "Ilha Python",
     "ID" : "Pulau Python",
     "FR" : "L'île des Pythons",
-    "JA" : "パイソン島",
-    "RU" : "Остров питона",
+    "JA" : "パイソンアイランド",
+    "RU" : "Остров Питона",
     "DE" : "Python-Insel",
     "KO" : "파이썬 아일랜드",
     "IT" : "isola di pitone"
@@ -1279,19 +1279,19 @@
 }, {
   "id" : "GopherIsland",
   "data" : {
-    "EN" : "Gopher island",
+    "EN" : "Gopher Island",
     "ZH_HANS" : "地鼠岛",
     "ZH_HANT" : "地鼠島",
     "ES" : "Isla Gopher",
     "AR" : "جزيرة جوفر",
     "PT" : "Ilha Gopher",
-    "ID" : "pulau gopher",
+    "ID" : "Pulau Gopher",
     "FR" : "Île Gopher",
     "JA" : "ゴーファー島",
     "RU" : "Остров суслика",
     "DE" : "Gopher-Insel",
     "KO" : "고퍼 아일랜드",
-    "IT" : "isola di Gopher"
+    "IT" : "Isola di Gopher"
   },
   "format" : "TEXT"
 }, {
@@ -1834,4 +1834,40 @@
     "IT" : "Prova a scorrere e trascinare sulla tabella di marcia!"
   },
   "format" : "HTML"
+}, {
+  "id" : "JavaIslandMavenDungeon",
+  "data" : {
+    "EN" : "Dungeon: Maven",
+    "ZH_HANS" : "地下城：Maven",
+    "ZH_HANT" : "地下城：Maven",
+    "ES" : "Mazmorra: Maven",
+    "AR" : "الزنزانة: مخضرم",
+    "PT" : "Calabouço: Maven",
+    "ID" : "Ruang Bawah Tanah: Maven",
+    "FR" : "Donjon : Maven",
+    "JA" : "ダンジョン：Maven",
+    "RU" : "Подземелье: Maven",
+    "DE" : "Dungeon: Maven",
+    "KO" : "던전: 메이븐",
+    "IT" : "Dungeon: Maven"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaIslandSpringDungeon",
+  "data" : {
+    "EN" : "Dungeon: Spring",
+    "ZH_HANS" : "地下城：Spring",
+    "ZH_HANT" : "地下城：Spring",
+    "ES" : "Mazmorra: Primavera",
+    "AR" : "الزنزانة: الربيع",
+    "PT" : "Calabouço: Primavera",
+    "ID" : "penjara bawah tanah: musim semi",
+    "FR" : "Donjon : Printemps",
+    "JA" : "ダンジョン：春",
+    "RU" : "Подземелье: Весна",
+    "DE" : "Dungeon: Frühling",
+    "KO" : "던전: 봄",
+    "IT" : "Dungeon: Primavera"
+  },
+  "format" : "TEXT"
 } ]

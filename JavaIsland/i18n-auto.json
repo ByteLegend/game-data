@@ -1042,4 +1042,76 @@
     "IT" : "Quadro di raccolta"
   },
   "format" : "TEXT"
+}, {
+  "id" : "JavaIslandToCommandLineIslandText",
+  "data" : {
+    "EN" : "To Command Line Island",
+    "ZH_HANS" : "去往命令行岛",
+    "ZH_HANT" : "去往命令行島",
+    "ES" : "A la isla de la línea de comandos",
+    "AR" : "إلى جزيرة سطر الأوامر",
+    "PT" : "Para a Ilha da Linha de Comando",
+    "ID" : "Ke Pulau Baris Perintah",
+    "FR" : "Vers l'îlot de ligne de commande",
+    "JA" : "コマンドラインアイランドへ",
+    "RU" : "На остров командной строки",
+    "DE" : "Zur Kommandozeilen-Insel",
+    "KO" : "명령줄 섬으로",
+    "IT" : "All'isola della riga di comando"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaIslandToKotlinIslandText",
+  "data" : {
+    "EN" : "To Kotlin Island",
+    "ZH_HANS" : "去往Kotlin岛",
+    "ZH_HANT" : "去往Kotlin島",
+    "ES" : "Hacia la isla de Kotlin",
+    "AR" : "إلى جزيرة Kotlin",
+    "PT" : "Para a Ilha Kotlin",
+    "ID" : "Ke Pulau Kotlin",
+    "FR" : "Vers l'île de Kotlin",
+    "JA" : "コトリン島へ",
+    "RU" : "На остров Котлин",
+    "DE" : "Zur Insel Kotlin",
+    "KO" : "코틀린 섬으로",
+    "IT" : "All'isola di Kotlin"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaIslandToDatabaseIslandText",
+  "data" : {
+    "EN" : "To Database Island",
+    "ZH_HANS" : "去往数据库岛",
+    "ZH_HANT" : "去往數據庫島",
+    "ES" : "A la isla de la base de datos",
+    "AR" : "إلى جزيرة قاعدة البيانات",
+    "PT" : "Para a Ilha do Banco de Dados",
+    "ID" : "Ke Pulau Basis Data",
+    "FR" : "Vers l'île de la base de données",
+    "JA" : "データベース島へ",
+    "RU" : "На остров базы данных",
+    "DE" : "Zur Datenbankinsel",
+    "KO" : "데이터베이스 섬으로",
+    "IT" : "All'isola del database"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaIslandToWebIslandText",
+  "data" : {
+    "EN" : "To Web Island",
+    "ZH_HANS" : "去往Web岛",
+    "ZH_HANT" : "去往Web島",
+    "ES" : "Hacia Web Island",
+    "AR" : "إلى جزيرة الويب",
+    "PT" : "Para a Ilha da Web",
+    "ID" : "Ke Pulau Web",
+    "FR" : "Vers l'île Web",
+    "JA" : "ウェブアイランドへ",
+    "RU" : "На веб-остров",
+    "DE" : "Zur Webinsel",
+    "KO" : "웹 아일랜드로",
+    "IT" : "All'isola del web"
+  },
+  "format" : "TEXT"
 } ]

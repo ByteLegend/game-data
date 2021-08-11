@@ -277,3 +277,19 @@
   data:
     EN: Class and Object
     ZH_HANS: 类和对象
+- id: JavaIslandToCommandLineIslandText
+  data:
+    EN: To Command Line Island
+    ZH_HANS: 去往命令行岛
+- id: JavaIslandToKotlinIslandText
+  data:
+    EN: To Kotlin Island
+    ZH_HANS: 去往Kotlin岛
+- id: JavaIslandToDatabaseIslandText
+  data:
+    EN: To Database Island
+    ZH_HANS: "去往数据库岛"
+- id: JavaIslandToWebIslandText
+  data:
+    EN: To Web Island
+    ZH_HANS: "去往Web岛"

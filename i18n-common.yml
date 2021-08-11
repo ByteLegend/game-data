@@ -360,23 +360,23 @@
       </p>
 - id: GitIsland
   data:
-    EN: Git island
+    EN: Git Island
     ZH_HANS: Git岛
 - id: KotlinIsland
   data:
-    EN: Kotlin island
+    EN: Kotlin Island
     ZH_HANS: Kotlin岛
 - id: GradleIsland
   data:
-    EN: Gradle island
+    EN: Gradle Island
     ZH_HANS: Gradle岛
 - id: PythonIsland
   data:
-    EN: Python island
+    EN: Python Island
     ZH_HANS: 灵蛇岛
 - id: GopherIsland
   data:
-    EN: Gopher island
+    EN: Gopher Island
     ZH_HANS: 地鼠岛
 - id: ThisIslandIsNotFinishedYet
   data:
@@ -503,3 +503,12 @@
   data:
     EN: Try scroll and drag on the roadmap!
     ZH_HANS: 试试在路线图上拨动滚轮并拖动！
+- id: JavaIslandMavenDungeon
+  data:
+    EN: "Dungeon: Maven"
+    ZH_HANS: "地下城：Maven"
+- id: JavaIslandSpringDungeon
+  data:
+    EN: "Dungeon: Spring"
+    ZH_HANS: "地下城：Spring"
+
