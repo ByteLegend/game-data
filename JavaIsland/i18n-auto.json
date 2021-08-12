@@ -1043,21 +1043,21 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "JavaIslandToCommandLineIslandText",
+  "id" : "JavaIslandToShellIslandText",
   "data" : {
-    "EN" : "To Command Line Island",
-    "ZH_HANS" : "去往命令行岛",
-    "ZH_HANT" : "去往命令行島",
-    "ES" : "A la isla de la línea de comandos",
-    "AR" : "إلى جزيرة سطر الأوامر",
-    "PT" : "Para a Ilha da Linha de Comando",
-    "ID" : "Ke Pulau Baris Perintah",
-    "FR" : "Vers l'îlot de ligne de commande",
-    "JA" : "コマンドラインアイランドへ",
-    "RU" : "На остров командной строки",
-    "DE" : "Zur Kommandozeilen-Insel",
-    "KO" : "명령줄 섬으로",
-    "IT" : "All'isola della riga di comando"
+    "EN" : "To Shell Island",
+    "ZH_HANS" : "去往贝壳岛",
+    "ZH_HANT" : "去往貝殼島",
+    "ES" : "Hacia Shell Island",
+    "AR" : "إلى جزيرة شل",
+    "PT" : "Para Shell Island",
+    "ID" : "Ke Pulau Shell",
+    "FR" : "Vers l'île Shell",
+    "JA" : "シェル島へ",
+    "RU" : "На остров Шелл",
+    "DE" : "Zur Shell Island",
+    "KO" : "쉘 아일랜드로",
+    "IT" : "all'isola delle conchiglie"
   },
   "format" : "TEXT"
 }, {
@@ -1544,6 +1544,168 @@
     "DE" : "Tenary-Operator",
     "KO" : "테너리 연산자",
     "IT" : "Operatore Tenary"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-break-continue-title",
+  "data" : {
+    "EN" : "<span class='notranslate'>break & continue</span>",
+    "ZH_HANS" : "<span class='notranslate'>break & continue</span>",
+    "ZH_HANT" : "<span class='notranslate'>break & continue</span>",
+    "ES" : "<span class='notranslate'>break & continue</span>",
+    "AR" : "<span class='notranslate'>break & continue</span>",
+    "PT" : "<span class='notranslate'>break & continue</span>",
+    "ID" : "<span class='notranslate'>break & continue</span>",
+    "FR" : "<span class='notranslate'>break & continue</span>",
+    "JA" : "<span class='notranslate'>break & continue</span>",
+    "RU" : "<span class='notranslate'>break & continue</span>",
+    "DE" : "<span class='notranslate'>break & continue</span>",
+    "KO" : "<span class='notranslate'>break & continue</span>",
+    "IT" : "<span class='notranslate'>break & continue</span>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "java-control-flow-title",
+  "data" : {
+    "EN" : "Control Flow",
+    "ZH_HANS" : "控制流",
+    "ZH_HANT" : "控制流",
+    "ES" : "Flujo de control",
+    "AR" : "تدفق التحكم",
+    "PT" : "Controle de fluxo",
+    "ID" : "Aliran Kontrol",
+    "FR" : "Flux de contrôle",
+    "JA" : "制御フロー",
+    "RU" : "Поток управления",
+    "DE" : "Kontrollfluss",
+    "KO" : "제어 흐름",
+    "IT" : "Controllo del flusso"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-do-while-title",
+  "data" : {
+    "EN" : "<span class='notranslate'>do & while</span>",
+    "ZH_HANS" : "<span class='notranslate'>do & while</span>",
+    "ZH_HANT" : "<span class='notranslate'>do & while</span>",
+    "ES" : "<span class='notranslate'>do & while</span>",
+    "AR" : "<span class='notranslate'>do & while</span>",
+    "PT" : "<span class='notranslate'>do & while</span>",
+    "ID" : "<span class='notranslate'>do & while</span>",
+    "FR" : "<span class='notranslate'>do & while</span>",
+    "JA" : "<span class='notranslate'>do & while</span>",
+    "RU" : "<span class='notranslate'>do & while</span>",
+    "DE" : "<span class='notranslate'>do & while</span>",
+    "KO" : "<span class='notranslate'>do & while</span>",
+    "IT" : "<span class='notranslate'>do & while</span>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "java-if-else-title",
+  "data" : {
+    "EN" : "<span class='notranslate'>if & else</span>",
+    "ZH_HANS" : "<span class='notranslate'>if & else</span>",
+    "ZH_HANT" : "<span class='notranslate'>if & else</span>",
+    "ES" : "<span class='notranslate'>if & else</span>",
+    "AR" : "<span class='notranslate'>if & else</span>",
+    "PT" : "<span class='notranslate'>if & else</span>",
+    "ID" : "<span class='notranslate'>if & else</span>",
+    "FR" : "<span class='notranslate'>if & else</span>",
+    "JA" : "<span class='notranslate'>if & else</span>",
+    "RU" : "<span class='notranslate'>if & else</span>",
+    "DE" : "<span class='notranslate'>if & else</span>",
+    "KO" : "<span class='notranslate'>if & else</span>",
+    "IT" : "<span class='notranslate'>if & else</span>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "java-switch-title",
+  "data" : {
+    "EN" : "<span class='notranslate'>switch</span>",
+    "ZH_HANS" : "<span class='notranslate'>switch</span>",
+    "ZH_HANT" : "<span class='notranslate'>switch</span>",
+    "ES" : "<span class='notranslate'>switch</span>",
+    "AR" : "<span class='notranslate'>switch</span>",
+    "PT" : "<span class='notranslate'>switch</span>",
+    "ID" : "<span class='notranslate'>switch</span>",
+    "FR" : "<span class='notranslate'>switch</span>",
+    "JA" : "<span class='notranslate'>switch</span>",
+    "RU" : "<span class='notranslate'>switch</span>",
+    "DE" : "<span class='notranslate'>switch</span>",
+    "KO" : "<span class='notranslate'>switch</span>",
+    "IT" : "<span class='notranslate'>switch</span>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "java-enhanced-switch-jep361-title",
+  "data" : {
+    "EN" : "JEP 361: Enhanced <span class='notranslate'>switch</span>",
+    "ZH_HANS" : "JEP 361: 增强的<span class='notranslate'>switch</span>",
+    "ZH_HANT" : "JEP 361: 增強的",
+    "ES" : "JEP 361: <span class='notranslate'>switch</span>",
+    "AR" : "JEP 361: <span class='notranslate'>switch</span>",
+    "PT" : "JEP 361: <span class='notranslate'>switch</span>",
+    "ID" : "JEP 361: <span class='notranslate'>switch</span>",
+    "FR" : "JEP 361 : <span class='notranslate'>switch</span>",
+    "JA" : "JEP 361：拡張<span class='notranslate'>switch</span>",
+    "RU" : "JEP 361: Улучшенный <span class='notranslate'>switch</span>",
+    "DE" : "JEP 361: Verbesserter <span class='notranslate'>switch</span>",
+    "KO" : "JEP 361: 향상된 <span class='notranslate'>switch</span>",
+    "IT" : "JEP 361: <span class='notranslate'>switch</span>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "java-for-loop-title",
+  "data" : {
+    "EN" : "<span class='notranslate'>for</span> loop",
+    "ZH_HANS" : "<span class='notranslate'>for</span>循环",
+    "ZH_HANT" : "for",
+    "ES" : "<span class='notranslate'>for</span> bucle",
+    "AR" : "<span class='notranslate'>for</span> حلقة",
+    "PT" : "<span class='notranslate'>for</span> loop",
+    "ID" : "<span class='notranslate'>for</span> lingkaran",
+    "FR" : "<span class='notranslate'>for</span> boucle",
+    "JA" : "<span class='notranslate'>for</span>ループ",
+    "RU" : "<span class='notranslate'>for</span> цикла",
+    "DE" : "<span class='notranslate'>for</span> Schleife",
+    "KO" : "<span class='notranslate'>for</span> 루프",
+    "IT" : "<span class='notranslate'>for</span> ciclo"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "JavaIslandToDataStructureIslandText",
+  "data" : {
+    "EN" : "To Data Structure Island",
+    "ZH_HANS" : "去往数据结构岛",
+    "ZH_HANT" : "去往數據結構島",
+    "ES" : "A la isla de estructura de datos",
+    "AR" : "إلى جزيرة بنية البيانات",
+    "PT" : "Para Ilha de Estrutura de Dados",
+    "ID" : "Ke Pulau Struktur Data",
+    "FR" : "Vers l'îlot de structure de données",
+    "JA" : "データ構造アイランドへ",
+    "RU" : "На остров структуры данных",
+    "DE" : "Zur Datenstruktur-Insel",
+    "KO" : "데이터 구조 아일랜드로",
+    "IT" : "All'isola della struttura dei dati"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaIslandToAlgorithmIslandText",
+  "data" : {
+    "EN" : "To Algorithm Island",
+    "ZH_HANS" : "去往算法岛",
+    "ZH_HANT" : "去往算法",
+    "ES" : "A la isla de algoritmos",
+    "AR" : "لجزيرة الخوارزمية",
+    "PT" : "Para a Ilha de Algoritmo",
+    "ID" : "Ke Pulau Algoritma",
+    "FR" : "Vers l'île de l'algorithme",
+    "JA" : "アルゴリズム島へ",
+    "RU" : "К острову алгоритмов",
+    "DE" : "Zur Algorithmus-Insel",
+    "KO" : "알고리즘 아일랜드로",
+    "IT" : "All'isola degli algoritmi"
   },
   "format" : "TEXT"
 } ]

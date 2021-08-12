@@ -277,10 +277,10 @@
   data:
     EN: Class and Object
     ZH_HANS: 类和对象
-- id: JavaIslandToCommandLineIslandText
+- id: JavaIslandToShellIslandText
   data:
-    EN: To Command Line Island
-    ZH_HANS: 去往命令行岛
+    EN: To Shell Island
+    ZH_HANS: 去往贝壳岛
 - id: JavaIslandToKotlinIslandText
   data:
     EN: To Kotlin Island
@@ -389,3 +389,41 @@
   data:
     EN: Tenary Operator
     ZH_HANS: 三元运算符
+- id: java-break-continue-title
+  format: HTML
+  data:
+    EN: <span class='notranslate'>break & continue</span>
+- id: java-control-flow-title
+  data:
+    EN: Control Flow
+    ZH_HANS: 控制流
+- id: java-do-while-title
+  format: HTML
+  data:
+    EN: <span class='notranslate'>do & while</span>
+- id: java-if-else-title
+  format: HTML
+  data:
+    EN: <span class='notranslate'>if & else</span>
+- id: java-switch-title
+  format: HTML
+  data:
+    EN: <span class='notranslate'>switch</span>
+- id: java-enhanced-switch-jep361-title
+  format: HTML
+  data:
+    EN: "JEP 361: Enhanced <span class='notranslate'>switch</span>"
+    ZH_HANS: "JEP 361: 增强的<span class='notranslate'>switch</span>"
+- id: java-for-loop-title
+  format: HTML
+  data:
+    EN: <span class='notranslate'>for</span> loop
+    ZH_HANS: <span class='notranslate'>for</span>循环
+- id: JavaIslandToDataStructureIslandText
+  data:
+    EN: To Data Structure Island
+    ZH_HANS: 去往数据结构岛
+- id: JavaIslandToAlgorithmIslandText
+  data:
+    EN: To Algorithm Island
+    ZH_HANS: 去往算法岛
