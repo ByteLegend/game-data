@@ -508,7 +508,8 @@
     EN: "Dungeon: Maven"
     ZH_HANS: "地下城：Maven"
 - id: JavaIslandSpringDungeon
+  format: HTML
   data:
-    EN: "Dungeon: Spring"
-    ZH_HANS: "地下城：Spring"
+    EN: "Dungeon: <span class='notranslate'>Spring Framework<span>"
+    ZH_HANS: "地下城：Spring框架"
 

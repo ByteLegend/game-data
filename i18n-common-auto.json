@@ -1855,19 +1855,19 @@
 }, {
   "id" : "JavaIslandSpringDungeon",
   "data" : {
-    "EN" : "Dungeon: Spring",
-    "ZH_HANS" : "地下城：Spring",
-    "ZH_HANT" : "地下城：Spring",
-    "ES" : "Mazmorra: Primavera",
-    "AR" : "الزنزانة: الربيع",
-    "PT" : "Calabouço: Primavera",
-    "ID" : "penjara bawah tanah: musim semi",
-    "FR" : "Donjon : Printemps",
-    "JA" : "ダンジョン：春",
-    "RU" : "Подземелье: Весна",
-    "DE" : "Dungeon: Frühling",
-    "KO" : "던전: 봄",
-    "IT" : "Dungeon: Primavera"
+    "EN" : "Dungeon: <span class='notranslate'>Spring Framework<span>",
+    "ZH_HANS" : "地下城：Spring框架",
+    "ZH_HANT" : "地下城：Spring框架",
+    "ES" : "Mazmorra: <span class='notranslate'>Spring Framework</span>",
+    "AR" : "الزنزانة: <span class='notranslate'>Spring Framework</span>",
+    "PT" : "Calabouço: <span class='notranslate'>Spring Framework</span>",
+    "ID" : "Penjara Bawah Tanah: <span class='notranslate'>Spring Framework</span>",
+    "FR" : "Donjon : <span class='notranslate'>Spring Framework</span>",
+    "JA" : "ダンジョン： <span class='notranslate'>Spring Framework</span>",
+    "RU" : "Подземелье: <span class='notranslate'>Spring Framework</span>",
+    "DE" : "Dungeon: <span class='notranslate'>Spring Framework</span>",
+    "KO" : "던전: <span class='notranslate'>Spring Framework</span>",
+    "IT" : "Dungeon: <span class='notranslate'>Spring Framework</span>"
   },
-  "format" : "TEXT"
+  "format" : "HTML"
 } ]

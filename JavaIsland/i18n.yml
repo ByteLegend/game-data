@@ -293,3 +293,51 @@
   data:
     EN: To Web Island
     ZH_HANS: "去往Web岛"
+- id: java-method-title
+  data:
+    EN: Java Method
+    ZH_HANS: Java的方法
+- id: java-field-title
+  data:
+    EN: Java Field
+    ZH_HANS: Java的字段
+- id: java-method-and-field-title
+  data:
+    EN: Java Method and Field
+    ZH_HANS: Java的方法和字段
+- id: method-overload-title
+  data:
+    EN: Method Overload
+    ZH_HANS: 方法的重载
+- id: local-variable-and-scope-title
+  data:
+    EN: Local Variable and Scope
+    ZH_HANS: 局部变量与作用域
+- id: method-invocation-and-recursion-title
+  data:
+    EN: Method Invocation and Recursion
+    ZH_HANS: Java的字段
+- id: object-and-instantiation-title
+  data:
+    EN: Object and Instantiation
+    ZH_HANS: 对象与实例化
+- id: instance-field-title
+  data:
+    EN: Instance Field
+    ZH_HANS: 实例字段
+- id: instance-method-title
+  data:
+    EN: Instance Method
+    ZH_HANS: 实例方法
+- id: instance-constructor-title
+  data:
+    EN: Instance Constructor
+    ZH_HANS: 实例构造器
+- id: java-NPE-title
+  data:
+    EN: Java NullPointerException
+    ZH_HANS: Java的空指针异常
+- id: java-reference-and-value-title
+  data:
+    EN: Java Reference and Value
+    ZH_HANS: Java的引用与值

@@ -1114,4 +1114,220 @@
     "IT" : "All'isola del web"
   },
   "format" : "TEXT"
+}, {
+  "id" : "java-method-title",
+  "data" : {
+    "EN" : "Java Method",
+    "ZH_HANS" : "Java的方法",
+    "ZH_HANT" : "Java的方法",
+    "ES" : "Método Java",
+    "AR" : "طريقة جافا",
+    "PT" : "Método Java",
+    "ID" : "Metode Jawa",
+    "FR" : "Méthode Java",
+    "JA" : "Javaメソッド",
+    "RU" : "Метод Java",
+    "DE" : "Java-Methode",
+    "KO" : "자바 메소드",
+    "IT" : "Metodo Java"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-field-title",
+  "data" : {
+    "EN" : "Java Field",
+    "ZH_HANS" : "Java的字段",
+    "ZH_HANT" : "Java的字段",
+    "ES" : "Campo Java",
+    "AR" : "جافا فيلد",
+    "PT" : "Java Field",
+    "ID" : "Lapangan Jawa",
+    "FR" : "Champ Java",
+    "JA" : "Javaフィールド",
+    "RU" : "Поле Java",
+    "DE" : "Java-Feld",
+    "KO" : "자바 필드",
+    "IT" : "Campo Java"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-method-and-field-title",
+  "data" : {
+    "EN" : "Java Method and Field",
+    "ZH_HANS" : "Java的方法和字段",
+    "ZH_HANT" : "Java的方法和字段",
+    "ES" : "Método y campo Java",
+    "AR" : "طريقة جافا والمجال",
+    "PT" : "Método e campo Java",
+    "ID" : "Metode dan Bidang Java",
+    "FR" : "Méthode et champ Java",
+    "JA" : "Javaのメソッドとフィールド",
+    "RU" : "Метод и поле Java",
+    "DE" : "Java-Methode und -Feld",
+    "KO" : "자바 메소드 및 필드",
+    "IT" : "Metodo e campo Java"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "method-overload-title",
+  "data" : {
+    "EN" : "Method Overload",
+    "ZH_HANS" : "方法的重载",
+    "ZH_HANT" : "方法的重載",
+    "ES" : "Sobrecarga de método",
+    "AR" : "طريقة الزائد",
+    "PT" : "Sobrecarga de método",
+    "ID" : "Metode Overload",
+    "FR" : "Surcharge de méthode",
+    "JA" : "メソッドのオーバーロード",
+    "RU" : "Перегрузка метода",
+    "DE" : "Methodenüberladung",
+    "KO" : "메소드 과부하",
+    "IT" : "Sovraccarico del metodo"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "local-variable-and-scope-title",
+  "data" : {
+    "EN" : "Local Variable and Scope",
+    "ZH_HANS" : "局部变量与作用域",
+    "ZH_HANT" : "局部變量與作用域",
+    "ES" : "Alcance y variable local",
+    "AR" : "المتغير المحلي والنطاق",
+    "PT" : "Variável local e escopo",
+    "ID" : "Variabel Lokal dan Lingkup",
+    "FR" : "Variable locale et étendue",
+    "JA" : "ローカル変数とスコープ",
+    "RU" : "Локальная переменная и область действия",
+    "DE" : "Lokale Variable und Geltungsbereich",
+    "KO" : "지역 변수와 범위",
+    "IT" : "Variabile locale e ambito"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "method-invocation-and-recursion-title",
+  "data" : {
+    "EN" : "Method Invocation and Recursion",
+    "ZH_HANS" : "Java的字段",
+    "ZH_HANT" : "Java的字段",
+    "ES" : "Invocación y recursividad de métodos",
+    "AR" : "طريقة الاحتجاج والتكرار",
+    "PT" : "Invocação e Recursão do Método",
+    "ID" : "Metode Doa dan Rekursi",
+    "FR" : "Invocation de méthode et récursivité",
+    "JA" : "メソッドの呼び出しと再帰",
+    "RU" : "Вызов метода и рекурсия",
+    "DE" : "Methodenaufruf und Rekursion",
+    "KO" : "메서드 호출 및 재귀",
+    "IT" : "Invocazione e ricorsione del metodo"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "object-and-instantiation-title",
+  "data" : {
+    "EN" : "Object and Instantiation",
+    "ZH_HANS" : "对象与实例化",
+    "ZH_HANT" : "對象與實例化",
+    "ES" : "Objeto e instanciación",
+    "AR" : "الكائن والتماثل",
+    "PT" : "Objeto e instanciação",
+    "ID" : "Objek dan Instansiasi",
+    "FR" : "Objet et instanciation",
+    "JA" : "オブジェクトとインスタンス化",
+    "RU" : "Объект и реализация",
+    "DE" : "Objekt und Instanziierung",
+    "KO" : "객체와 인스턴스화",
+    "IT" : "Oggetto e istanza"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "instance-field-title",
+  "data" : {
+    "EN" : "Instance Field",
+    "ZH_HANS" : "实例字段",
+    "ZH_HANT" : "實例字段",
+    "ES" : "Campo de instancia",
+    "AR" : "مجال المثيل",
+    "PT" : "Campo de Instância",
+    "ID" : "Bidang Instance",
+    "FR" : "Champ d'instance",
+    "JA" : "インスタンスフィールド",
+    "RU" : "Поле экземпляра",
+    "DE" : "Instanzfeld",
+    "KO" : "인스턴스 필드",
+    "IT" : "Campo istanza"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "instance-method-title",
+  "data" : {
+    "EN" : "Instance Method",
+    "ZH_HANS" : "实例方法",
+    "ZH_HANT" : "實例方法",
+    "ES" : "Método de instancia",
+    "AR" : "طريقة المثيل",
+    "PT" : "Método de Instância",
+    "ID" : "Metode Instance",
+    "FR" : "Méthode d'instance",
+    "JA" : "インスタンスメソッド",
+    "RU" : "Метод экземпляра",
+    "DE" : "Instanzmethode",
+    "KO" : "인스턴스 메소드",
+    "IT" : "Metodo di istanza"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "instance-constructor-title",
+  "data" : {
+    "EN" : "Instance Constructor",
+    "ZH_HANS" : "实例构造器",
+    "ZH_HANT" : "實例構造器",
+    "ES" : "Constructor de instancias",
+    "AR" : "منشئ المثيل",
+    "PT" : "Construtor de instância",
+    "ID" : "Konstruktor Instance",
+    "FR" : "Constructeur d'instances",
+    "JA" : "インスタンスコンストラクタ",
+    "RU" : "Конструктор экземпляров",
+    "DE" : "Instanzkonstruktor",
+    "KO" : "인스턴스 생성자",
+    "IT" : "Costruttore di istanze"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-NPE-title",
+  "data" : {
+    "EN" : "Java NullPointerException",
+    "ZH_HANS" : "Java的空指针异常",
+    "ZH_HANT" : "Java的空指針異常",
+    "ES" : "Java NullPointerException",
+    "AR" : "جافا NullPointerException",
+    "PT" : "Java NullPointerException",
+    "ID" : "Java NullPointerException",
+    "FR" : "Java NullPointerException",
+    "JA" : "Java NullPointerException",
+    "RU" : "Java NullPointerException",
+    "DE" : "Java NullPointerException",
+    "KO" : "자바 NullPointerException",
+    "IT" : "Java NullPointerException"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-reference-and-value-title",
+  "data" : {
+    "EN" : "Java Reference and Value",
+    "ZH_HANS" : "Java的引用与值",
+    "ZH_HANT" : "Java的引用與值",
+    "ES" : "Referencia y valor de Java",
+    "AR" : "مرجع وقيمة Java",
+    "PT" : "Referência e valor de Java",
+    "ID" : "Referensi dan Nilai Java",
+    "FR" : "Référence et valeur Java",
+    "JA" : "Javaのリファレンスと値",
+    "RU" : "Справочник и значение Java",
+    "DE" : "Java-Referenz und Wert",
+    "KO" : "Java 참조 및 값",
+    "IT" : "Riferimento e valore Java"
+  },
+  "format" : "TEXT"
 } ]
