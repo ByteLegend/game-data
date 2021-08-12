@@ -1420,4 +1420,130 @@
     "IT" : "Conversione e promozione del tipo"
   },
   "format" : "TEXT"
+}, {
+  "id" : "java-basic-operator-title",
+  "data" : {
+    "EN" : "Basic Operator",
+    "ZH_HANS" : "基本运算符",
+    "ZH_HANT" : "基本運算符",
+    "ES" : "Operador básico",
+    "AR" : "المشغل الأساسي",
+    "PT" : "Operador Básico",
+    "ID" : "Operator Dasar",
+    "FR" : "Opérateur de base",
+    "JA" : "基本的な演算子",
+    "RU" : "Базовый оператор",
+    "DE" : "Basisoperator",
+    "KO" : "기본 연산자",
+    "IT" : "Operatore di base"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-bit-operator-title",
+  "data" : {
+    "EN" : "Basic Operator",
+    "ZH_HANS" : "位运算符",
+    "ZH_HANT" : "位運算符",
+    "ES" : "Operador básico",
+    "AR" : "المشغل الأساسي",
+    "PT" : "Operador Básico",
+    "ID" : "Operator Dasar",
+    "FR" : "Opérateur de base",
+    "JA" : "基本的な演算子",
+    "RU" : "Базовый оператор",
+    "DE" : "Basisoperator",
+    "KO" : "기본 연산자",
+    "IT" : "Operatore di base"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-increment-decrement-operator-title",
+  "data" : {
+    "EN" : "Increment/Decrement Operator",
+    "ZH_HANS" : "自增/自减运算符",
+    "ZH_HANT" : "自增/自減運算符",
+    "ES" : "Operador de incremento / decremento",
+    "AR" : "عامل زيادة / إنقاص",
+    "PT" : "Operador de incremento / decremento",
+    "ID" : "Operator Kenaikan/Penurunan",
+    "FR" : "Opérateur d'incrémentation/décrémentation",
+    "JA" : "インクリメント/デクリメント演算子",
+    "RU" : "Оператор увеличения / уменьшения",
+    "DE" : "Inkrement/Dekrement-Operator",
+    "KO" : "증가/감소 연산자",
+    "IT" : "Operatore di incremento/decremento"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-comparison-operator-title",
+  "data" : {
+    "EN" : "Comparison Operator",
+    "ZH_HANS" : "比较运算符",
+    "ZH_HANT" : "比較運算符",
+    "ES" : "Operador de comparación",
+    "AR" : "عامل المقارنة",
+    "PT" : "Operador de comparação",
+    "ID" : "Operator Perbandingan",
+    "FR" : "Opérateur de comparaison",
+    "JA" : "比較演算子",
+    "RU" : "Оператор сравнения",
+    "DE" : "Vergleichsoperator",
+    "KO" : "비교 연산자",
+    "IT" : "Operatore di confronto"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-operator-precedence-title",
+  "data" : {
+    "EN" : "Operator Precedence",
+    "ZH_HANS" : "运算符优先级",
+    "ZH_HANT" : "運算符優先級",
+    "ES" : "Prioridad del operador",
+    "AR" : "أسبقية المشغل",
+    "PT" : "operador precedente",
+    "ID" : "Prioritas Operator",
+    "FR" : "Priorité de l'opérateur",
+    "JA" : "演算子の優先順位",
+    "RU" : "Приоритет оператора",
+    "DE" : "Operator-Priorität",
+    "KO" : "연산자 우선 순위",
+    "IT" : "Precedenza dell'operatore"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-string-add-title",
+  "data" : {
+    "EN" : "String Add",
+    "ZH_HANS" : "字符串加法",
+    "ZH_HANT" : "字符串加法",
+    "ES" : "Agregar cadena",
+    "AR" : "إضافة سلسلة",
+    "PT" : "String Add",
+    "ID" : "String Tambahkan",
+    "FR" : "Ajouter une chaîne",
+    "JA" : "文字列追加",
+    "RU" : "Строка Добавить",
+    "DE" : "Zeichenfolge hinzufügen",
+    "KO" : "문자열 추가",
+    "IT" : "Aggiungi stringa"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-tenary-operator-title",
+  "data" : {
+    "EN" : "Tenary Operator",
+    "ZH_HANS" : "三元运算符",
+    "ZH_HANT" : "三元運算符",
+    "ES" : "Operador Tenario",
+    "AR" : "مشغل تيناري",
+    "PT" : "Operador Tenário",
+    "ID" : "Operator Tenary",
+    "FR" : "Opérateur Tenary",
+    "JA" : "テナリーオペレーター",
+    "RU" : "Тенарный оператор",
+    "DE" : "Tenary-Operator",
+    "KO" : "테너리 연산자",
+    "IT" : "Operatore Tenary"
+  },
+  "format" : "TEXT"
 } ]

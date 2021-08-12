@@ -361,3 +361,31 @@
   data:
     EN: Type Conversion and Promotion
     ZH_HANS: 类型转换与提升
+- id: java-basic-operator-title
+  data:
+    EN: Basic Operator
+    ZH_HANS: 基本运算符
+- id: java-bit-operator-title
+  data:
+    EN: Basic Operator
+    ZH_HANS: 位运算符
+- id: java-increment-decrement-operator-title
+  data:
+    EN: Increment/Decrement Operator
+    ZH_HANS: 自增/自减运算符
+- id: java-comparison-operator-title
+  data:
+    EN: Comparison Operator
+    ZH_HANS: 比较运算符
+- id: java-operator-precedence-title
+  data:
+    EN: Operator Precedence
+    ZH_HANS: 运算符优先级
+- id: java-string-add-title
+  data:
+    EN: String Add
+    ZH_HANS: 字符串加法
+- id: java-tenary-operator-title
+  data:
+    EN: Tenary Operator
+    ZH_HANS: 三元运算符
