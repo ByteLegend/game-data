@@ -1330,4 +1330,94 @@
     "IT" : "Riferimento e valore Java"
   },
   "format" : "TEXT"
+}, {
+  "id" : "auto-box-unbox-title",
+  "data" : {
+    "EN" : "Autoboxing and Unboxing",
+    "ZH_HANS" : "自动装箱与拆箱",
+    "ZH_HANT" : "自動裝箱與拆箱",
+    "ES" : "Autoboxing y Unboxing",
+    "AR" : "Autoboxing و Unboxing",
+    "PT" : "Autoboxing e Unboxing",
+    "ID" : "Autoboxing dan Unboxing",
+    "FR" : "Autoboxing et Unboxing",
+    "JA" : "オートボクシングとアンボクシング",
+    "RU" : "Автобокс и распаковка",
+    "DE" : "Autoboxing und Unboxing",
+    "KO" : "오토박싱 및 언박싱",
+    "IT" : "Autoboxing e Unboxing"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "data-representation-in-computer-title",
+  "data" : {
+    "EN" : "Data Presentation in Computer",
+    "ZH_HANS" : "数据在计算机中的表示",
+    "ZH_HANT" : "數據在計算機中的表示",
+    "ES" : "Presentación de datos en computadora",
+    "AR" : "عرض البيانات في الحاسب الآلي",
+    "PT" : "Apresentação de dados no computador",
+    "ID" : "Penyajian Data di Komputer",
+    "FR" : "Présentation des données dans l'ordinateur",
+    "JA" : "コンピュータでのデータ表示",
+    "RU" : "Представление данных на компьютере",
+    "DE" : "Datenpräsentation im Computer",
+    "KO" : "컴퓨터에서 데이터 프레젠테이션",
+    "IT" : "Presentazione dei dati nel computer"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-array-title",
+  "data" : {
+    "EN" : "Java Array",
+    "ZH_HANS" : "Java的数组",
+    "ZH_HANT" : "Java的數組",
+    "ES" : "Matriz de Java",
+    "AR" : "صفيف جافا",
+    "PT" : "Array Java",
+    "ID" : "Array Jawa",
+    "FR" : "Tableau Java",
+    "JA" : "Java配列",
+    "RU" : "Массив Java",
+    "DE" : "Java-Array",
+    "KO" : "자바 배열",
+    "IT" : "Array Java"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "primitive-data-type-title",
+  "data" : {
+    "EN" : "Primitive Data Type",
+    "ZH_HANS" : "原生数据类型",
+    "ZH_HANT" : "原生數據類型",
+    "ES" : "Tipo de datos primitivo",
+    "AR" : "نوع البيانات البدائية",
+    "PT" : "Tipo de dados primitivos",
+    "ID" : "Tipe Data Primitif",
+    "FR" : "Type de données primitif",
+    "JA" : "プリミティブデータ型",
+    "RU" : "Примитивный тип данных",
+    "DE" : "Primitiver Datentyp",
+    "KO" : "기본 데이터 유형",
+    "IT" : "Tipo di dati primitivo"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "type-conversion-promotion-title",
+  "data" : {
+    "EN" : "Type Conversion and Promotion",
+    "ZH_HANS" : "类型转换与提升",
+    "ZH_HANT" : "類型轉換與提升",
+    "ES" : "Tipo de conversión y promoción",
+    "AR" : "اكتب التحويل والترويج",
+    "PT" : "Conversão de tipo e promoção",
+    "ID" : "Konversi Jenis dan Promosi",
+    "FR" : "Conversion de type et promotion",
+    "JA" : "型変換とプロモーション",
+    "RU" : "Преобразование типов и продвижение",
+    "DE" : "Typumwandlung und Werbung",
+    "KO" : "유형 전환 및 판촉",
+    "IT" : "Conversione e promozione del tipo"
+  },
+  "format" : "TEXT"
 } ]
