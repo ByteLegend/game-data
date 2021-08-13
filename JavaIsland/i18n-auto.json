@@ -1708,4 +1708,346 @@
     "IT" : "All'isola degli algoritmi"
   },
   "format" : "TEXT"
+}, {
+  "id" : "java-upcast-downcast-title",
+  "data" : {
+    "EN" : "Upcasting & Downcasting",
+    "ZH_HANS" : "向上/向下转型",
+    "ZH_HANT" : "向上/向下轉型",
+    "ES" : "Upcasting y Downcasting",
+    "AR" : "Upcasting & Downcasting",
+    "PT" : "Upcasting e Downcasting",
+    "ID" : "Upcasting & Downcasting",
+    "FR" : "Upcasting & Downcasting",
+    "JA" : "アップキャスティングとダウンキャスティング",
+    "RU" : "Повышающее и понижающее преобразование",
+    "DE" : "Upcasting & Downcasting",
+    "KO" : "업캐스팅 및 다운캐스팅",
+    "IT" : "Upcasting e downcasting"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-template-pattern-title",
+  "data" : {
+    "EN" : "Template Pattern",
+    "ZH_HANS" : "模板模式",
+    "ZH_HANT" : "模版模式",
+    "ES" : "Patrón de plantilla",
+    "AR" : "نمط القالب",
+    "PT" : "Padrão de modelo",
+    "ID" : "Pola Template",
+    "FR" : "Modèle de modèle",
+    "JA" : "テンプレートパターン",
+    "RU" : "Шаблон шаблона",
+    "DE" : "Vorlagenmuster",
+    "KO" : "템플릿 패턴",
+    "IT" : "Modello modello"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-strategy-pattern-title",
+  "data" : {
+    "EN" : "Strategy Pattern",
+    "ZH_HANS" : "策略模式",
+    "ZH_HANT" : "策略模式",
+    "ES" : "Patrón de estrategia",
+    "AR" : "نمط الإستراتيجية",
+    "PT" : "Padrão de Estratégia",
+    "ID" : "Pola Strategi",
+    "FR" : "Modèle de stratégie",
+    "JA" : "戦略パターン",
+    "RU" : "Шаблон стратегии",
+    "DE" : "Strategiemuster",
+    "KO" : "전략 패턴",
+    "IT" : "Modello di strategia"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-singleton-pattern-title",
+  "data" : {
+    "EN" : "Singleton Pattern",
+    "ZH_HANS" : "单例模式",
+    "ZH_HANT" : "單例模式",
+    "ES" : "Patrón Singleton",
+    "AR" : "نمط سينجلتون",
+    "PT" : "Padrão Singleton",
+    "ID" : "Pola Tunggal",
+    "FR" : "Modèle Singleton",
+    "JA" : "シングルトンパターン",
+    "RU" : "Шаблон Singleton",
+    "DE" : "Singleton-Muster",
+    "KO" : "싱글톤 패턴",
+    "IT" : "Modello singolo"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-polymorphism-in-action-title",
+  "data" : {
+    "EN" : "Polymorphism in Action",
+    "ZH_HANS" : "多态实战",
+    "ZH_HANT" : "多態實戰",
+    "ES" : "Polimorfismo en acción",
+    "AR" : "تعدد الأشكال في العمل",
+    "PT" : "Polimorfismo em ação",
+    "ID" : "Polimorfisme dalam Aksi",
+    "FR" : "Le polymorphisme en action",
+    "JA" : "動作中のポリモーフィズム",
+    "RU" : "Полиморфизм в действии",
+    "DE" : "Polymorphismus in Aktion",
+    "KO" : "작동 중인 다형성",
+    "IT" : "Polimorfismo in azione"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-platform-module-system-title",
+  "data" : {
+    "EN" : "Java Platform Module System",
+    "ZH_HANS" : "Java模块化系统",
+    "ZH_HANT" : "Java模塊化系統",
+    "ES" : "Sistema de módulo de plataforma Java",
+    "AR" : "نظام وحدة منصة جافا",
+    "PT" : "Sistema de Módulo da Plataforma Java",
+    "ID" : "Sistem Modul Platform Java",
+    "FR" : "Système de module de plate-forme Java",
+    "JA" : "Javaプラットフォームモジュールシステム",
+    "RU" : "Модульная система платформы Java",
+    "DE" : "Java-Plattform-Modulsystem",
+    "KO" : "자바 플랫폼 모듈 시스템",
+    "IT" : "Sistema di moduli della piattaforma Java"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-object-hierachy-title",
+  "data" : {
+    "EN" : "Object Hierachy",
+    "ZH_HANS" : "Object继承体系",
+    "ZH_HANT" : "Object繼承體系",
+    "ES" : "Jerarquía de objetos",
+    "AR" : "كائن Hierachy",
+    "PT" : "Hierarquia do objeto",
+    "ID" : "Hirarki Objek",
+    "FR" : "Hiérarchie des objets",
+    "JA" : "オブジェクト階層",
+    "RU" : "Объект Иерахи",
+    "DE" : "Objekthierarchie",
+    "KO" : "개체 계층",
+    "IT" : "Gerarchia degli oggetti"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-method-override-title",
+  "data" : {
+    "EN" : "Method Override",
+    "ZH_HANS" : "方法的覆盖",
+    "ZH_HANT" : "方法的覆蓋",
+    "ES" : "Anulación de método",
+    "AR" : "تجاوز الطريقة",
+    "PT" : "Substituição de método",
+    "ID" : "Penggantian Metode",
+    "FR" : "Remplacement de méthode",
+    "JA" : "メソッドのオーバーライド",
+    "RU" : "Переопределение метода",
+    "DE" : "Methodenüberschreibung",
+    "KO" : "메서드 재정의",
+    "IT" : "Sostituzione del metodo"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-inheritance-title",
+  "data" : {
+    "EN" : "Inheritance",
+    "ZH_HANS" : "继承",
+    "ZH_HANT" : "繼承",
+    "ES" : "Herencia",
+    "AR" : "ميراث",
+    "PT" : "Herança",
+    "ID" : "Warisan",
+    "FR" : "Héritage",
+    "JA" : "継承",
+    "RU" : "Наследование",
+    "DE" : "Nachlass",
+    "KO" : "계승",
+    "IT" : "Eredità"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-importance-of-encapsulation-title",
+  "data" : {
+    "EN" : "Imporance of Encapsulation",
+    "ZH_HANS" : "封装的必要性",
+    "ZH_HANT" : "封裝的必要性",
+    "ES" : "Imporancia de la encapsulación",
+    "AR" : "أهمية التغليف",
+    "PT" : "Importância do encapsulamento",
+    "ID" : "Pentingnya Enkapsulasi",
+    "FR" : "Importance de l'encapsulation",
+    "JA" : "カプセル化の重要性",
+    "RU" : "Отсутствие инкапсуляции",
+    "DE" : "Bedeutung der Kapselung",
+    "KO" : "캡슐화의 중요성",
+    "IT" : "L'importanza dell'incapsulamento"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-access-control-title",
+  "data" : {
+    "EN" : "Java Access Control",
+    "ZH_HANS" : "Java的访问控制",
+    "ZH_HANT" : "Java的訪問控制",
+    "ES" : "Control de acceso de Java",
+    "AR" : "التحكم في الوصول إلى Java",
+    "PT" : "Controle de acesso Java",
+    "ID" : "Kontrol Akses Java",
+    "FR" : "Contrôle d'accès Java",
+    "JA" : "Javaアクセス制御",
+    "RU" : "Контроль доступа Java",
+    "DE" : "Java-Zugriffskontrolle",
+    "KO" : "자바 액세스 제어",
+    "IT" : "Controllo di accesso Java"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-bean-convention-title",
+  "data" : {
+    "EN" : "Java Bean Convention",
+    "ZH_HANS" : "Java Bean约定",
+    "ZH_HANT" : "Java Bean約定",
+    "ES" : "Convención de Java Bean",
+    "AR" : "اتفاقية جافا بين",
+    "PT" : "Convenção Java Bean",
+    "ID" : "Konvensi Kacang Jawa",
+    "FR" : "Convention sur le haricot Java",
+    "JA" : "JavaBeanコンベンション",
+    "RU" : "Конвенция Java Bean",
+    "DE" : "Java-Bean-Konvention",
+    "KO" : "자바 빈 규칙",
+    "IT" : "Convenzione Java Bean"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-method-field-modifier-title",
+  "data" : {
+    "EN" : "Method & Field Modifier",
+    "ZH_HANS" : "方法和字段访问控制符",
+    "ZH_HANT" : "方法和字段訪問控制符",
+    "ES" : "Modificador de método y campo",
+    "AR" : "الطريقة ومعدل المجال",
+    "PT" : "Método e modificador de campo",
+    "ID" : "Metode & Pengubah Bidang",
+    "FR" : "Modificateur de méthode et de champ",
+    "JA" : "メソッドとフィールド修飾子",
+    "RU" : "Метод и модификатор поля",
+    "DE" : "Methoden- und Feldmodifikator",
+    "KO" : "방법 및 필드 수정자",
+    "IT" : "Metodo e modificatore di campo"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-builder-pattern-title",
+  "data" : {
+    "EN" : "Builder Pattern",
+    "ZH_HANS" : "Builder模式",
+    "ZH_HANT" : "Builder模式",
+    "ES" : "Patrón de constructor",
+    "AR" : "نمط البناء",
+    "PT" : "Padrão de Construtor",
+    "ID" : "Pola Pembangun",
+    "FR" : "Modèle de constructeur",
+    "JA" : "ビルダーパターン",
+    "RU" : "Шаблон Строителя",
+    "DE" : "Builder-Muster",
+    "KO" : "빌더 패턴",
+    "IT" : "Modello costruttore"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "initialization-order-title",
+  "data" : {
+    "EN" : "Initialization Order in Hierarchy",
+    "ZH_HANS" : "类继承体系的初始化顺序",
+    "ZH_HANT" : "類繼承體系的初始化順序",
+    "ES" : "Orden de inicialización en jerarquía",
+    "AR" : "ترتيب التهيئة في التسلسل الهرمي",
+    "PT" : "Ordem de inicialização na hierarquia",
+    "ID" : "Urutan Inisialisasi dalam Hirarki",
+    "FR" : "Ordre d'initialisation dans la hiérarchie",
+    "JA" : "階層内の初期化順序",
+    "RU" : "Порядок инициализации в иерархии",
+    "DE" : "Initialisierungsreihenfolge in der Hierarchie",
+    "KO" : "계층의 초기화 순서",
+    "IT" : "Ordine di inizializzazione in gerarchia"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-final-title",
+  "data" : {
+    "EN" : "final Keyword",
+    "ZH_HANS" : "final关键字",
+    "ZH_HANT" : "final關鍵字",
+    "ES" : "palabra clave final",
+    "AR" : "الكلمة النهائية",
+    "PT" : "palavra-chave final",
+    "ID" : "Kata Kunci terakhir",
+    "FR" : "mot-clé final",
+    "JA" : "最終キーワード",
+    "RU" : "последнее ключевое слово",
+    "DE" : "letztes Keyword",
+    "KO" : "최종 키워드",
+    "IT" : "parola chiave finale"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-composition-vs-inheritance-title",
+  "data" : {
+    "EN" : "Composition vs Inheritance",
+    "ZH_HANS" : "组合vs继承",
+    "ZH_HANT" : "組合vs繼承",
+    "ES" : "Composición vs herencia",
+    "AR" : "التكوين مقابل الميراث",
+    "PT" : "Composição vs. Herança",
+    "ID" : "Komposisi vs Warisan",
+    "FR" : "Composition vs héritage",
+    "JA" : "構成と継承",
+    "RU" : "Состав против наследования",
+    "DE" : "Zusammensetzung vs. Vererbung",
+    "KO" : "구성 대 상속",
+    "IT" : "Composizione vs eredità"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-dynamic-method-dispatch-title",
+  "data" : {
+    "EN" : "Dynamic Method Dispatch",
+    "ZH_HANS" : "动态方法分派",
+    "ZH_HANT" : "動態方法分派",
+    "ES" : "Envío de método dinámico",
+    "AR" : "طريقة ديناميكية الإرسال",
+    "PT" : "Despacho de Método Dinâmico",
+    "ID" : "Pengiriman Metode Dinamis",
+    "FR" : "Envoi de méthode dynamique",
+    "JA" : "動的メソッドディスパッチ",
+    "RU" : "Отправка динамического метода",
+    "DE" : "Dynamischer Methodenversand",
+    "KO" : "동적 메소드 디스패치",
+    "IT" : "Invio metodo dinamico"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-factory-pattern-title",
+  "data" : {
+    "EN" : "Factory Method Pattern",
+    "ZH_HANS" : "工厂方法模式",
+    "ZH_HANT" : "工廠方法模式",
+    "ES" : "Patrón de método de fábrica",
+    "AR" : "نمط أسلوب المصنع",
+    "PT" : "Padrão de Método de Fábrica",
+    "ID" : "Pola Metode Pabrik",
+    "FR" : "Modèle de méthode d'usine",
+    "JA" : "ファクトリメソッドパターン",
+    "RU" : "Шаблон заводского метода",
+    "DE" : "Fabrikmethodenmuster",
+    "KO" : "팩토리 메소드 패턴",
+    "IT" : "Modello metodo di fabbrica"
+  },
+  "format" : "TEXT"
 } ]
