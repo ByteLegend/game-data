@@ -11,6 +11,9 @@
   - id: JavaIslandDebuggerDungeon
     frames: 1
     roadmap: false
+  - id: JavaIslandMavenDungeon
+    frames: 1
+    roadmap: false
 - id: GitIsland
   frames: 2
 - id: KotlinIsland
