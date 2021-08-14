@@ -1870,4 +1870,94 @@
     "IT" : "Dungeon: <span class='notranslate'>Spring Framework</span>"
   },
   "format" : "HTML"
+}, {
+  "id" : "WebIsland",
+  "data" : {
+    "EN" : "Web Island",
+    "ZH_HANS" : "Web岛",
+    "ZH_HANT" : "Web島",
+    "ES" : "Isla Web",
+    "AR" : "جزيرة الويب",
+    "PT" : "Ilha da Web",
+    "ID" : "Pulau Web",
+    "FR" : "Île du Web",
+    "JA" : "ウェブアイランド",
+    "RU" : "Веб-остров",
+    "DE" : "Webinsel",
+    "KO" : "웹 아일랜드",
+    "IT" : "Isola del web"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "DatabaseIsland",
+  "data" : {
+    "EN" : "Database Island",
+    "ZH_HANS" : "数据库岛",
+    "ZH_HANT" : "數據庫島",
+    "ES" : "Isla de base de datos",
+    "AR" : "جزيرة قاعدة البيانات",
+    "PT" : "Ilha do Banco de Dados",
+    "ID" : "Pulau Basis Data",
+    "FR" : "Île de la base de données",
+    "JA" : "データベースアイランド",
+    "RU" : "Остров базы данных",
+    "DE" : "Datenbank Insel",
+    "KO" : "데이터베이스 섬",
+    "IT" : "Isola del database"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "ShellIsland",
+  "data" : {
+    "EN" : "Shell Island",
+    "ZH_HANS" : "贝壳岛",
+    "ZH_HANT" : "貝殼島",
+    "ES" : "Isla Shell",
+    "AR" : "جزيرة شل",
+    "PT" : "Ilha Shell",
+    "ID" : "Pulau Kerang",
+    "FR" : "Île aux coquillages",
+    "JA" : "シェルアイランド",
+    "RU" : "Shell Island",
+    "DE" : "Muschelinsel",
+    "KO" : "쉘 아일랜드",
+    "IT" : "Isola delle Conchiglie"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "DataStructureIsland",
+  "data" : {
+    "EN" : "Data Structure Island",
+    "ZH_HANS" : "数据结构岛",
+    "ZH_HANT" : "數據結構島",
+    "ES" : "Isla de estructura de datos",
+    "AR" : "جزيرة بنية البيانات",
+    "PT" : "Ilha de Estrutura de Dados",
+    "ID" : "Pulau Struktur Data",
+    "FR" : "Île de structure de données",
+    "JA" : "データ構造アイランド",
+    "RU" : "Остров структуры данных",
+    "DE" : "Datenstruktur Insel",
+    "KO" : "데이터 구조 아일랜드",
+    "IT" : "Isola struttura dati"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "AlgorithmIsland",
+  "data" : {
+    "EN" : "Algorithm Island",
+    "ZH_HANS" : "算法岛",
+    "ZH_HANT" : "算法島",
+    "ES" : "Isla de algoritmos",
+    "AR" : "جزيرة الخوارزمية",
+    "PT" : "Ilha de Algoritmo",
+    "ID" : "Pulau Algoritma",
+    "FR" : "Île de l'algorithme",
+    "JA" : "アルゴリズムアイランド",
+    "RU" : "Остров Алгоритма",
+    "DE" : "Algorithmus Insel",
+    "KO" : "알고리즘 아일랜드",
+    "IT" : "Isola degli algoritmi"
+  },
+  "format" : "TEXT"
 } ]

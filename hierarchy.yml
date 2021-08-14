@@ -14,6 +14,19 @@
   - id: JavaIslandMavenDungeon
     frames: 1
     roadmap: false
+  - id: JavaIslandSpringDungeon
+    frames: 1
+    roadmap: false
+- id: ShellIsland
+  frames: 2
+- id: WebIsland
+  frames: 2
+- id: DatabaseIsland
+  frames: 2
+- id: AlgorithmIsland
+  frames: 2
+- id: DataStructureIsland
+  frames: 2
 - id: GitIsland
   frames: 2
 - id: KotlinIsland

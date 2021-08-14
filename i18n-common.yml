@@ -512,4 +512,24 @@
   data:
     EN: "Dungeon: <span class='notranslate'>Spring Framework<span>"
     ZH_HANS: "地下城：Spring框架"
+- id: WebIsland
+  data:
+    EN: Web Island
+    ZH_HANS: Web岛
+- id: DatabaseIsland
+  data:
+    EN: Database Island
+    ZH_HANS: 数据库岛
+- id: ShellIsland
+  data:
+    EN: Shell Island
+    ZH_HANS: 贝壳岛
+- id: DataStructureIsland
+  data:
+    EN: Data Structure Island
+    ZH_HANS: 数据结构岛
+- id: AlgorithmIsland
+  data:
+    EN: Algorithm Island
+    ZH_HANS: 算法岛
 
