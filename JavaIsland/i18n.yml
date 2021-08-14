@@ -443,10 +443,6 @@
   data:
     EN: Singleton Pattern
     ZH_HANS: 单例模式
-- id: java-polymorphism-in-action-title
-  data:
-    EN: Polymorphism in Action
-    ZH_HANS: 多态实战
 - id: java-platform-module-system-title
   data:
     EN: Java Platform Module System
@@ -467,26 +463,18 @@
   data:
     EN: Imporance of Encapsulation
     ZH_HANS: 封装的必要性
-- id: "java-access-control-title"
-  data:
-    EN: Java Access Control
-    ZH_HANS: Java的访问控制
 - id: "java-bean-convention-title"
   data:
     EN: Java Bean Convention
     ZH_HANS: Java Bean约定
 - id: "java-method-field-modifier-title"
   data:
-    EN: Method & Field Modifier
+    EN: Method & Field Modifiers
     ZH_HANS: 方法和字段访问控制符
 - id: "java-builder-pattern-title"
   data:
     ZH_HANS: Builder模式
     EN: Builder Pattern
-- id: "initialization-order-title"
-  data:
-    EN: Initialization Order in Hierarchy
-    ZH_HANS: 类继承体系的初始化顺序
 - id: "java-final-title"
   data:
     EN: final Keyword
@@ -503,3 +491,58 @@
   data:
     EN: Factory Method Pattern
     ZH_HANS: 工厂方法模式
+- id: "java-class-modifier-title"
+  data:
+    EN: Class Modifiers
+    ZH_HANS: 类的访问控制符
+- id: "java-interface-and-abstract-class-title"
+  data:
+    EN: Interface and Abstract Class
+    ZH_HANS: 接口与抽象类
+- id: "jep360-sealed-class-title"
+  format: HTML
+  data:
+    EN: "<span class='notranslate'>JEP360: Sealed Classes</span>"
+- id: "java-iterable-title"
+  format: HTML
+  data:
+    EN: "<span class='notranslate'>Iterable</span>"
+- id: "java-abstract-factory-pattern-title"
+  data:
+    EN: Abstract Factory Method Pattern
+    ZH_HANS: 抽象工厂方法模式
+- id: JavaBasicDesginPatternRegionName
+  data:
+    EN: Basic Design Pattern
+    ZH_HANS: 基本设计模式
+- id: "java-enum-title"
+  format: HTML
+  data:
+    EN: "<span class='notranslate'>enum</span>"
+    ZH_HANS: 枚举(enum)
+- id: "java-set-title"
+  format: HTML
+  data:
+    EN: "Collection Framework: <span class='notranslate'>Set</span>"
+    ZH_HANS: "集合框架: Set"
+    ZH_HANT: "集合框架: Set"
+- id: "java-collection-in-action-title"
+  data:
+    EN: "Collection in Action"
+    ZH_HANS: "Collection实战"
+- id: "java-list-title"
+  format: HTML
+  data:
+    EN: "Collection Framework: <span class='notranslate'>List</span>"
+    ZH_HANS: "集合框架: List"
+    ZH_HANT: "集合框架: List"
+- id: "java-map-title"
+  format: HTML
+  data:
+    EN: "Collection Framework: <span class='notranslate'>Map</span>"
+    ZH_HANS: "集合框架: Map"
+    ZH_HANT: "集合框架: Map"
+- id: "java-collection-hierarchy-title"
+  data:
+    EN: Collection Hierarchy
+    ZH_HANS: 集合类继承体系
