@@ -82,23 +82,23 @@
 - id: star-bytelegend-title
   format: HTML
   data:
-    EN: First star
+    EN: First Star
     ZH_HANS: 第一颗星
 - id: remember-brave-people-title
   data:
-    EN: Learn GitHub pull request
-    ZH_HANS: 学习GitHub pull request
+    EN: Learn GitHub Pull Request
+    ZH_HANS: 学习GitHub Pull Request
 - id: clone-and-run-java-project-title
   data:
-    EN: Clone & run Java program
+    EN: Clone & Run Java Program
     ZH_HANS: Clone并运行Java程序
 - id: clone-and-switch-branch-title
   data:
-    EN: Switching branch & run
+    EN: Switching Branch & Run
     ZH_HANS: 切换分支并运行
 - id: fix-simple-add-title
   data:
-    EN: Fix bug by PR
+    EN: Fix Bug by PR
     ZH_HANS: 使用PR修复bug
 - id: JavaBasicStructure-title
   data:
@@ -106,11 +106,11 @@
     ZH_HANS: Java的基本结构：类与包
 - id: create-a-new-class-in-package-title
   data:
-    EN: New class in specific package
+    EN: New Class in Specific Package
     ZH_HANS: 在指定的包中创建一个类
 - id: import-class-in-other-package-title
   data:
-    EN: Import class from another package
+    EN: Import Class from Another Package
     ZH_HANS: 导入其他包的类
 - id: import-third-party-package-title
   data:

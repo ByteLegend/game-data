@@ -235,71 +235,71 @@
 }, {
   "id" : "star-bytelegend-title",
   "data" : {
-    "EN" : "First star",
+    "EN" : "First Star",
     "ZH_HANS" : "第一颗星",
     "ZH_HANT" : "第一顆星",
     "ES" : "Primera estrella",
-    "AR" : "النجمة الأولى",
+    "AR" : "النجم الأول",
     "PT" : "Primeira estrela",
-    "ID" : "Bintang pertama",
+    "ID" : "Bintang Pertama",
     "FR" : "Première étoile",
-    "JA" : "最初の星",
+    "JA" : "ファーストスター",
     "RU" : "Первая звезда",
     "DE" : "Erster Stern",
-    "KO" : "첫 번째 별",
-    "IT" : "Prima stella"
+    "KO" : "퍼스트 스타",
+    "IT" : "prima stella"
   },
   "format" : "HTML"
 }, {
   "id" : "remember-brave-people-title",
   "data" : {
-    "EN" : "Learn GitHub pull request",
-    "ZH_HANS" : "学习GitHub pull request",
-    "ZH_HANT" : "學習GitHub pull request",
+    "EN" : "Learn GitHub Pull Request",
+    "ZH_HANS" : "学习GitHub Pull Request",
+    "ZH_HANT" : "學習GitHub Pull Request",
     "ES" : "Solicitud de extracción de Learn GitHub",
     "AR" : "تعلم طلب سحب GitHub",
-    "PT" : "Aprenda GitHub pull request",
-    "ID" : "Pelajari permintaan tarik GitHub",
+    "PT" : "Aprenda GitHub Pull Request",
+    "ID" : "Pelajari Permintaan Tarik GitHub",
     "FR" : "Apprendre la demande d'extraction GitHub",
     "JA" : "GitHubプルリクエストを学ぶ",
-    "RU" : "Изучите запрос на вытягивание GitHub",
-    "DE" : "Lernen Sie GitHub-Pull-Request",
-    "KO" : "GitHub pull 요청 알아보기",
-    "IT" : "Scopri la richiesta pull di GitHub"
+    "RU" : "Изучите GitHub Pull Request",
+    "DE" : "Lernen Sie GitHub-Pull-Anfrage",
+    "KO" : "GitHub 풀 요청 알아보기",
+    "IT" : "Impara la richiesta pull di GitHub"
   },
   "format" : "TEXT"
 }, {
   "id" : "clone-and-run-java-project-title",
   "data" : {
-    "EN" : "Clone & run Java program",
+    "EN" : "Clone & Run Java Program",
     "ZH_HANS" : "Clone并运行Java程序",
     "ZH_HANT" : "Clone並運行Java程序",
-    "ES" : "Clonar y ejecutar un programa Java",
+    "ES" : "Clonar y ejecutar programa Java",
     "AR" : "استنساخ وتشغيل برنامج Java",
-    "PT" : "Clone e execute o programa Java",
-    "ID" : "Mengkloning & menjalankan program Java",
+    "PT" : "Clonar e executar o programa Java",
+    "ID" : "Klon & Jalankan Program Java",
     "FR" : "Cloner et exécuter le programme Java",
-    "JA" : "Javaプログラムのクローンを作成して実行する",
+    "JA" : "Javaプログラムのクローンと実行",
     "RU" : "Клонировать и запускать программу Java",
     "DE" : "Java-Programm klonen und ausführen",
     "KO" : "Java 프로그램 복제 및 실행",
-    "IT" : "Clona ed esegui il programma Java"
+    "IT" : "Clona ed esegui programma Java"
   },
   "format" : "TEXT"
 }, {
   "id" : "clone-and-switch-branch-title",
   "data" : {
-    "EN" : "Switching branch & run",
+    "EN" : "Switching Branch & Run",
     "ZH_HANS" : "切换分支并运行",
     "ZH_HANT" : "切換分支並運行",
-    "ES" : "Cambiar de rama y ejecutar",
+    "ES" : "Cambio de rama y ejecución",
     "AR" : "فرع التبديل والتشغيل",
-    "PT" : "Trocar branch & run",
-    "ID" : "Beralih cabang & jalankan",
-    "FR" : "Changer de branche et d'exécution",
+    "PT" : "Mudança de filial e execução",
+    "ID" : "Beralih Cabang & Jalankan",
+    "FR" : "Changement de branche et d'exécution",
     "JA" : "ブランチと実行の切り替え",
-    "RU" : "Переключение ветки и запуска",
-    "DE" : "Abzweig & Lauf wechseln",
+    "RU" : "Переключение ветвления и запуска",
+    "DE" : "Branch & Run wechseln",
     "KO" : "분기 및 실행 전환",
     "IT" : "Cambio di ramo e corsa"
   },
@@ -307,19 +307,19 @@
 }, {
   "id" : "fix-simple-add-title",
   "data" : {
-    "EN" : "Fix bug by PR",
+    "EN" : "Fix Bug by PR",
     "ZH_HANS" : "使用PR修复bug",
     "ZH_HANT" : "使用PR修復bug",
     "ES" : "Corregir error por PR",
     "AR" : "إصلاح الخلل عن طريق العلاقات العامة",
     "PT" : "Corrigir bug por PR",
-    "ID" : "Perbaiki bug dengan PR",
+    "ID" : "Perbaiki Bug dengan PR",
     "FR" : "Correction d'un bug par PR",
     "JA" : "PRでバグを修正",
     "RU" : "Исправить ошибку по PR",
     "DE" : "Fehler von PR beheben",
     "KO" : "PR에 의한 버그 수정",
-    "IT" : "Risolto bug di PR"
+    "IT" : "Correggi bug di PR"
   },
   "format" : "TEXT"
 }, {
@@ -343,32 +343,32 @@
 }, {
   "id" : "create-a-new-class-in-package-title",
   "data" : {
-    "EN" : "New class in specific package",
+    "EN" : "New Class in Specific Package",
     "ZH_HANS" : "在指定的包中创建一个类",
     "ZH_HANT" : "在指定的包中創建一個類",
     "ES" : "Nueva clase en paquete específico",
     "AR" : "فئة جديدة في حزمة محددة",
-    "PT" : "Nova aula em pacote específico",
-    "ID" : "Kelas baru dalam paket tertentu",
+    "PT" : "Nova Classe em Pacote Específico",
+    "ID" : "Kelas Baru dalam Paket Tertentu",
     "FR" : "Nouvelle classe dans un package spécifique",
     "JA" : "特定のパッケージの新しいクラス",
     "RU" : "Новый класс в конкретном пакете",
-    "DE" : "Neue Klasse in einem bestimmten Paket",
+    "DE" : "Neue Klasse im spezifischen Paket",
     "KO" : "특정 패키지의 새 클래스",
-    "IT" : "Nuova classe in pacchetto specifico"
+    "IT" : "Nuova classe nel pacchetto specifico"
   },
   "format" : "TEXT"
 }, {
   "id" : "import-class-in-other-package-title",
   "data" : {
-    "EN" : "Import class from another package",
+    "EN" : "Import Class from Another Package",
     "ZH_HANS" : "导入其他包的类",
     "ZH_HANT" : "導入其他包的類",
     "ES" : "Importar clase de otro paquete",
-    "AR" : "فئة الاستيراد من حزمة أخرى",
+    "AR" : "فئة استيراد من حزمة أخرى",
     "PT" : "Importar classe de outro pacote",
-    "ID" : "Impor kelas dari paket lain",
-    "FR" : "Importer la classe d'un autre package",
+    "ID" : "Impor Kelas dari Paket Lain",
+    "FR" : "Importer une classe à partir d'un autre package",
     "JA" : "別のパッケージからクラスをインポートする",
     "RU" : "Импортировать класс из другого пакета",
     "DE" : "Klasse aus einem anderen Paket importieren",

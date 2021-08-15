@@ -484,19 +484,19 @@
     ZH_HANS: 游戏是人类进步的阶梯。
 - id: LearningRoadmap
   data:
-    EN: Learning roadmap
+    EN: Learning Roadmap
     ZH_HANS: 学习路线图
 - id: ShowMissionTitles
   data:
-    EN: Show titles
-    ZH_HANS: 显示标题
+    EN: Show Mission Titles
+    ZH_HANS: 显示任务标题
 - id: DownloadMyRoadmap
   data:
-    EN: Download my roadmap
+    EN: Download My Roadmap
     ZH_HANS: 下载我的路线图
 - id: DontShowThisAgain
   data:
-    EN: Don't show again
+    EN: Don't Show Again
     ZH_HANS: 不再显示
 - id: TryScrollAndDrag
   format: HTML

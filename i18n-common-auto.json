@@ -1747,13 +1747,13 @@
 }, {
   "id" : "LearningRoadmap",
   "data" : {
-    "EN" : "Learning roadmap",
+    "EN" : "Learning Roadmap",
     "ZH_HANS" : "学习路线图",
     "ZH_HANT" : "學習路線圖",
     "ES" : "Hoja de ruta de aprendizaje",
     "AR" : "تعلم خارطة الطريق",
     "PT" : "Roteiro de aprendizagem",
-    "ID" : "Peta jalan pembelajaran",
+    "ID" : "Peta Jalan Pembelajaran",
     "FR" : "Feuille de route d'apprentissage",
     "JA" : "学習ロードマップ",
     "RU" : "Дорожная карта обучения",
@@ -1765,35 +1765,35 @@
 }, {
   "id" : "ShowMissionTitles",
   "data" : {
-    "EN" : "Show titles",
-    "ZH_HANS" : "显示标题",
-    "ZH_HANT" : "顯示標題",
-    "ES" : "Mostrar títulos",
-    "AR" : "إظهار العناوين",
-    "PT" : "Mostrar títulos",
-    "ID" : "Tampilkan judul",
-    "FR" : "Afficher les titres",
-    "JA" : "タイトルを表示",
-    "RU" : "Показать заголовки",
-    "DE" : "Titel anzeigen",
-    "KO" : "제목 표시",
-    "IT" : "Mostra titoli"
+    "EN" : "Show Mission Titles",
+    "ZH_HANS" : "显示任务标题",
+    "ZH_HANT" : "顯示任務標題",
+    "ES" : "Mostrar títulos de misión",
+    "AR" : "إظهار عناوين المهمة",
+    "PT" : "Mostrar títulos de missão",
+    "ID" : "Tampilkan Judul Misi",
+    "FR" : "Afficher les titres des missions",
+    "JA" : "ミッションタイトルを表示",
+    "RU" : "Показать названия миссий",
+    "DE" : "Missionstitel anzeigen",
+    "KO" : "임무 제목 표시",
+    "IT" : "Mostra i titoli delle missioni"
   },
   "format" : "TEXT"
 }, {
   "id" : "DownloadMyRoadmap",
   "data" : {
-    "EN" : "Download my roadmap",
+    "EN" : "Download My Roadmap",
     "ZH_HANS" : "下载我的路线图",
     "ZH_HANT" : "下載我的路線圖",
-    "ES" : "Descarga mi hoja de ruta",
-    "AR" : "تنزيل خارطة الطريق الخاصة بي",
+    "ES" : "Descargar mi hoja de ruta",
+    "AR" : "تنزيل My Roadmap",
     "PT" : "Baixe meu roteiro",
-    "ID" : "Unduh peta jalan saya",
+    "ID" : "Unduh Peta Jalan Saya",
     "FR" : "Télécharger ma feuille de route",
-    "JA" : "ロードマップをダウンロードする",
+    "JA" : "私のロードマップをダウンロードする",
     "RU" : "Скачать мою дорожную карту",
-    "DE" : "Laden Sie meine Roadmap herunter",
+    "DE" : "Meine Roadmap herunterladen",
     "KO" : "내 로드맵 다운로드",
     "IT" : "Scarica la mia tabella di marcia"
   },
@@ -1801,19 +1801,19 @@
 }, {
   "id" : "DontShowThisAgain",
   "data" : {
-    "EN" : "Don't show again",
+    "EN" : "Don't Show Again",
     "ZH_HANS" : "不再显示",
     "ZH_HANT" : "不再顯示",
-    "ES" : "No vuelvas a aparecer",
+    "ES" : "No volver a aparecer",
     "AR" : "لا تظهر مرة أخرى",
-    "PT" : "Não mostra de novo",
-    "ID" : "Jangan tampilkan lagi",
+    "PT" : "Não mostrar de novo",
+    "ID" : "Jangan Tampil Lagi",
     "FR" : "Ne plus afficher",
     "JA" : "二度と表示しない",
     "RU" : "Больше не показывать",
     "DE" : "Nicht mehr anzeigen",
     "KO" : "다시 표시하지 않음",
-    "IT" : "Non mostrarti più"
+    "IT" : "Non mostrare più"
   },
   "format" : "TEXT"
 }, {
