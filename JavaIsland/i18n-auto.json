@@ -737,7 +737,7 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "ExceptionHierarchyRegionName",
+  "id" : "JavaExceptionHierarchyRegionName",
   "data" : {
     "EN" : "Exception Hierarchy",
     "ZH_HANS" : "异常体系",
@@ -2210,6 +2210,510 @@
     "DE" : "Sammlungshierarchie",
     "KO" : "컬렉션 계층",
     "IT" : "Gerarchia della raccolta"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "understand-stacktrace-title",
+  "data" : {
+    "EN" : "Understand Stack Trace",
+    "ZH_HANS" : "理解Stack Trace",
+    "ZH_HANT" : "理解Stack Trace",
+    "ES" : "Comprender el seguimiento de pila",
+    "AR" : "فهم تتبع التكديس",
+    "PT" : "Compreender o Stack Trace",
+    "ID" : "Pahami Pelacakan Tumpukan",
+    "FR" : "Comprendre la trace de la pile",
+    "JA" : "スタックトレースを理解する",
+    "RU" : "Понять трассировку стека",
+    "DE" : "Stacktrace verstehen",
+    "KO" : "스택 추적 이해",
+    "IT" : "Comprendere Stack Trace"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "exception-hierarchy-title",
+  "data" : {
+    "EN" : "Exception Hierarchy",
+    "ZH_HANS" : "异常继承体系",
+    "ZH_HANT" : "異常繼承體系",
+    "ES" : "Jerarquía de excepciones",
+    "AR" : "التسلسل الهرمي للاستثناءات",
+    "PT" : "Hierarquia de exceção",
+    "ID" : "Hierarki Pengecualian",
+    "FR" : "Hiérarchie des exceptions",
+    "JA" : "例外階層",
+    "RU" : "Иерархия исключений",
+    "DE" : "Ausnahmehierarchie",
+    "KO" : "예외 계층",
+    "IT" : "Gerarchia delle eccezioni"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "checked-unchecked-exception-title",
+  "data" : {
+    "EN" : "Checked & Unchecked Exception",
+    "ZH_HANS" : "Checked与Unchecked异常",
+    "ZH_HANT" : "Checked與Unchecked異常",
+    "ES" : "Excepción marcada y no marcada",
+    "AR" : "استثناء محدد ولم يتم التحقق منه",
+    "PT" : "Exceção marcada e não verificada",
+    "ID" : "Pengecualian Dicentang & Tidak Dicentang",
+    "FR" : "Exception cochée et non cochée",
+    "JA" : "チェックされた例外とチェックされていない例外",
+    "RU" : "Отмеченное и непроверенное исключение",
+    "DE" : "Geprüfte und ungeprüfte Ausnahme",
+    "KO" : "선택 및 선택되지 않은 예외",
+    "IT" : "Eccezione selezionata e non selezionata"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaIslandToDockerIslandText",
+  "data" : {
+    "EN" : "To Docker Island",
+    "ZH_HANS" : "去往Docker岛",
+    "ZH_HANT" : "去往Docker島",
+    "ES" : "Hacia la isla Docker",
+    "AR" : "إلى جزيرة دوكر",
+    "PT" : "Para Docker Island",
+    "ID" : "Ke Pulau Docker",
+    "FR" : "Vers l'île Docker",
+    "JA" : "ドウケ島へ",
+    "RU" : "На остров Докер",
+    "DE" : "Zur Docker-Insel",
+    "KO" : "도커 아일랜드로",
+    "IT" : "All'isola di Docker"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "old-way-anonymous-class-title",
+  "data" : {
+    "EN" : "Old Anonymous Class",
+    "ZH_HANS" : "传统的匿名类",
+    "ZH_HANT" : "傳統的匿名類",
+    "ES" : "Clase anónima antigua",
+    "AR" : "فئة مجهولة قديمة",
+    "PT" : "Classe Anônima Antiga",
+    "ID" : "Kelas Anonim Lama",
+    "FR" : "Ancienne classe anonyme",
+    "JA" : "古い匿名クラス",
+    "RU" : "Старый анонимный класс",
+    "DE" : "Alte anonyme Klasse",
+    "KO" : "오래된 익명 클래스",
+    "IT" : "Vecchia classe anonima"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-lambda-title",
+  "data" : {
+    "EN" : "Lambda Expression",
+    "ZH_HANS" : "Lambda表达式",
+    "ZH_HANT" : "Lambda表達式",
+    "ES" : "Expresión Lambda",
+    "AR" : "تعبير لامدا",
+    "PT" : "Expressão Lambda",
+    "ID" : "Ekspresi Lambda",
+    "FR" : "Expression lambda",
+    "JA" : "ラムダ式",
+    "RU" : "Лямбда-выражение",
+    "DE" : "Lambda-Ausdruck",
+    "KO" : "람다 표현식",
+    "IT" : "Espressione Lambda"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-method-reference-title",
+  "data" : {
+    "EN" : "Method Reference",
+    "ZH_HANS" : "方法引用",
+    "ZH_HANT" : "方法引用",
+    "ES" : "Referencia de método",
+    "AR" : "مرجع الأسلوب",
+    "PT" : "Referência do Método",
+    "ID" : "Referensi Metode",
+    "FR" : "Référence de la méthode",
+    "JA" : "メソッドリファレンス",
+    "RU" : "Ссылка на метод",
+    "DE" : "Methodenreferenz",
+    "KO" : "방법 참조",
+    "IT" : "Riferimento metodo"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-functional-interface-title",
+  "data" : {
+    "EN" : "Functional Interface",
+    "ZH_HANS" : "函数式接口",
+    "ZH_HANT" : "函數式接口",
+    "ES" : "Interfaz funcional",
+    "AR" : "واجهة وظيفية",
+    "PT" : "Interface Funcional",
+    "ID" : "Antarmuka Fungsional",
+    "FR" : "Interface fonctionnelle",
+    "JA" : "機能インターフェイス",
+    "RU" : "Функциональный интерфейс",
+    "DE" : "Funktionale Schnittstelle",
+    "KO" : "기능적 인터페이스",
+    "IT" : "Interfaccia funzionale"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-common-functional-interface-title",
+  "data" : {
+    "EN" : "Common Functional Interface",
+    "ZH_HANS" : "常见的函数式接口",
+    "ZH_HANT" : "常見的函數式接口",
+    "ES" : "Interfaz funcional común",
+    "AR" : "واجهة وظيفية مشتركة",
+    "PT" : "Interface Funcional Comum",
+    "ID" : "Antarmuka Fungsional Umum",
+    "FR" : "Interface fonctionnelle commune",
+    "JA" : "共通の機能インターフェース",
+    "RU" : "Общий функциональный интерфейс",
+    "DE" : "Gemeinsame Funktionsschnittstelle",
+    "KO" : "공통 기능 인터페이스",
+    "IT" : "Interfaccia funzionale comune"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-stream-title",
+  "data" : {
+    "EN" : "Stream",
+    "ZH_HANS" : "Stream",
+    "ZH_HANT" : "Stream",
+    "ES" : "Arroyo",
+    "AR" : "مجرى",
+    "PT" : "Stream",
+    "ID" : "Sungai kecil",
+    "FR" : "Flux",
+    "JA" : "ストリーム",
+    "RU" : "Ручей",
+    "DE" : "Strom",
+    "KO" : "개울",
+    "IT" : "Flusso"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-stream-api-title",
+  "data" : {
+    "EN" : "Stream API",
+    "ZH_HANS" : "Stream API",
+    "ZH_HANT" : "Stream API",
+    "ES" : "API de transmisión",
+    "AR" : "دفق API",
+    "PT" : "API Stream",
+    "ID" : "Aliran API",
+    "FR" : "API de flux",
+    "JA" : "ストリームAPI",
+    "RU" : "Stream API",
+    "DE" : "Stream-API",
+    "KO" : "스트림 API",
+    "IT" : "Stream API"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-stream-collector-title",
+  "data" : {
+    "EN" : "Stream Collector",
+    "ZH_HANS" : "Stream Collector",
+    "ZH_HANT" : "Stream Collector",
+    "ES" : "Colector de corriente",
+    "AR" : "جامع الدفق",
+    "PT" : "Coletor de fluxo",
+    "ID" : "Kolektor Aliran",
+    "FR" : "Collecteur de flux",
+    "JA" : "ストリームコレクター",
+    "RU" : "Сборщик потоков",
+    "DE" : "Stream-Sammler",
+    "KO" : "스트림 수집기",
+    "IT" : "Stream Collector"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-stream-in-action-title",
+  "data" : {
+    "EN" : "Stream in Action",
+    "ZH_HANS" : "Stream实战",
+    "ZH_HANT" : "Stream實戰",
+    "ES" : "Stream en acción",
+    "AR" : "تيار في العمل",
+    "PT" : "Stream em ação",
+    "ID" : "Streaming dalam Aksi",
+    "FR" : "Flux en action",
+    "JA" : "実行中のストリーム",
+    "RU" : "Стрим в действии",
+    "DE" : "Stream in Aktion",
+    "KO" : "스트림 인 액션",
+    "IT" : "Streaming in azione"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "simple-generics-title",
+  "data" : {
+    "EN" : "Simple Generics",
+    "ZH_HANS" : "简单泛型",
+    "ZH_HANT" : "簡單泛型",
+    "ES" : "Genéricos simples",
+    "AR" : "علم الوراثة البسيط",
+    "PT" : "Genéricos Simples",
+    "ID" : "Generik Sederhana",
+    "FR" : "Génériques simples",
+    "JA" : "単純なジェネリック",
+    "RU" : "Простые дженерики",
+    "DE" : "Einfache Generika",
+    "KO" : "단순 제네릭",
+    "IT" : "Generici semplici"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "generic-type-erasure-title",
+  "data" : {
+    "EN" : "Generic Type Erasure",
+    "ZH_HANS" : "泛型类型擦除",
+    "ZH_HANT" : "泛型類型擦除",
+    "ES" : "Borrado de tipo genérico",
+    "AR" : "محو النوع العام",
+    "PT" : "Apagamento de tipo genérico",
+    "ID" : "Penghapusan Tipe Umum",
+    "FR" : "Effacement de type générique",
+    "JA" : "ジェネリック型消去",
+    "RU" : "Стирание универсального типа",
+    "DE" : "Generische Typlöschung",
+    "KO" : "일반 유형 삭제",
+    "IT" : "Cancellazione di tipo generico"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "generic-subtyping-wildcard-title",
+  "data" : {
+    "EN" : "Generic Subtyping & Wildcard",
+    "ZH_HANS" : "泛型的子类与通配符",
+    "ZH_HANT" : "泛型的子類與通配符",
+    "ES" : "Subtipado genérico y comodín",
+    "AR" : "التصنيف الفرعي وحرف البدل العام",
+    "PT" : "Subtipagem genérica e curinga",
+    "ID" : "Subtipe & Wildcard Umum",
+    "FR" : "Sous-typage générique et caractère générique",
+    "JA" : "一般的なサブタイピングとワイルドカード",
+    "RU" : "Универсальное выделение подтипов и подстановочные знаки",
+    "DE" : "Generische Subtypisierung & Platzhalter",
+    "KO" : "일반 서브타이핑 및 와일드카드",
+    "IT" : "Sottotipi generici e caratteri jolly"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "generic-methods-title",
+  "data" : {
+    "EN" : "Generic Methods",
+    "ZH_HANS" : "泛型方法",
+    "ZH_HANT" : "泛型方法",
+    "ES" : "Métodos genéricos",
+    "AR" : "طرق عامة",
+    "PT" : "Métodos Genéricos",
+    "ID" : "Metode Umum",
+    "FR" : "Méthodes génériques",
+    "JA" : "一般的な方法",
+    "RU" : "Общие методы",
+    "DE" : "Generische Methoden",
+    "KO" : "일반 메서드",
+    "IT" : "Metodi generici"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "predefined-annotation-types-title",
+  "data" : {
+    "EN" : "Predefined Annotation Types",
+    "ZH_HANS" : "预置的注解类型",
+    "ZH_HANT" : "預置的註解類型",
+    "ES" : "Tipos de anotaciones predefinidos",
+    "AR" : "أنواع التعليقات التوضيحية المحددة مسبقًا",
+    "PT" : "Tipos de anotação predefinidos",
+    "ID" : "Jenis Anotasi yang telah ditentukan sebelumnya",
+    "FR" : "Types d'annotations prédéfinis",
+    "JA" : "事前定義された注釈タイプ",
+    "RU" : "Предопределенные типы аннотаций",
+    "DE" : "Vordefinierte Anmerkungstypen",
+    "KO" : "사전 정의된 주석 유형",
+    "IT" : "Tipi di annotazioni predefiniti"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-class-reflection-title",
+  "data" : {
+    "EN" : "Reflection on Class",
+    "ZH_HANS" : "对类的反射",
+    "ZH_HANT" : "對類的反射",
+    "ES" : "Reflexión sobre la clase",
+    "AR" : "التفكير في الفصل",
+    "PT" : "Reflexão sobre a aula",
+    "ID" : "Refleksi di Kelas",
+    "FR" : "Réflexion sur la classe",
+    "JA" : "クラスについての考察",
+    "RU" : "Размышления о классе",
+    "DE" : "Reflexion über den Unterricht",
+    "KO" : "수업에 대한 반성",
+    "IT" : "Riflessione sulla classe"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-array-enum-reflection-title",
+  "data" : {
+    "EN" : "Reflection on Array & Enum",
+    "ZH_HANS" : "对数组、枚举的反射",
+    "ZH_HANT" : "對數組、枚舉的反射",
+    "ES" : "Reflexión sobre Array y Enum",
+    "AR" : "انعكاس في Array & Enum",
+    "PT" : "Reflexão sobre Array e Enum",
+    "ID" : "Refleksi pada Array & Enum",
+    "FR" : "Réflexion sur Array & Enum",
+    "JA" : "配列と列挙型に関する考察",
+    "RU" : "Отражение на массиве и перечислении",
+    "DE" : "Reflexion über Array & Enum",
+    "KO" : "배열 및 열거형에 대한 반영",
+    "IT" : "Riflessione su Array ed Enum"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-member-reflection-title",
+  "data" : {
+    "EN" : "Reflection on Member",
+    "ZH_HANS" : "对类成员的反射",
+    "ZH_HANT" : "對類成員的反射",
+    "ES" : "Reflexión sobre el miembro",
+    "AR" : "تأمل في العضو",
+    "PT" : "Reflexão sobre Sócio",
+    "ID" : "Refleksi Anggota",
+    "FR" : "Réflexion sur le membre",
+    "JA" : "メンバーについての考察",
+    "RU" : "Размышление о члене",
+    "DE" : "Reflexion über Mitglied",
+    "KO" : "회원에 대한 반성",
+    "IT" : "Riflessione sul membro"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-dynamic-proxy-title",
+  "data" : {
+    "EN" : "Dynamic Proxy",
+    "ZH_HANS" : "动态代理",
+    "ZH_HANT" : "動態代理",
+    "ES" : "Proxy dinámico",
+    "AR" : "وكيل ديناميكي",
+    "PT" : "Proxy Dinâmico",
+    "ID" : "Proksi Dinamis",
+    "FR" : "Proxy dynamique",
+    "JA" : "動的プロキシ",
+    "RU" : "Динамический прокси",
+    "DE" : "Dynamischer Proxy",
+    "KO" : "동적 프록시",
+    "IT" : "Proxy dinamico"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-reflection-in-action-title",
+  "data" : {
+    "EN" : "Reflection in Action",
+    "ZH_HANS" : "反射实战",
+    "ZH_HANT" : "反射實戰",
+    "ES" : "Reflexión en acción",
+    "AR" : "التفكير في العمل",
+    "PT" : "Reflexão em Ação",
+    "ID" : "Refleksi dalam Tindakan",
+    "FR" : "La réflexion en action",
+    "JA" : "リフレクションインアクション",
+    "RU" : "Отражение в действии",
+    "DE" : "Reflexion in Aktion",
+    "KO" : "행동에 반영",
+    "IT" : "Riflessione in azione"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "what-is-reflection-title",
+  "data" : {
+    "EN" : "What is Reflection",
+    "ZH_HANS" : "反射是什么",
+    "ZH_HANT" : "反射是什麼",
+    "ES" : "¿Qué es la reflexión?",
+    "AR" : "ما هو الانعكاس",
+    "PT" : "O que é reflexão",
+    "ID" : "Apa itu Refleksi?",
+    "FR" : "Qu'est-ce que la réflexion",
+    "JA" : "リフレクションとは",
+    "RU" : "Что такое отражение",
+    "DE" : "Was ist Reflexion?",
+    "KO" : "리플렉션이란?",
+    "IT" : "Cos'è la riflessione?"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "annotation-basics-title",
+  "data" : {
+    "EN" : "Annotation Basics",
+    "ZH_HANS" : "注解基础",
+    "ZH_HANT" : "註解基礎",
+    "ES" : "Conceptos básicos de anotaciones",
+    "AR" : "أساسيات الشرح",
+    "PT" : "Noções básicas de anotação",
+    "ID" : "Dasar-dasar Anotasi",
+    "FR" : "Notions de base sur les annotations",
+    "JA" : "アノテーションの基本",
+    "RU" : "Основы аннотаций",
+    "DE" : "Anmerkungsgrundlagen",
+    "KO" : "주석 기본 사항",
+    "IT" : "Nozioni di base sulle annotazioni"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "declaring-annotation-type-title",
+  "data" : {
+    "EN" : "Declaring Annotation Type",
+    "ZH_HANS" : "声明注解类型",
+    "ZH_HANT" : "聲明註解類型",
+    "ES" : "Declaración del tipo de anotación",
+    "AR" : "التصريح عن نوع التعليق التوضيحي",
+    "PT" : "Declaração de tipo de anotação",
+    "ID" : "Mendeklarasikan Jenis Anotasi",
+    "FR" : "Déclaration du type d'annotation",
+    "JA" : "注釈タイプの宣言",
+    "RU" : "Объявление типа аннотации",
+    "DE" : "Anmerkungstyp deklarieren",
+    "KO" : "주석 유형 선언",
+    "IT" : "Dichiarazione del tipo di annotazione"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "repeating-annotations-title",
+  "data" : {
+    "EN" : "Repeating Annotations",
+    "ZH_HANS" : "可重复的注解",
+    "ZH_HANT" : "可重複的註解",
+    "ES" : "Repetición de anotaciones",
+    "AR" : "تكرار التعليقات التوضيحية",
+    "PT" : "Anotações repetidas",
+    "ID" : "Anotasi Berulang",
+    "FR" : "Répéter les annotations",
+    "JA" : "繰り返しの注釈",
+    "RU" : "Повторяющиеся аннотации",
+    "DE" : "Wiederholung von Anmerkungen",
+    "KO" : "주석 반복",
+    "IT" : "Annotazioni ripetute"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "annotation-in-action-title",
+  "data" : {
+    "EN" : "Annotation in Action",
+    "ZH_HANS" : "注解实战",
+    "ZH_HANT" : "註解實戰",
+    "ES" : "Anotación en acción",
+    "AR" : "الشرح في العمل",
+    "PT" : "Anotação em ação",
+    "ID" : "Anotasi dalam Tindakan",
+    "FR" : "Annotation en action",
+    "JA" : "実際の注釈",
+    "RU" : "Аннотация в действии",
+    "DE" : "Anmerkung in Aktion",
+    "KO" : "실행 중인 주석",
+    "IT" : "Annotazione in azione"
   },
   "format" : "TEXT"
 } ]
