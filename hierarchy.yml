@@ -17,6 +17,9 @@
   - id: JavaIslandSpringDungeon
     frames: 1
     roadmap: false
+  - id: JavaIslandConcurrencyDungeon
+    frames: 1
+    roadmap: false
 - id: ShellIsland
   frames: 2
 - id: WebIsland

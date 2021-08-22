@@ -901,16 +901,16 @@
 }, {
   "id" : "JavaIslandCommentDungeon",
   "data" : {
-    "EN" : "Dungeon: comment & Javadoc",
+    "EN" : "Dungeon: Comment & Javadoc",
     "ZH_HANS" : "地下城：注释与Javadoc",
     "ZH_HANT" : "地下城：註釋與Javadoc",
     "ES" : "Mazmorra: comentario y Javadoc",
     "AR" : "الزنزانة: تعليق وجافادوك",
-    "PT" : "Calabouço: comentário e Javadoc",
-    "ID" : "Penjara Bawah Tanah: komentar & Javadoc",
-    "FR" : "Donjon : commentaire & Javadoc",
+    "PT" : "Calabouço: Comentário e Javadoc",
+    "ID" : "Penjara Bawah Tanah: Komentar & Javadoc",
+    "FR" : "Donjon : Commentaire & Javadoc",
     "JA" : "ダンジョン：コメントとJavadoc",
-    "RU" : "Dungeon: комментарии и Javadoc",
+    "RU" : "Подземелье: комментарии и документация Javadoc",
     "DE" : "Dungeon: Kommentar & Javadoc",
     "KO" : "던전: 댓글 및 Javadoc",
     "IT" : "Dungeon: commento e Javadoc"
@@ -919,19 +919,37 @@
 }, {
   "id" : "JavaIslandDebuggerDungeon",
   "data" : {
-    "EN" : "Dungeon: debugger",
+    "EN" : "Dungeon: Debugger",
     "ZH_HANS" : "地下城：调试器",
     "ZH_HANT" : "地下城：調試器",
     "ES" : "Mazmorra: depurador",
     "AR" : "الزنزانة: المصحح",
-    "PT" : "Calabouço: depurador",
-    "ID" : "Penjara Bawah Tanah: debugger",
-    "FR" : "Donjon : débogueur",
+    "PT" : "Calabouço: Depurador",
+    "ID" : "Penjara Bawah Tanah: Debugger",
+    "FR" : "Donjon : débogueur",
     "JA" : "ダンジョン：デバッガー",
-    "RU" : "Подземелье: отладчик",
+    "RU" : "Подземелье: Отладчик",
     "DE" : "Dungeon: Debugger",
     "KO" : "던전: 디버거",
-    "IT" : "Dungeon: debugger"
+    "IT" : "Dungeon: Debugger"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaIslandConcurrencyDungeon",
+  "data" : {
+    "EN" : "Dungeon: Advanced Concurrency",
+    "ZH_HANS" : "地下城：高级并发",
+    "ZH_HANT" : "地下城：高級並發",
+    "ES" : "Mazmorra: Simultaneidad avanzada",
+    "AR" : "الأبراج المحصنة: التزامن المتقدم",
+    "PT" : "Calabouço: Concorrência Avançada",
+    "ID" : "Penjara Bawah Tanah: Konkurensi Tingkat Lanjut",
+    "FR" : "Donjon : Concurrence avancée",
+    "JA" : "ダンジョン：高度な並行性",
+    "RU" : "Подземелье: расширенный параллелизм",
+    "DE" : "Dungeon: Erweiterte Parallelität",
+    "KO" : "던전: 고급 동시성",
+    "IT" : "Dungeon: concorrenza avanzata"
   },
   "format" : "TEXT"
 }, {

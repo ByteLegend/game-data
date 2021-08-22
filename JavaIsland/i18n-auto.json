@@ -775,19 +775,19 @@
 }, {
   "id" : "JavaSocketRegionName",
   "data" : {
-    "EN" : "Socket",
-    "ZH_HANS" : "Socket",
-    "ZH_HANT" : "Socket",
-    "ES" : "Enchufe",
-    "AR" : "قابس كهرباء",
-    "PT" : "Soquete",
-    "ID" : "Stopkontak",
-    "FR" : "Prise",
-    "JA" : "ソケット",
-    "RU" : "Разъем",
-    "DE" : "Steckdose",
-    "KO" : "소켓",
-    "IT" : "Presa"
+    "EN" : "TCP & Socket",
+    "ZH_HANS" : "TCP与Socket",
+    "ZH_HANT" : "TCP與Socket",
+    "ES" : "TCP y socket",
+    "AR" : "TCP والمقبس",
+    "PT" : "TCP e Soquete",
+    "ID" : "TCP & Soket",
+    "FR" : "TCP et socket",
+    "JA" : "TCPとソケット",
+    "RU" : "TCP и сокет",
+    "DE" : "TCP & Socket",
+    "KO" : "TCP 및 소켓",
+    "IT" : "TCP e socket"
   },
   "format" : "TEXT"
 }, {
@@ -2714,6 +2714,744 @@
     "DE" : "Anmerkung in Aktion",
     "KO" : "실행 중인 주석",
     "IT" : "Annotazione in azione"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-file-io-title",
+  "data" : {
+    "EN" : "File I/O",
+    "ZH_HANS" : "文件I/O",
+    "ZH_HANT" : "文件I/O",
+    "ES" : "E / S de archivos",
+    "AR" : "ملف الإدخال / الإخراج",
+    "PT" : "E / S de arquivo",
+    "ID" : "File I/O",
+    "FR" : "E/S de fichier",
+    "JA" : "ファイルI / O",
+    "RU" : "Файловый ввод-вывод",
+    "DE" : "Datei-E/A",
+    "KO" : "파일 입출력",
+    "IT" : "File I/O"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-io-stream-title",
+  "data" : {
+    "EN" : "I/O Streams",
+    "ZH_HANS" : "输入/输出流",
+    "ZH_HANT" : "輸入/輸出流",
+    "ES" : "Flujos de E / S",
+    "AR" : "I / O Streams",
+    "PT" : "Streams I / O",
+    "ID" : "Aliran I/O",
+    "FR" : "Flux d'E/S",
+    "JA" : "I / Oストリーム",
+    "RU" : "Потоки ввода / вывода",
+    "DE" : "I/O-Streams",
+    "KO" : "입출력 스트림",
+    "IT" : "Flussi I/O"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-thread-object-title",
+  "data" : {
+    "EN" : "Thread Objects",
+    "ZH_HANS" : "线程对象",
+    "ZH_HANT" : "線程對象",
+    "ES" : "Objetos de hilo",
+    "AR" : "كائنات الخيط",
+    "PT" : "Objetos Thread",
+    "ID" : "Obyek Benang",
+    "FR" : "Objets de fil",
+    "JA" : "スレッドオブジェクト",
+    "RU" : "Объекты потока",
+    "DE" : "Thread-Objekte",
+    "KO" : "스레드 개체",
+    "IT" : "Oggetti filo"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-nio-title",
+  "data" : {
+    "EN" : "NIO",
+    "ZH_HANS" : "NIO",
+    "ZH_HANT" : "NIO",
+    "ES" : "NIO",
+    "AR" : "NIO",
+    "PT" : "NIO",
+    "ID" : "NIO",
+    "FR" : "NIO",
+    "JA" : "NIO",
+    "RU" : "НИО",
+    "DE" : "NIO",
+    "KO" : "니오",
+    "IT" : "NIO"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-io-basics-title",
+  "data" : {
+    "EN" : "I/O Basics",
+    "ZH_HANS" : "I/O基础",
+    "ZH_HANT" : "I/O基礎",
+    "ES" : "Conceptos básicos de E / S",
+    "AR" : "أساسيات I / O",
+    "PT" : "I / O Basics",
+    "ID" : "Dasar-dasar I/O",
+    "FR" : "Notions de base sur les E/S",
+    "JA" : "I / Oの基本",
+    "RU" : "Основы ввода / вывода",
+    "DE" : "E/A-Grundlagen",
+    "KO" : "I/O 기본",
+    "IT" : "Nozioni di base di I/O"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-race-deadlock-title",
+  "data" : {
+    "EN" : "Race Condition & Deadlock",
+    "ZH_HANS" : "竞争条件与死锁",
+    "ZH_HANT" : "競爭條件與死鎖",
+    "ES" : "Condición de carrera y punto muerto",
+    "AR" : "حالة السباق والمأزق",
+    "PT" : "Condição de corrida e impasse",
+    "ID" : "Kondisi Balapan & Kebuntuan",
+    "FR" : "Condition de course et impasse",
+    "JA" : "競合状態とデッドロック",
+    "RU" : "Состояние гонки и тупик",
+    "DE" : "Race Condition & Deadlock",
+    "KO" : "경쟁 조건 및 교착 상태",
+    "IT" : "Condizione di gara e stallo"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-synchronization-title",
+  "data" : {
+    "EN" : "Synchronization",
+    "ZH_HANS" : "同步",
+    "ZH_HANT" : "同步",
+    "ES" : "Sincronización",
+    "AR" : "التزامن",
+    "PT" : "Sincronização",
+    "ID" : "Sinkronisasi",
+    "FR" : "Synchronisation",
+    "JA" : "同期",
+    "RU" : "Синхронизация",
+    "DE" : "Synchronisation",
+    "KO" : "동기화",
+    "IT" : "Sincronizzazione"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "executor-thread-pool-title",
+  "data" : {
+    "EN" : "Thread Pool",
+    "ZH_HANS" : "线程池",
+    "ZH_HANT" : "線程池",
+    "ES" : "Grupo de hilos",
+    "AR" : "تجمع موضوع",
+    "PT" : "Grupo de discussão",
+    "ID" : "Kolam Benang",
+    "FR" : "Pool de threads",
+    "JA" : "スレッドプール",
+    "RU" : "Пул потоков",
+    "DE" : "Thread-Pool",
+    "KO" : "스레드 풀",
+    "IT" : "Pool di discussioni"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-fork-join-title",
+  "data" : {
+    "EN" : "Fork/Join",
+    "ZH_HANS" : "Fork/Join",
+    "ZH_HANT" : "Fork/Join",
+    "ES" : "Bifurcación / Unión",
+    "AR" : "شوكة / انضمام",
+    "PT" : "Fork / Join",
+    "ID" : "Garpu/Gabung",
+    "FR" : "Fourche/Joindre",
+    "JA" : "フォーク/参加",
+    "RU" : "Вилка / Присоединение",
+    "DE" : "Gabel/Join",
+    "KO" : "포크/조인",
+    "IT" : "Forcella/Unisci"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "object-wait-notify-title",
+  "data" : {
+    "EN" : "Object.wait() notify() notifyAll()",
+    "ZH_HANS" : "Object.wait() notify() notifyAll()",
+    "ZH_HANT" : "Object.wait() notify() notifyAll()",
+    "ES" : "Object.wait () notificar () notificar a todos ()",
+    "AR" : "Object.wait () يخطر () notifyAll ()",
+    "PT" : "Object.wait () notificar () notificarAll ()",
+    "ID" : "Object.wait() notify() notifyAll()",
+    "FR" : "Object.wait() notify() notifyAll()",
+    "JA" : "Object.wait（）notify（）notifyAll（）",
+    "RU" : "Object.wait () notify () notifyAll ()",
+    "DE" : "Object.wait() benachrichtigen() benachrichtigenAll()",
+    "KO" : "Object.wait() notify() notifyAll()",
+    "IT" : "Object.wait() notify() notifyAll()"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-socket-basics-title",
+  "data" : {
+    "EN" : "Socket Basics",
+    "ZH_HANS" : "Socket基础",
+    "ZH_HANT" : "Socket基礎",
+    "ES" : "Conceptos básicos del zócalo",
+    "AR" : "أساسيات المقبس",
+    "PT" : "Socket Basics",
+    "ID" : "Dasar Soket",
+    "FR" : "Bases des sockets",
+    "JA" : "ソケットの基本",
+    "RU" : "Основы работы с сокетами",
+    "DE" : "Sockel-Grundlagen",
+    "KO" : "소켓 기본 사항",
+    "IT" : "Nozioni di base sulle prese"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "client-server-socket-title",
+  "data" : {
+    "EN" : "Client/Server Socket",
+    "ZH_HANS" : "客户端/服务端Socket",
+    "ZH_HANT" : "客戶端/服務端Socket",
+    "ES" : "Socket cliente / servidor",
+    "AR" : "مقبس العميل / الخادم",
+    "PT" : "Cliente / Servidor Socket",
+    "ID" : "Soket Klien/Server",
+    "FR" : "Prise client/serveur",
+    "JA" : "クライアント/サーバーソケット",
+    "RU" : "Разъем клиент / сервер",
+    "DE" : "Client/Server-Socket",
+    "KO" : "클라이언트/서버 소켓",
+    "IT" : "Socket client/server"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "socket-io-stream-title",
+  "data" : {
+    "EN" : "Socket I/O Stream",
+    "ZH_HANS" : "Socket输入/输出流",
+    "ZH_HANT" : "Socket輸入/輸出流",
+    "ES" : "Secuencia de E / S de socket",
+    "AR" : "Socket I / O Stream",
+    "PT" : "Socket I / O Stream",
+    "ID" : "Aliran Soket I/O",
+    "FR" : "Flux d'E/S de socket",
+    "JA" : "ソケットI / Oストリーム",
+    "RU" : "Поток ввода-вывода сокета",
+    "DE" : "Socket-I/O-Stream",
+    "KO" : "소켓 I/O 스트림",
+    "IT" : "Flusso I/O socket"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-string-charset-title",
+  "data" : {
+    "EN" : "String & Charset",
+    "ZH_HANS" : "字符串与字符集",
+    "ZH_HANT" : "字符串與字符集",
+    "ES" : "Cadena y juego de caracteres",
+    "AR" : "سلسلة و Charset",
+    "PT" : "String e Charset",
+    "ID" : "String & Charset",
+    "FR" : "Chaîne et jeu de caractères",
+    "JA" : "文字列と文字セット",
+    "RU" : "Строка и кодировка",
+    "DE" : "Zeichenfolge & Zeichensatz",
+    "KO" : "문자열 및 문자 집합",
+    "IT" : "Stringa e set di caratteri"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-regular-expression-title",
+  "data" : {
+    "EN" : "Regular Expression",
+    "ZH_HANS" : "正则表达式",
+    "ZH_HANT" : "正則表達式",
+    "ES" : "Expresión regular",
+    "AR" : "تعبير عادي",
+    "PT" : "Expressão regular",
+    "ID" : "Ekspresi Reguler",
+    "FR" : "Expression régulière",
+    "JA" : "正規表現",
+    "RU" : "Регулярное выражение",
+    "DE" : "Regulären Ausdruck",
+    "KO" : "정규식",
+    "IT" : "Espressione regolare"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-json-object-mapping-title",
+  "data" : {
+    "EN" : "JSON Object Mapping",
+    "ZH_HANS" : "JSON对象映射",
+    "ZH_HANT" : "JSON對象映射",
+    "ES" : "Asignación de objetos JSON",
+    "AR" : "تعيين كائن JSON",
+    "PT" : "Mapeamento de objeto JSON",
+    "ID" : "Pemetaan Objek JSON",
+    "FR" : "Mappage d'objets JSON",
+    "JA" : "JSONオブジェクトマッピング",
+    "RU" : "Сопоставление объектов JSON",
+    "DE" : "JSON-Objektzuordnung",
+    "KO" : "JSON 객체 매핑",
+    "IT" : "Mappatura oggetti JSON"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-xml-configuration-title",
+  "data" : {
+    "EN" : "XML",
+    "ZH_HANS" : "XML",
+    "ZH_HANT" : "XML",
+    "ES" : "XML",
+    "AR" : "XML",
+    "PT" : "XML",
+    "ID" : "XML",
+    "FR" : "XML",
+    "JA" : "XML",
+    "RU" : "XML",
+    "DE" : "XML",
+    "KO" : "XML",
+    "IT" : "XML"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-logging-frameworks-title",
+  "data" : {
+    "EN" : "Logging Frameworks",
+    "ZH_HANS" : "日志框架",
+    "ZH_HANT" : "日誌框架",
+    "ES" : "Marcos de registro",
+    "AR" : "أطر التسجيل",
+    "PT" : "Logging Frameworks",
+    "ID" : "Kerangka Kerja Pencatatan",
+    "FR" : "Cadres de journalisation",
+    "JA" : "ロギングフレームワーク",
+    "RU" : "Фреймворки логирования",
+    "DE" : "Protokollierungs-Frameworks",
+    "KO" : "로깅 프레임워크",
+    "IT" : "Framework di registrazione"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "guava-in-action-title",
+  "data" : {
+    "EN" : "Guava in Action",
+    "ZH_HANS" : "Guava实战",
+    "ZH_HANT" : "Guava實戰",
+    "ES" : "Guayaba en acción",
+    "AR" : "الجوافة في العمل",
+    "PT" : "Goiaba em Ação",
+    "ID" : "Jambu beraksi",
+    "FR" : "Goyave en action",
+    "JA" : "動作中のグアバ",
+    "RU" : "Гуава в действии",
+    "DE" : "Guave in Aktion",
+    "KO" : "작동 중인 구아바",
+    "IT" : "Guava in azione"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "understand-classpath-title",
+  "data" : {
+    "EN" : "Understanding Classpath",
+    "ZH_HANS" : "理解Classpath",
+    "ZH_HANT" : "理解Classpath",
+    "ES" : "Entendiendo Classpath",
+    "AR" : "فهم Classpath",
+    "PT" : "Compreendendo o Classpath",
+    "ID" : "Memahami Jalur Kelas",
+    "FR" : "Comprendre le chemin de classe",
+    "JA" : "クラスパスを理解する",
+    "RU" : "Понимание пути к классам",
+    "DE" : "Klassenpfad verstehen",
+    "KO" : "클래스패스 이해하기",
+    "IT" : "Comprensione del percorso di classe"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "jdbc-prepared-statement-title",
+  "data" : {
+    "EN" : "SQL Injection & JDBC PreparedStatement",
+    "ZH_HANS" : "SQL注入与JDBC PreparedStatement",
+    "ZH_HANT" : "SQL注入與JDBC PreparedStatement",
+    "ES" : "Inyección SQL y JDBC PreparedStatement",
+    "AR" : "حقن SQL و JDBC PreparedStatement",
+    "PT" : "SQL Injection e JDBC PreparedStatement",
+    "ID" : "Pernyataan SQL Injection & JDBC Disiapkan",
+    "FR" : "Injection SQL et déclaration préparée JDBC",
+    "JA" : "SQLインジェクションとJDBCプリペアドステートメント",
+    "RU" : "SQL-инъекция и JDBC PreparedStatement",
+    "DE" : "SQL Injection & JDBC PreparedStatement",
+    "KO" : "SQL 주입 및 JDBC PreparedStatement",
+    "IT" : "SQL Injection e JDBC PreparedStatement"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-working-with-resources-title",
+  "data" : {
+    "EN" : "Working with Resources",
+    "ZH_HANS" : "使用Resources",
+    "ZH_HANT" : "使用Resources",
+    "ES" : "Trabajar con recursos",
+    "AR" : "العمل مع الموارد",
+    "PT" : "Trabalhando com Recursos",
+    "ID" : "Bekerja dengan Sumber Daya",
+    "FR" : "Travailler avec des ressources",
+    "JA" : "リソースの操作",
+    "RU" : "Работа с ресурсами",
+    "DE" : "Arbeiten mit Ressourcen",
+    "KO" : "리소스 작업",
+    "IT" : "Lavorare con le risorse"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-loading-class-from-classpath-title",
+  "data" : {
+    "EN" : "Loading Class from Classpath",
+    "ZH_HANS" : "从Classpath加载类",
+    "ZH_HANT" : "從Classpath加載類",
+    "ES" : "Cargando clase desde Classpath",
+    "AR" : "تحميل الفصل من Classpath",
+    "PT" : "Carregando classe do Classpath",
+    "ID" : "Memuat Kelas dari Classpath",
+    "FR" : "Chargement de la classe à partir du chemin de classe",
+    "JA" : "クラスパスからクラスをロードする",
+    "RU" : "Загрузка класса из пути к классам",
+    "DE" : "Klasse aus Classpath laden",
+    "KO" : "클래스 경로에서 클래스 로드",
+    "IT" : "Caricamento della classe da Classpath"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "jdbc-connection-and-statement-title",
+  "data" : {
+    "EN" : "Connection & Statement",
+    "ZH_HANS" : "Connection与Statement",
+    "ZH_HANT" : "Connection與Statement",
+    "ES" : "Conexión y declaración",
+    "AR" : "الاتصال والبيان",
+    "PT" : "Conexão e declaração",
+    "ID" : "Koneksi & Pernyataan",
+    "FR" : "Connexion et déclaration",
+    "JA" : "接続とステートメント",
+    "RU" : "Подключение и заявление",
+    "DE" : "Verbindung & Aussage",
+    "KO" : "연결 및 성명",
+    "IT" : "Connessione e dichiarazione"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "jdbc-sql-exception-title",
+  "data" : {
+    "EN" : "SQLException",
+    "ZH_HANS" : "SQLException",
+    "ZH_HANT" : "SQLException",
+    "ES" : "SQLException",
+    "AR" : "SQLException",
+    "PT" : "SQLException",
+    "ID" : "SQLException",
+    "FR" : "SQLException",
+    "JA" : "SQLException",
+    "RU" : "SQLException",
+    "DE" : "SQLException",
+    "KO" : "SQLException",
+    "IT" : "SQLException"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "jdbc-result-set-title",
+  "data" : {
+    "EN" : "ResultSet",
+    "ZH_HANS" : "ResultSet",
+    "ZH_HANT" : "ResultSet",
+    "ES" : "Conjunto resultante",
+    "AR" : "مجموعة النتائج",
+    "PT" : "ResultSet",
+    "ID" : "HasilSet",
+    "FR" : "Ensemble de résultats",
+    "JA" : "ResultSet",
+    "RU" : "ResultSet",
+    "DE" : "Ergebnismenge",
+    "KO" : "결과 집합",
+    "IT" : "Set di risultati"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "jdbc-transaction-title",
+  "data" : {
+    "EN" : "Transaction",
+    "ZH_HANS" : "事务",
+    "ZH_HANT" : "事務",
+    "ES" : "Transacción",
+    "AR" : "عملية تجارية",
+    "PT" : "Transação",
+    "ID" : "Transaksi",
+    "FR" : "Transaction",
+    "JA" : "取引",
+    "RU" : "Сделка",
+    "DE" : "Transaktion",
+    "KO" : "거래",
+    "IT" : "Transazione"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "mybatis-dynamic-sql-title",
+  "data" : {
+    "EN" : "MyBatis: Dynamic SQL",
+    "ZH_HANS" : "MyBatis: 动态SQL",
+    "ZH_HANT" : "MyBatis: 動態SQL",
+    "ES" : "MyBatis: SQL dinámico",
+    "AR" : "MyBatis: لغة SQL الديناميكية",
+    "PT" : "MyBatis: SQL dinâmico",
+    "ID" : "MyBatis: SQL Dinamis",
+    "FR" : "MyBatis : SQL dynamique",
+    "JA" : "MyBatis：動的SQL",
+    "RU" : "MyBatis: динамический SQL",
+    "DE" : "MyBatis: Dynamisches SQL",
+    "KO" : "마이바티스: 동적 SQL",
+    "IT" : "MyBatis: SQL dinamico"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "mybatis-and-orm-title",
+  "data" : {
+    "EN" : "MyBatis & ORM",
+    "ZH_HANS" : "MyBatis与ORM",
+    "ZH_HANT" : "MyBatis與ORM",
+    "ES" : "MyBatis y ORM",
+    "AR" : "MyBatis و ORM",
+    "PT" : "MyBatis e ORM",
+    "ID" : "MyBatis & ORM",
+    "FR" : "MyBatis & ORM",
+    "JA" : "MyBatis＆ORM",
+    "RU" : "MyBatis и ORM",
+    "DE" : "MyBatis & ORM",
+    "KO" : "마이바티스 & ORM",
+    "IT" : "MyBatis e ORM"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "mybatis-mapper-title",
+  "data" : {
+    "EN" : "MyBatis: Mapper",
+    "ZH_HANS" : "MyBatis: Mapper",
+    "ZH_HANT" : "MyBatis: Mapper",
+    "ES" : "MyBatis: Mapper",
+    "AR" : "MyBatis: مخطط",
+    "PT" : "MyBatis: Mapper",
+    "ID" : "MyBatis: Pemeta",
+    "FR" : "MyBatis : Mapper",
+    "JA" : "MyBatis：マッパー",
+    "RU" : "MyBatis: картограф",
+    "DE" : "MyBatis: Mapper",
+    "KO" : "마이바티스: 매퍼",
+    "IT" : "MyBatis: Mapper"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-socket-simple-http-server-title",
+  "data" : {
+    "EN" : "Simple HTTP Server with Socket",
+    "ZH_HANS" : "基于Socket的简单HTTP服务器",
+    "ZH_HANT" : "基於Socket的簡單HTTP服務器",
+    "ES" : "Servidor HTTP simple con socket",
+    "AR" : "خادم HTTP بسيط مع مقبس",
+    "PT" : "Servidor HTTP simples com soquete",
+    "ID" : "Server HTTP Sederhana dengan Soket",
+    "FR" : "Serveur HTTP simple avec socket",
+    "JA" : "ソケット付きのシンプルなHTTPサーバー",
+    "RU" : "Простой HTTP-сервер с сокетом",
+    "DE" : "Einfacher HTTP-Server mit Socket",
+    "KO" : "소켓이 있는 단순 HTTP 서버",
+    "IT" : "Server HTTP semplice con socket"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "servlet-config-title",
+  "data" : {
+    "EN" : "ServletConfig",
+    "ZH_HANS" : "ServletConfig",
+    "ZH_HANT" : "ServletConfig",
+    "ES" : "ServletConfig",
+    "AR" : "ServletConfig",
+    "PT" : "ServletConfig",
+    "ID" : "Konfigurasi Servlet",
+    "FR" : "ServletConfig",
+    "JA" : "ServletConfig",
+    "RU" : "ServletConfig",
+    "DE" : "ServletConfig",
+    "KO" : "서블릿 구성",
+    "IT" : "Configurazione servlet"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "servlet-api-title",
+  "data" : {
+    "EN" : "Servlet API",
+    "ZH_HANS" : "Servlet API",
+    "ZH_HANT" : "Servlet API",
+    "ES" : "API de servlet",
+    "AR" : "Servlet API",
+    "PT" : "API de servlet",
+    "ID" : "API Servlet",
+    "FR" : "API de servlet",
+    "JA" : "サーブレットAPI",
+    "RU" : "Сервлет API",
+    "DE" : "Servlet-API",
+    "KO" : "서블릿 API",
+    "IT" : "API servlet"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "servlet-container-title",
+  "data" : {
+    "EN" : "Servlet Container",
+    "ZH_HANS" : "Servlet容器",
+    "ZH_HANT" : "Servlet容器",
+    "ES" : "Contenedor de servlet",
+    "AR" : "حاوية Servlet",
+    "PT" : "Recipiente de servlet",
+    "ID" : "Wadah Servlet",
+    "FR" : "Conteneur de servlets",
+    "JA" : "サーブレットコンテナ",
+    "RU" : "Контейнер сервлета",
+    "DE" : "Servlet-Container",
+    "KO" : "서블릿 컨테이너",
+    "IT" : "Contenitore servlet"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "servlet-cookie-session-title",
+  "data" : {
+    "EN" : "Cookie & Session with Servlet",
+    "ZH_HANS" : "使用Servlet处理Cookie/Session",
+    "ZH_HANT" : "使用Servlet處理Cookie/Session",
+    "ES" : "Cookie y sesión con servlet",
+    "AR" : "ملف تعريف الارتباط والجلسة مع Servlet",
+    "PT" : "Cookie e Sessão com Servlet",
+    "ID" : "Cookie & Sesi dengan Servlet",
+    "FR" : "Cookie & Session avec Servlet",
+    "JA" : "サーブレットとのCookieとセッション",
+    "RU" : "Cookie и сеанс с сервлетом",
+    "DE" : "Cookie & Sitzung mit Servlet",
+    "KO" : "서블릿을 사용한 쿠키 및 세션",
+    "IT" : "Cookie e sessione con servlet"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "servlet-context-title",
+  "data" : {
+    "EN" : "ServletContext",
+    "ZH_HANS" : "ServletContext",
+    "ZH_HANT" : "ServletContext",
+    "ES" : "ServletContext",
+    "AR" : "ServletContext",
+    "PT" : "ServletContext",
+    "ID" : "Konteks Servlet",
+    "FR" : "ServletContext",
+    "JA" : "ServletContext",
+    "RU" : "ServletContext",
+    "DE" : "Servlet-Kontext",
+    "KO" : "서블릿 컨텍스트",
+    "IT" : "ServletContext"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "tomcat-title",
+  "data" : {
+    "EN" : "Tomcat",
+    "ZH_HANS" : "Tomcat",
+    "ZH_HANT" : "Tomcat",
+    "ES" : "Gato",
+    "AR" : "هر",
+    "PT" : "Tomcat",
+    "ID" : "Kucing jantan",
+    "FR" : "Matou",
+    "JA" : "Tomcat",
+    "RU" : "Кот",
+    "DE" : "Kater",
+    "KO" : "수코양이",
+    "IT" : "Tomcat"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "ClasspathResourceRegionName",
+  "data" : {
+    "EN" : "Classpath & Resource",
+    "ZH_HANS" : "Classpath与Resource",
+    "ZH_HANT" : "Classpath與Resource",
+    "ES" : "Classpath y recurso",
+    "AR" : "Classpath & الموارد",
+    "PT" : "Classpath e recurso",
+    "ID" : "Jalur Kelas & Sumber Daya",
+    "FR" : "Chemin de classe et ressource",
+    "JA" : "クラスパスとリソース",
+    "RU" : "Путь к классам и ресурс",
+    "DE" : "Klassenpfad und Ressource",
+    "KO" : "클래스 경로 및 리소스",
+    "IT" : "Classpath & Resource"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JDBCORMRegionName",
+  "data" : {
+    "EN" : "JDBC & ORM",
+    "ZH_HANS" : "JDBC与ORM",
+    "ZH_HANT" : "JDBC與ORM",
+    "ES" : "JDBC y ORM",
+    "AR" : "JDBC و ORM",
+    "PT" : "JDBC e ORM",
+    "ID" : "JDBC & ORM",
+    "FR" : "JDBC et ORM",
+    "JA" : "JDBC＆ORM",
+    "RU" : "JDBC и ORM",
+    "DE" : "JDBC & ORM",
+    "KO" : "JDBC 및 ORM",
+    "IT" : "JDBC e ORM"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "HTTPServletRegionName",
+  "data" : {
+    "EN" : "HTTP & Servlet",
+    "ZH_HANS" : "HTTP与Servlet",
+    "ZH_HANT" : "HTTP與Servlet",
+    "ES" : "HTTP y servlet",
+    "AR" : "HTTP و Servlet",
+    "PT" : "HTTP e Servlet",
+    "ID" : "HTTP & Servlet",
+    "FR" : "HTTP et servlet",
+    "JA" : "HTTPとサーブレット",
+    "RU" : "HTTP и сервлет",
+    "DE" : "HTTP & Servlet",
+    "KO" : "HTTP 및 서블릿",
+    "IT" : "HTTP e servlet"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "CommonUtilitiesRegionName",
+  "data" : {
+    "EN" : "Common Utilities",
+    "ZH_HANS" : "常用工具",
+    "ZH_HANT" : "常用工具",
+    "ES" : "Utilidades Comunes",
+    "AR" : "المرافق المشتركة",
+    "PT" : "Utilitários Comuns",
+    "ID" : "Utilitas Umum",
+    "FR" : "Utilitaires communs",
+    "JA" : "一般的なユーティリティ",
+    "RU" : "Общие утилиты",
+    "DE" : "Allgemeine Dienstprogramme",
+    "KO" : "일반 유틸리티",
+    "IT" : "Utilità comuni"
   },
   "format" : "TEXT"
 } ]

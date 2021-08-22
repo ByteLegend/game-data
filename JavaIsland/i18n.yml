@@ -215,8 +215,8 @@
     ZH_HANS: 注解
 - id: JavaSocketRegionName
   data:
-    EN: Socket
-    ZH_HANS: Socket
+    EN: TCP & Socket
+    ZH_HANS: TCP与Socket
 - id: JavaIORegionName
   data:
     EN: IO
@@ -658,3 +658,168 @@
   data:
     EN: Annotation in Action
     ZH_HANS: 注解实战
+- id: "java-file-io-title"
+  data:
+    EN: File I/O
+    ZH_HANS: 文件I/O
+- id: "java-io-stream-title"
+  data:
+    EN: I/O Streams
+    ZH_HANS: 输入/输出流
+- id: "java-thread-object-title"
+  data:
+    EN: Thread Objects
+    ZH_HANS: 线程对象
+- id: "java-nio-title"
+  data:
+    EN: NIO
+    ZH_HANS: NIO
+- id: "java-io-basics-title"
+  data:
+    EN: I/O Basics
+    ZH_HANS: I/O基础
+- id: "java-race-deadlock-title"
+  data:
+    EN: Race Condition & Deadlock
+    ZH_HANS: 竞争条件与死锁
+- id: "java-synchronization-title"
+  data:
+    EN: Synchronization
+    ZH_HANS: 同步
+- id: "executor-thread-pool-title"
+  data:
+    EN: Thread Pool
+    ZH_HANS: 线程池
+- id: "java-fork-join-title"
+  data:
+    EN: Fork/Join
+    ZH_HANS: Fork/Join
+- id: "object-wait-notify-title"
+  data:
+    EN: Object.wait() notify() notifyAll()
+    ZH_HANS: Object.wait() notify() notifyAll()
+- id: "java-socket-basics-title"
+  data:
+    EN: Socket Basics
+    ZH_HANS: Socket基础
+- id: "client-server-socket-title"
+  data:
+    EN: Client/Server Socket
+    ZH_HANS: 客户端/服务端Socket
+- id: "socket-io-stream-title"
+  data:
+    EN: Socket I/O Stream
+    ZH_HANS: Socket输入/输出流
+- id: "java-string-charset-title"
+  data:
+    EN: String & Charset
+    ZH_HANS: 字符串与字符集
+- id: "java-regular-expression-title"
+  data:
+    EN: Regular Expression
+    ZH_HANS: 正则表达式
+- id: "java-json-object-mapping-title"
+  data:
+    EN: JSON Object Mapping
+    ZH_HANS: JSON对象映射
+- id: "java-xml-configuration-title"
+  data:
+    EN: XML
+    ZH_HANS: XML
+- id: "java-logging-frameworks-title"
+  data:
+    EN: Logging Frameworks
+    ZH_HANS: 日志框架
+- id: "guava-in-action-title"
+  data:
+    EN: Guava in Action
+    ZH_HANS: Guava实战
+- id: "understand-classpath-title"
+  data:
+    EN: Understanding Classpath
+    ZH_HANS: 理解Classpath
+- id: "jdbc-prepared-statement-title"
+  data:
+    EN: SQL Injection & JDBC PreparedStatement
+    ZH_HANS: SQL注入与JDBC PreparedStatement
+- id: "java-working-with-resources-title"
+  data:
+    EN: Working with Resources
+    ZH_HANS: 使用Resources
+- id: "java-loading-class-from-classpath-title"
+  data:
+    EN: Loading Class from Classpath
+    ZH_HANS: 从Classpath加载类
+- id: "jdbc-connection-and-statement-title"
+  data:
+    EN: Connection & Statement
+    ZH_HANS: Connection与Statement
+- id: "jdbc-sql-exception-title"
+  data:
+    EN: SQLException
+    ZH_HANS: SQLException
+- id: "jdbc-result-set-title"
+  data:
+    EN: ResultSet
+    ZH_HANS: ResultSet
+- id: "jdbc-transaction-title"
+  data:
+    EN: Transaction
+    ZH_HANS: 事务
+- id: "mybatis-dynamic-sql-title"
+  data:
+    EN: "MyBatis: Dynamic SQL"
+    ZH_HANS: "MyBatis: 动态SQL"
+- id: "mybatis-and-orm-title"
+  data:
+    EN: "MyBatis & ORM"
+    ZH_HANS: "MyBatis与ORM"
+- id: "mybatis-mapper-title"
+  data:
+    EN: "MyBatis: Mapper"
+    ZH_HANS: "MyBatis: Mapper"
+- id: "java-socket-simple-http-server-title"
+  data:
+    EN: "Simple HTTP Server with Socket"
+    ZH_HANS: "基于Socket的简单HTTP服务器"
+- id: "servlet-config-title"
+  data:
+    EN: "ServletConfig"
+    ZH_HANS: "ServletConfig"
+- id: "servlet-api-title"
+  data:
+    EN: "Servlet API"
+    ZH_HANS: "Servlet API"
+- id: "servlet-container-title"
+  data:
+    EN: "Servlet Container"
+    ZH_HANS: "Servlet容器"
+- id: "servlet-cookie-session-title"
+  data:
+    EN: "Cookie & Session with Servlet"
+    ZH_HANS: "使用Servlet处理Cookie/Session"
+- id: "servlet-context-title"
+  data:
+    EN: "ServletContext"
+    ZH_HANS: "ServletContext"
+- id: "tomcat-title"
+  data:
+    EN: "Tomcat"
+    ZH_HANS: "Tomcat"
+- id: "ClasspathResourceRegionName"
+  data:
+    EN: Classpath & Resource
+    ZH_HANS: Classpath与Resource
+- id: JDBCORMRegionName
+  data:
+    EN: JDBC & ORM
+    ZH_HANS: JDBC与ORM
+- id: HTTPServletRegionName
+  data:
+    EN: HTTP & Servlet
+    ZH_HANS: HTTP与Servlet
+- id: CommonUtilitiesRegionName
+  data:
+    EN: Common Utilities
+    ZH_HANS: 常用工具
+

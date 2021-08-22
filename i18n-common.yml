@@ -240,12 +240,16 @@
     ZH_HANS: 福报酒吧
 - id: JavaIslandCommentDungeon
   data:
-    EN: "Dungeon: comment & Javadoc"
+    EN: "Dungeon: Comment & Javadoc"
     ZH_HANS: "地下城：注释与Javadoc"
 - id: JavaIslandDebuggerDungeon
   data:
-    EN: "Dungeon: debugger"
+    EN: "Dungeon: Debugger"
     ZH_HANS: "地下城：调试器"
+- id: JavaIslandConcurrencyDungeon
+  data:
+    EN: "Dungeon: Advanced Concurrency"
+    ZH_HANS: "地下城：高级并发"
 - id: YouAreNotLoggedIn
   data:
     EN: You are not logged in
