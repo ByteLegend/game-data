@@ -1,1 +1,163 @@
-[ ]
+[ {
+  "id" : "benefits-of-threads-title",
+  "data" : {
+    "EN" : "Benefits of Threads",
+    "ZH_HANS" : "线程带来的好处",
+    "ZH_HANT" : "線程帶來的好處",
+    "ES" : "Beneficios de los hilos",
+    "AR" : "فوائد الخيوط",
+    "PT" : "Benefícios dos fios",
+    "ID" : "Manfaat Benang",
+    "FR" : "Avantages des fils",
+    "JA" : "スレッドの利点",
+    "RU" : "Преимущества потоков",
+    "DE" : "Vorteile von Threads",
+    "KO" : "스레드의 이점",
+    "IT" : "Vantaggi dei fili"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "risks-of-threads-title",
+  "data" : {
+    "EN" : "Risks of Threads",
+    "ZH_HANS" : "线程的风险",
+    "ZH_HANT" : "線程的風險",
+    "ES" : "Riesgos de los hilos",
+    "AR" : "مخاطر الخيوط",
+    "PT" : "Riscos de Threads",
+    "ID" : "Risiko Utas",
+    "FR" : "Risques de fils",
+    "JA" : "スレッドのリスク",
+    "RU" : "Риски потоков",
+    "DE" : "Risiken von Fäden",
+    "KO" : "스레드의 위험",
+    "IT" : "Rischi di discussioni"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "juc-atomic-variables-title",
+  "data" : {
+    "EN" : "JUC: Atomic Classes",
+    "ZH_HANS" : "并发包：原子类",
+    "ZH_HANT" : "並發包：原子類",
+    "ES" : "JUC: clases atómicas",
+    "AR" : "JUC: الفئات الذرية",
+    "PT" : "JUC: classes atômicas",
+    "ID" : "JUC: Kelas Atom",
+    "FR" : "JUC : Classes atomiques",
+    "JA" : "JUC：アトミッククラス",
+    "RU" : "JUC: атомные классы",
+    "DE" : "JUC: Atomklassen",
+    "KO" : "JUC: 원자 클래스",
+    "IT" : "JUC: Classi atomiche"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "juc-lock-condition-title",
+  "data" : {
+    "EN" : "JUC: Lock & Condition",
+    "ZH_HANS" : "并发包：Lock & Condition",
+    "ZH_HANT" : "並發包：Lock & Condition",
+    "ES" : "JUC: bloqueo y condición",
+    "AR" : "JUC: القفل والحالة",
+    "PT" : "JUC: Bloqueio e condição",
+    "ID" : "JUC: Kunci & Kondisi",
+    "FR" : "JUC : Verrouillage et état",
+    "JA" : "JUC：ロックと状態",
+    "RU" : "JUC: Замок и состояние",
+    "DE" : "JUC: Lock & Condition",
+    "KO" : "JUC: 잠금 및 상태",
+    "IT" : "JUC: Blocco e condizione"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "juc-concurrent-collection-title",
+  "data" : {
+    "EN" : "JUC: Concurrent Collection",
+    "ZH_HANS" : "并发包：并发集合",
+    "ZH_HANT" : "並發包：並發集合",
+    "ES" : "JUC: Colección concurrente",
+    "AR" : "JUC: المجموعة المتزامنة",
+    "PT" : "JUC: coleção simultânea",
+    "ID" : "JUC: Koleksi Serentak",
+    "FR" : "JUC : Collecte simultanée",
+    "JA" : "JUC：コンカレントコレクション",
+    "RU" : "JUC: параллельная коллекция",
+    "DE" : "JUC: Gleichzeitige Sammlung",
+    "KO" : "JUC: 동시 수집",
+    "IT" : "JUC: Collezione simultanea"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "sharing-and-thread-local-title",
+  "data" : {
+    "EN" : "Sharing & ThreadLocal",
+    "ZH_HANS" : "共享与ThreadLocal类",
+    "ZH_HANT" : "共享與ThreadLocal類",
+    "ES" : "Compartir y ThreadLocal",
+    "AR" : "تقاسم & موضوع محلي",
+    "PT" : "Compartilhamento e ThreadLocal",
+    "ID" : "Berbagi & UtasLokal",
+    "FR" : "Partage & ThreadLocal",
+    "JA" : "共有とスレッドローカル",
+    "RU" : "Обмен и обсуждение",
+    "DE" : "Teilen & ThreadLocal",
+    "KO" : "공유 및 스레드로컬",
+    "IT" : "Condivisione e discussione locale"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-concurrency-executors-title",
+  "data" : {
+    "EN" : "Executor Framework",
+    "ZH_HANS" : "Executor框架",
+    "ZH_HANT" : "Executor框架",
+    "ES" : "Marco del ejecutor",
+    "AR" : "إطار المنفذ",
+    "PT" : "Estrutura do Executor",
+    "ID" : "Kerangka Pelaksana",
+    "FR" : "Cadre d'exécution",
+    "JA" : "エグゼキュータフレームワーク",
+    "RU" : "Фреймворк исполнителя",
+    "DE" : "Executor-Framework",
+    "KO" : "실행자 프레임워크",
+    "IT" : "Esecutore Framework"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-concurrency-jmm-title",
+  "data" : {
+    "EN" : "Java Memory Model",
+    "ZH_HANS" : "Java内存模型",
+    "ZH_HANT" : "Java內存模型",
+    "ES" : "Modelo de memoria Java",
+    "AR" : "نموذج ذاكرة جافا",
+    "PT" : "Modelo de Memória Java",
+    "ID" : "Model Memori Java",
+    "FR" : "Modèle de mémoire Java",
+    "JA" : "Javaメモリモデル",
+    "RU" : "Модель памяти Java",
+    "DE" : "Java-Speichermodell",
+    "KO" : "자바 메모리 모델",
+    "IT" : "Modello di memoria Java"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-concurrency-cancellation-title",
+  "data" : {
+    "EN" : "Interruption & Cancellation",
+    "ZH_HANS" : "中断与取消",
+    "ZH_HANT" : "中斷與取消",
+    "ES" : "Interrupción y cancelación",
+    "AR" : "الانقطاع والإلغاء",
+    "PT" : "Interrupção e Cancelamento",
+    "ID" : "Gangguan & Pembatalan",
+    "FR" : "Interruption et annulation",
+    "JA" : "中断とキャンセル",
+    "RU" : "Прерывание и отмена",
+    "DE" : "Unterbrechung & Stornierung",
+    "KO" : "중단 및 취소",
+    "IT" : "Interruzione e cancellazione"
+  },
+  "format" : "TEXT"
+} ]
