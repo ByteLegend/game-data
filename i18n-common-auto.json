@@ -1978,4 +1978,40 @@
     "IT" : "Isola degli algoritmi"
   },
   "format" : "TEXT"
+}, {
+  "id" : "JavaIslandNewbieVillageBillboard",
+  "data" : {
+    "EN" : "Ad",
+    "ZH_HANS" : "广告",
+    "ZH_HANT" : "廣告",
+    "ES" : "Anuncio",
+    "AR" : "ميلادي",
+    "PT" : "de Anúncios",
+    "ID" : "Iklan",
+    "FR" : "Un d",
+    "JA" : "広告",
+    "RU" : "Объявление",
+    "DE" : "Anzeige",
+    "KO" : "기원 후",
+    "IT" : "Anno Domini"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "YourAdHere",
+  "data" : {
+    "EN" : "Your Ad Here",
+    "ZH_HANS" : "广告位招租",
+    "ZH_HANT" : "廣告位招租",
+    "ES" : "Su anuncio aquí",
+    "AR" : "اعلانك هنا",
+    "PT" : "O seu anúncio aqui",
+    "ID" : "Iklan Anda Disini",
+    "FR" : "Votre publicité ici",
+    "JA" : "ここに広告",
+    "RU" : "Ваша реклама здесь",
+    "DE" : "Ihre Anzeige hier",
+    "KO" : "여기 너의 광고가 있습니다",
+    "IT" : "Il tuo annuncio QUI"
+  },
+  "format" : "TEXT"
 } ]

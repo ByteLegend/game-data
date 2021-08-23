@@ -536,4 +536,11 @@
   data:
     EN: Algorithm Island
     ZH_HANS: 算法岛
-
+- id: JavaIslandNewbieVillageBillboard
+  data:
+    EN: Ad
+    ZH_HANS: 广告
+- id: YourAdHere
+  data:
+    EN: Your Ad Here
+    ZH_HANS: 广告位招租
