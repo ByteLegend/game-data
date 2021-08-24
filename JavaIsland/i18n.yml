@@ -840,3 +840,57 @@
   data:
     EN: "Realworld: E-Commerce Website from Scratch"
     ZH_HANS: "真实项目: 从零开始<br>电商网站"
+- id: SeekForHighPayingJob
+  data:
+    EN: Seek for High-paying Job?
+    ZH_HANS: 在寻找高薪工作？
+- id: WelcomeToJavaIsland
+  data:
+    EN: Welcome to Java Island
+    ZH_HANS: 欢迎来到爪哇岛
+- id: NewbieVillageJobNoticeboardContent
+  format: MARKDOWN
+  data:
+    ZH_HANS: |
+      #### 免费的面向工作的编程教育游戏
+
+      与其他虚度光阴的游戏不同的是，在爪哇岛的虚拟世界中，你习得的是**真实世界**中的知识、技能与经验，以及把握自己未来的机会。
+
+      `Java`，是这个世界上使用**最广泛**、**最有前景**、**待遇最高**的编程语言。在爪哇岛，你需要通过GitHub，挑战一系列真实世界中的编程问题或者项目实践。
+      只要你能通过爪哇岛的挑战，你就能在工作中游刃有余，全世界的科技公司都将为你敞开大门。
+
+      加油。每个你所羡慕的大牛，都曾经是与你相同的普通人。
+
+      #### 为什么使用GitHub
+
+      - GitHub是这个世界上最大、最先进的开发平台。你可以迅速获得来自全世界各地的开发者的帮助。
+      - 通过GitHub，你能够体验最真实的开发流程——它和真实世界中的大公司完全相同——从Google到Amazon，从阿里巴巴到腾讯。
+      - 在求职时，你的GitHub很可能比你的简历，甚至学历更重要。爪哇岛的挑战能够帮助打造一个含金量爆表的GitHub账号，在职场中一路畅通无阻！
+
+      #### 这个游戏达到什么程度我就可以找工作了？
+
+      如果你能一路过关斩将，到达<span style='color:red'>{0}坐标</span>处的`高级Java城堡`入口，我们保证你就完全具备了初级Java软件工程师的能力。
+      如果你想更进一步（涨薪或升职），请进入`高级Java城堡`，完成更多的挑战，成为一名高级Java软件工程师。
+
+    EN: |
+      #### Free Job-oriented Programming Education Game
+
+      Instead of wasting time in other games, you will get **realworld** knowledge, skills, experience, and a more promising future.
+
+      `Java` is the **most popular**, **most promising** and **most high-paying** progamming language in the world.
+      On Java Island, you will accomplish a series of challenges - realworld programming problems and project practice.
+      Once you clear all mission on Java Island, you are qualified for any tech companies in the world.
+
+      Good luck. Every expert you admire was an average person, like you.
+
+      #### Why GitHub
+
+      - GitHub is the largest and most advanced development platform in the world. You can get help from developers all over the world quickly.
+      - You can experience real development workflow, which is identical to realworld companies: from Google to Amazon, from Microsoft to Facebook.
+      - When seeking a job, your GitHub might be more importance than your resume, or diploma. Challenges on Java Island help you create a valuable GitHub account.
+
+      #### Which Level Should I Be Before Trying to Seek a Job?
+
+      If you can clear all missions and arrive at the entrance of `Senior Java Castle` (<span style='color:red'>coordinate {0}</span>),
+      we can assure you that you are fully qualified for a junior Java software engineer.
+      If you want to go further (salary increase or promotion), please enter `Senior Java Castle`, accomplish more missions, to become a senior Java software engineer.

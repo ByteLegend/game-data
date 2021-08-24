@@ -11,4 +11,7 @@
     ZH_HANS: |
       Kotlin岛是地球上真实存在的一个岛，在[60°00′45″N 29°44′01″E](https://www.google.com/maps/place/Kotlin+Island/@60.001918,29.6841031,13z)。
       我们故意让这个岛和真实的Kotlin岛形状相似，但是不幸的是它还没完成😞。敬请期待！
-
+- id: ClickMe
+  data:
+    EN: Click Me!
+    ZH_HANS: 快点我！

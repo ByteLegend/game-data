@@ -34,4 +34,22 @@
     "IT" : "<p>L&#39;isola di Kotlin è una vera isola sulla terra, situata a<a href=\"https://www.google.com/maps/place/Kotlin+Island/@60.001918,29.6841031,13z\" target=\"_blank\">60° 00&#39;45 &quot;N 29° 44&#39;01&quot; E.</a> Abbiamo intenzionalmente fatto in modo che quest&#39;isola abbia la forma simile alla vera isola di Kotlin, ma sfortunatamente non è ancora finita \uD83D\uDE1E. Prossimamente.</p>"
   },
   "format" : "HTML"
+}, {
+  "id" : "ClickMe",
+  "data" : {
+    "EN" : "Click Me!",
+    "ZH_HANS" : "快点我！",
+    "ZH_HANT" : "快點我！",
+    "ES" : "¡Haz click en mi!",
+    "AR" : "انقر فوق لي!",
+    "PT" : "Clique em mim!",
+    "ID" : "Klik Saya!",
+    "FR" : "Cliquez sur moi !",
+    "JA" : "クリックしてください！",
+    "RU" : "Нажми на меня!",
+    "DE" : "Klick mich!",
+    "KO" : "클릭 해주세요!",
+    "IT" : "Cliccami!"
+  },
+  "format" : "TEXT"
 } ]
