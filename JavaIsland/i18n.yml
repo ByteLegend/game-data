@@ -848,6 +848,10 @@
   data:
     EN: Welcome to Java Island
     ZH_HANS: 欢迎来到爪哇岛
+- id: RealworldProjectsRegionName
+  data:
+    EN: Realworld Projects
+    ZH_HANS: 真实项目
 - id: NewbieVillageJobNoticeboardContent
   format: MARKDOWN
   data:

@@ -3563,6 +3563,24 @@
   },
   "format" : "TEXT"
 }, {
+  "id" : "RealworldProjectsRegionName",
+  "data" : {
+    "EN" : "Realworld Projects",
+    "ZH_HANS" : "真实项目",
+    "ZH_HANT" : "真實項目",
+    "ES" : "Proyectos del mundo real",
+    "AR" : "مشاريع Realworld",
+    "PT" : "Projetos Realworld",
+    "ID" : "Proyek Dunia Nyata",
+    "FR" : "Projets du monde réel",
+    "JA" : "実世界のプロジェクト",
+    "RU" : "Проекты Realworld",
+    "DE" : "Realworld-Projekte",
+    "KO" : "실제 프로젝트",
+    "IT" : "Progetti del mondo reale"
+  },
+  "format" : "TEXT"
+}, {
   "id" : "NewbieVillageJobNoticeboardContent",
   "data" : {
     "EN" : "<h4>Free Job-oriented Programming Education Game</h4>\n<p>Instead of wasting time in other games, you will get <strong>realworld</strong> knowledge, skills, experience, and a more promising future.</p>\n<p><code class=\"notranslate\">Java</code> is the <strong>most popular</strong>, <strong>most promising</strong> and <strong>most high-paying</strong> progamming language in the world.\nOn Java Island, you will accomplish a series of challenges - realworld programming problems and project practice.\nOnce you clear all mission on Java Island, you are qualified for any tech companies in the world.</p>\n<p>Good luck. Every expert you admire was an average person, like you.</p>\n<h4>Why GitHub</h4>\n<ul>\n<li>GitHub is the largest and most advanced development platform in the world. You can get help from developers all over the world quickly.</li>\n<li>You can experience real development workflow, which is identical to realworld companies: from Google to Amazon, from Microsoft to Facebook.</li>\n<li>When seeking a job, your GitHub might be more importance than your resume, or diploma. Challenges on Java Island help you create a valuable GitHub account.</li>\n</ul>\n<h4>Which Level Should I Be Before Trying to Seek a Job?</h4>\n<p>If you can clear all missions and arrive at the entrance of <code class=\"notranslate\">Senior Java Castle</code> (<span style='color:red'>coordinate {0}</span>),\nwe can assure you that you are fully qualified for a junior Java software engineer.\nIf you want to go further (salary increase or promotion), please enter <code class=\"notranslate\">Senior Java Castle</code>, accomplish more missions, to become a senior Java software engineer.</p>\n",

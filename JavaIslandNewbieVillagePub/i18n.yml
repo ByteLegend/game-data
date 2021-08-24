@@ -81,22 +81,25 @@
     ZH_HANS: 喂！离我女儿远一点！
 - id: SorryMyFatherDoesntAllow
   data:
-    EN: Sorry, my father doesn't allow me to go out after dark.
-    ZH_HANS: 对不起，我爸爸不让我天黑之后出去。
+    EN: Sorry, my father doesn't allow me to go out because the Java Island is in lockdown.
+    ZH_HANS: 对不起，我爸爸不让我出去，爪哇岛被封岛了。
 - id: Why
   data:
-    EN: Why?
-    ZH_HANS: 为什么？
+    EN: Why? Because of ... COVID?
+    ZH_HANS: 为什么？因为……新冠病毒？
 - id: HugeBugsOnJavaIsland
   format: HTML
   data:
-    EN: Java island used to be a fertile land, but since some point many <span style='color:red'>bugs</span> appeared on the island.
-    ZH_HANS: 爪哇岛从前是一块富饶的土地，但是不知道从什么时候开始，岛上出现了很多的<span style='color:red'>幺蛾子</span>。
+    EN: |
+      Java island used to be a beautiful and fertile land, but since some point there are many poisonous <span style='color:red'>bugs</span> on the island.
+      And the poison is contagious.
+    ZH_HANS: |
+      爪哇岛从前是一块美丽富饶的土地，但是不知道从什么时候开始，岛上出现了很多有毒的<span style='color:red'>幺蛾子</span>。并且幺蛾子毒会传染。
 - id: Bugs
   format: HTML
   data:
-    EN: <span style='color:red'>Bugs</span>?
-    ZH_HANS: <span style='color:red'>幺蛾子</span>？
+    EN: Poisonous <span style='color:red'>bugs</span>?
+    ZH_HANS: 有毒的<span style='color:red'>幺蛾子</span>？
 - id: IWillEliminateAllBugs
   format: HTML
   data:
@@ -113,8 +116,8 @@
     ZH_HANS: 你在找咖啡么？你得自己动手了，<span style='color:red'>{0}</span>有一个咖啡机。
 - id: ThatsWhyWeDontGoOutAfterDark
   data:
-    EN: Yes. That's why we don't go out after dark.
-    ZH_HANS: 是的。这就是我们天黑之后不能出门的原因。
+    EN: Yes. That's why we can't go out.
+    ZH_HANS: 是的。这就是我们不能出门的原因。
 - id: DoYouHaveCoffee
   data:
     EN: Hi, do you have coffee?
