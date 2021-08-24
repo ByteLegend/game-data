@@ -3454,4 +3454,76 @@
     "IT" : "Utilità comuni"
   },
   "format" : "TEXT"
+}, {
+  "id" : "java-todo-webapp",
+  "data" : {
+    "EN" : "Realworld: ToDo Web App",
+    "ZH_HANS" : "真实项目: ToDo Web App",
+    "ZH_HANT" : "真實項目: ToDo Web App",
+    "ES" : "Realworld: Aplicación web ToDo",
+    "AR" : "Realworld: تطبيق الويب ToDo",
+    "PT" : "Realworld: ToDo Web App",
+    "ID" : "Dunia Nyata: Aplikasi Web ToDo",
+    "FR" : "Monde réel : application Web ToDo",
+    "JA" : "Realworld：ToDoWebアプリ",
+    "RU" : "Realworld: Веб-приложение ToDo",
+    "DE" : "Realworld: ToDo-Web-App",
+    "KO" : "현실 세계: 할 일 웹 앱",
+    "IT" : "Realworld: App Web ToDo"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-distributed-crawler",
+  "data" : {
+    "EN" : "Realworld: Distributed Crawler",
+    "ZH_HANS" : "真实项目: 分布式爬虫",
+    "ZH_HANT" : "真實項目: 分佈式爬蟲",
+    "ES" : "Mundo real: rastreador distribuido",
+    "AR" : "Realworld: الزاحف الموزع",
+    "PT" : "Realworld: Distributed Crawler",
+    "ID" : "Dunia Nyata: Perayap Terdistribusi",
+    "FR" : "Monde réel : Crawler distribué",
+    "JA" : "Realworld：分散クローラー",
+    "RU" : "Realworld: распределенный поисковый робот",
+    "DE" : "Realworld: Verteilter Crawler",
+    "KO" : "Realworld: 분산 크롤러",
+    "IT" : "Realworld: Crawler distribuito"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-blog-platform",
+  "data" : {
+    "EN" : "Realworld: Medium Clone from Scratch",
+    "ZH_HANS" : "真实项目: 从零开始<br>博客网站",
+    "ZH_HANT" : "真實項目: 從零開始博客網站",
+    "ES" : "Realworld: Clon medio desde cero",
+    "AR" : "Realworld: نسخة متوسطة من Scratch",
+    "PT" : "Realworld: Clone médio do zero",
+    "ID" : "Dunia Nyata: Klon Sedang dari Awal",
+    "FR" : "Monde réel : clone moyen à partir de zéro",
+    "JA" : "Realworld：ゼロからのミディアムクローン",
+    "RU" : "Realworld: средний клон с нуля",
+    "DE" : "Realworld: Mittlerer Klon von Grund auf neu",
+    "KO" : "Realworld: 처음부터 중간 클론",
+    "IT" : "Realworld: clone medio da zero"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "java-e-commerce-website",
+  "data" : {
+    "EN" : "Realworld: E-Commerce Website from Scratch",
+    "ZH_HANS" : "真实项目: 从零开始<br>电商网站",
+    "ZH_HANT" : "真實項目: 從零開始電商網站",
+    "ES" : "Realworld: sitio web de comercio electrónico desde cero",
+    "AR" : "Realworld: موقع التجارة الإلكترونية من الصفر",
+    "PT" : "Realworld: site de comércio eletrônico do zero",
+    "ID" : "Dunia Nyata: Situs Web E-Commerce dari Awal",
+    "FR" : "Monde réel : site Web de commerce électronique à partir de zéro",
+    "JA" : "Realworld：ゼロからのEコマースWebサイト",
+    "RU" : "Realworld: веб-сайт электронной коммерции с нуля",
+    "DE" : "Realworld: E-Commerce-Website von Grund auf neu",
+    "KO" : "Realworld: 처음부터 전자 상거래 웹사이트",
+    "IT" : "Realworld: sito di e-commerce da zero"
+  },
+  "format" : "HTML"
 } ]

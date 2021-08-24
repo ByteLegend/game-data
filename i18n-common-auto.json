@@ -2014,4 +2014,22 @@
     "IT" : "Il tuo annuncio QUI"
   },
   "format" : "TEXT"
+}, {
+  "id" : "JavaIslandSeniorJavaCastle",
+  "data" : {
+    "EN" : "Senior Java Castle",
+    "ZH_HANS" : "高级Java城堡",
+    "ZH_HANT" : "高級Java城堡",
+    "ES" : "Castillo de Java Senior",
+    "AR" : "كبار قلعة جافا",
+    "PT" : "Castelo Java Sênior",
+    "ID" : "Puri Jawa Senior",
+    "FR" : "Château de Java senior",
+    "JA" : "シニアジャワ城",
+    "RU" : "Старший Яванский замок",
+    "DE" : "Senior Java Castle",
+    "KO" : "시니어 자바 성",
+    "IT" : "Castello di Giava Anziano"
+  },
+  "format" : "TEXT"
 } ]

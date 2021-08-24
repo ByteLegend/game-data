@@ -822,4 +822,21 @@
   data:
     EN: Common Utilities
     ZH_HANS: 常用工具
-
+- id: java-todo-webapp
+  data:
+    EN: "Realworld: ToDo Web App"
+    ZH_HANS: "真实项目: ToDo Web App"
+- id: java-distributed-crawler
+  data:
+    EN: "Realworld: Distributed Crawler"
+    ZH_HANS: "真实项目: 分布式爬虫"
+- id: java-blog-platform
+  format: HTML
+  data:
+    EN: "Realworld: Medium Clone from Scratch"
+    ZH_HANS: "真实项目: 从零开始<br>博客网站"
+- id: java-e-commerce-website
+  format: HTML
+  data:
+    EN: "Realworld: E-Commerce Website from Scratch"
+    ZH_HANS: "真实项目: 从零开始<br>电商网站"
