@@ -852,6 +852,18 @@
   data:
     EN: Realworld Projects
     ZH_HANS: 真实项目
+- id: ThePathToSeniorJava
+  data:
+    EN: The Path to Senior Java
+    ZH_HANS: 通往高级Java之路
+- id: ThePathToSeniorJavaContent
+  format: MARKDOWN
+  data:
+    EN: |
+      Congratulations! If you arrive at this point, you are fully qualified for a junior Java software engineer job.
+      Please keep exploring the territory of senior Java software engineer!
+    ZH_HANS: |
+      恭喜！如果你能来到这个点上，你就完全具备了初级Java软件工程师的能力。请再接再厉，探索高级Java工程师的未知领域吧！
 - id: NewbieVillageJobNoticeboardContent
   format: MARKDOWN
   data:
