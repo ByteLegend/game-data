@@ -5,6 +5,9 @@
   - id: JavaIslandNewbieVillagePub
     frames: 1
     roadmap: false
+  - id: JavaIslandSeniorJavaCastle
+    frames: 1
+    roadmap: false
   - id: JavaIslandCommentDungeon
     frames: 1
     roadmap: false
@@ -18,9 +21,6 @@
     frames: 1
     roadmap: false
   - id: JavaIslandConcurrencyDungeon
-    frames: 1
-    roadmap: false
-  - id: JavaIslandSeniorJavaCastle
     frames: 1
     roadmap: false
 - id: ShellIsland
