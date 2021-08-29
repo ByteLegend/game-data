@@ -1,0 +1,145 @@
+[ {
+  "id" : "java-bytecode-basics-title",
+  "data" : {
+    "EN" : "Bytecode Basics",
+    "ZH_HANS" : "字节码基础",
+    "ZH_HANT" : "字節碼基礎",
+    "ES" : "Conceptos básicos de Bytecode",
+    "AR" : "أساسيات Bytecode",
+    "PT" : "Noções básicas de bytecode",
+    "ID" : "Dasar-dasar Bytecode",
+    "FR" : "Notions de base sur le bytecode",
+    "JA" : "バイトコードの基本",
+    "RU" : "Основы байт-кода",
+    "DE" : "Bytecode-Grundlagen",
+    "KO" : "바이트코드 기초",
+    "IT" : "Nozioni di base sul codice byte"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-execution-model-title",
+  "data" : {
+    "EN" : "JVM Bytecode Execution Engine",
+    "ZH_HANS" : "JVM字节码执行引擎",
+    "ZH_HANT" : "JVM字節碼執行引擎",
+    "ES" : "Motor de ejecución de código de bytes de JVM",
+    "AR" : "محرك تنفيذ JVM Bytecode",
+    "PT" : "JVM Bytecode Execution Engine",
+    "ID" : "Mesin Eksekusi Bytecode JVM",
+    "FR" : "Moteur d'exécution de bytecode JVM",
+    "JA" : "JVMバイトコード実行エンジン",
+    "RU" : "Механизм выполнения байт-кода JVM",
+    "DE" : "JVM-Bytecode-Ausführungs-Engine",
+    "KO" : "JVM 바이트코드 실행 엔진",
+    "IT" : "Motore di esecuzione codice byte JVM"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-class-file-title",
+  "data" : {
+    "EN" : "Class File",
+    "ZH_HANS" : "Class文件",
+    "ZH_HANT" : "Class文件",
+    "ES" : "Archivo de clase",
+    "AR" : "ملف الفصل الدراسي",
+    "PT" : "Arquivo de classe",
+    "ID" : "File Kelas",
+    "FR" : "Fichier de classe",
+    "JA" : "クラスファイル",
+    "RU" : "Файл класса",
+    "DE" : "Klassendatei",
+    "KO" : "클래스 파일",
+    "IT" : "File di classe"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "implement-a-jvm-title",
+  "data" : {
+    "EN" : "Implement a JVM",
+    "ZH_HANS" : "实现一个JVM",
+    "ZH_HANT" : "實現一個JVM",
+    "ES" : "Implementar una JVM",
+    "AR" : "تنفيذ JVM",
+    "PT" : "Implementar uma JVM",
+    "ID" : "Menerapkan JVM",
+    "FR" : "Implémenter une JVM",
+    "JA" : "JVMを実装する",
+    "RU" : "Реализовать JVM",
+    "DE" : "Implementieren einer JVM",
+    "KO" : "JVM 구현",
+    "IT" : "Implementa una JVM"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaCompilerRegionName",
+  "data" : {
+    "EN" : "Java Compiler",
+    "ZH_HANS" : "Java编译器",
+    "ZH_HANT" : "Java編譯器",
+    "ES" : "Compilador de Java",
+    "AR" : "مترجم جافا",
+    "PT" : "Compilador Java",
+    "ID" : "Kompiler Java",
+    "FR" : "Compilateur Java",
+    "JA" : "Javaコンパイラ",
+    "RU" : "Компилятор Java",
+    "DE" : "Java-Compiler",
+    "KO" : "자바 컴파일러",
+    "IT" : "Compilatore Java"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JVMGCRegionName",
+  "data" : {
+    "EN" : "JVM Garbage Collection",
+    "ZH_HANS" : "JVM垃圾回收",
+    "ZH_HANT" : "JVM垃圾回收",
+    "ES" : "Recolección de basura JVM",
+    "AR" : "جمع القمامة JVM",
+    "PT" : "Coleta de lixo JVM",
+    "ID" : "Pengumpulan Sampah JVM",
+    "FR" : "Collecte des ordures JVM",
+    "JA" : "JVMガベージコレクション",
+    "RU" : "Сборка мусора JVM",
+    "DE" : "JVM Garbage Collection",
+    "KO" : "JVM 가비지 컬렉션",
+    "IT" : "JVM Garbage Collection"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaClassLoaderRegionName",
+  "data" : {
+    "EN" : "Java ClassLoader",
+    "ZH_HANS" : "Java ClassLoader",
+    "ZH_HANT" : "Java ClassLoader",
+    "ES" : "Cargador de clases Java",
+    "AR" : "Java ClassLoader",
+    "PT" : "Java ClassLoader",
+    "ID" : "Java ClassLoader",
+    "FR" : "Chargeur de classe Java",
+    "JA" : "Javaクラスローダー",
+    "RU" : "Загрузчик классов Java",
+    "DE" : "Java ClassLoader",
+    "KO" : "자바 클래스 로더",
+    "IT" : "Java ClassLoader"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "JVMBytecodeExecutionEngineRegionName",
+  "data" : {
+    "EN" : "JVM Bytecode Execution Engine",
+    "ZH_HANS" : "JVM字节码执行引擎",
+    "ZH_HANT" : "JVM字節碼執行引擎",
+    "ES" : "Motor de ejecución de código de bytes de JVM",
+    "AR" : "محرك تنفيذ JVM Bytecode",
+    "PT" : "JVM Bytecode Execution Engine",
+    "ID" : "Mesin Eksekusi Bytecode JVM",
+    "FR" : "Moteur d'exécution de bytecode JVM",
+    "JA" : "JVMバイトコード実行エンジン",
+    "RU" : "Механизм выполнения байт-кода JVM",
+    "DE" : "JVM-Bytecode-Ausführungs-Engine",
+    "KO" : "JVM 바이트코드 실행 엔진",
+    "IT" : "Motore di esecuzione codice byte JVM"
+  },
+  "format" : "TEXT"
+} ]

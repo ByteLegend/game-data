@@ -1,0 +1,33 @@
+- id: "java-bytecode-basics-title"
+  data:
+    EN: Bytecode Basics
+    ZH_HANS: 字节码基础
+- id: "java-execution-model-title"
+  data:
+    EN: JVM Bytecode Execution Engine
+    ZH_HANS: JVM字节码执行引擎
+- id: "java-class-file-title"
+  data:
+    EN: Class File
+    ZH_HANS: Class文件
+- id: "implement-a-jvm-title"
+  data:
+    EN: Implement a JVM
+    ZH_HANS: 实现一个JVM
+- id: JavaCompilerRegionName
+  data:
+    EN: Java Compiler
+    ZH_HANS: Java编译器
+- id: JVMGCRegionName
+  data:
+    EN: JVM Garbage Collection
+    ZH_HANS: JVM垃圾回收
+- id: JavaClassLoaderRegionName
+  format: HTML
+  data:
+    EN: Java ClassLoader
+    ZH_HANS: Java ClassLoader
+- id: JVMBytecodeExecutionEngineRegionName
+  data:
+    EN: JVM Bytecode Execution Engine
+    ZH_HANS: JVM字节码执行引擎
