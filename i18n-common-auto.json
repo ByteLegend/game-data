@@ -2032,4 +2032,148 @@
     "IT" : "Castello di Giava Anziano"
   },
   "format" : "TEXT"
+}, {
+  "id" : "JavaIslandJUnitDungeon",
+  "data" : {
+    "EN" : "Dungeon: JUnit",
+    "ZH_HANS" : "地下城：JUnit",
+    "ZH_HANT" : "地下城：JUnit",
+    "ES" : "Mazmorra: JUnit",
+    "AR" : "الزنزانة: JUnit",
+    "PT" : "Calabouço: JUnit",
+    "ID" : "Ruang Bawah Tanah: JUnit",
+    "FR" : "Donjon : JUnit",
+    "JA" : "ダンジョン：JUnit",
+    "RU" : "Подземелье: JUnit",
+    "DE" : "Dungeon: JUnit",
+    "KO" : "던전: JUnit",
+    "IT" : "Dungeon: JUnit"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "RedisIsland",
+  "data" : {
+    "EN" : "Redis Island",
+    "ZH_HANS" : "Redis岛",
+    "ZH_HANT" : "Redis島",
+    "ES" : "Isla Redis",
+    "AR" : "جزيرة ريديس",
+    "PT" : "Ilha Redis",
+    "ID" : "Pulau Redis",
+    "FR" : "Île de Redis",
+    "JA" : "Redis島",
+    "RU" : "Остров Редис",
+    "DE" : "Insel Redis",
+    "KO" : "레디스 아일랜드",
+    "IT" : "Isola di Redis"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaRPCDungeon",
+  "data" : {
+    "EN" : "Dungeon: RPC",
+    "ZH_HANS" : "地下城：RPC",
+    "ZH_HANT" : "地下城：RPC",
+    "ES" : "Mazmorra: RPC",
+    "AR" : "الزنزانة: RPC",
+    "PT" : "Calabouço: RPC",
+    "ID" : "Ruang Bawah Tanah: RPC",
+    "FR" : "Donjon : RPC",
+    "JA" : "ダンジョン：RPC",
+    "RU" : "Подземелье: RPC",
+    "DE" : "Dungeon: RPC",
+    "KO" : "던전: RPC",
+    "IT" : "Dungeon: RPC"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "DistributedSystemIsland",
+  "data" : {
+    "EN" : "Distributed System Island",
+    "ZH_HANS" : "分布式系统岛",
+    "ZH_HANT" : "分佈式系統島",
+    "ES" : "Isla de sistema distribuido",
+    "AR" : "جزيرة النظام الموزعة",
+    "PT" : "Ilha de sistema distribuído",
+    "ID" : "Pulau Sistem Terdistribusi",
+    "FR" : "Île système distribuée",
+    "JA" : "分散システムアイランド",
+    "RU" : "Остров распределенной системы",
+    "DE" : "Verteilte Systeminsel",
+    "KO" : "분산 시스템 아일랜드",
+    "IT" : "Isola del sistema distribuito"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "MessageQueueIsland",
+  "data" : {
+    "EN" : "Message Queue Island",
+    "ZH_HANS" : "消息队列岛",
+    "ZH_HANT" : "消息隊列島",
+    "ES" : "Isla de cola de mensajes",
+    "AR" : "جزيرة قائمة انتظار الرسائل",
+    "PT" : "Ilha da Fila de Mensagens",
+    "ID" : "Pulau Antrian Pesan",
+    "FR" : "Île de file d'attente de messages",
+    "JA" : "メッセージキューアイランド",
+    "RU" : "Остров очереди сообщений",
+    "DE" : "Nachrichtenwarteschlangeninsel",
+    "KO" : "메시지 대기열 섬",
+    "IT" : "Isola della coda dei messaggi"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "OpenJDKDungeon",
+  "data" : {
+    "EN" : "Dungeon: OpenJDK",
+    "ZH_HANS" : "地下城：OpenJDK",
+    "ZH_HANT" : "地下城：OpenJDK",
+    "ES" : "Mazmorra: OpenJDK",
+    "AR" : "الزنزانة: OpenJDK",
+    "PT" : "Calabouço: OpenJDK",
+    "ID" : "Ruang Bawah Tanah: OpenJDK",
+    "FR" : "Donjon : OpenJDK",
+    "JA" : "ダンジョン：OpenJDK",
+    "RU" : "Подземелье: OpenJDK",
+    "DE" : "Dungeon: OpenJDK",
+    "KO" : "던전: OpenJDK",
+    "IT" : "Dungeon: OpenJDK"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaPerformanceDungeon",
+  "data" : {
+    "EN" : "Dungeon: Java Performance Tuning",
+    "ZH_HANS" : "地下城：Java性能调优",
+    "ZH_HANT" : "地下城：Java性能調優",
+    "ES" : "Mazmorra: Ajuste del rendimiento de Java",
+    "AR" : "الزنزانة: ضبط أداء جافا",
+    "PT" : "Calabouço: Ajuste de desempenho do Java",
+    "ID" : "Penjara Bawah Tanah: Penyetelan Kinerja Java",
+    "FR" : "Donjon : optimisation des performances Java",
+    "JA" : "ダンジョン：Javaパフォーマンスチューニング",
+    "RU" : "Dungeon: настройка производительности Java",
+    "DE" : "Dungeon: Java-Leistungsoptimierung",
+    "KO" : "던전: 자바 성능 조정",
+    "IT" : "Dungeon: Ottimizzazione delle prestazioni Java"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaASMDungeon",
+  "data" : {
+    "EN" : "Dungeon: ASM Bytecode Manipulation",
+    "ZH_HANS" : "地下城：ASM字节码操纵",
+    "ZH_HANT" : "地下城：ASM字節碼操縱",
+    "ES" : "Mazmorra: manipulación de código de bytes de ASM",
+    "AR" : "الزنزانة: معالجة ASM Bytecode",
+    "PT" : "Calabouço: Manipulação de Bytecode ASM",
+    "ID" : "Penjara Bawah Tanah: Manipulasi Bytecode ASM",
+    "FR" : "Donjon : Manipulation du bytecode ASM",
+    "JA" : "ダンジョン：ASMバイトコード操作",
+    "RU" : "Подземелье: манипуляции с байт-кодом ASM",
+    "DE" : "Dungeon: ASM-Bytecode-Manipulation",
+    "KO" : "던전: ASM 바이트코드 조작",
+    "IT" : "Dungeon: ASM Bytecode Manipulation"
+  },
+  "format" : "TEXT"
 } ]

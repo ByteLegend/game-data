@@ -142,4 +142,364 @@
     "IT" : "Motore di esecuzione codice byte JVM"
   },
   "format" : "TEXT"
+}, {
+  "id" : "java-classloading-title",
+  "data" : {
+    "EN" : "Class Loading",
+    "ZH_HANS" : "类加载",
+    "ZH_HANT" : "類加載",
+    "ES" : "Carga de clases",
+    "AR" : "تحميل الفصل",
+    "PT" : "Carregando aula",
+    "ID" : "Pemuatan Kelas",
+    "FR" : "Chargement de classe",
+    "JA" : "クラスの読み込み",
+    "RU" : "Загрузка класса",
+    "DE" : "Klasse laden",
+    "KO" : "클래스 로딩",
+    "IT" : "Caricamento della classe"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-classloading-delegation-model-title",
+  "data" : {
+    "EN" : "Delegation Model",
+    "ZH_HANS" : "双亲委派模型",
+    "ZH_HANT" : "雙親委派模型",
+    "ES" : "Modelo de delegación",
+    "AR" : "نموذج التفويض",
+    "PT" : "Modelo de Delegação",
+    "ID" : "Model Delegasi",
+    "FR" : "Modèle de délégation",
+    "JA" : "委任モデル",
+    "RU" : "Модель делегирования",
+    "DE" : "Delegationsmodell",
+    "KO" : "위임 모델",
+    "IT" : "Modello di delega"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "class-linking-initialization-title",
+  "data" : {
+    "EN" : "Class Linking & Initialization",
+    "ZH_HANS" : "类的链接与初始化",
+    "ZH_HANT" : "類的鏈接與初始化",
+    "ES" : "Vinculación e inicialización de clases",
+    "AR" : "ربط الفصل والتهيئة",
+    "PT" : "Vinculação e inicialização de classes",
+    "ID" : "Penautan & Inisialisasi Kelas",
+    "FR" : "Liaison de classe et initialisation",
+    "JA" : "クラスのリンクと初期化",
+    "RU" : "Связывание и инициализация классов",
+    "DE" : "Klassenverknüpfung und Initialisierung",
+    "KO" : "클래스 연결 및 초기화",
+    "IT" : "Collegamento e inizializzazione delle classi"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "build-and-customize-openjdk-title",
+  "data" : {
+    "EN" : "Build & Customize OpenJDK",
+    "ZH_HANS" : "构建与定制OpenJDK",
+    "ZH_HANT" : "構建與定制OpenJDK",
+    "ES" : "Cree y personalice OpenJDK",
+    "AR" : "بناء وتخصيص OpenJDK",
+    "PT" : "Construir e personalizar OpenJDK",
+    "ID" : "Bangun & Sesuaikan OpenJDK",
+    "FR" : "Construire et personnaliser OpenJDK",
+    "JA" : "OpenJDKの構築とカスタマイズ",
+    "RU" : "Сборка и настройка OpenJDK",
+    "DE" : "OpenJDK erstellen und anpassen",
+    "KO" : "OpenJDK 빌드 및 사용자 지정",
+    "IT" : "Crea e personalizza OpenJDK"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-compiler-basics-title",
+  "data" : {
+    "EN" : "Compiler Basics",
+    "ZH_HANS" : "编译器基础",
+    "ZH_HANT" : "編譯器基礎",
+    "ES" : "Conceptos básicos del compilador",
+    "AR" : "أساسيات المترجم",
+    "PT" : "Noções básicas do compilador",
+    "ID" : "Dasar-dasar Kompiler",
+    "FR" : "Bases du compilateur",
+    "JA" : "コンパイラの基本",
+    "RU" : "Основы компилятора",
+    "DE" : "Compiler-Grundlagen",
+    "KO" : "컴파일러 기초",
+    "IT" : "Nozioni di base sul compilatore"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "annotation-processing-title",
+  "data" : {
+    "EN" : "Annotation Processing",
+    "ZH_HANS" : "注解处理",
+    "ZH_HANT" : "註解處理",
+    "ES" : "Procesamiento de anotaciones",
+    "AR" : "معالجة التعليقات التوضيحية",
+    "PT" : "Processamento de Anotação",
+    "ID" : "Pemrosesan Anotasi",
+    "FR" : "Traitement des annotations",
+    "JA" : "注釈処理",
+    "RU" : "Обработка аннотаций",
+    "DE" : "Anmerkungsverarbeitung",
+    "KO" : "주석 처리",
+    "IT" : "Elaborazione delle annotazioni"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "javac-basics-title",
+  "data" : {
+    "EN" : "javac Basics",
+    "ZH_HANS" : "javac基础",
+    "ZH_HANT" : "javac基礎",
+    "ES" : "Conceptos básicos de javac",
+    "AR" : "أساسيات جافا",
+    "PT" : "Javac Basics",
+    "ID" : "Dasar-dasar javac",
+    "FR" : "Bases de Java",
+    "JA" : "javacの基本",
+    "RU" : "Основы javac",
+    "DE" : "Java-Grundlagen",
+    "KO" : "자바 기초",
+    "IT" : "Nozioni di base di javac"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "implement-javac-title",
+  "data" : {
+    "EN" : "Implement a javac",
+    "ZH_HANS" : "动手实现javac",
+    "ZH_HANT" : "動手實現javac",
+    "ES" : "Implementar un javac",
+    "AR" : "تنفيذ javac",
+    "PT" : "Implementar um javac",
+    "ID" : "Menerapkan javac",
+    "FR" : "Mettre en place un java",
+    "JA" : "javacを実装する",
+    "RU" : "Реализуйте javac",
+    "DE" : "Implementieren Sie einen Javac",
+    "KO" : "javac 구현",
+    "IT" : "Implementare un javac"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "implement-custom-compiler-title",
+  "data" : {
+    "EN" : "Implement a compiler",
+    "ZH_HANS" : "动手实现编译器",
+    "ZH_HANT" : "動手實現編譯器",
+    "ES" : "Implementar un compilador",
+    "AR" : "تنفيذ مترجم",
+    "PT" : "Implementar um compilador",
+    "ID" : "Menerapkan kompiler",
+    "FR" : "Implémenter un compilateur",
+    "JA" : "コンパイラを実装する",
+    "RU" : "Реализуйте компилятор",
+    "DE" : "Implementieren eines Compilers",
+    "KO" : "컴파일러 구현",
+    "IT" : "Implementa un compilatore"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-gc-tuning-title",
+  "data" : {
+    "EN" : "GC Tuning",
+    "ZH_HANS" : "GC调优",
+    "ZH_HANT" : "GC調優",
+    "ES" : "Ajuste de GC",
+    "AR" : "ضبط GC",
+    "PT" : "Ajuste de GC",
+    "ID" : "Penyetelan GC",
+    "FR" : "Réglage du CPG",
+    "JA" : "GCチューニング",
+    "RU" : "Настройка ГХ",
+    "DE" : "GC-Tuning",
+    "KO" : "GC 튜닝",
+    "IT" : "Sintonizzazione GC"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-gc-basics-title",
+  "data" : {
+    "EN" : "GC Basics",
+    "ZH_HANS" : "GG基础",
+    "ZH_HANT" : "GG基礎",
+    "ES" : "Conceptos básicos de GC",
+    "AR" : "أساسيات GC",
+    "PT" : "GC Básico",
+    "ID" : "Dasar-dasar GC",
+    "FR" : "Principes de base du GC",
+    "JA" : "GCの基本",
+    "RU" : "Основы ГХ",
+    "DE" : "GC-Grundlagen",
+    "KO" : "GC 기초",
+    "IT" : "Nozioni di base su GC"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-gc-analysis-title",
+  "data" : {
+    "EN" : "GC Analysis",
+    "ZH_HANS" : "GC分析",
+    "ZH_HANT" : "GC分析",
+    "ES" : "Análisis GC",
+    "AR" : "تحليل GC",
+    "PT" : "Análise GC",
+    "ID" : "Analisis GC",
+    "FR" : "Analyse GC",
+    "JA" : "GC分析",
+    "RU" : "ГХ анализ",
+    "DE" : "GC-Analyse",
+    "KO" : "GC 분석",
+    "IT" : "Analisi GC"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "implement-class-reader-title",
+  "data" : {
+    "EN" : "Implement a Class Reader",
+    "ZH_HANS" : "动手实现Class Reader",
+    "ZH_HANT" : "動手實現Class Reader",
+    "ES" : "Implementar un lector de clase",
+    "AR" : "قم بتطبيق قارئ الفصل",
+    "PT" : "Implementar um Class Reader",
+    "ID" : "Terapkan Pembaca Kelas",
+    "FR" : "Implémenter un lecteur de classe",
+    "JA" : "クラスリーダーを実装する",
+    "RU" : "Реализовать средство чтения классов",
+    "DE" : "Implementieren Sie einen Klassenleser",
+    "KO" : "클래스 리더 구현",
+    "IT" : "Implementa un lettore di classe"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "implement-classloaders-title",
+  "data" : {
+    "EN" : "Implement Class Loaders",
+    "ZH_HANS" : "动手实现类加载器",
+    "ZH_HANT" : "動手實現類加載器",
+    "ES" : "Implementar cargadores de clases",
+    "AR" : "تطبيق محمل الفئة",
+    "PT" : "Implementar carregadores de classe",
+    "ID" : "Terapkan Pemuat Kelas",
+    "FR" : "Implémenter des chargeurs de classe",
+    "JA" : "クラスローダーを実装する",
+    "RU" : "Реализовать загрузчики классов",
+    "DE" : "Klassenlader implementieren",
+    "KO" : "클래스 로더 구현",
+    "IT" : "Caricatori di classe attrezzo"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "implement-jvm-execution-engine-title",
+  "data" : {
+    "EN" : "Implement JVM Execution Engine",
+    "ZH_HANS" : "动手实现JVM执行引擎",
+    "ZH_HANT" : "動手實現JVM執行引擎",
+    "ES" : "Implementar el motor de ejecución de JVM",
+    "AR" : "تنفيذ محرك تنفيذ JVM",
+    "PT" : "Implementar JVM Execution Engine",
+    "ID" : "Terapkan Mesin Eksekusi JVM",
+    "FR" : "Implémenter le moteur d'exécution JVM",
+    "JA" : "JVM実行エンジンを実装する",
+    "RU" : "Внедрить механизм выполнения JVM",
+    "DE" : "Implementieren der JVM-Ausführungsengine",
+    "KO" : "JVM 실행 엔진 구현",
+    "IT" : "Implementa il motore di esecuzione JVM"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-troubleshoot-oom-title",
+  "data" : {
+    "EN" : "Troubleshooting OOM issues",
+    "ZH_HANS" : "OOM问题排查",
+    "ZH_HANT" : "OOM問題排查",
+    "ES" : "Solución de problemas de OOM",
+    "AR" : "استكشاف مشكلات OOM وإصلاحها",
+    "PT" : "Solução de problemas de OOM",
+    "ID" : "Memecahkan masalah OOM",
+    "FR" : "Dépannage des problèmes de MOO",
+    "JA" : "OOMの問題のトラブルシューティング",
+    "RU" : "Устранение проблем с OOM",
+    "DE" : "Fehlerbehebung bei OOM-Problemen",
+    "KO" : "OOM 문제 해결",
+    "IT" : "Risoluzione dei problemi di OOM"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-troubleshoot-classloading-issue-title",
+  "data" : {
+    "EN" : "Troubleshooting Classloading issues",
+    "ZH_HANS" : "类加载问题排查",
+    "ZH_HANT" : "類加載問題排查",
+    "ES" : "Solución de problemas de carga de clases",
+    "AR" : "استكشاف مشكلات تحميل الفصل وإصلاحها",
+    "PT" : "Solução de problemas de carregamento de classe",
+    "ID" : "Memecahkan masalah Pemuatan Kelas",
+    "FR" : "Dépannage des problèmes de chargement de classe",
+    "JA" : "クラスローディングの問題のトラブルシューティング",
+    "RU" : "Устранение проблем с загрузкой классов",
+    "DE" : "Fehlerbehebung bei Classloading-Problemen",
+    "KO" : "클래스 로딩 문제 해결",
+    "IT" : "Risoluzione dei problemi relativi al caricamento delle classi"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-troubleshoot-package-conflict-title",
+  "data" : {
+    "EN" : "Troubleshooting Package Conflict",
+    "ZH_HANS" : "包冲突问题排查",
+    "ZH_HANT" : "包衝突問題排查",
+    "ES" : "Solución de problemas de conflictos de paquetes",
+    "AR" : "استكشاف أخطاء حزمة التعارض وإصلاحها",
+    "PT" : "Solução de problemas de conflito de pacotes",
+    "ID" : "Memecahkan Masalah Konflik Paket",
+    "FR" : "Dépannage des conflits de packages",
+    "JA" : "パッケージの競合のトラブルシューティング",
+    "RU" : "Устранение неполадок, связанных с конфликтом пакетов",
+    "DE" : "Fehlerbehebung bei Paketkonflikten",
+    "KO" : "패키지 충돌 문제 해결",
+    "IT" : "Risoluzione dei problemi di conflitto di pacchetti"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-gc-selection-title",
+  "data" : {
+    "EN" : "Garbage Collector Selection",
+    "ZH_HANS" : "垃圾回收器选择",
+    "ZH_HANT" : "垃圾回收器選擇",
+    "ES" : "Selección del recolector de basura",
+    "AR" : "اختيار جامع القمامة",
+    "PT" : "Seleção de coletor de lixo",
+    "ID" : "Seleksi Pemungut Sampah",
+    "FR" : "Sélection du collecteur d'ordures",
+    "JA" : "ガベージコレクターの選択",
+    "RU" : "Выбор сборщика мусора",
+    "DE" : "Auswahl des Müllsammlers",
+    "KO" : "가비지 컬렉터 선택",
+    "IT" : "Selezione del raccoglitore di immondizia"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-agent-technology-title",
+  "data" : {
+    "EN" : "Java Agent Technology",
+    "ZH_HANS" : "Java Agent技术",
+    "ZH_HANT" : "Java Agent技術",
+    "ES" : "Tecnología de agente de Java",
+    "AR" : "تقنية وكيل جافا",
+    "PT" : "Java Agent Technology",
+    "ID" : "Teknologi Agen Java",
+    "FR" : "Technologie d'agent Java",
+    "JA" : "Javaエージェントテクノロジー",
+    "RU" : "Технология Java-агентов",
+    "DE" : "Java-Agent-Technologie",
+    "KO" : "자바 에이전트 기술",
+    "IT" : "Tecnologia dell'agente Java"
+  },
+  "format" : "TEXT"
 } ]

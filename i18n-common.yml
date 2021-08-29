@@ -548,3 +548,35 @@
   data:
     EN: "Senior Java Castle"
     ZH_HANS: "高级Java城堡"
+- id: JavaIslandJUnitDungeon
+  data:
+    EN: "Dungeon: JUnit"
+    ZH_HANS: "地下城：JUnit"
+- id: RedisIsland
+  data:
+    EN: "Redis Island"
+    ZH_HANS: "Redis岛"
+- id: JavaRPCDungeon
+  data:
+    EN: "Dungeon: RPC"
+    ZH_HANS: "地下城：RPC"
+- id: DistributedSystemIsland
+  data:
+    EN: "Distributed System Island"
+    ZH_HANS: "分布式系统岛"
+- id: MessageQueueIsland
+  data:
+    EN: "Message Queue Island"
+    ZH_HANS: "消息队列岛"
+- id: OpenJDKDungeon
+  data:
+    EN: "Dungeon: OpenJDK"
+    ZH_HANS: "地下城：OpenJDK"
+- id: JavaPerformanceDungeon
+  data:
+    EN: "Dungeon: Java Performance Tuning"
+    ZH_HANS: "地下城：Java性能调优"
+- id: JavaASMDungeon
+  data:
+    EN: "Dungeon: ASM Bytecode Manipulation"
+    ZH_HANS: "地下城：ASM字节码操纵"

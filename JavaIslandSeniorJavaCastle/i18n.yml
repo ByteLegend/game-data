@@ -31,3 +31,83 @@
   data:
     EN: JVM Bytecode Execution Engine
     ZH_HANS: JVM字节码执行引擎
+- id: "java-classloading-title"
+  data:
+    EN: "Class Loading"
+    ZH_HANS: "类加载"
+- id: "java-classloading-delegation-model-title"
+  data:
+    EN: "Delegation Model"
+    ZH_HANS: "双亲委派模型"
+- id: "class-linking-initialization-title"
+  data:
+    EN: "Class Linking & Initialization"
+    ZH_HANS: "类的链接与初始化"
+- id: "build-and-customize-openjdk-title"
+  data:
+    EN: "Build & Customize OpenJDK"
+    ZH_HANS: "构建与定制OpenJDK"
+- id: "java-compiler-basics-title"
+  data:
+    EN: "Compiler Basics"
+    ZH_HANS: "编译器基础"
+- id: "annotation-processing-title"
+  data:
+    EN: "Annotation Processing"
+    ZH_HANS: "注解处理"
+- id: "javac-basics-title"
+  data:
+    EN: "javac Basics"
+    ZH_HANS: "javac基础"
+- id: "implement-javac-title"
+  data:
+    EN: "Implement a javac"
+    ZH_HANS: "动手实现javac"
+- id: "implement-custom-compiler-title"
+  data:
+    EN: "Implement a compiler"
+    ZH_HANS: "动手实现编译器"
+- id: "java-gc-tuning-title"
+  data:
+    EN: "GC Tuning"
+    ZH_HANS: "GC调优"
+- id: "java-gc-basics-title"
+  data:
+    EN: "GC Basics"
+    ZH_HANS: "GG基础"
+- id: "java-gc-analysis-title"
+  data:
+    EN: "GC Analysis"
+    ZH_HANS: "GC分析"
+- id: "implement-class-reader-title"
+  data:
+    EN: "Implement a Class Reader"
+    ZH_HANS: "动手实现Class Reader"
+- id: "implement-classloaders-title"
+  data:
+    EN: "Implement Class Loaders"
+    ZH_HANS: "动手实现类加载器"
+- id: "implement-jvm-execution-engine-title"
+  data:
+    EN: "Implement JVM Execution Engine"
+    ZH_HANS: "动手实现JVM执行引擎"
+- id: "java-troubleshoot-oom-title"
+  data:
+    EN: "Troubleshooting OOM issues"
+    ZH_HANS: "OOM问题排查"
+- id: "java-troubleshoot-classloading-issue-title"
+  data:
+    EN: "Troubleshooting Classloading issues"
+    ZH_HANS: "类加载问题排查"
+- id: "java-troubleshoot-package-conflict-title"
+  data:
+    EN: "Troubleshooting Package Conflict"
+    ZH_HANS: "包冲突问题排查"
+- id: "java-gc-selection-title"
+  data:
+    EN: "Garbage Collector Selection"
+    ZH_HANS: "垃圾回收器选择"
+- id: "java-agent-technology-title"
+  data:
+    EN: "Java Agent Technology"
+    ZH_HANS: "Java Agent技术"
