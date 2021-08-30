@@ -92,9 +92,8 @@
   data:
     EN: |
       Java island used to be a beautiful and fertile land, but since some point there are many poisonous <span style='color:red'>bugs</span> on the island.
-      And the poison is contagious - it is said that bugs is the biggest crisis on the island since COVID.
     ZH_HANS: |
-      爪哇岛从前是一块美丽富饶的土地，但是不知道从什么时候开始，岛上出现了很多有毒的<span style='color:red'>幺蛾子</span>。并且幺蛾子毒会传染，据说幺蛾子是自新冠病毒以来岛上最大的危机。
+      爪哇岛从前是一块美丽富饶的土地，但是不知道从什么时候开始，岛上出现了很多有毒的<span style='color:red'>幺蛾子</span>。
 - id: Bugs
   format: HTML
   data:
@@ -116,8 +115,8 @@
     ZH_HANS: 你在找咖啡么？你得自己动手了，<span style='color:red'>{0}</span>有一个咖啡机。
 - id: ThatsWhyWeDontGoOutAfterDark
   data:
-    EN: Yes. That's why we can't go out.
-    ZH_HANS: 是的。这就是我们不能出门的原因。
+    EN: Yes. And the poison is contagious - it is said that bugs are the biggest crisis on the island since COVID.
+    ZH_HANS: 是的。并且幺蛾子毒会传染，据说幺蛾子是自新冠病毒以来岛上最大的危机。
 - id: DoYouHaveCoffee
   data:
     EN: Hi, do you have coffee?
