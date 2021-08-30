@@ -81,20 +81,20 @@
     ZH_HANS: 喂！离我女儿远一点！
 - id: SorryMyFatherDoesntAllow
   data:
-    EN: Sorry, my father doesn't allow me to go out because the Java Island is in lockdown.
-    ZH_HANS: 对不起，我爸爸不让我出去，爪哇岛被封岛了。
+    EN: Sorry, my father doesn't allow me to go out.
+    ZH_HANS: 对不起，我爸爸不让我出去。
 - id: Why
   data:
-    EN: Why? Because of ... COVID?
-    ZH_HANS: 为什么？因为……新冠病毒？
+    EN: Why?
+    ZH_HANS: 为什么？
 - id: HugeBugsOnJavaIsland
   format: HTML
   data:
     EN: |
       Java island used to be a beautiful and fertile land, but since some point there are many poisonous <span style='color:red'>bugs</span> on the island.
-      And the poison is contagious.
+      And the poison is contagious - it is said that bugs is the biggest crisis on the island since COVID.
     ZH_HANS: |
-      爪哇岛从前是一块美丽富饶的土地，但是不知道从什么时候开始，岛上出现了很多有毒的<span style='color:red'>幺蛾子</span>。并且幺蛾子毒会传染。
+      爪哇岛从前是一块美丽富饶的土地，但是不知道从什么时候开始，岛上出现了很多有毒的<span style='color:red'>幺蛾子</span>。并且幺蛾子毒会传染，据说幺蛾子是自新冠病毒以来岛上最大的危机。
 - id: Bugs
   format: HTML
   data:
