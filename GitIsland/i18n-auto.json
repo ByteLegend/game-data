@@ -1,1 +1,271 @@
-[ ]
+[ {
+  "id" : "install-git-title",
+  "data" : {
+    "EN" : "Install Git",
+    "ZH_HANS" : "安装Git",
+    "ZH_HANT" : "安裝Git",
+    "ES" : "Instalar Git",
+    "AR" : "قم بتثبيت Git",
+    "PT" : "Instale Git",
+    "ID" : "Instal Git",
+    "FR" : "Installer Git",
+    "JA" : "Gitをインストールする",
+    "RU" : "Установить Git",
+    "DE" : "Git . installieren",
+    "KO" : "힘내 설치",
+    "IT" : "Installa Git"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "git-cherry-pick-title",
+  "data" : {
+    "EN" : "<span class=\"notranslate\">Git Cherry-pick</span>",
+    "ZH_HANS" : "<span class=\"notranslate\">Git Cherry-pick</span>",
+    "ZH_HANT" : "<span class=\"notranslate\">Git Cherry-pick</span>",
+    "ES" : "<span class=\"notranslate\">Git Cherry-pick</span>",
+    "AR" : "<span class=\"notranslate\">Git Cherry-pick</span>",
+    "PT" : "<span class=\"notranslate\">Git Cherry-pick</span>",
+    "ID" : "<span class=\"notranslate\">Git Cherry-pick</span>",
+    "FR" : "<span class=\"notranslate\">Git Cherry-pick</span>",
+    "JA" : "<span class=\"notranslate\">Git Cherry-pick</span>",
+    "RU" : "<span class=\"notranslate\">Git Cherry-pick</span>",
+    "DE" : "<span class=\"notranslate\">Git Cherry-pick</span>",
+    "KO" : "<span class=\"notranslate\">Git Cherry-pick</span>",
+    "IT" : "<span class=\"notranslate\">Git Cherry-pick</span>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "git-commit-and-branch-title",
+  "data" : {
+    "EN" : "<span class=\"notranslate\">Git Commit & Branch</span>",
+    "ZH_HANS" : "Git提交与分支",
+    "ZH_HANT" : "Git提交與分支",
+    "ES" : "<span class=\"notranslate\">Git Commit & Branch</span>",
+    "AR" : "<span class=\"notranslate\">Git Commit & Branch</span>",
+    "PT" : "<span class=\"notranslate\">Git Commit & Branch</span>",
+    "ID" : "<span class=\"notranslate\">Git Commit & Branch</span>",
+    "FR" : "<span class=\"notranslate\">Git Commit & Branch</span>",
+    "JA" : "<span class=\"notranslate\">Git Commit & Branch</span>",
+    "RU" : "<span class=\"notranslate\">Git Commit & Branch</span>",
+    "DE" : "<span class=\"notranslate\">Git Commit & Branch</span>",
+    "KO" : "<span class=\"notranslate\">Git Commit & Branch</span>",
+    "IT" : "<span class=\"notranslate\">Git Commit & Branch</span>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "git-merge-and-rebase-title",
+  "data" : {
+    "EN" : "<span class=\"notranslate\">Git Merge & Rebase</span>",
+    "ZH_HANS" : "<span class=\"notranslate\">Git Merge & Rebase</span>",
+    "ZH_HANT" : "<span class=\"notranslate\">Git Merge & Rebase</span>",
+    "ES" : "<span class=\"notranslate\">Git Merge & Rebase</span>",
+    "AR" : "<span class=\"notranslate\">Git Merge & Rebase</span>",
+    "PT" : "<span class=\"notranslate\">Git Merge & Rebase</span>",
+    "ID" : "<span class=\"notranslate\">Git Merge & Rebase</span>",
+    "FR" : "<span class=\"notranslate\">Git Merge & Rebase</span>",
+    "JA" : "<span class=\"notranslate\">Git Merge & Rebase</span>",
+    "RU" : "<span class=\"notranslate\">Git Merge & Rebase</span>",
+    "DE" : "<span class=\"notranslate\">Git Merge & Rebase</span>",
+    "KO" : "<span class=\"notranslate\">Git Merge & Rebase</span>",
+    "IT" : "<span class=\"notranslate\">Git Merge & Rebase</span>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "git-push-and-pull-title",
+  "data" : {
+    "EN" : "<span class=\"notranslate\">Git Push & Pull</span>",
+    "ZH_HANS" : "<span class=\"notranslate\">Git Push & Pull</span>",
+    "ZH_HANT" : "<span class=\"notranslate\">Git Push & Pull</span>",
+    "ES" : "<span class=\"notranslate\">Git Push & Pull</span>",
+    "AR" : "<span class=\"notranslate\">Git Push & Pull</span>",
+    "PT" : "<span class=\"notranslate\">Git Push & Pull</span>",
+    "ID" : "<span class=\"notranslate\">Git Push & Pull</span>",
+    "FR" : "<span class=\"notranslate\">Git Push & Pull</span>",
+    "JA" : "<span class=\"notranslate\">Git Push & Pull</span>",
+    "RU" : "<span class=\"notranslate\">Git Push & Pull</span>",
+    "DE" : "<span class=\"notranslate\">Git Push & Pull</span>",
+    "KO" : "<span class=\"notranslate\">Git Push & Pull</span>",
+    "IT" : "<span class=\"notranslate\">Git Push & Pull</span>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "git-revisions-title",
+  "data" : {
+    "EN" : "<span class=\"notranslate\">Git Revisions</span>",
+    "ZH_HANS" : "<span class=\"notranslate\">Git Revisions</span>",
+    "ZH_HANT" : "<span class=\"notranslate\">Git Revisions</span>",
+    "ES" : "<span class=\"notranslate\">Git Revisions</span>",
+    "AR" : "<span class=\"notranslate\">Git Revisions</span>",
+    "PT" : "<span class=\"notranslate\">Git Revisions</span>",
+    "ID" : "<span class=\"notranslate\">Git Revisions</span>",
+    "FR" : "<span class=\"notranslate\">Git Revisions</span>",
+    "JA" : "<span class=\"notranslate\">Git Revisions</span>",
+    "RU" : "<span class=\"notranslate\">Git Revisions</span>",
+    "DE" : "<span class=\"notranslate\">Git Revisions</span>",
+    "KO" : "<span class=\"notranslate\">Git Revisions</span>",
+    "IT" : "<span class=\"notranslate\">Git Revisions</span>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "git-bisect-title",
+  "data" : {
+    "EN" : "<span class=\"notranslate\">Git Bisect</span>",
+    "ZH_HANS" : "<span class=\"notranslate\">Git Bisect</span>",
+    "ZH_HANT" : "<span class=\"notranslate\">Git Bisect</span>",
+    "ES" : "<span class=\"notranslate\">Git Bisect</span>",
+    "AR" : "<span class=\"notranslate\">Git Bisect</span>",
+    "PT" : "<span class=\"notranslate\">Git Bisect</span>",
+    "ID" : "<span class=\"notranslate\">Git Bisect</span>",
+    "FR" : "<span class=\"notranslate\">Git Bisect</span>",
+    "JA" : "<span class=\"notranslate\">Git Bisect</span>",
+    "RU" : "<span class=\"notranslate\">Git Bisect</span>",
+    "DE" : "<span class=\"notranslate\">Git Bisect</span>",
+    "KO" : "<span class=\"notranslate\">Git Bisect</span>",
+    "IT" : "<span class=\"notranslate\">Git Bisect</span>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "git-checkout-and-reset-title",
+  "data" : {
+    "EN" : "<span class=\"notranslate\">Git Checkout & Reset</span>",
+    "ZH_HANS" : "<span class=\"notranslate\">Git Checkout & Reset</span>",
+    "ZH_HANT" : "<span class=\"notranslate\">Git Checkout & Reset</span>",
+    "ES" : "<span class=\"notranslate\">Git Checkout & Reset</span>",
+    "AR" : "<span class=\"notranslate\">Git Checkout & Reset</span>",
+    "PT" : "<span class=\"notranslate\">Git Checkout & Reset</span>",
+    "ID" : "<span class=\"notranslate\">Git Checkout & Reset</span>",
+    "FR" : "<span class=\"notranslate\">Git Checkout & Reset</span>",
+    "JA" : "<span class=\"notranslate\">Git Checkout & Reset</span>",
+    "RU" : "<span class=\"notranslate\">Git Checkout & Reset</span>",
+    "DE" : "<span class=\"notranslate\">Git Checkout & Reset</span>",
+    "KO" : "<span class=\"notranslate\">Git Checkout & Reset</span>",
+    "IT" : "<span class=\"notranslate\">Git Checkout & Reset</span>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "git-revert-title",
+  "data" : {
+    "EN" : "<span class=\"notranslate\">Git Revert</span>",
+    "ZH_HANS" : "<span class=\"notranslate\">Git Revert</span>",
+    "ZH_HANT" : "<span class=\"notranslate\">Git Revert</span>",
+    "ES" : "<span class=\"notranslate\">Git Revert</span>",
+    "AR" : "<span class=\"notranslate\">Git Revert</span>",
+    "PT" : "<span class=\"notranslate\">Git Revert</span>",
+    "ID" : "<span class=\"notranslate\">Git Revert</span>",
+    "FR" : "<span class=\"notranslate\">Git Revert</span>",
+    "JA" : "<span class=\"notranslate\">Git Revert</span>",
+    "RU" : "<span class=\"notranslate\">Git Revert</span>",
+    "DE" : "<span class=\"notranslate\">Git Revert</span>",
+    "KO" : "<span class=\"notranslate\">Git Revert</span>",
+    "IT" : "<span class=\"notranslate\">Git Revert</span>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "git-fetch-title",
+  "data" : {
+    "EN" : "<span class=\"notranslate\">Git Fetch</span>",
+    "ZH_HANS" : "<span class=\"notranslate\">Git Fetch</span>",
+    "ZH_HANT" : "<span class=\"notranslate\">Git Fetch</span>",
+    "ES" : "<span class=\"notranslate\">Git Fetch</span>",
+    "AR" : "<span class=\"notranslate\">Git Fetch</span>",
+    "PT" : "<span class=\"notranslate\">Git Fetch</span>",
+    "ID" : "<span class=\"notranslate\">Git Fetch</span>",
+    "FR" : "<span class=\"notranslate\">Git Fetch</span>",
+    "JA" : "<span class=\"notranslate\">Git Fetch</span>",
+    "RU" : "<span class=\"notranslate\">Git Fetch</span>",
+    "DE" : "<span class=\"notranslate\">Git Fetch</span>",
+    "KO" : "<span class=\"notranslate\">Git Fetch</span>",
+    "IT" : "<span class=\"notranslate\">Git Fetch</span>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "git-tag-title",
+  "data" : {
+    "EN" : "<span class=\"notranslate\">Git Fetch</span>",
+    "ZH_HANS" : "Git标签",
+    "ZH_HANT" : "Git標籤",
+    "ES" : "<span class=\"notranslate\">Git Fetch</span>",
+    "AR" : "<span class=\"notranslate\">Git Fetch</span>",
+    "PT" : "<span class=\"notranslate\">Git Fetch</span>",
+    "ID" : "<span class=\"notranslate\">Git Fetch</span>",
+    "FR" : "<span class=\"notranslate\">Git Fetch</span>",
+    "JA" : "<span class=\"notranslate\">Git Fetch</span>",
+    "RU" : "<span class=\"notranslate\">Git Fetch</span>",
+    "DE" : "<span class=\"notranslate\">Git Fetch</span>",
+    "KO" : "<span class=\"notranslate\">Git Fetch</span>",
+    "IT" : "<span class=\"notranslate\">Git Fetch</span>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "git-remote-title",
+  "data" : {
+    "EN" : "<span class=\"notranslate\">Git Remote</span>",
+    "ZH_HANS" : "<span class=\"notranslate\">Git Remote</span>",
+    "ZH_HANT" : "<span class=\"notranslate\">Git Remote</span>",
+    "ES" : "<span class=\"notranslate\">Git Remote</span>",
+    "AR" : "<span class=\"notranslate\">Git Remote</span>",
+    "PT" : "<span class=\"notranslate\">Git Remote</span>",
+    "ID" : "<span class=\"notranslate\">Git Remote</span>",
+    "FR" : "<span class=\"notranslate\">Git Remote</span>",
+    "JA" : "<span class=\"notranslate\">Git Remote</span>",
+    "RU" : "<span class=\"notranslate\">Git Remote</span>",
+    "DE" : "<span class=\"notranslate\">Git Remote</span>",
+    "KO" : "<span class=\"notranslate\">Git Remote</span>",
+    "IT" : "<span class=\"notranslate\">Git Remote</span>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "git-collaboration-title",
+  "data" : {
+    "EN" : "Git Collaboration",
+    "ZH_HANS" : "Git协作",
+    "ZH_HANT" : "Git協作",
+    "ES" : "Colaboración con Git",
+    "AR" : "تعاون Git",
+    "PT" : "Colaboração Git",
+    "ID" : "Kolaborasi Git",
+    "FR" : "Collaboration Git",
+    "JA" : "Gitコラボレーション",
+    "RU" : "Совместная работа с Git",
+    "DE" : "Git-Zusammenarbeit",
+    "KO" : "힘내 협업",
+    "IT" : "Collaborazione Git"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "git-server-title",
+  "data" : {
+    "EN" : "Git Server",
+    "ZH_HANS" : "Git服务器 ",
+    "ZH_HANT" : "Git服務器 ",
+    "ES" : "Servidor Git",
+    "AR" : "خادم بوابة",
+    "PT" : "Servidor Git",
+    "ID" : "Git Server",
+    "FR" : "Serveur Git",
+    "JA" : "Gitサーバー",
+    "RU" : "Сервер Git",
+    "DE" : "Git-Server",
+    "KO" : "힘내 서버",
+    "IT" : "Server Git"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "git-stash-title",
+  "data" : {
+    "EN" : "<span class=\"notranslate\">Git Stash</span>",
+    "ZH_HANS" : "<span class=\"notranslate\">Git Stash</span>",
+    "ZH_HANT" : "<span class=\"notranslate\">Git Stash</span>",
+    "ES" : "<span class=\"notranslate\">Git Stash</span>",
+    "AR" : "<span class=\"notranslate\">Git Stash</span>",
+    "PT" : "<span class=\"notranslate\">Git Stash</span>",
+    "ID" : "<span class=\"notranslate\">Git Stash</span>",
+    "FR" : "<span class=\"notranslate\">Git Stash</span>",
+    "JA" : "<span class=\"notranslate\">Git Stash</span>",
+    "RU" : "<span class=\"notranslate\">Git Stash</span>",
+    "DE" : "<span class=\"notranslate\">Git Stash</span>",
+    "KO" : "<span class=\"notranslate\">Git Stash</span>",
+    "IT" : "<span class=\"notranslate\">Git Stash</span>"
+  },
+  "format" : "HTML"
+} ]

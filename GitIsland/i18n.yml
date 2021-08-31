@@ -1,0 +1,62 @@
+- id: "install-git-title"
+  data:
+    EN: "Install Git"
+    ZH_HANS: "安装Git"
+- id: "git-cherry-pick-title"
+  format: HTML
+  data:
+    EN: <span class="notranslate">Git Cherry-pick</span>
+- id: "git-commit-and-branch-title"
+  format: HTML
+  data:
+    EN: <span class="notranslate">Git Commit & Branch</span>
+    ZH_HANS: Git提交与分支
+- id: "git-merge-and-rebase-title"
+  format: HTML
+  data:
+    EN: <span class="notranslate">Git Merge & Rebase</span>
+- id: "git-push-and-pull-title"
+  format: HTML
+  data:
+    EN: <span class="notranslate">Git Push & Pull</span>
+- id: "git-revisions-title"
+  format: HTML
+  data:
+    EN: <span class="notranslate">Git Revisions</span>
+- id: "git-bisect-title"
+  format: HTML
+  data:
+    EN: <span class="notranslate">Git Bisect</span>
+- id: "git-checkout-and-reset-title"
+  format: HTML
+  data:
+    EN: <span class="notranslate">Git Checkout & Reset</span>
+- id: "git-revert-title"
+  format: HTML
+  data:
+    EN: <span class="notranslate">Git Revert</span>
+- id: "git-fetch-title"
+  format: HTML
+  data:
+    EN: <span class="notranslate">Git Fetch</span>
+- id: "git-tag-title"
+  format: HTML
+  data:
+    EN: <span class="notranslate">Git Fetch</span>
+    ZH_HANS: "Git标签"
+- id: "git-remote-title"
+  format: HTML
+  data:
+    EN: <span class="notranslate">Git Remote</span>
+- id: "git-collaboration-title"
+  data:
+    EN: "Git Collaboration"
+    ZH_HANS: "Git协作"
+- id: "git-server-title"
+  data:
+    EN: "Git Server"
+    ZH_HANS: "Git服务器 "
+- id: "git-stash-title"
+  format: HTML
+  data:
+    EN: <span class="notranslate">Git Stash</span>
