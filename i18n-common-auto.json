@@ -2176,4 +2176,58 @@
     "IT" : "Dungeon: ASM Bytecode Manipulation"
   },
   "format" : "TEXT"
+}, {
+  "id" : "NowLivestreaming",
+  "data" : {
+    "EN" : "Now Live Streaming: ",
+    "ZH_HANS" : "正在直播： ",
+    "ZH_HANT" : "正在直播： ",
+    "ES" : "Ahora transmisión en vivo:",
+    "AR" : "الآن البث المباشر:",
+    "PT" : "Transmissão ao vivo agora:",
+    "ID" : "Sekarang Siaran Langsung:",
+    "FR" : "Diffusion en direct maintenant :",
+    "JA" : "現在ライブストリーミング：",
+    "RU" : "Сейчас прямая трансляция:",
+    "DE" : "Jetzt Live-Streaming:",
+    "KO" : "지금 라이브 스트리밍:",
+    "IT" : "Ora in diretta streaming:"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "IncomingLivestreaming",
+  "data" : {
+    "EN" : "Incoming Live Stream: ",
+    "ZH_HANS" : "直播预告： ",
+    "ZH_HANT" : "直播預告： ",
+    "ES" : "Transmisión en vivo entrante:",
+    "AR" : "البث المباشر الوارد:",
+    "PT" : "Recebendo transmissão ao vivo:",
+    "ID" : "Streaming Langsung Masuk:",
+    "FR" : "Diffusion en direct entrante :",
+    "JA" : "着信ライブストリーム：",
+    "RU" : "Входящий прямой эфир:",
+    "DE" : "Eingehender Livestream:",
+    "KO" : "수신 라이브 스트림:",
+    "IT" : "Streaming live in arrivo:"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "BannerClosedIn",
+  "data" : {
+    "EN" : "Auto Closed in",
+    "ZH_HANS" : "自动关闭通知",
+    "ZH_HANT" : "自動關閉通知",
+    "ES" : "Auto cerrado en",
+    "AR" : "إغلاق تلقائي في",
+    "PT" : "Fechado automaticamente em",
+    "ID" : "Otomatis Tertutup",
+    "FR" : "Fermé automatiquement dans",
+    "JA" : "自動クローズ",
+    "RU" : "Авто закрыто в",
+    "DE" : "Automatisch geschlossen in",
+    "KO" : "자동 폐쇄",
+    "IT" : "Chiusura automatica in"
+  },
+  "format" : "TEXT"
 } ]
