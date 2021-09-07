@@ -34,3 +34,18 @@ tutorials:
     href: https://www.bilibili.com/video/BV1tE411V7xA
     type: video/bilibili
     language: ZH_HANS
+  - id: How-to-Install-Java-JDK-on-Windows-10
+    title: How to Install Java JDK on Windows 10
+    href: https://www.youtube.com/watch?v=IJ-PJbvJBGs
+    type: video/youtube
+    language: EN
+  - id: How-to-Install-Java-JDK-on-Windows-10-2021-update
+    title: How to install Java JDK on Windows 10 [ 2021 Update ] Step by Step JDK Installation
+    href: https://www.youtube.com/watch?v=MxjjRmm0k-I
+    type: video/youtube
+    language: EN
+  - id: How-to-Install-Java-on-Mac
+    title: How to Install Java on Mac | Install Java JDK on macOS
+    href: https://www.youtube.com/watch?v=pxi3iIy4F5A
+    type: video/youtube
+    language: EN
