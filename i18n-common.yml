@@ -605,3 +605,14 @@
   data:
     EN: "Auto Closed in"
     ZH_HANS: "自动关闭通知"
+- id: ContributeBetterTutorials
+  data:
+    EN: "Contribute Better Tutorials"
+    ZH_HANS: "贡献更好的教程"
+- id: ContributeBetterTutorialsTooltip
+  data:
+    EN: |
+      Remember we are opensource? You can contribute better tutorials
+      by creating a pull request. We appreciate your contribution.
+    ZH_HANS: |
+      我们是开源的，您可以通过提交Pull Request贡献您认为更好的教程。我们十分感谢您的贡献。
