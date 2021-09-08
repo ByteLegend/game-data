@@ -29,3 +29,8 @@ tutorials:
     href: https://www.youtube.com/watch?v=17Xmu99vP4c
     type: video/youtube
     language: EN
+  - id: HowToInstallJava
+    title: 如何安装 Java
+    href: https://zhuanlan.zhihu.com/p/408125122
+    type: text/zhihu
+    language: ZH_HANS
