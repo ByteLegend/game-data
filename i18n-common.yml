@@ -618,3 +618,7 @@
     ZH_HANS: |
       我们是开源的，您可以通过提交Pull Request贡献您认为更好的教程。我们十分感谢您的贡献。
       请点击右边的帮助按钮以了解如何做。
+- id: ThereIsNoTutorialCurrently
+  data:
+    EN: There is no tutorials currently. You can contribute some by clicking the button left.
+    ZH_HANS: 当前没有任何教程。您可以点击左边的按钮贡献一些。

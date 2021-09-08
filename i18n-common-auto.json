@@ -2266,4 +2266,22 @@
     "IT" : "Ricordi che siamo opensource? Puoi contribuire con tutorial migliori\ncreando una richiesta pull. Apprezziamo il tuo contributo.\nFare clic sull'icona della guida sul lato destro per vedere come farlo.\n"
   },
   "format" : "TEXT"
+}, {
+  "id" : "ThereIsNoTutorialCurrently",
+  "data" : {
+    "EN" : "There is no tutorials currently. You can contribute some by clicking the button left.",
+    "ZH_HANS" : "当前没有任何教程。您可以点击左边的按钮贡献一些。",
+    "ZH_HANT" : "當前沒有任何教程。您可以點擊左邊的按鈕貢獻一些。",
+    "ES" : "Actualmente no hay tutoriales. Puedes contribuir con algunos haciendo clic en el botón de la izquierda.",
+    "AR" : "لا توجد دروس حاليا. يمكنك المساهمة ببعض من خلال النقر على الزر الأيسر.",
+    "PT" : "Não há tutoriais atualmente. Você pode contribuir com alguns clicando no botão esquerdo.",
+    "ID" : "Tidak ada tutorial saat ini. Anda dapat berkontribusi dengan mengklik tombol kiri.",
+    "FR" : "Il n'y a pas de tutoriels actuellement. Vous pouvez contribuer en cliquant sur le bouton gauche.",
+    "JA" : "現在、チュートリアルはありません。左のボタンをクリックすると、寄付をすることができます。",
+    "RU" : "В настоящее время нет обучающих программ. Вы можете внести свой вклад, нажав кнопку слева.",
+    "DE" : "Derzeit gibt es keine Tutorials. Sie können etwas beitragen, indem Sie auf die Schaltfläche links klicken.",
+    "KO" : "현재 튜토리얼이 없습니다. 왼쪽 버튼을 클릭하여 일부를 기여할 수 있습니다.",
+    "IT" : "Al momento non ci sono tutorial. Puoi contribuire facendo clic sul pulsante a sinistra."
+  },
+  "format" : "TEXT"
 } ]
