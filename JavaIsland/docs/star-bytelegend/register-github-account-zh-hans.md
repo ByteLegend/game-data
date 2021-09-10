@@ -1,4 +1,4 @@
-# 2021 GitHub 注册教程
+# 如何注册 GitHub 账号
 
 打开 [GitHub](https://github.com)官网，点击右上角的**Sign up**，进入注册页面。
 
