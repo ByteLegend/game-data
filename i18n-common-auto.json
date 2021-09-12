@@ -2284,4 +2284,40 @@
     "IT" : "Al momento non ci sono tutorial. Puoi contribuire facendo clic sul pulsante a sinistra."
   },
   "format" : "TEXT"
+}, {
+  "id" : "DailyLoginReward",
+  "data" : {
+    "EN" : "Daily login reward",
+    "ZH_HANS" : "每日登录奖励",
+    "ZH_HANT" : "每日登錄獎勵",
+    "ES" : "Recompensa de inicio de sesión diaria",
+    "AR" : "مكافأة تسجيل الدخول اليومية",
+    "PT" : "Recompensa de login diário",
+    "ID" : "Hadiah masuk harian",
+    "FR" : "Récompense de connexion quotidienne",
+    "JA" : "毎日のログイン報酬",
+    "RU" : "Награда за ежедневный вход",
+    "DE" : "Tägliche Login-Belohnung",
+    "KO" : "일일 로그인 보상",
+    "IT" : "Ricompensa per l'accesso giornaliero"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "ContinuousLoginReward",
+  "data" : {
+    "EN" : "Continuous login reward",
+    "ZH_HANS" : "连续登录奖励",
+    "ZH_HANT" : "連續登錄獎勵",
+    "ES" : "Recompensa de inicio de sesión continuo",
+    "AR" : "مكافأة تسجيل الدخول المستمر",
+    "PT" : "Recompensa de login contínuo",
+    "ID" : "Hadiah masuk terus menerus",
+    "FR" : "Récompense de connexion continue",
+    "JA" : "継続的なログイン報酬",
+    "RU" : "Вознаграждение за непрерывный вход",
+    "DE" : "Kontinuierliche Login-Belohnung",
+    "KO" : "지속적인 로그인 보상",
+    "IT" : "Ricompensa per l'accesso continuo"
+  },
+  "format" : "TEXT"
 } ]

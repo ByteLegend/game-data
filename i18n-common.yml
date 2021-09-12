@@ -622,3 +622,11 @@
   data:
     EN: There is no tutorials currently. You can contribute some by clicking the button left.
     ZH_HANS: 当前没有任何教程。您可以点击左边的按钮贡献一些。
+- id: DailyLoginReward
+  data:
+    EN: Daily login reward
+    ZH_HANS: 每日登录奖励
+- id: ContinuousLoginReward
+  data:
+    EN: Continuous login reward
+    ZH_HANS: 连续登录奖励
