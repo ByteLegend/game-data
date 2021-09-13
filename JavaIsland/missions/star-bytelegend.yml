@@ -27,7 +27,7 @@ tutorials:
     language: EN
   - id: CreateGitHubAccountEn
     title: Create a GitHub account
-    href: https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/star-bytelegend/register-github-account-en.md
+    href: https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/star-bytelegend/create-github-account-en.md
     type: text/markdown
     language: EN
   - id: HowToStarByteLegendZhHans
@@ -37,7 +37,7 @@ tutorials:
     language: ZH_HANS
   - id: CreateGitHubAccountZhHans
     title: 如何注册GitHub账号
-    href: https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/star-bytelegend/register-github-account-zh-hans.md
+    href: https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/star-bytelegend/create-github-account-zh-hans.md
     type: text/markdown
     language: ZH_HANS
 discussions:
