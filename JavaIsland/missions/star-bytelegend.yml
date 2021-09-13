@@ -18,6 +18,7 @@ challenges:
     type: Star
     star: 1
     spec: github.com/ByteLegend/ByteLegend
+    readme: StarByteLegendChallengeText
 tutorials:
   - id: HowToStarByteLegendEn
     title: Get your first star
