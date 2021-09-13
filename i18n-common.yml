@@ -435,8 +435,8 @@
 - id: AnswerCorrect
   format: HTML
   data:
-    EN: <div class="mission-success-tick-icon inline-icon"></div> Your answer is correct! Please go back to the game.
-    ZH_HANS: <div class="mission-success-tick-icon inline-icon"></div> 回答正确！请返回游戏。
+    EN: <div class="mission-success-tick-icon inline-icon-16"></div> Your answer is correct! Please go back to the game.
+    ZH_HANS: <div class="mission-success-tick-icon inline-icon-16"></div> 回答正确！请返回游戏。
 - id: GetItem
   data:
     EN: You've got item {0}
@@ -606,3 +606,7 @@
   data:
     EN: Continuous login reward
     ZH_HANS: 连续登录奖励
+- id: NiceDayHuh
+  data:
+    EN: Nice day, huh?
+    ZH_HANS: 今天天气不错！

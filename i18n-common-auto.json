@@ -1567,19 +1567,19 @@
 }, {
   "id" : "AnswerCorrect",
   "data" : {
-    "EN" : "<div class=\"mission-success-tick-icon inline-icon\"></div> Your answer is correct! Please go back to the game.",
-    "ZH_HANS" : "<div class=\"mission-success-tick-icon inline-icon\"></div> 回答正确！请返回游戏。",
-    "ZH_HANT" : "<div class=\"mission-success-tick-icon inline-icon\"></div>回答正確！請返回游戲。",
-    "ES" : "<div class=\"mission-success-tick-icon inline-icon\"></div>¡Tu respuesta es correcta! Vuelve al juego.",
-    "AR" : "<div class=\"mission-success-tick-icon inline-icon\" style=\";text-align:right;direction:rtl\"></div>إجابتك صحيحة! يرجى العودة إلى اللعبة.",
-    "PT" : "<div class=\"mission-success-tick-icon inline-icon\"></div>Sua resposta está correta! Por favor, volte ao jogo.",
-    "ID" : "<div class=\"mission-success-tick-icon inline-icon\"></div>Jawaban Anda benar! Silakan kembali ke permainan.",
-    "FR" : "<div class=\"mission-success-tick-icon inline-icon\"></div>Votre réponse est correcte ! Merci de revenir au jeu.",
-    "JA" : "<div class=\"mission-success-tick-icon inline-icon\"></div>あなたの答えは正しいです！ゲームに戻ってください。",
-    "RU" : "<div class=\"mission-success-tick-icon inline-icon\"></div>Ваш ответ правильный! Пожалуйста, вернись в игру.",
-    "DE" : "<div class=\"mission-success-tick-icon inline-icon\"></div>Ihre Antwort ist richtig! Bitte gehen Sie zurück zum Spiel.",
-    "KO" : "<div class=\"mission-success-tick-icon inline-icon\"></div>당신의 대답은 정확합니다! 게임으로 돌아가주세요.",
-    "IT" : "<div class=\"mission-success-tick-icon inline-icon\"></div>La tua risposta è corretta! Per favore, torna al gioco."
+    "EN" : "<div class=\"mission-success-tick-icon inline-icon-16\"></div> Your answer is correct! Please go back to the game.",
+    "ZH_HANS" : "<div class=\"mission-success-tick-icon inline-icon-16\"></div> 回答正确！请返回游戏。",
+    "ZH_HANT" : "<div class=\"mission-success-tick-icon inline-icon-16\"></div>回答正確！請返回游戲。",
+    "ES" : "<div class=\"mission-success-tick-icon inline-icon-16\"></div>¡Tu respuesta es correcta! Vuelve al juego.",
+    "AR" : "<div class=\"mission-success-tick-icon inline-icon-16\" style=\";text-align:right;direction:rtl\"></div>إجابتك صحيحة! يرجى العودة إلى اللعبة.",
+    "PT" : "<div class=\"mission-success-tick-icon inline-icon-16\"></div>Sua resposta está correta! Por favor, volte ao jogo.",
+    "ID" : "<div class=\"mission-success-tick-icon inline-icon-16\"></div>Jawaban Anda benar! Silakan kembali ke permainan.",
+    "FR" : "<div class=\"mission-success-tick-icon inline-icon-16\"></div>Votre réponse est correcte ! Merci de revenir au jeu.",
+    "JA" : "<div class=\"mission-success-tick-icon inline-icon-16\"></div>あなたの答えは正しいです！ゲームに戻ってください。",
+    "RU" : "<div class=\"mission-success-tick-icon inline-icon-16\"></div>Ваш ответ правильный! Пожалуйста, вернись в игру.",
+    "DE" : "<div class=\"mission-success-tick-icon inline-icon-16\"></div>Ihre Antwort ist richtig! Bitte gehen Sie zurück zum Spiel.",
+    "KO" : "<div class=\"mission-success-tick-icon inline-icon-16\"></div>당신의 대답은 정확합니다! 게임으로 돌아가주세요.",
+    "IT" : "<div class=\"mission-success-tick-icon inline-icon-16\"></div>La tua risposta è corretta! Per favore, torna al gioco."
   },
   "format" : "HTML"
 }, {
@@ -2300,6 +2300,24 @@
     "DE" : "Kontinuierliche Login-Belohnung",
     "KO" : "지속적인 로그인 보상",
     "IT" : "Ricompensa per l'accesso continuo"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "NiceDayHuh",
+  "data" : {
+    "EN" : "Nice day, huh?",
+    "ZH_HANS" : "今天天气不错！",
+    "ZH_HANT" : "今天天氣不錯！",
+    "ES" : "Buen día, ¿eh?",
+    "AR" : "يوم جميل ، هاه؟",
+    "PT" : "Bom dia, hein?",
+    "ID" : "Hari yang menyenangkan, ya?",
+    "FR" : "Belle journée, hein ?",
+    "JA" : "いい日ですね",
+    "RU" : "Хороший день, а?",
+    "DE" : "Schöner Tag, oder?",
+    "KO" : "좋은 하루, 응?",
+    "IT" : "Bella giornata, eh?"
   },
   "format" : "TEXT"
 } ]

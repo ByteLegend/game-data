@@ -42,10 +42,6 @@
   data:
     EN: I see you have already starred ByteLegend. Nice job! Now I have to let you in.
     ZH_HANS: 我看到你已经Star了ByteLegend。干的漂亮！现在我得放你进去了。
-- id: NiceDayHuh
-  data:
-    EN: Nice day, huh?
-    ZH_HANS: 今天天气不错！
 - id: BravePeopleDedication
   format: HTML
   data:

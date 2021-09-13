@@ -125,24 +125,6 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "NiceDayHuh",
-  "data" : {
-    "EN" : "Nice day, huh?",
-    "ZH_HANS" : "今天天气不错！",
-    "ZH_HANT" : "今天天氣不錯！",
-    "ES" : "Buen día, ¿eh?",
-    "AR" : "يوم جميل ، هاه؟",
-    "PT" : "Bom dia, hein?",
-    "ID" : "Hari yang menyenangkan, ya?",
-    "FR" : "Belle journée, hein ?",
-    "JA" : "いい日ですね",
-    "RU" : "Хороший день, а?",
-    "DE" : "Schöner Tag, oder?",
-    "KO" : "좋은 하루, 응?",
-    "IT" : "Bella giornata, eh?"
-  },
-  "format" : "TEXT"
-}, {
   "id" : "BravePeopleDedication",
   "data" : {
     "EN" : "This is dedicated to the brave people below, <br>\nwho know the tough journey ahead but still set out without hesitation, <br>\nand you, if you have stuck with programming until the very end. <br>\n<b style=\"color:red\">Finish <a href=\"https://github.com/ByteLegendQuest/remember-brave-people\" target=\"_blank\">the challenge</a> to leave your name.</b>\n",
