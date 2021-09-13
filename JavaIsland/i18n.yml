@@ -1,11 +1,11 @@
 # Copyright 2021 ByteLegend Technologies and the original author or authors.
-# 
+#
 # Licensed under the GNU Affero General Public License v3.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
-# 
+#
 #      https://github.com/ByteLegend/ByteLegend/blob/master/LICENSE
-# 
+#
 # Unless required by applicable law or agreed to in writing, software
 # distributed under the License is distributed on an "AS IS" BASIS,
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -923,3 +923,74 @@
       If you can clear all missions and arrive at the entrance of `Senior Java Castle` (<span style='color:red'>coordinate {0}</span>),
       we can assure you that you are fully qualified for a junior Java software engineer.
       If you want to go further (salary increase or promotion), please enter `Senior Java Castle`, accomplish more missions, to become a senior Java software engineer.
+- id: StarByteLegendChallengeText
+  format: MARKDOWN
+  data:
+    EN: |
+      🎉Welcome to ByteLegend, which is probably the best website to learn programming from scratch on the planet!
+
+      Your first challenge is to star our GitHub repository. Don't know how? Take a look at the animation below.
+      Still confused? Click the `Tutorials` tab to see the great video tutorial.
+
+      After finishing this challenge, you can get 1 ⭐ as the reward. Enjoy!
+
+      ![star-bytelegend.gif]((https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/star-bytelegend/star-bytelegend.gif)
+    ZH_HANS: |
+      🎉欢迎来到字节传说！这可能是这个星球上最好的零基础学习编程的网站！
+
+      你的第一个挑战是Star我们的GitHub仓库。不知道怎么做？看看下面的动图吧。如果还是不清楚的话，点击`教程`标签页观看详细的视频教程。
+
+      在完成这个挑战后，你可以得到一颗⭐作为奖励。祝你玩的开心！
+
+      ![star-bytelegend.gif](https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/star-bytelegend/star-bytelegend.gif)
+- id: install-java-ide-tldr
+  format: MARKDOWN
+  data:
+    ZH_HANS: |
+      这是一个密码箱。安装你喜欢的Java IDE，然后将"About"中的信息粘贴到下面的输入框中以打开箱子。
+    EN: |
+      This is a key carbinet. To open it, install your favorite Java IDE, and paste the "About" information into the input box below.
+- id: install-java-ide-readme
+  format: MARKDOWN
+  data:
+    EN: |
+      Most developers prefer to use IDE (Integrated Development Environment) for Java development.
+      This key carbinet supports three kinds of IDEs now, you **just need to install one of them**.
+
+      - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=mac) (highly recommended!!!)
+      - [Eclipse IDE](https://www.eclipse.org/downloads/packages/)
+      - [Visual Studio Code](https://code.visualstudio.com/download)
+
+      Then copy the "About" information, which is the password to open this key carbinet.
+
+      ![idea-about.png](https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/install-java-ide/idea-about.png)
+
+      Or
+
+      ![eclipse-about.png](https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/install-java-ide/eclipse-about.png)
+
+      Or
+
+      ![vscode-about.png](https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/install-java-ide/vscode-about.png)
+
+    ZH_HANS: |
+      绝大多数的开发者会使用IDE (Integrated Development Environment, 集成开发环境)来进行Java开发。
+      这个密码箱支持下列三种IDE。你**只需要安装其中之一**。
+
+      - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=mac) (强烈推荐！！！)
+      - [Eclipse IDE](https://www.eclipse.org/downloads/packages/)
+      - [Visual Studio Code](https://code.visualstudio.com/download)
+
+      然后将"About"中的信息粘贴到下面的输入框中，它们是打开密码箱的密码。
+
+      ![idea-about.png](https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/install-java-ide/idea-about.png)
+
+      或者
+
+      ![eclipse-about.png](https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/install-java-ide/eclipse-about.png)
+
+      或者
+
+      ![vscode-about.png](https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/install-java-ide/vscode-about.png)
+
+
