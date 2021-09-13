@@ -1,21 +1,21 @@
-# 如何注册 GitHub 账号
+# How to create a GitHub account
 
-打开 [GitHub](https://github.com)官网，点击右上角的**Sign up**，进入注册页面。
+Open [GitHub](https://github.com), click **Sign up** at the upper right corner. You will go to the register page.
 
 ![](https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/star-bytelegend/register-github-account/sign-up-gh.png)
 
-依次输入自己的**邮箱**、**密码**、**GitHub 用户名**，并通过**实人认证**，创建 GitHub 账户。
+Enter your **email address**, **password**, and the **username** of GitHub to create a GitHub account.
 
 ![](https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/star-bytelegend/register-github-account/type-info.png)
 
-从邮箱中接收验证码并填入 GitHub。
+Receive the **verification code** and fill it to GitHub.
 
 ![](https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/star-bytelegend/register-github-account/email.png)
 
-可以直接跳过个性化设置。
+You can skip the personalization. Of course, if you want, you can fill it.
 
 ![](https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/star-bytelegend/register-github-account/skip-personalization.png)
 
-成功注册你的个人 GitHub 账户。
+Now, you successfully create your own GitHub account.
 
 ![](https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/star-bytelegend/register-github-account/ok.png)

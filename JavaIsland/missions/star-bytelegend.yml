@@ -27,8 +27,8 @@ tutorials:
     language: EN
   - id: CreateGitHubAccountEn
     title: Create a GitHub account
-    href: https://www.youtube.com/watch?v=-Di-ZfcBDXU
-    type: video/youtube
+    href: https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/star-bytelegend/register-github-account-en.md
+    type: text/markdown
     language: EN
   - id: HowToStarByteLegendZhHans
     title: 获得第一颗星
