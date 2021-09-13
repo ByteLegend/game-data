@@ -30,6 +30,11 @@ tutorials:
     href: https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/star-bytelegend/create-github-account-en.md
     type: text/markdown
     language: EN
+  - id: CreateGitHubAccountVideoEn
+    title: Create a GitHub account (video)
+    href: https://www.youtube.com/watch?v=lfhD5IxqHkc
+    type: video/youtube
+    language: EN
   - id: HowToStarByteLegendZhHans
     title: 获得第一颗星
     href: https://www.bilibili.com/video/BV1Rf4y1L7Vy
