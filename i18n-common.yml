@@ -610,3 +610,7 @@
   data:
     EN: Nice day, huh?
     ZH_HANS: 今天天气不错！
+- id: MissionAccomplishedReward
+  data:
+    EN: Mission accomplished reward
+    ZH_HANS: 任务完成奖励

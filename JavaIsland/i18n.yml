@@ -943,9 +943,9 @@
   format: MARKDOWN
   data:
     ZH_HANS: |
-      这是一个密码箱。安装你喜欢的Java IDE，然后将"About"中的信息粘贴到下面的输入框中以打开箱子。
+      这是一个密码箱，里面似乎有一些金币。安装你喜欢的Java IDE，然后将"About"中的信息粘贴到下面的输入框中以打开箱子。
     EN: |
-      This is a key carbinet. To open it, install your favorite Java IDE, and paste the "About" information into the input box below.
+      This is a key carbinet, which seems to have some gold inside. To open it, install your favorite Java IDE, and paste the "About" information into the input box below.
 - id: install-java-ide-readme
   format: MARKDOWN
   data:

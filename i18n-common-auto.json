@@ -2320,4 +2320,22 @@
     "IT" : "Bella giornata, eh?"
   },
   "format" : "TEXT"
+}, {
+  "id" : "MissionAccomplishedReward",
+  "data" : {
+    "EN" : "Mission accomplished reward",
+    "ZH_HANS" : "任务完成奖励",
+    "ZH_HANT" : "任務完成獎勵",
+    "ES" : "Recompensa por misión cumplida",
+    "AR" : "مكافأة أنجزت المهمة",
+    "PT" : "Recompensa de missão cumprida",
+    "ID" : "Hadiah misi tercapai",
+    "FR" : "Récompense mission accomplie",
+    "JA" : "任務完了演説",
+    "RU" : "Награда за выполненную миссию",
+    "DE" : "Mission erfüllt Belohnung",
+    "KO" : "미션 달성 보상",
+    "IT" : "Ricompensa missione compiuta"
+  },
+  "format" : "TEXT"
 } ]

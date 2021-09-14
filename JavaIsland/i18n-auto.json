@@ -3637,19 +3637,19 @@
 }, {
   "id" : "install-java-ide-tldr",
   "data" : {
-    "EN" : "<p>This is a key carbinet. To open it, install your favorite Java IDE, and paste the &quot;About&quot; information into the input box below.</p>\n",
-    "ZH_HANS" : "<p>这是一个密码箱。安装你喜欢的Java IDE，然后将&quot;About&quot;中的信息粘贴到下面的输入框中以打开箱子。</p>\n",
-    "ZH_HANT" : "<p>這是一個密碼箱。安裝你喜歡的Java IDE，然後將&quot;About&quot;中的信息粘貼到下面的輸入框中以打開箱子。</p>",
-    "ES" : "<p>Esta es una carabina clave. Para abrirlo, instale su IDE de Java favorito y pegue la información &quot;Acerca de&quot; en el cuadro de entrada a continuación.</p>",
-    "AR" : "<p style=\";text-align:right;direction:rtl\">هذا هو مفتاح carbinet. لفتحه ، قم بتثبيت Java IDE المفضل لديك ، والصق معلومات &quot;About&quot; في مربع الإدخال أدناه.</p>",
-    "PT" : "<p>Este é um carretel chave. Para abri-lo, instale seu Java IDE favorito e cole as informações &quot;Sobre&quot; na caixa de entrada abaixo.</p>",
-    "ID" : "<p>Ini adalah karabin kunci. Untuk membukanya, instal Java IDE favorit Anda, dan rekatkan informasi &quot;Tentang&quot; ke dalam kotak input di bawah.</p>",
-    "FR" : "<p>Il s&#39;agit d&#39;un mousqueton à clés. Pour l&#39;ouvrir, installez votre IDE Java préféré et collez les informations &quot;À propos&quot; dans la zone de saisie ci-dessous.</p>",
-    "JA" : "<p>これは重要なカービネットです。それを開くには、お気に入りのJava IDEをインストールし、「バージョン情報」情報を下の入力ボックスに貼り付けます。</p>",
-    "RU" : "<p>Это ключевой карабин. Чтобы открыть его, установите вашу любимую Java IDE и вставьте информацию «О программе» в поле ввода ниже.</p>",
-    "DE" : "<p>Dies ist ein Schlüsselkarabiner. Um es zu öffnen, installieren Sie Ihre bevorzugte Java-IDE und fügen Sie die &quot;Info&quot;-Informationen in das Eingabefeld unten ein.</p>",
-    "KO" : "<p>이것은 키 카비넷입니다. 그것을 열려면 즐겨 사용하는 Java IDE를 설치하고 &quot;정보&quot; 정보를 아래 입력 상자에 붙여넣습니다.</p>",
-    "IT" : "<p>Questo è un moschettone chiave. Per aprirlo, installa il tuo IDE Java preferito e incolla le informazioni &quot;Informazioni&quot; nella casella di input sottostante.</p>"
+    "EN" : "<p>This is a key carbinet, which seems to have some gold inside. To open it, install your favorite Java IDE, and paste the &quot;About&quot; information into the input box below.</p>\n",
+    "ZH_HANS" : "<p>这是一个密码箱，里面似乎有一些金币。安装你喜欢的Java IDE，然后将&quot;About&quot;中的信息粘贴到下面的输入框中以打开箱子。</p>\n",
+    "ZH_HANT" : "<p>這是一個密碼箱，裡面似乎有一些金幣。安裝你喜歡的Java IDE，然後將&quot;About&quot;中的信息粘貼到下面的輸入框中以打開箱子。</p>",
+    "ES" : "<p>Esta es una carabina clave, que parece tener algo de oro en su interior. Para abrirlo, instale su IDE de Java favorito y pegue la información &quot;Acerca de&quot; en el cuadro de entrada a continuación.</p>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">هذا هو carbinet الرئيسي ، والذي يبدو أنه يحتوي على بعض الذهب في الداخل. لفتحه ، قم بتثبيت Java IDE المفضل لديك ، والصق معلومات &quot;About&quot; في مربع الإدخال أدناه.</p>",
+    "PT" : "<p>Este é um chaveiro, que parece ter um pouco de ouro dentro. Para abri-lo, instale seu Java IDE favorito e cole as informações &quot;Sobre&quot; na caixa de entrada abaixo.</p>",
+    "ID" : "<p>Ini adalah karabin kunci, yang tampaknya memiliki beberapa emas di dalamnya. Untuk membukanya, instal Java IDE favorit Anda, dan rekatkan informasi &quot;Tentang&quot; ke dalam kotak input di bawah.</p>",
+    "FR" : "<p>Il s&#39;agit d&#39;un mousqueton à clé, qui semble avoir de l&#39;or à l&#39;intérieur. Pour l&#39;ouvrir, installez votre IDE Java préféré et collez les informations &quot;À propos&quot; dans la zone de saisie ci-dessous.</p>",
+    "JA" : "<p>これは重要なカービネットで、中に金が入っているようです。それを開くには、お気に入りのJava IDEをインストールし、「バージョン情報」情報を下の入力ボックスに貼り付けます。</p>",
+    "RU" : "<p>Это ключевой карабин, внутри которого, кажется, есть немного золота. Чтобы открыть его, установите вашу любимую Java IDE и вставьте информацию «О программе» в поле ввода ниже.</p>",
+    "DE" : "<p>Dies ist ein Schlüsselkarabiner, der etwas Gold im Inneren zu haben scheint. Um es zu öffnen, installieren Sie Ihre bevorzugte Java-IDE und fügen Sie die &quot;Info&quot;-Informationen in das Eingabefeld unten ein.</p>",
+    "KO" : "<p>이것은 내부에 약간의 금이 들어 있는 것으로 보이는 키 카비넷입니다. 그것을 열려면 즐겨 사용하는 Java IDE를 설치하고 &quot;정보&quot; 정보를 아래 입력 상자에 붙여넣습니다.</p>",
+    "IT" : "<p>Questo è un moschettone chiave, che sembra avere dell&#39;oro all&#39;interno. Per aprirlo, installa il tuo IDE Java preferito e incolla le informazioni &quot;Informazioni&quot; nella casella di input sottostante.</p>"
   },
   "format" : "HTML"
 }, {
