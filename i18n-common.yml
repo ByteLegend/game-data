@@ -614,3 +614,11 @@
   data:
     EN: Mission accomplished reward
     ZH_HANS: 任务完成奖励
+- id: MapSwitchingToll
+  data:
+    EN: Toll for Another Map
+    ZH_HANS: 地图通行费
+- id: SorryYouDontHaveEnoughCoin
+  data:
+    EN: Sorry, you don't have enough gold.
+    ZH_HANS: 对不起，你的金币不够。

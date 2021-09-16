@@ -2338,4 +2338,40 @@
     "IT" : "Ricompensa missione compiuta"
   },
   "format" : "TEXT"
+}, {
+  "id" : "MapSwitchingToll",
+  "data" : {
+    "EN" : "Toll for Another Map",
+    "ZH_HANS" : "地图通行费",
+    "ZH_HANT" : "地圖通行費",
+    "ES" : "Peaje por otro mapa",
+    "AR" : "رسم خريطة أخرى",
+    "PT" : "Pedágio para outro mapa",
+    "ID" : "Tol untuk Peta Lain",
+    "FR" : "Péage pour une autre carte",
+    "JA" : "別の地図の通行料",
+    "RU" : "Плата за другую карту",
+    "DE" : "Maut für eine andere Karte",
+    "KO" : "다른 지도에 대한 통행료",
+    "IT" : "Pedaggio per un'altra mappa"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "SorryYouDontHaveEnoughCoin",
+  "data" : {
+    "EN" : "Sorry, you don't have enough gold.",
+    "ZH_HANS" : "对不起，你的金币不够。",
+    "ZH_HANT" : "對不起，你的金幣不夠。",
+    "ES" : "Lo siento, no tienes suficiente oro.",
+    "AR" : "آسف ، ليس لديك ما يكفي من الذهب.",
+    "PT" : "Desculpe, você não tem ouro suficiente.",
+    "ID" : "Maaf, Anda tidak memiliki cukup emas.",
+    "FR" : "Désolé, vous n'avez pas assez d'or.",
+    "JA" : "申し訳ありませんが、あなたは十分な金を持っていません。",
+    "RU" : "Извините, у вас недостаточно золота.",
+    "DE" : "Tut mir leid, Sie haben nicht genug Gold.",
+    "KO" : "죄송합니다. 골드가 부족합니다.",
+    "IT" : "Mi dispiace, non hai abbastanza oro."
+  },
+  "format" : "TEXT"
 } ]

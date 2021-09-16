@@ -988,5 +988,17 @@
       或者
 
       ![vscode-about.png](https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/install-java-ide/vscode-about.png)
-
+- id: YouMustGetBronzeGitMedal
+  format: HTML
+  data:
+    EN: |
+      I only allow people with <span style='color:red'>Bronze Git Medal</span> to pass.
+    ZH_HANS: |
+      我只允许拥有<span style='color:red'>青铜Git勋章</span>的人通过。
+- id: WouldYouLikeToGitIsland
+  data:
+    EN: |
+      Would you like to Git Island? Pay me 50 gold and I'll take you there.
+    ZH_HANS: |
+      你想去Git岛么？付我50金币，我就带你去。
 

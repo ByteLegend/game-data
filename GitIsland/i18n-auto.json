@@ -268,4 +268,40 @@
     "IT" : "<span class=\"notranslate\">Git Stash</span>"
   },
   "format" : "HTML"
+}, {
+  "id" : "WouldYouLikeToJavaIsland",
+  "data" : {
+    "EN" : "Would you like to Java Island? Pay me 50 gold and I'll take you there.\n",
+    "ZH_HANS" : "你想去爪哇岛么？付我50金币，我就带你去。\n",
+    "ZH_HANT" : "你想去爪哇島麼？付我50金幣，我就帶你去。\n",
+    "ES" : "¿Te gustaría ir a la isla de Java? Págame 50 de oro y te llevaré allí.\n",
+    "AR" : "هل ترغب في جزيرة جافا؟ ادفع لي 50 ذهبًا وسآخذك إلى هناك.\n",
+    "PT" : "Você gostaria de ir para a Ilha de Java? Pague-me 50 de ouro e eu te levo lá.\n",
+    "ID" : "Mau ke Pulau Jawa? Bayar saya 50 emas dan saya akan membawa Anda ke sana.\n",
+    "FR" : "Souhaitez-vous visiter l'île de Java ? Payez-moi 50 pièces d'or et je vous y emmènerai.\n",
+    "JA" : "ジャワ島に行きませんか？私に50ゴールドを払ってください、そして私はあなたをそこに連れて行きます。\n",
+    "RU" : "Хотите на остров Ява? Заплати мне 50 золотых, и я отвезу тебя туда.\n",
+    "DE" : "Möchten Sie nach Java Island? Zahlen Sie mir 50 Gold und ich bringe Sie dorthin.\n",
+    "KO" : "자바 섬에 가고 싶습니까? 나에게 50골드를 지불하면 당신을 그곳으로 데려다 드리겠습니다.\n",
+    "IT" : "Ti piacerebbe l'isola di Giava? Pagami 50 monete d'oro e ti ci porto.\n"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "GitIslandToJavaIslandText",
+  "data" : {
+    "EN" : "To Java Island",
+    "ZH_HANS" : "去往爪哇岛",
+    "ZH_HANT" : "去往爪哇島",
+    "ES" : "Hacia la isla de Java",
+    "AR" : "إلى جزيرة جاوة",
+    "PT" : "Para a Ilha Java",
+    "ID" : "Ke Pulau Jawa",
+    "FR" : "Vers l'île de Java",
+    "JA" : "ジャワ島へ",
+    "RU" : "На остров Ява",
+    "DE" : "Zur Java-Insel",
+    "KO" : "자바 섬으로",
+    "IT" : "Per l'isola di Giava"
+  },
+  "format" : "TEXT"
 } ]

@@ -3670,4 +3670,40 @@
     "IT" : "<p>La maggior parte degli sviluppatori preferisce utilizzare IDE (Integrated Development Environment) per lo sviluppo Java. Questo key carbinet ora supporta tre tipi di IDE, devi <strong>solo installarne uno</strong> .</p><ul><li> <a href=\"https://www.jetbrains.com/idea/download/\" target=\"_blank\">IntelliJ IDEA</a> (altamente consigliato!!!)</li><li> <a href=\"https://www.eclipse.org/downloads/packages/\" target=\"_blank\">Eclipse IDE</a></li><li> <a href=\"https://code.visualstudio.com/download\" target=\"_blank\">Codice di Visual Studio</a></li></ul><p> Quindi copia le informazioni &quot;Informazioni&quot;, che è la password per aprire questo portachiavi. </p><p><img src=\"https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/install-java-ide/idea-about.png\" alt=\"idea-about.png\" /></p><p> o </p><p><img src=\"https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/install-java-ide/eclipse-about.png\" alt=\"eclipse-about.png\" /></p><p> o </p><p><img src=\"https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/install-java-ide/vscode-about.png\" alt=\"vscode-about.png\" /></p>"
   },
   "format" : "HTML"
+}, {
+  "id" : "YouMustGetBronzeGitMedal",
+  "data" : {
+    "EN" : "I only allow people with <span style='color:red'>Bronze Git Medal</span> to pass.\n",
+    "ZH_HANS" : "我只允许拥有<span style='color:red'>青铜Git勋章</span>的人通过。\n",
+    "ZH_HANT" : "我只允許擁有",
+    "ES" : "Solo permito que pasen personas con la <span style='color:red'>medalla de bronce Git.</span>",
+    "AR" : "أسمح فقط للأشخاص <span style='color:red'>الحاصلين على ميدالية جيت البرونزية</span> بالمرور.",
+    "PT" : "Eu só permito que pessoas com <span style='color:red'>medalha Git de Bronze</span> passem.",
+    "ID" : "Saya hanya mengizinkan orang dengan <span style='color:red'>Medali Git Perunggu</span> untuk lulus.",
+    "FR" : "Je n&#39;autorise que les personnes ayant la <span style='color:red'>médaille de bronze Git</span> à passer.",
+    "JA" : "<span style='color:red'>ブロンズGitメダル</span>を持っている人だけが通過できるようにします。",
+    "RU" : "Я разрешаю пройти только людям с <span style='color:red'>бронзовой медалью Git.</span>",
+    "DE" : "Ich lasse nur Leute mit der <span style='color:red'>Bronze-Git-Medaille</span> passieren.",
+    "KO" : "<span style='color:red'>나는 Bronze Git Medal</span> 을 가진 사람들만 통과하도록 허용합니다.",
+    "IT" : "Permetto solo a persone con <span style='color:red'>medaglia di bronzo Git</span> di passare."
+  },
+  "format" : "HTML"
+}, {
+  "id" : "WouldYouLikeToGitIsland",
+  "data" : {
+    "EN" : "Would you like to Git Island? Pay me 50 gold and I'll take you there.\n",
+    "ZH_HANS" : "你想去Git岛么？付我50金币，我就带你去。\n",
+    "ZH_HANT" : "你想去Git島麼？付我50金幣，我就帶你去。\n",
+    "ES" : "¿Te gustaría ir a la isla de Git? Págame 50 de oro y te llevaré allí.\n",
+    "AR" : "هل ترغب في جزيرة جيت؟ ادفع لي 50 ذهبًا وسآخذك إلى هناك.\n",
+    "PT" : "Você gostaria de Git Island? Pague-me 50 de ouro e eu te levo lá.\n",
+    "ID" : "Apakah Anda ingin ke Pulau Git? Bayar saya 50 emas dan saya akan membawa Anda ke sana.\n",
+    "FR" : "Souhaitez-vous visiter l'île de Git ? Payez-moi 50 pièces d'or et je vous y emmènerai.\n",
+    "JA" : "Git Islandに行きませんか？私に50ゴールドを払ってください、そして私はあなたをそこに連れて行きます。\n",
+    "RU" : "Хотели бы вы на Git Island? Заплати мне 50 золотых, и я отвезу тебя туда.\n",
+    "DE" : "Möchten Sie Git Island besuchen? Zahlen Sie mir 50 Gold und ich bringe Sie dorthin.\n",
+    "KO" : "Git Island에 가고 싶습니까? 나에게 50골드를 지불하면 당신을 그곳으로 데려다 드리겠습니다.\n",
+    "IT" : "Ti piacerebbe Git Island? Pagami 50 monete d'oro e ti ci porto.\n"
+  },
+  "format" : "TEXT"
 } ]
