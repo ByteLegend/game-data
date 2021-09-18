@@ -2374,4 +2374,58 @@
     "IT" : "Mi dispiace, non hai abbastanza oro."
   },
   "format" : "TEXT"
+}, {
+  "id" : "YouMustSignInToSeeThisPage",
+  "data" : {
+    "EN" : "You must sign in to see this page",
+    "ZH_HANS" : "你必须登录才能看到这个界面",
+    "ZH_HANT" : "你必須登錄才能看到這個界面",
+    "ES" : "Debes iniciar sesión para ver esta página",
+    "AR" : "يجب عليك تسجيل الدخول لرؤية هذه الصفحة",
+    "PT" : "Você deve entrar para ver esta página",
+    "ID" : "Anda harus masuk untuk melihat halaman ini",
+    "FR" : "Vous devez vous connecter pour voir cette page",
+    "JA" : "このページを表示するには、サインインする必要があります",
+    "RU" : "Вы должны войти в систему, чтобы увидеть эту страницу",
+    "DE" : "Sie müssen sich anmelden, um diese Seite zu sehen",
+    "KO" : "이 페이지를 보려면 로그인해야 합니다.",
+    "IT" : "Devi accedere per vedere questa pagina"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "InvitationCode",
+  "data" : {
+    "EN" : "Invitation Code",
+    "ZH_HANS" : "邀请码",
+    "ZH_HANT" : "邀請碼",
+    "ES" : "código de invitación",
+    "AR" : "شفرة الدعوة",
+    "PT" : "Código de Convite",
+    "ID" : "Kode Undangan",
+    "FR" : "code d'invitation",
+    "JA" : "招待コード",
+    "RU" : "Код приглашения",
+    "DE" : "Einladungscode",
+    "KO" : "초대 코드",
+    "IT" : "Codice di invito"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "InvitationCodeBoxDescription",
+  "data" : {
+    "EN" : "Ask a friend for an invitation code to open this chest.\nYou and your friend will both get 100 gold.\n",
+    "ZH_HANS" : "从你的朋友那里获取邀请码以打开这个宝箱，你们两位可以同时获得100金币。\n",
+    "ZH_HANT" : "從你的朋友那裡獲取邀請碼以打開這個寶箱，你們兩位可以同時獲得100金幣。\n",
+    "ES" : "Pídale a un amigo un código de invitación para abrir este cofre.\nTú y tu amigo obtendrán 100 de oro.\n",
+    "AR" : "اطلب من صديق رمز دعوة لفتح هذا الصندوق.\nستحصل أنت وصديقك على 100 ذهبية.\n",
+    "PT" : "Peça a um amigo um código de convite para abrir este baú.\nVocê e seu amigo receberão 100 de ouro.\n",
+    "ID" : "Mintalah teman untuk kode undangan untuk membuka peti ini.\nAnda dan teman Anda berdua akan mendapatkan 100 emas.\n",
+    "FR" : "Demandez à un ami un code d'invitation pour ouvrir ce coffre.\nVous et votre ami obtiendrez tous les deux 100 pièces d'or.\n",
+    "JA" : "このチェストを開くための招待コードを友達に頼んでください。\nあなたとあなたの友達は両方とも100ゴールドを獲得します。\n",
+    "RU" : "Попросите друга дать код приглашения, чтобы открыть этот сундук.\nВы и ваш друг получите по 100 золотых.\n",
+    "DE" : "Bitten Sie einen Freund um einen Einladungscode, um diese Truhe zu öffnen.\nSie und Ihr Freund erhalten beide 100 Gold.\n",
+    "KO" : "친구에게 이 상자를 열 수 있는 초대 코드를 요청하세요.\n당신과 당신의 친구는 모두 100골드를 받습니다.\n",
+    "IT" : "Chiedi a un amico un codice di invito per aprire questo baule.\nTu e il tuo amico riceverete entrambi 100 monete d'oro.\n"
+  },
+  "format" : "TEXT"
 } ]

@@ -626,3 +626,18 @@
   data:
     EN: Sorry, you don't have enough gold.
     ZH_HANS: 对不起，你的金币不够。
+- id: YouMustSignInToSeeThisPage
+  data:
+    EN: You must sign in to see this page
+    ZH_HANS: 你必须登录才能看到这个界面
+- id: InvitationCode
+  data:
+    EN: Invitation Code
+    ZH_HANS: 邀请码
+- id: InvitationCodeBoxDescription
+  data:
+    EN: |
+      Ask a friend for an invitation code to open this chest.
+      You and your friend will both get 100 gold.
+    ZH_HANS: |
+      从你的朋友那里获取邀请码以打开这个宝箱，你们两位可以同时获得100金币。
