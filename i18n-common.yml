@@ -351,6 +351,10 @@
   data:
     EN: " to see how to contact to the lazy author!"
     ZH_HANS: 查看如何联系作者这个懒虫！
+- id: UnfinishedText2
+  data:
+    EN: "Coming Soon~"
+    ZH_HANS: 请耐心等待开发哦~
 - id: GitIsland
   data:
     EN: Git Island
