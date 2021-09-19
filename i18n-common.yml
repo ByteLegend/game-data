@@ -435,8 +435,8 @@
 - id: AnswerCorrect
   format: HTML
   data:
-    EN: <div class="mission-success-tick-icon inline-icon"></div> Your answer is correct! Please go back to the game.
-    ZH_HANS: <div class="mission-success-tick-icon inline-icon"></div> 回答正确！请返回游戏。
+    EN: <div class="mission-success-tick-icon inline-icon-16"></div> Your answer is correct! Please go back to the game.
+    ZH_HANS: <div class="mission-success-tick-icon inline-icon-16"></div> 回答正确！请返回游戏。
 - id: GetItem
   data:
     EN: You've got item {0}
@@ -606,3 +606,19 @@
   data:
     EN: Continuous login reward
     ZH_HANS: 连续登录奖励
+- id: NiceDayHuh
+  data:
+    EN: Nice day, huh?
+    ZH_HANS: 今天天气不错！
+- id: MissionAccomplishedReward
+  data:
+    EN: Mission accomplished reward
+    ZH_HANS: 任务完成奖励
+- id: MapSwitchingToll
+  data:
+    EN: Toll for Another Map
+    ZH_HANS: 地图通行费
+- id: SorryYouDontHaveEnoughCoin
+  data:
+    EN: Sorry, you don't have enough gold.
+    ZH_HANS: 对不起，你的金币不够。

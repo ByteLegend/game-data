@@ -42,10 +42,6 @@
   data:
     EN: I see you have already starred ByteLegend. Nice job! Now I have to let you in.
     ZH_HANS: 我看到你已经Star了ByteLegend。干的漂亮！现在我得放你进去了。
-- id: NiceDayHuh
-  data:
-    EN: Nice day, huh?
-    ZH_HANS: 今天天气不错！
 - id: BravePeopleDedication
   format: HTML
   data:
@@ -934,7 +930,7 @@
 
       After finishing this challenge, you can get 1 ⭐ as the reward. Enjoy!
 
-      ![star-bytelegend.gif]((https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/star-bytelegend/star-bytelegend.gif)
+      ![star-bytelegend.gif](https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/star-bytelegend/star-bytelegend.gif)
     ZH_HANS: |
       🎉欢迎来到字节传说！这可能是这个星球上最好的零基础学习编程的网站！
 
@@ -947,9 +943,9 @@
   format: MARKDOWN
   data:
     ZH_HANS: |
-      这是一个密码箱。安装你喜欢的Java IDE，然后将"About"中的信息粘贴到下面的输入框中以打开箱子。
+      这是一个密码箱，里面似乎有一些金币。安装你喜欢的Java IDE，然后将"About"中的信息粘贴到下面的输入框中以打开箱子。
     EN: |
-      This is a key carbinet. To open it, install your favorite Java IDE, and paste the "About" information into the input box below.
+      This is a key carbinet, which seems to have some gold inside. To open it, install your favorite Java IDE, and paste the "About" information into the input box below.
 - id: install-java-ide-readme
   format: MARKDOWN
   data:
@@ -957,7 +953,7 @@
       Most developers prefer to use IDE (Integrated Development Environment) for Java development.
       This key carbinet supports three kinds of IDEs now, you **just need to install one of them**.
 
-      - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=mac) (highly recommended!!!)
+      - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) (highly recommended!!!)
       - [Eclipse IDE](https://www.eclipse.org/downloads/packages/)
       - [Visual Studio Code](https://code.visualstudio.com/download)
 
@@ -977,7 +973,7 @@
       绝大多数的开发者会使用IDE (Integrated Development Environment, 集成开发环境)来进行Java开发。
       这个密码箱支持下列三种IDE。你**只需要安装其中之一**。
 
-      - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=mac) (强烈推荐！！！)
+      - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) (强烈推荐！！！)
       - [Eclipse IDE](https://www.eclipse.org/downloads/packages/)
       - [Visual Studio Code](https://code.visualstudio.com/download)
 
@@ -992,5 +988,17 @@
       或者
 
       ![vscode-about.png](https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/install-java-ide/vscode-about.png)
-
+- id: YouMustGetBronzeGitMedal
+  format: HTML
+  data:
+    EN: |
+      I only allow people with <span style='color:red'>Bronze Git Medal</span> to pass.
+    ZH_HANS: |
+      我只允许拥有<span style='color:red'>青铜Git勋章</span>的人通过。
+- id: WouldYouLikeToGitIsland
+  data:
+    EN: |
+      Would you like to Git Island? Pay me 50 gold and I'll take you there.
+    ZH_HANS: |
+      你想去Git岛么？付我50金币，我就带你去。
 

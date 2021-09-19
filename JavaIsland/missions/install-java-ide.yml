@@ -16,7 +16,9 @@ title: install-java-ide-title
 challenges:
   - id: install-java-ide-challenge
     type: Question
-    star: 3
+    star: 1
     spec: "(?s).*(IntelliJ IDEA|Eclipse IDE|Electron:).*"
     tldr: install-java-ide-tldr
     readme: install-java-ide-readme
+onFinish:
+  coin: 100
