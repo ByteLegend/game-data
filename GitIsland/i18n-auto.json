@@ -35,21 +35,21 @@
   },
   "format" : "HTML"
 }, {
-  "id" : "git-commit-and-branch-title",
+  "id" : "git-commit-and-push-title",
   "data" : {
-    "EN" : "<span class=\"notranslate\">Git Commit & Branch</span>",
-    "ZH_HANS" : "Git提交与分支",
-    "ZH_HANT" : "Git提交與分支",
-    "ES" : "<span class=\"notranslate\">Git Commit & Branch</span>",
-    "AR" : "<span class=\"notranslate\">Git Commit & Branch</span>",
-    "PT" : "<span class=\"notranslate\">Git Commit & Branch</span>",
-    "ID" : "<span class=\"notranslate\">Git Commit & Branch</span>",
-    "FR" : "<span class=\"notranslate\">Git Commit & Branch</span>",
-    "JA" : "<span class=\"notranslate\">Git Commit & Branch</span>",
-    "RU" : "<span class=\"notranslate\">Git Commit & Branch</span>",
-    "DE" : "<span class=\"notranslate\">Git Commit & Branch</span>",
-    "KO" : "<span class=\"notranslate\">Git Commit & Branch</span>",
-    "IT" : "<span class=\"notranslate\">Git Commit & Branch</span>"
+    "EN" : "<span class=\"notranslate\">Git Commit & Push</span>",
+    "ZH_HANS" : "<span class=\"notranslate\">Git Commit & Push</span>",
+    "ZH_HANT" : "<span class=\"notranslate\">Git Commit & Push</span>",
+    "ES" : "<span class=\"notranslate\">Git Commit & Push</span>",
+    "AR" : "<span class=\"notranslate\">Git Commit & Push</span>",
+    "PT" : "<span class=\"notranslate\">Git Commit & Push</span>",
+    "ID" : "<span class=\"notranslate\">Git Commit & Push</span>",
+    "FR" : "<span class=\"notranslate\">Git Commit & Push</span>",
+    "JA" : "<span class=\"notranslate\">Git Commit & Push</span>",
+    "RU" : "<span class=\"notranslate\">Git Commit & Push</span>",
+    "DE" : "<span class=\"notranslate\">Git Commit & Push</span>",
+    "KO" : "<span class=\"notranslate\">Git Commit & Push</span>",
+    "IT" : "<span class=\"notranslate\">Git Commit & Push</span>"
   },
   "format" : "HTML"
 }, {
@@ -304,4 +304,40 @@
     "IT" : "Per l'isola di Giava"
   },
   "format" : "TEXT"
+}, {
+  "id" : "install-git-challenge-tldr",
+  "data" : {
+    "EN" : "<p>Install <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a>, and paste the <code class=\"notranslate\">git version</code> command line output into the input box below.</p>\n",
+    "ZH_HANS" : "<p>安装<a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a>，然后将<code class=\"notranslate\">git version</code>命令行的输出粘贴到下面的输入框里。</p>\n",
+    "ZH_HANT" : "<p>安裝</p>",
+    "ES" : "<p>Instale <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> y pegue la salida de la línea de comando de la <code class=\"notranslate\">git version</code></p>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">قم بتثبيت <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> ، ولصق <code class=\"notranslate\">git version</code> في مربع الإدخال أدناه.</p>",
+    "PT" : "<p>Instale o <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> e cole a saída da linha de comando da <code class=\"notranslate\">git version</code></p>",
+    "ID" : "<p>Instal <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> , dan rekatkan <code class=\"notranslate\">git version</code> ke dalam kotak input di bawah ini.</p>",
+    "FR" : "<p>Installez <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> et collez la <code class=\"notranslate\">git version</code> dans la zone de saisie ci-dessous.</p>",
+    "JA" : "<p><a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a>をインストールし<code class=\"notranslate\">git version</code>コマンドライン出力を下の入力ボックスに貼り付けます。</p>",
+    "RU" : "<p>Установите <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> и вставьте <code class=\"notranslate\">git version</code> в поле ввода ниже.</p>",
+    "DE" : "<p>Installieren Sie <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> und fügen Sie die <code class=\"notranslate\">git version</code> in das Eingabefeld unten ein.</p>",
+    "KO" : "<p><a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git을</a> 설치 <code class=\"notranslate\">git version</code> 명령줄 출력을 아래 입력 상자에 붙여넣습니다.</p>",
+    "IT" : "<p>Installa <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> e incolla l&#39;output della riga di comando della <code class=\"notranslate\">git version</code></p>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "install-git-challenge-readme",
+  "data" : {
+    "EN" : "<p>Install <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a>, and paste the <code class=\"notranslate\">git version</code> command line output into the input box below.</p>\n",
+    "ZH_HANS" : "<p>安装<a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a>，然后将<code class=\"notranslate\">git version</code>命令行的输出粘贴到下面的输入框里。</p>\n",
+    "ZH_HANT" : "<p>安裝</p>",
+    "ES" : "<p>Instale <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> y pegue la salida de la línea de comando de la <code class=\"notranslate\">git version</code></p>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">قم بتثبيت <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> ، ولصق <code class=\"notranslate\">git version</code> في مربع الإدخال أدناه.</p>",
+    "PT" : "<p>Instale o <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> e cole a saída da linha de comando da <code class=\"notranslate\">git version</code></p>",
+    "ID" : "<p>Instal <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> , dan rekatkan <code class=\"notranslate\">git version</code> ke dalam kotak input di bawah ini.</p>",
+    "FR" : "<p>Installez <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> et collez la <code class=\"notranslate\">git version</code> dans la zone de saisie ci-dessous.</p>",
+    "JA" : "<p><a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a>をインストールし<code class=\"notranslate\">git version</code>コマンドライン出力を下の入力ボックスに貼り付けます。</p>",
+    "RU" : "<p>Установите <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> и вставьте <code class=\"notranslate\">git version</code> в поле ввода ниже.</p>",
+    "DE" : "<p>Installieren Sie <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> und fügen Sie die <code class=\"notranslate\">git version</code> in das Eingabefeld unten ein.</p>",
+    "KO" : "<p><a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git을</a> 설치 <code class=\"notranslate\">git version</code> 명령줄 출력을 아래 입력 상자에 붙여넣습니다.</p>",
+    "IT" : "<p>Installa <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> e incolla l&#39;output della riga di comando della <code class=\"notranslate\">git version</code></p>"
+  },
+  "format" : "HTML"
 } ]

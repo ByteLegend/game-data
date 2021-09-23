@@ -14,7 +14,9 @@
 id: clone-and-run-java-project
 title: clone-and-run-java-project-title
 challenges:
-  - id: clone-and-run-java-project-challenge
+  - id: clone-and-switch-branch-challenge
     type: Question
+    tldr: clone-and-switch-branch-challenge-tldr
+    readme: clone-and-switch-branch-challenge-readme
     star: 1
     spec: "(?s)SGVsbG8sIEJ5dGVMZWdlbmQh"

@@ -16,5 +16,7 @@ title: clone-and-switch-branch-title
 challenges:
   - id: clone-and-switch-branch-challenge
     type: Question
+    tldr: clone-and-switch-branch-challenge-tldr
+    readme: clone-and-switch-branch-challenge-readme
     star: 1
     spec: "(?s)SGVsbG8sIEJ5dGVMZWdlbmRKREsxNyE="

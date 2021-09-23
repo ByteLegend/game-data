@@ -3706,4 +3706,40 @@
     "IT" : "Ti piacerebbe Git Island? Pagami 50 monete d'oro e ti ci porto.\n"
   },
   "format" : "TEXT"
+}, {
+  "id" : "clone-and-switch-branch-challenge-tldr",
+  "data" : {
+    "EN" : "<p>TBD</p>\n",
+    "ZH_HANS" : "<p>TBD</p>\n",
+    "ZH_HANT" : "<p>TBD</p>",
+    "ES" : "<p>TBD</p>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">يحدد لاحقًا</p>",
+    "PT" : "<p>TBD</p>",
+    "ID" : "<p>TBD</p>",
+    "FR" : "<p>À déterminer</p>",
+    "JA" : "<p>未定</p>",
+    "RU" : "<p>TBD</p>",
+    "DE" : "<p>noch offen</p>",
+    "KO" : "<p>미정</p>",
+    "IT" : "<p>da definire</p>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "clone-and-switch-branch-challenge-readme",
+  "data" : {
+    "EN" : "<p>TBD</p>\n",
+    "ZH_HANS" : "<p>TBD</p>\n",
+    "ZH_HANT" : "<p>TBD</p>",
+    "ES" : "<p>TBD</p>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">يحدد لاحقًا</p>",
+    "PT" : "<p>TBD</p>",
+    "ID" : "<p>TBD</p>",
+    "FR" : "<p>À déterminer</p>",
+    "JA" : "<p>未定</p>",
+    "RU" : "<p>TBD</p>",
+    "DE" : "<p>noch offen</p>",
+    "KO" : "<p>미정</p>",
+    "IT" : "<p>da definire</p>"
+  },
+  "format" : "HTML"
 } ]

@@ -16,5 +16,7 @@ title: install-git-title
 challenges:
   - id: install-git-challenge
     type: Question
+    tldr: install-git-challenge-tldr
+    readme: install-git-challenge-readme
     star: 1
-    spec: "(?s)git version [.\d]+.*"
+    spec: '(?s)git version [.\d]+.*'

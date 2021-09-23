@@ -19,11 +19,10 @@
   format: HTML
   data:
     EN: <span class="notranslate">Git Cherry-pick</span>
-- id: "git-commit-and-branch-title"
+- id: "git-commit-and-push-title"
   format: HTML
   data:
-    EN: <span class="notranslate">Git Commit & Branch</span>
-    ZH_HANS: Git提交与分支
+    EN: <span class="notranslate">Git Commit & Push</span>
 - id: "git-merge-and-rebase-title"
   format: HTML
   data:
@@ -83,3 +82,13 @@
   data:
     EN: To Java Island
     ZH_HANS: 去往爪哇岛
+- id: install-git-challenge-tldr
+  format: MARKDOWN
+  data:
+    EN: Install [Git](https://git-scm.com/downloads), and paste the `git version` command line output into the input box below.
+    ZH_HANS: 安装[Git](https://git-scm.com/downloads)，然后将`git version`命令行的输出粘贴到下面的输入框里。
+- id: install-git-challenge-readme
+  format: MARKDOWN
+  data:
+    EN: Install [Git](https://git-scm.com/downloads), and paste the `git version` command line output into the input box below.
+    ZH_HANS: 安装[Git](https://git-scm.com/downloads)，然后将`git version`命令行的输出粘贴到下面的输入框里。

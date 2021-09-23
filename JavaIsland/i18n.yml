@@ -1001,4 +1001,14 @@
       Would you like to Git Island? Pay me 50 gold and I'll take you there.
     ZH_HANS: |
       你想去Git岛么？付我50金币，我就带你去。
+- id: clone-and-switch-branch-challenge-tldr
+  format: MARKDOWN
+  data:
+    EN: TBD
+    ZH_HANS: TBD
+- id: clone-and-switch-branch-challenge-readme
+  format: MARKDOWN
+  data:
+    EN: TBD
+    ZH_HANS: TBD
 
