@@ -1205,6 +1205,24 @@
   },
   "format" : "TEXT"
 }, {
+  "id" : "UnfinishedText2",
+  "data" : {
+    "EN" : "Coming Soon~",
+    "ZH_HANS" : "请耐心等待开发哦~",
+    "ZH_HANT" : "請耐心等待開發哦~",
+    "ES" : "Próximamente ~",
+    "AR" : "قريبا ~",
+    "PT" : "Em breve ~",
+    "ID" : "Segera hadir~",
+    "FR" : "Bientôt ~",
+    "JA" : "もうすぐ〜",
+    "RU" : "Скоро в продаже ~",
+    "DE" : "In Kürze verfügbar~",
+    "KO" : "곧 ~",
+    "IT" : "Prossimamente~"
+  },
+  "format" : "TEXT"
+}, {
   "id" : "GitIsland",
   "data" : {
     "EN" : "Git Island",
