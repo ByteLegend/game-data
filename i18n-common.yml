@@ -646,3 +646,15 @@
   data:
     EN: Finish the challenge in repository <a href='{0}' target='_blank' class='notranslate'>https://{0}</a>.
     ZH_HANS: 完成仓库<a href='{0}' target='_blank' class='notranslate'>{0}</a>中的挑战。
+- id: Achievement
+  data:
+    EN: Achievement
+    ZH_HANS: 成就
+- id: MyAchievement
+  data:
+    EN: My Achievement
+    ZH_HANS: 我的成就
+- id: bronze-git-medal
+  data:
+    EN: Bronze Git Medal
+    ZH_HANS: 青铜Git勋章

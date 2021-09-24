@@ -757,12 +757,12 @@
 }, {
   "id" : "MyAchievement",
   "data" : {
-    "EN" : "My achievement",
+    "EN" : "My Achievement",
     "ZH_HANS" : "我的成就",
     "ZH_HANT" : "我的成就",
     "ES" : "Mi logro",
-    "AR" : "إنجازي",
-    "PT" : "Minha conquista",
+    "AR" : "إنجازاتي",
+    "PT" : "Minha Conquista",
     "ID" : "Prestasi saya",
     "FR" : "Ma réalisation",
     "JA" : "私の業績",
@@ -2464,4 +2464,40 @@
     "IT" : "Completa la sfida nel repository <a href='{0}' target='_blank' class='notranslate'>https://{0}</a> ."
   },
   "format" : "HTML"
+}, {
+  "id" : "Achievement",
+  "data" : {
+    "EN" : "Achievement",
+    "ZH_HANS" : "成就",
+    "ZH_HANT" : "成就",
+    "ES" : "Logro",
+    "AR" : "إنجاز",
+    "PT" : "Realização",
+    "ID" : "Pencapaian",
+    "FR" : "Réussite",
+    "JA" : "成果",
+    "RU" : "Достижение",
+    "DE" : "Leistung",
+    "KO" : "성취",
+    "IT" : "Risultato"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "bronze-git-medal",
+  "data" : {
+    "EN" : "Bronze Git Medal",
+    "ZH_HANS" : "青铜Git勋章",
+    "ZH_HANT" : "青銅Git勳章",
+    "ES" : "Medalla de bronce Git",
+    "AR" : "ميدالية جيت البرونزية",
+    "PT" : "Medalha Git Bronze",
+    "ID" : "Medali Git Perunggu",
+    "FR" : "Médaille de bronze Git",
+    "JA" : "ブロンズGitメダル",
+    "RU" : "Бронзовая медаль Git",
+    "DE" : "Bronzene Git-Medaille",
+    "KO" : "브론즈 깃 메달",
+    "IT" : "Medaglia di bronzo Git"
+  },
+  "format" : "TEXT"
 } ]
