@@ -1,11 +1,11 @@
 # Copyright 2021 ByteLegend Technologies and the original author or authors.
-# 
+#
 # Licensed under the GNU Affero General Public License v3.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
-# 
+#
 #      https://github.com/ByteLegend/ByteLegend/blob/master/LICENSE
-# 
+#
 # Unless required by applicable law or agreed to in writing, software
 # distributed under the License is distributed on an "AS IS" BASIS,
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -38,3 +38,7 @@
     ZH_HANS: |
       :sob: 对不起，您的答案似乎没有通过CI测试，请不要气馁，点击[这里]({0})查看原因，再接再厉！
       下次一定可以做得更好！
+- id: YouAreNotAllowedToChange
+  data:
+    EN: "You are not allowed to change this file: `{0}`"
+    ZH_HANS: "我们不允许您修改此文件：`{0}`"

@@ -70,4 +70,22 @@
     "IT" : ":sob: Siamo spiacenti, la tua risposta sembrava non superare il nostro test CI. Non preoccuparti, fai clic [qui]({0}) per visualizzare maggiori dettagli. Credo assolutamente che tu possa fare di meglio la prossima volta!"
   },
   "format" : "HTML"
+}, {
+  "id" : "YouAreNotAllowedToChange",
+  "data" : {
+    "EN" : "You are not allowed to change this file: `{0}`",
+    "ZH_HANS" : "我们不允许您修改此文件：`{0}`",
+    "ZH_HANT" : "我們不允許您修改此文件：`{0}`",
+    "ES" : "No se le permite cambiar este archivo: `{0}`",
+    "AR" : "لا يسمح لك بتغيير هذا الملف: \"{0}`",
+    "PT" : "Você não tem permissão para alterar este arquivo: `{0}`",
+    "ID" : "Anda tidak diizinkan untuk mengubah file ini: `{0}`",
+    "FR" : "Vous n'êtes pas autorisé à modifier ce fichier : `{0}`",
+    "JA" : "このファイルを変更することはできません： `{0}`",
+    "RU" : "Вам не разрешено изменять этот файл: `{0}`",
+    "DE" : "Sie dürfen diese Datei nicht ändern: `{0}`",
+    "KO" : "다음 파일을 변경할 수 없습니다. `{0}`",
+    "IT" : "Non sei autorizzato a modificare questo file: `{0}`"
+  },
+  "format" : "TEXT"
 } ]
