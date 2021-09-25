@@ -1603,19 +1603,19 @@
 }, {
   "id" : "GetItem",
   "data" : {
-    "EN" : "You've got item {0}",
-    "ZH_HANS" : "获得物品{0}",
-    "ZH_HANT" : "獲得物品{0}",
-    "ES" : "Tienes el artículo {0}",
-    "AR" : "لديك عنصر {0}",
-    "PT" : "Você tem o item {0}",
-    "ID" : "Anda memiliki item {0}",
-    "FR" : "Vous avez l'article {0}",
-    "JA" : "あなたはアイテム{0}を持っています",
-    "RU" : "У вас есть товар {0}",
-    "DE" : "Du hast Artikel {0}",
-    "KO" : "{0} 항목이 있습니다.",
-    "IT" : "Hai un articolo {0}"
+    "EN" : "Got item: {0}",
+    "ZH_HANS" : "获得物品：{0}",
+    "ZH_HANT" : "獲得物品：{0}",
+    "ES" : "Obtenido elemento: {0}",
+    "AR" : "حصلت على العنصر: {0}",
+    "PT" : "Item obtido: {0}",
+    "ID" : "Mendapat item: {0}",
+    "FR" : "Élément obtenu : {0}",
+    "JA" : "アイテムを手に入れました：{0}",
+    "RU" : "Получил предмет: {0}",
+    "DE" : "Artikel erhalten: {0}",
+    "KO" : "아이템 획득: {0}",
+    "IT" : "Articolo ottenuto: {0}"
   },
   "format" : "TEXT"
 }, {
@@ -2498,6 +2498,42 @@
     "DE" : "Bronzene Git-Medaille",
     "KO" : "브론즈 깃 메달",
     "IT" : "Medaglia di bronzo Git"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "coffee-icon",
+  "data" : {
+    "EN" : "A Coffee",
+    "ZH_HANS" : "一杯咖啡",
+    "ZH_HANT" : "一杯咖啡",
+    "ES" : "Un café",
+    "AR" : "قهوة",
+    "PT" : "Um café",
+    "ID" : "Kopi",
+    "FR" : "Un café",
+    "JA" : "コーヒー",
+    "RU" : "Кофе",
+    "DE" : "Ein Kaffee",
+    "KO" : "커피",
+    "IT" : "Un caffè"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "GetAchievement",
+  "data" : {
+    "EN" : "Get Achievement: {0}",
+    "ZH_HANS" : "获得成就：{0}",
+    "ZH_HANT" : "獲得成就：{0}",
+    "ES" : "Obtenga un logro: {0}",
+    "AR" : "احصل على الإنجاز: {0}",
+    "PT" : "Obtenha Conquista: {0}",
+    "ID" : "Dapatkan Prestasi: {0}",
+    "FR" : "Obtenir le succès : {0}",
+    "JA" : "成果を得る：{0}",
+    "RU" : "Получить достижение: {0}",
+    "DE" : "Errungenschaft: {0}",
+    "KO" : "업적 달성: {0}",
+    "IT" : "Ottieni obiettivo: {0}"
   },
   "format" : "TEXT"
 } ]

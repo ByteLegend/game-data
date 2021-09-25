@@ -443,8 +443,8 @@
     ZH_HANS: <div class="mission-success-tick-icon inline-icon-16"></div> 回答正确！请返回游戏。
 - id: GetItem
   data:
-    EN: You've got item {0}
-    ZH_HANS: 获得物品{0}
+    EN: "Got item: {0}"
+    ZH_HANS: 获得物品：{0}
 - id: YouAreOfflineBecauseOfAnotherLogin
   data:
     EN: You're entering offline mode because your account is logged in somewhere else.
@@ -658,3 +658,11 @@
   data:
     EN: Bronze Git Medal
     ZH_HANS: 青铜Git勋章
+- id: coffee-icon
+  data:
+    EN: A Coffee
+    ZH_HANS: 一杯咖啡
+- id: GetAchievement
+  data:
+    EN: "Get Achievement: {0}"
+    ZH_HANS: 获得成就：{0}
