@@ -2536,4 +2536,22 @@
     "IT" : "Ottieni obiettivo: {0}"
   },
   "format" : "TEXT"
+}, {
+  "id" : "AnswerTheQuestionInReadme",
+  "data" : {
+    "EN" : "<p>Answer the question <a href=\"{0}\" target=\"_blank\">here</a> and put the answer into the input box below.</p>\n",
+    "ZH_HANS" : "<p>回答<a href=\"{0}\" target=\"_blank\">这里</a>中的问题，然后把答案贴在下面的输入框里。</p>\n",
+    "ZH_HANT" : "<p>回答</p>",
+    "ES" : "<p>Responda la pregunta <a href=\"{0}\" target=\"_blank\">aquí</a> y escriba la respuesta en el cuadro de entrada a continuación.</p>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">أجب عن السؤال <a href=\"{0}\" target=\"_blank\">هنا</a> وضع الإجابة في مربع الإدخال أدناه.</p>",
+    "PT" : "<p>Responda à pergunta <a href=\"{0}\" target=\"_blank\">aqui</a> e coloque a resposta na caixa de entrada abaixo.</p>",
+    "ID" : "<p>Jawab pertanyaan di <a href=\"{0}\" target=\"_blank\">sini</a> dan masukkan jawabannya ke dalam kotak input di bawah ini.</p>",
+    "FR" : "<p>Répondez à la question <a href=\"{0}\" target=\"_blank\">ici</a> et mettez la réponse dans la zone de saisie ci-dessous.</p>",
+    "JA" : "<p><a href=\"{0}\" target=\"_blank\">ここ</a>で質問に答えて、下の入力ボックスに答えを入力してください。</p>",
+    "RU" : "<p>Ответьте на вопрос <a href=\"{0}\" target=\"_blank\">здесь</a> и введите ответ в поле ввода ниже.</p>",
+    "DE" : "<p>Beantworten Sie die Frage <a href=\"{0}\" target=\"_blank\">hier</a> und geben Sie die Antwort in das Eingabefeld unten ein.</p>",
+    "KO" : "<p><a href=\"{0}\" target=\"_blank\">여기</a> 에 질문에 답하고 아래 입력란에 답을 입력하세요.</p>",
+    "IT" : "<p>Rispondi alla domanda <a href=\"{0}\" target=\"_blank\">qui</a> e inserisci la risposta nella casella di input sottostante.</p>"
+  },
+  "format" : "HTML"
 } ]

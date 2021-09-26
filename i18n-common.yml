@@ -666,3 +666,9 @@
   data:
     EN: "Get Achievement: {0}"
     ZH_HANS: 获得成就：{0}
+- id: AnswerTheQuestionInReadme
+  format: MARKDOWN
+  data:
+    EN: "Answer the question [here]({0}) and put the answer into the input box below."
+    ZH_HANS: "回答[这里]({0})中的问题，然后把答案贴在下面的输入框里。"
+

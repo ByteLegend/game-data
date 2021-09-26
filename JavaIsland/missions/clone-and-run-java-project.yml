@@ -14,9 +14,8 @@
 id: clone-and-run-java-project
 title: clone-and-run-java-project-title
 challenges:
-  - id: clone-and-switch-branch-challenge
+  - id: clone-and-run-java-project-challenge
     type: Question
-    tldr: clone-and-switch-branch-challenge-tldr
-    readme: clone-and-switch-branch-challenge-readme
+    readme: https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/README.md
     star: 1
     spec: "(?s)SGVsbG8sIEJ5dGVMZWdlbmQh"

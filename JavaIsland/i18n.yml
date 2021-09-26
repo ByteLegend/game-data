@@ -1001,14 +1001,22 @@
       Would you like to Git Island? Pay me 50 gold and I'll take you there.
     ZH_HANS: |
       你想去Git岛么？付我50金币，我就带你去。
-- id: clone-and-switch-branch-challenge-tldr
-  format: MARKDOWN
+- id: BravePeopleISeeYourBronzeGitMedal
+  format: HTML
   data:
-    EN: TBD
-    ZH_HANS: TBD
-- id: clone-and-switch-branch-challenge-readme
-  format: MARKDOWN
+    ZH_HANS: |
+      勇敢的人啊，我看到了你的<span style='color:red'>青铜Git勋章</span>和勇气，
+      请答应我，一定要坚持到底，找到<span style='color:red'>神圣爪哇咖啡</span>，
+      拯救我们的家园！
+    EN: |
+      Brave man, I see your <span style='color:red'>Brave Git Medal</span> and courage,
+      promise me, keep on until you find <span style='color:red'>Holy Java Coffee</span>,
+      save our home!
+- id: IPromise
   data:
-    EN: TBD
-    ZH_HANS: TBD
-
+    ZH_HANS: 我答应你。
+    EN: I promise.
+- id: DidYouForgetYourPromise
+  data:
+    ZH_HANS: 你忘了你的承诺了吗？
+    EN: Did you forget your words?

@@ -3707,39 +3707,57 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "clone-and-switch-branch-challenge-tldr",
+  "id" : "BravePeopleISeeYourBronzeGitMedal",
   "data" : {
-    "EN" : "<p>TBD</p>\n",
-    "ZH_HANS" : "<p>TBD</p>\n",
-    "ZH_HANT" : "<p>TBD</p>",
-    "ES" : "<p>TBD</p>",
-    "AR" : "<p style=\";text-align:right;direction:rtl\">يحدد لاحقًا</p>",
-    "PT" : "<p>TBD</p>",
-    "ID" : "<p>TBD</p>",
-    "FR" : "<p>À déterminer</p>",
-    "JA" : "<p>未定</p>",
-    "RU" : "<p>TBD</p>",
-    "DE" : "<p>noch offen</p>",
-    "KO" : "<p>미정</p>",
-    "IT" : "<p>da definire</p>"
+    "EN" : "Brave man, I see your <span style='color:red'>Brave Git Medal</span> and courage,\npromise me, keep on until you find <span style='color:red'>Holy Java Coffee</span>,\nsave our home!\n",
+    "ZH_HANS" : "勇敢的人啊，我看到了你的<span style='color:red'>青铜Git勋章</span>和勇气，\n请答应我，一定要坚持到底，找到<span style='color:red'>神圣爪哇咖啡</span>，\n拯救我们的家园！\n",
+    "ZH_HANT" : "勇敢的人啊，我看到了你的",
+    "ES" : "Hombre valiente, veo tu <span style='color:red'>medalla Brave Git</span> y tu coraje, prométeme, sigue hasta que encuentres <span style='color:red'>Holy Java Coffee</span> , ¡salva nuestro hogar!",
+    "AR" : "رجل شجاع ، أرى <span style='color:red'>وسام Brave Git وشجاعتك</span> ، وعدني ، استمر حتى تجد <span style='color:red'>قهوة جافا المقدسة</span> ، واحفظ منزلنا!",
+    "PT" : "Homem valente, vejo sua <span style='color:red'>Medalha de Brave Git</span> e coragem, prometa-me, continue até encontrar o <span style='color:red'>Santo Café Java</span> , salve nossa casa!",
+    "ID" : "Pria pemberani, saya melihat <span style='color:red'>Medali</span> dan keberanian Anda, berjanjilah, teruskan sampai Anda menemukan <span style='color:red'>Kopi Jawa Suci</span> , selamatkan rumah kami!",
+    "FR" : "Homme courageux, je vois votre <span style='color:red'>médaille Brave Git</span> et courage, promets-moi, continue jusqu&#39;à ce que tu trouves <span style='color:red'>Holy Java Coffee</span> , sauve notre maison !",
+    "JA" : "勇敢な男、私はあなたの<span style='color:red'>勇敢なGitメダル</span>と勇気を見て、私に約束し、あなたが<span style='color:red'>聖なるジャワコーヒー</span>を見つけるまで続けて、私たちの家を救ってください！",
+    "RU" : "Храбрый человек, я вижу твою <span style='color:red'>медаль храброго гита</span> и храбрость, обещай мне, продолжай, пока не найдешь <span style='color:red'>Holy Java Coffee</span> , спаси наш дом!",
+    "DE" : "Tapferer Mann, ich sehe deine <span style='color:red'>Brave Git-Medaille</span> und deinen Mut, versprich es mir, mach weiter, bis du <span style='color:red'>Holy Java Coffee</span> findest, rette unser Zuhause!",
+    "KO" : "용감한 사람, 나는 당신의 <span style='color:red'>Brave Git 메달</span> <span style='color:red'>과 용기를 봅니다. 약속합니다. 당신이 Holy Java Coffee</span> 를 찾을 때까지 계속하십시오, 우리 집을 구하십시오!",
+    "IT" : "Uomo coraggioso, vedo la tua <span style='color:red'>Medaglia Brave Git</span> e coraggio, promettimi, continua finché non trovi <span style='color:red'>Holy Java Coffee</span> , salva la nostra casa!"
   },
   "format" : "HTML"
 }, {
-  "id" : "clone-and-switch-branch-challenge-readme",
+  "id" : "IPromise",
   "data" : {
-    "EN" : "<p>TBD</p>\n",
-    "ZH_HANS" : "<p>TBD</p>\n",
-    "ZH_HANT" : "<p>TBD</p>",
-    "ES" : "<p>TBD</p>",
-    "AR" : "<p style=\";text-align:right;direction:rtl\">يحدد لاحقًا</p>",
-    "PT" : "<p>TBD</p>",
-    "ID" : "<p>TBD</p>",
-    "FR" : "<p>À déterminer</p>",
-    "JA" : "<p>未定</p>",
-    "RU" : "<p>TBD</p>",
-    "DE" : "<p>noch offen</p>",
-    "KO" : "<p>미정</p>",
-    "IT" : "<p>da definire</p>"
+    "EN" : "I promise.",
+    "ZH_HANS" : "我答应你。",
+    "ZH_HANT" : "我答應你。",
+    "ES" : "Prometo.",
+    "AR" : "أعدك.",
+    "PT" : "Eu prometo.",
+    "ID" : "Saya berjanji.",
+    "FR" : "Je promets.",
+    "JA" : "約束します。",
+    "RU" : "Я обещаю.",
+    "DE" : "Das verspreche ich.",
+    "KO" : "약속합니다.",
+    "IT" : "Prometto."
   },
-  "format" : "HTML"
+  "format" : "TEXT"
+}, {
+  "id" : "DidYouForgetYourPromise",
+  "data" : {
+    "EN" : "Did you forget your words?",
+    "ZH_HANS" : "你忘了你的承诺了吗？",
+    "ZH_HANT" : "你忘了你的承諾了嗎？",
+    "ES" : "¿Olvidaste tus palabras?",
+    "AR" : "هل نسيت كلامك؟",
+    "PT" : "Você esqueceu suas palavras?",
+    "ID" : "Apakah Anda lupa kata-kata Anda?",
+    "FR" : "Avez-vous oublié vos mots?",
+    "JA" : "言葉を忘れましたか？",
+    "RU" : "Вы забыли свои слова?",
+    "DE" : "Hast du deine Worte vergessen?",
+    "KO" : "당신의 말을 잊었습니까?",
+    "IT" : "Hai dimenticato le tue parole?"
+  },
+  "format" : "TEXT"
 } ]
