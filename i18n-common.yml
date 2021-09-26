@@ -645,7 +645,7 @@
   format: HTML
   data:
     EN: Finish the challenge in repository <a href='{0}' target='_blank' class='notranslate'>https://{0}</a>.
-    ZH_HANS: 完成仓库<a href='{0}' target='_blank' class='notranslate'>{0}</a>中的挑战。
+    ZH_HANS: 完成仓库<a href='https://{0}' target='_blank' class='notranslate'>{0}</a>中的挑战。
 - id: Achievement
   data:
     EN: Achievement
@@ -670,5 +670,5 @@
   format: MARKDOWN
   data:
     EN: "Answer the question [here]({0}) and put the answer into the input box below."
-    ZH_HANS: "回答[这里]({0})中的问题，然后把答案贴在下面的输入框里。"
+    ZH_HANS: "回答[这里]({0})的问题，然后把答案贴在下面的输入框里。"
 
