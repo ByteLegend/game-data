@@ -23,21 +23,21 @@ discussions:
 tutorials:
   - id: create-your-first-pr-zh
     title: 创建你的第一个Pull Request
-    href: https://raw.githubusercontent.com/ByteLegendQuest/remember-brave-people/master/docs/zh/create-your-first-pull-request.md
+    href: https://raw.githubusercontent.com/ByteLegendQuest/remember-brave-people/main/docs/zh/create-your-first-pull-request.md
     type: text/markdown
     language: ZH_HANS
   - id: frequent-failures-zh
     title: 我的PR失败了怎么办？
-    href: https://raw.githubusercontent.com/ByteLegendQuest/remember-brave-people/master/docs/zh/frequent-failures.md
+    href: https://raw.githubusercontent.com/ByteLegendQuest/remember-brave-people/main/docs/zh/frequent-failures.md
     type: text/markdown
     language: ZH_HANS
   - id: create-your-first-pr-en
     title: Create Your First Pull Request
-    href: https://raw.githubusercontent.com/ByteLegendQuest/remember-brave-people/master/docs/en/create-your-first-pull-request.md
+    href: https://raw.githubusercontent.com/ByteLegendQuest/remember-brave-people/main/docs/en/create-your-first-pull-request.md
     type: text/markdown
     language: EN
   - id: frequent-failures-en
     title: Why My PR Failed?
-    href: https://raw.githubusercontent.com/ByteLegendQuest/remember-brave-people/master/docs/en/frequent-failures.md
+    href: https://raw.githubusercontent.com/ByteLegendQuest/remember-brave-people/main/docs/en/frequent-failures.md
     type: text/markdown
     language: EN
