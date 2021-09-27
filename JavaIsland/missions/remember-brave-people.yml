@@ -15,7 +15,7 @@ id: remember-brave-people
 title: remember-brave-people-title
 challenges:
   - id: remember-brave-people-challenge
-    type: Noticeboard
+    type: HeroNoticeboard
     star: 3
     spec: github.com/ByteLegendQuest/remember-brave-people
 discussions:

@@ -457,10 +457,10 @@
   data:
     EN: Discussions
     ZH_HANS: 讨论
-- id: BravePeopleBoard
+- id: HeroNoticeboard
   data:
-    EN: Brave people board
-    ZH_HANS: 勇士榜
+    EN: Hero Noticeboard
+    ZH_HANS: 英雄榜
 - id: ThisIsNotFinishedYet
   data:
     EN: This is not finished yet😞

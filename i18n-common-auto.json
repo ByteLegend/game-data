@@ -1673,21 +1673,21 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "BravePeopleBoard",
+  "id" : "HeroNoticeboard",
   "data" : {
-    "EN" : "Brave people board",
-    "ZH_HANS" : "勇士榜",
-    "ZH_HANT" : "勇士榜",
-    "ES" : "Tablero de gente valiente",
-    "AR" : "مجلس الشعب الشجاع",
-    "PT" : "Pessoas corajosas a bordo",
-    "ID" : "Papan orang pemberani",
-    "FR" : "Conseil des gens courageux",
-    "JA" : "勇敢な人々が搭乗",
-    "RU" : "Доска храбрых людей",
-    "DE" : "Tapfere Leute Board",
-    "KO" : "용감한 사람들 보드",
-    "IT" : "Tavola delle persone coraggiose"
+    "EN" : "Hero Noticeboard",
+    "ZH_HANS" : "英雄榜",
+    "ZH_HANT" : "英雄榜",
+    "ES" : "Tablón de anuncios de héroe",
+    "AR" : "لوحة ملاحظات البطل",
+    "PT" : "Hero Noticeboard",
+    "ID" : "Papan Pengumuman Pahlawan",
+    "FR" : "Tableau d'affichage des héros",
+    "JA" : "ヒーロー掲示板",
+    "RU" : "Доска объявлений героя",
+    "DE" : "Helden-Schwarzes Brett",
+    "KO" : "영웅 게시판",
+    "IT" : "Bacheca Eroe"
   },
   "format" : "TEXT"
 }, {
