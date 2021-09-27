@@ -671,4 +671,5 @@
   data:
     EN: "Answer the question [here]({0}) and put the answer into the input box below."
     ZH_HANS: "回答[这里]({0})的问题，然后把答案贴在下面的输入框里。"
+    ZH_HANT: "回答[這裡]({0})的問題，然後把答案貼在下面的輸入框裡。"
 

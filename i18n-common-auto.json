@@ -9,11 +9,11 @@
     "PT" : "Entrar",
     "ID" : "Masuk",
     "FR" : "S'identifier",
-    "JA" : "サインイン",
+    "JA" : "ログイン",
     "RU" : "Войти",
     "DE" : "Einloggen",
     "KO" : "로그인",
-    "IT" : "registrati"
+    "IT" : "Registrazione"
   },
   "format" : "TEXT"
 }, {
@@ -39,14 +39,14 @@
   "data" : {
     "EN" : "Online ",
     "ZH_HANS" : "在线 ",
-    "ZH_HANT" : "在線",
+    "ZH_HANT" : "在線 ",
     "ES" : "En línea",
     "AR" : "متصل",
     "PT" : "Conectados",
     "ID" : "On line",
     "FR" : "En ligne",
     "JA" : "オンライン",
-    "RU" : "В сети",
+    "RU" : "онлайн",
     "DE" : "Online",
     "KO" : "온라인",
     "IT" : "in linea"
@@ -114,7 +114,7 @@
     "ZH_HANT" : "請刷新頁面",
     "ES" : "Actualiza la página.",
     "AR" : "يرجى تحديث الصفحة",
-    "PT" : "Por favor atualize a página",
+    "PT" : "Por favor, atualize a página",
     "ID" : "Harap segarkan halaman",
     "FR" : "Veuillez actualiser la page",
     "JA" : "ページを更新してください",
@@ -275,10 +275,10 @@
     "ZH_HANS" : "字节传说是一个全球分布式系统，所有玩家的数据不分区。\n显示服务器位置有助于团队发现和处理服务器问题。\n",
     "ZH_HANT" : "字節傳說是一個全球分佈式系統，所有玩家的數據不分區。\n顯示服務器位置有助於團隊發現和處理服務器問題。\n",
     "ES" : "ByteLegend es un sistema distribuido globalmente con datos de jugador unificados.\nAyuda a nuestro equipo a solucionar problemas para mostrar la ubicación del servidor.\n",
-    "AR" : "ByteLegend هو نظام موزع عالميًا مع بيانات المشغل الموحدة.\nيساعد فريقنا في استكشاف المشكلات وإصلاحها لعرض موقع الخادم.\n",
+    "AR" : "ByteLegend هو نظام موزع عالميًا يحتوي على بيانات مشغل موحدة.\nيساعد فريقنا في استكشاف المشكلات وإصلاحها لعرض موقع الخادم.\n",
     "PT" : "ByteLegend é um sistema distribuído globalmente com dados unificados do jogador.\nIsso ajuda nossa equipe a solucionar problemas para exibir a localização do servidor.\n",
-    "ID" : "ByteLegend adalah sistem terdistribusi secara global dengan data pemain terpadu.\nIni membantu tim kami memecahkan masalah untuk menampilkan lokasi server.\n",
-    "FR" : "ByteLegend est un système distribué dans le monde entier avec des données de joueurs unifiées.\nCela aide notre équipe à résoudre les problèmes pour afficher l'emplacement du serveur.\n",
+    "ID" : "ByteLegend adalah sistem yang terdistribusi secara global dengan data pemain terpadu.\nIni membantu tim kami memecahkan masalah untuk menampilkan lokasi server.\n",
+    "FR" : "ByteLegend est un système distribué à l'échelle mondiale avec des données de joueurs unifiées.\nCela aide notre équipe à résoudre les problèmes pour afficher l'emplacement du serveur.\n",
     "JA" : "ByteLegendは、統合されたプレーヤーデータを備えたグローバルに分散されたシステムです。\nこれは、チームが問題のトラブルシューティングを行ってサーバーの場所を表示するのに役立ちます。\n",
     "RU" : "ByteLegend - это глобально распределенная система с унифицированными данными игроков.\nЭто помогает нашей команде устранять проблемы с отображением местоположения сервера.\n",
     "DE" : "ByteLegend ist ein global verteiltes System mit einheitlichen Spielerdaten.\nEs hilft unserem Team, Probleme zu beheben, um den Serverstandort anzuzeigen.\n",
@@ -293,14 +293,14 @@
     "ZH_HANS" : "帮助",
     "ZH_HANT" : "幫助",
     "ES" : "Ayudar",
-    "AR" : "مساعدة",
+    "AR" : "يساعد",
     "PT" : "Ajuda",
-    "ID" : "Tolong",
+    "ID" : "Membantu",
     "FR" : "Aider",
-    "JA" : "助けて",
+    "JA" : "ヘルプ",
     "RU" : "Помощь",
     "DE" : "Hilfe",
-    "KO" : "도움",
+    "KO" : "돕다",
     "IT" : "Aiuto"
   },
   "format" : "TEXT"
@@ -354,7 +354,7 @@
     "JA" : "ありがとう",
     "RU" : "Спасибо",
     "DE" : "Vielen Dank",
-    "KO" : "감사",
+    "KO" : "감사 해요",
     "IT" : "Grazie"
   },
   "format" : "TEXT"
@@ -383,14 +383,14 @@
     "ZH_HANS" : "素材",
     "ZH_HANT" : "素材",
     "ES" : "Materiales",
-    "AR" : "مواد",
+    "AR" : "المواد",
     "PT" : "Materiais",
     "ID" : "Bahan:",
     "FR" : "Matériaux",
     "JA" : "材料",
     "RU" : "Материалы",
     "DE" : "Materialien",
-    "KO" : "기재",
+    "KO" : "재료",
     "IT" : "Materiali"
   },
   "format" : "TEXT"
@@ -399,12 +399,12 @@
   "data" : {
     "EN" : "The game materials are collected from Internet, which are usually not properly licensed.\nPlease contact us if you see us misusing any: <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a>.\nWe'll take care of it immediately.\n",
     "ZH_HANS" : "游戏素材来自互联网，很多时候并没有明确的版权声明，如果您发现我们误用了任何素材，请联系：<a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a>。\n我们会第一时间处理。\n",
-    "ZH_HANT" : "遊戲素材來自互聯網，很多時候並沒有明確的版權聲明，如果您發現我們誤用了任何素材，請聯繫： <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> 。我們會第一時間處理。",
+    "ZH_HANT" : "遊戲素材來自互聯網，很多時候並沒有明確的版權聲明，如果您發現我們誤用了任何素材，請聯繫：我們會第一時間處理。",
     "ES" : "Los materiales del juego se recopilan de Internet, que generalmente no tienen la licencia adecuada. Póngase en contacto con nosotros si ve que hacemos un mal uso de alguno: <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . Nos ocuparemos de ello de inmediato.",
     "AR" : "يتم جمع مواد اللعبة من الإنترنت ، والتي عادة ما تكون غير مرخصة بشكل صحيح. يرجى الاتصال بنا إذا رأيت أننا نسيء استخدام أي من: <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . سنهتم به على الفور.",
     "PT" : "Os materiais do jogo são coletados da Internet, que geralmente não são devidamente licenciados. Entre em contato conosco se você nos ver fazendo uso indevido de algum: <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . Cuidaremos disso imediatamente.",
     "ID" : "Materi permainan dikumpulkan dari Internet, yang biasanya tidak dilisensikan dengan benar. Silakan hubungi kami jika Anda melihat kami menyalahgunakan: <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . Kami akan segera mengurusnya.",
-    "FR" : "Le matériel du jeu est collecté sur Internet, qui n&#39;est généralement pas correctement licencié. Veuillez nous contacter si vous voyez que nous en abusons : <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . Nous nous en occuperons immédiatement.",
+    "FR" : "Le matériel du jeu est collecté sur Internet, qui n&#39;est généralement pas correctement licencié. Veuillez nous contacter si vous constatez que nous en abusons : <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . Nous nous en occuperons immédiatement.",
     "JA" : "ゲームの資料はインターネットから収集されますが、通常は適切にライセンスされていません。誤用を見つけた場合は、contact <a href=\"mailto:contact@bytelegend.com\">@ bytelegend.comまで</a>ご連絡ください。すぐにお世話になります。",
     "RU" : "Материалы игры собраны из Интернета, которые обычно не имеют надлежащей лицензии. Пожалуйста, свяжитесь с нами, если вы заметите, что мы неправильно используем что-либо: <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . Мы немедленно позаботимся об этом.",
     "DE" : "Die Spielmaterialien werden aus dem Internet gesammelt, das normalerweise nicht ordnungsgemäß lizenziert ist. Bitte kontaktieren Sie uns, wenn Sie <a href=\"mailto:contact@bytelegend.com\">feststellen</a> , dass wir etwas missbrauchen: contact@bytelegend.com . Wir kümmern uns umgehend darum.",
@@ -498,7 +498,7 @@
     "JA" : "このゲームは、次のアートワークなしでは存在しません。",
     "RU" : "Эта игра не существовала бы без следующих иллюстраций:",
     "DE" : "Dieses Spiel würde ohne das folgende Artwork nicht existieren:",
-    "KO" : "이 게임은 다음 아트워크 없이는 존재하지 않습니다.",
+    "KO" : "이 게임은 다음 아트워크가 없었다면 존재하지 않았을 것입니다.",
     "IT" : "Questo gioco non esisterebbe senza la seguente grafica:"
   },
   "format" : "TEXT"
@@ -548,12 +548,12 @@
     "AR" : "هذه اللعبة مخصصة لابنتي اللطيفة كيتي ، والتي لولاها لكانت قد اكتملت قبل ذلك بكثير. \uD83E\uDD26",
     "PT" : "Este jogo é dedicado à minha linda filha Kitty, sem a qual teria sido concluído muito antes. \uD83E\uDD26",
     "ID" : "Game ini didedikasikan untuk putriku yang lucu, Kitty, yang tanpanya game ini akan selesai lebih awal. \uD83E\uDD26",
-    "FR" : "Ce jeu est dédié à ma jolie fille Kitty, sans qui il aurait été terminé bien plus tôt. \uD83E\uDD26",
+    "FR" : "Ce jeu est dédié à ma jolie fille Kitty, sans qui il aurait été terminé bien plus tôt. ??",
     "JA" : "このゲームは私のかわいい娘キティに捧げられています。キティがいなければ、ずっと早く完成していたでしょう。 \uD83E\uDD26",
-    "RU" : "Эта игра посвящена моей симпатичной дочке Китти, без которой она была бы завершена намного раньше. \uD83E\uDD26",
+    "RU" : "Эта игра посвящена моей милой дочке Китти, без которой она была бы завершена намного раньше. \uD83E\uDD26",
     "DE" : "Dieses Spiel ist meiner süßen Tochter Kitty gewidmet, ohne die es schon viel früher fertig gewesen wäre. \uD83E\uDD26",
     "KO" : "이 게임은 내 귀여운 딸 Kitty에게 헌정되었습니다. \uD83E\uDD26",
-    "IT" : "Questo gioco è dedicato alla mia simpatica figlia Kitty, senza la quale sarebbe stato completato molto prima. \uD83E\uDD26"
+    "IT" : "Questo gioco è dedicato alla mia simpatica figlia Kitty, senza la quale sarebbe stato completato molto prima. ?"
   },
   "format" : "TEXT"
 }, {
@@ -561,7 +561,7 @@
   "data" : {
     "EN" : "<a href=\"https://gradle.org\" target=\"_blank\" class=\"badge badge-success notranslate\">Gradle</a>: an awesome automated tool, by which the game is built.\n",
     "ZH_HANS" : "<a href=\"https://gradle.org\" target=\"_blank\" class=\"badge badge-success notranslate\">Gradle</a>：非常好用的自动化工具，这个游戏使用它进行构建。\n",
-    "ZH_HANT" : "<a href=\"https://gradle.org\" target=\"_blank\" class=\"badge badge-success notranslate\">Gradle</a> ：非常好用的自動化工具，這個遊戲使用它進行構建。",
+    "ZH_HANT" : "Gradle",
     "ES" : "<a href=\"https://gradle.org\" target=\"_blank\" class=\"badge badge-success notranslate\">Gradle</a> : una increíble herramienta automatizada con la que se construye el juego.",
     "AR" : "<a href=\"https://gradle.org\" target=\"_blank\" class=\"badge badge-success notranslate\">Gradle</a> : أداة آلية رائعة ، يتم من خلالها بناء اللعبة.",
     "PT" : "<a href=\"https://gradle.org\" target=\"_blank\" class=\"badge badge-success notranslate\">Gradle</a> : uma ferramenta automatizada incrível, pela qual o jogo é construído.",
@@ -579,7 +579,7 @@
   "data" : {
     "EN" : "<a href=\"https://kotlinlang.org/\" target=\"_blank\" class=\"badge badge-primary notranslate\">Kotlin</a>: Everything you see in the game is written in Kotlin: frontend, backend, game script.\n",
     "ZH_HANS" : "<a href=\"https://kotlinlang.org/\" target=\"_blank\" class=\"badge badge-primary notranslate\">Kotlin</a>: 游戏的一切都是用Kotlin实现的，包括前端、后端以及游戏脚本。\n",
-    "ZH_HANT" : "<a href=\"https://kotlinlang.org/\" target=\"_blank\" class=\"badge badge-primary notranslate\">Kotlin</a> :遊戲的一切都是用Kotlin實現的，包括前端、後端以及遊戲腳本。",
+    "ZH_HANT" : "Kotlin",
     "ES" : "<a href=\"https://kotlinlang.org/\" target=\"_blank\" class=\"badge badge-primary notranslate\">Kotlin</a> : Todo lo que ves en el juego está escrito en Kotlin: frontend, backend, script del juego.",
     "AR" : "<a href=\"https://kotlinlang.org/\" target=\"_blank\" class=\"badge badge-primary notranslate\">Kotlin</a> : كل ما تراه في اللعبة مكتوب بلغة Kotlin: الواجهة الأمامية والخلفية وسيناريو اللعبة.",
     "PT" : "<a href=\"https://kotlinlang.org/\" target=\"_blank\" class=\"badge badge-primary notranslate\">Kotlin</a> : tudo o que você vê no jogo está escrito em Kotlin: front-end, back-end, script do jogo.",
@@ -597,7 +597,7 @@
   "data" : {
     "EN" : "<a href=\"https://www.jetbrains.com/community/opensource/#support\" target=\"_blank\" class=\"badge badge-warning notranslate\">JetBrains Open Source Support</a>: the game is developed with IntelliJ IDEA.\n",
     "ZH_HANS" : "<a href=\"https://www.jetbrains.com/community/opensource/#support\" target=\"_blank\" class=\"badge badge-warning notranslate\">JetBrains开源支持</a>: 本游戏主要使用IntelliJ IDEA开发。\n",
-    "ZH_HANT" : "<a href=\"https://www.jetbrains.com/community/opensource/#support\" target=\"_blank\" class=\"badge badge-warning notranslate\">JetBrains开源支持</a>:本遊戲主要使用IntelliJ IDEA開發。",
+    "ZH_HANT" : "JetBrains開源支持",
     "ES" : "<a href=\"https://www.jetbrains.com/community/opensource/#support\" target=\"_blank\" class=\"badge badge-warning notranslate\">JetBrains Open Source Support</a> : el juego está desarrollado con IntelliJ IDEA.",
     "AR" : "<a href=\"https://www.jetbrains.com/community/opensource/#support\" target=\"_blank\" class=\"badge badge-warning notranslate\">JetBrains Open Source Support</a> : تم تطوير اللعبة باستخدام IntelliJ IDEA.",
     "PT" : "<a href=\"https://www.jetbrains.com/community/opensource/#support\" target=\"_blank\" class=\"badge badge-warning notranslate\">JetBrains Open Source Support</a> : o jogo é desenvolvido com IntelliJ IDEA.",
@@ -615,7 +615,7 @@
   "data" : {
     "EN" : "<a href=\"https://www.mapeditor.org/\" target=\"_blank\" class=\"badge badge-info notranslate\">Tiled</a>: a free, easy-to-use map editor. All maps in the game are created with it.\n",
     "ZH_HANS" : "<a href=\"https://www.mapeditor.org/\" target=\"_blank\" class=\"badge badge-info notranslate\">Tiled</a>：游戏的所有地图都是通过它创建的。\n",
-    "ZH_HANT" : "<a href=\"https://www.mapeditor.org/\" target=\"_blank\" class=\"badge badge-info notranslate\">Tiled</a> ：遊戲的所有地圖都是通過它創建的。",
+    "ZH_HANT" : "Tiled",
     "ES" : "<a href=\"https://www.mapeditor.org/\" target=\"_blank\" class=\"badge badge-info notranslate\">Tiled</a> : un editor de mapas gratuito y fácil de usar. Todos los mapas del juego se crean con él.",
     "AR" : "<a href=\"https://www.mapeditor.org/\" target=\"_blank\" class=\"badge badge-info notranslate\">Tiled</a> : محرر خرائط مجاني وسهل الاستخدام. يتم إنشاء جميع الخرائط في اللعبة معها.",
     "PT" : "<a href=\"https://www.mapeditor.org/\" target=\"_blank\" class=\"badge badge-info notranslate\">Tiled</a> : um editor de mapas gratuito e fácil de usar. Todos os mapas do jogo são criados com ele.",
@@ -659,9 +659,9 @@
     "FR" : "Paramètres",
     "JA" : "設定",
     "RU" : "Настройки",
-    "DE" : "die Einstellungen",
+    "DE" : "Einstellungen",
     "KO" : "설정",
-    "IT" : "impostazioni"
+    "IT" : "Impostazioni"
   },
   "format" : "TEXT"
 }, {
@@ -710,11 +710,11 @@
     "AR" : "انهيار",
     "PT" : "colapso",
     "ID" : "jatuh",
-    "FR" : "s'effondrer",
+    "FR" : "effondrer",
     "JA" : "崩壊",
     "RU" : "крах",
     "DE" : "Zusammenbruch",
-    "KO" : "무너짐",
+    "KO" : "무너지다",
     "IT" : "crollo"
   },
   "format" : "TEXT"
@@ -727,12 +727,12 @@
     "ES" : "expandir",
     "AR" : "وسعت",
     "PT" : "expandir",
-    "ID" : "memperluas",
+    "ID" : "mengembangkan",
     "FR" : "développer",
-    "JA" : "展開",
+    "JA" : "拡大",
     "RU" : "расширять",
-    "DE" : "erweitern",
-    "KO" : "넓히다",
+    "DE" : "expandieren",
+    "KO" : "확장하다",
     "IT" : "espandere"
   },
   "format" : "TEXT"
@@ -816,7 +816,7 @@
     "ZH_HANT" : "字節傳說是一個用於學習編程技能的多人在線RPG遊戲，是我在業餘時間的一個小作品。\n",
     "ES" : "ByteLegend es un juego MMORPG en el que puedes aprender habilidades de programación.\nEs un pequeño proyecto de hobby en mi tiempo libre.\n",
     "AR" : "ByteLegend هي لعبة MMORPG حيث يمكنك تعلم مهارات البرمجة.\nإنه مشروع هواية صغير في وقت فراغي.\n",
-    "PT" : "ByteLegend é um jogo MMORPG no qual você pode aprender habilidades de programação.\nÉ um pequeno projeto de passatempo no meu tempo livre.\n",
+    "PT" : "ByteLegend é um jogo MMORPG no qual você pode aprender habilidades de programação.\nÉ um pequeno projeto de hobby no meu tempo livre.\n",
     "ID" : "ByteLegend adalah game MMORPG di mana Anda dapat mempelajari keterampilan pemrograman.\nIni adalah proyek hobi kecil di waktu luang saya.\n",
     "FR" : "ByteLegend est un jeu MMORPG dans lequel vous pouvez acquérir des compétences en programmation.\nC'est un petit projet de passe-temps pendant mon temps libre.\n",
     "JA" : "ByteLegendは、プログラミングスキルを学ぶことができるMMORPGゲームです。\nそれは私の自由な時間の小さな趣味のプロジェクトです。\n",
@@ -838,7 +838,7 @@
     "ID" : "Hubungi kami",
     "FR" : "Contactez-nous",
     "JA" : "お問い合わせ",
-    "RU" : "Свяжитесь с нами",
+    "RU" : "Связаться с нами",
     "DE" : "Kontaktiere uns",
     "KO" : "문의하기",
     "IT" : "Contattaci"
@@ -849,7 +849,7 @@
   "data" : {
     "EN" : "If you have any questions, suggestions or coorperation opportunities,\nplease feel free to contact us at <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a>.\n",
     "ZH_HANS" : "如果有任何问题、建议或者合作机会，请联系<a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a>。\n",
-    "ZH_HANT" : "如果有任何問題、建議或者合作機會，請聯繫<a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> 。",
+    "ZH_HANT" : "如果有任何問題、建議或者合作機會，請聯繫",
     "ES" : "Si tiene alguna pregunta, sugerencia u oportunidades de cooperación, no dude en contactarnos en <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> .",
     "AR" : "إذا كانت لديك أي أسئلة أو اقتراحات أو فرص تعاون ، فلا تتردد في الاتصال بنا على <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> .",
     "PT" : "Se você tiver dúvidas, sugestões ou oportunidades de cooperação, não hesite em nos contatar em <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> .",
@@ -975,7 +975,7 @@
   "data" : {
     "EN" : "Click <a href=\"/game/login?redirect=/\">here</a> to log in.",
     "ZH_HANS" : "点击<a href=\"/game/login?redirect=/\">这里</a>登录。",
-    "ZH_HANT" : "點擊<a href=\"/game/login?redirect=/\">這裡</a>登錄。",
+    "ZH_HANT" : "點擊",
     "ES" : "Haga clic <a href=\"/game/login?redirect=/\">aquí</a> para iniciar sesión.",
     "AR" : "انقر <a href=\"/game/login?redirect=/\">هنا</a> لتسجيل الدخول.",
     "PT" : "Clique <a href=\"/game/login?redirect=/\">aqui</a> para entrar.",
@@ -1029,7 +1029,7 @@
   "data" : {
     "EN" : "<p>As you may know, most of the languages supported by <span class=\"notranslate\">ByteLegend</span>\nare translated by machine.\nThe good news is that any text (UI elements, game data, etc.) you see in <span class=\"notranslate\">ByteLegend</span>\nis open-source. You can create a GitHub pull request to help us improve the translation quality.</p>\n<p>Click <a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md\" target=\"_blank\">here</a> to see how to contribute to our codebase. <strong>Any text.</strong></p>\n<ul>\n<li><a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md#add-a-new-language\" target=\"_blank\">Add a new language</a></li>\n<li><a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md#help-us-improve-the-translation-quality\" target=\"_blank\">Help us improve the translation quality</a></li>\n</ul>\n<p>We sincerely appreciate your contribution.</p>\n",
     "ZH_HANS" : "<p>您可能已经知道，<span class=\"notranslate\">字节传说</span>所支持的大多数语言是由机器所翻译的。 好消息是，您在<span class=\"notranslate\">字节传说</span>中看到的任何文本 （包括UI元素、游戏数据等）都是开源的，因此您可以通过提交GitHub的pull request帮助我们改进翻译的质量。\n点击<a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/zh_hans/i18n.md\" target=\"_blank\">这里</a>查看如何向我们的代码仓库贡献您的智慧。<strong>任何文本都可以。</strong></p>\n<ul>\n<li><a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/zh_hans/i18n.md#%E6%96%B0%E5%A2%9E%E4%B8%80%E7%A7%8D%E8%AF%AD%E8%A8%80\" target=\"_blank\">新增一种语言</a></li>\n<li><a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/zh_hans/i18n.md#%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E6%94%B9%E8%BF%9B%E7%BF%BB%E8%AF%91%E8%B4%A8%E9%87%8F\" target=\"_blank\">帮助我们改进翻译质量</a></li>\n</ul>\n<p>我们对您的贡献感激不尽。</p>\n",
-    "ZH_HANT" : "<p>您可能已經知道，<span class=\"notranslate\">字节传说</span>所支持的大多數語言是由機器所翻譯的。好消息是，您在<span class=\"notranslate\">字节传说</span>中看到的任何文本（包括UI元素、遊戲數據等）都是開源的，因此您可以通過提交GitHub的pull request幫助我們改進翻譯的質量。點擊<a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/zh_hans/i18n.md\" target=\"_blank\">這裡</a>查看如何向我們的代碼倉庫貢獻您的智慧。<strong>任何文本都可以。</strong></p><ul><li> <a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/zh_hans/i18n.md#%E6%96%B0%E5%A2%9E%E4%B8%80%E7%A7%8D%E8%AF%AD%E8%A8%80\" target=\"_blank\">新增一種語言</a></li><li><a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/zh_hans/i18n.md#%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E6%94%B9%E8%BF%9B%E7%BF%BB%E8%AF%91%E8%B4%A8%E9%87%8F\" target=\"_blank\">幫助我們改進翻譯質量</a></li></ul><p>我們對您的貢獻感激不盡。</p>",
+    "ZH_HANT" : "<p>您可能已經知道，好消息是，您在點擊任何文本都可以。</p><ul><li>新增一種語言</li><li>幫助我們改進翻譯質量</li></ul><p>我們對您的貢獻感激不盡。</p>",
     "ES" : "<p>Como sabrá, la mayoría de los idiomas admitidos por <span class=\"notranslate\">ByteLegend</span> se traducen por máquina. La buena noticia es que cualquier texto (elementos de la interfaz de usuario, datos del juego, etc.) que ve en <span class=\"notranslate\">ByteLegend</span> es de código abierto. Puede crear una solicitud de extracción de GitHub para ayudarnos a mejorar la calidad de la traducción.</p><p> Haga clic <a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md\" target=\"_blank\">aquí</a> para ver cómo contribuir a nuestro código base. <strong>Cualquier texto.</strong></p><ul><li> <a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md#add-a-new-language\" target=\"_blank\">Agregar un nuevo idioma</a></li><li> <a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md#help-us-improve-the-translation-quality\" target=\"_blank\">Ayúdanos a mejorar la calidad de la traducción</a></li></ul><p> Agradecemos sinceramente su contribución.</p>",
     "AR" : "<p style=\";text-align:right;direction:rtl\">كما تعلم ، تتم ترجمة معظم اللغات المدعومة بواسطة <span class=\"notranslate\">ByteLegend</span> بواسطة الجهاز. الخبر السار هو أن أي نص (عناصر واجهة المستخدم وبيانات اللعبة وما إلى ذلك) تراه في <span class=\"notranslate\">ByteLegend</span> مفتوح المصدر. يمكنك إنشاء طلب سحب على GitHub لمساعدتنا في تحسين جودة الترجمة.</p><p style=\";text-align:right;direction:rtl\"> انقر <a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md\" target=\"_blank\">هنا</a> لمعرفة كيفية المساهمة في قاعدة البيانات الخاصة بنا. <strong>أي نص.</strong></p><ul style=\";text-align:right;direction:rtl\"><li style=\";text-align:right;direction:rtl\"> <a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md#add-a-new-language\" target=\"_blank\">أضف لغة جديدة</a></li><li style=\";text-align:right;direction:rtl\"> <a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md#help-us-improve-the-translation-quality\" target=\"_blank\">ساعدنا في تحسين جودة الترجمة</a></li></ul><p style=\";text-align:right;direction:rtl\"> نحن بصدق نقدر مساهمتك.</p>",
     "PT" : "<p>Como você deve saber, a maioria dos idiomas suportados pelo <span class=\"notranslate\">ByteLegend</span> são traduzidos por máquina. A boa notícia é que qualquer texto (elementos de interface do usuário, dados do jogo, etc.) que você vê no <span class=\"notranslate\">ByteLegend</span> é de código aberto. Você pode criar uma solicitação pull do GitHub para nos ajudar a melhorar a qualidade da tradução.</p><p> Clique <a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md\" target=\"_blank\">aqui</a> para ver como contribuir com nossa base de código. <strong>Qualquer texto.</strong></p><ul><li> <a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md#add-a-new-language\" target=\"_blank\">Adicione um novo idioma</a></li><li> <a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md#help-us-improve-the-translation-quality\" target=\"_blank\">Ajude-nos a melhorar a qualidade da tradução</a></li></ul><p> Agradecemos sinceramente sua contribuição.</p>",
@@ -1067,10 +1067,10 @@
     "ZH_HANS" : "挑战",
     "ZH_HANT" : "挑戰",
     "ES" : "Desafío",
-    "AR" : "تحدي",
+    "AR" : "تحد",
     "PT" : "Desafio",
     "ID" : "Tantangan",
-    "FR" : "Défier",
+    "FR" : "Défi",
     "JA" : "チャレンジ",
     "RU" : "Вызов",
     "DE" : "Herausforderung",
@@ -1101,7 +1101,7 @@
   "data" : {
     "EN" : "Please go to <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">GitHub issues</a> to submit bug report or feature request.\n",
     "ZH_HANS" : "请移步<a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">GitHub issues</a>报告bug或者提出新功能的建议。\n",
-    "ZH_HANT" : "請移步<a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">GitHub issues</a>報告bug或者提出新功能的建議。",
+    "ZH_HANT" : "請移步",
     "ES" : "<a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">Vaya a Problemas de GitHub</a> para enviar un informe de error o una solicitud de función.",
     "AR" : "الرجاء الانتقال إلى <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">مشكلات GitHub</a> لإرسال تقرير بالأخطاء أو طلب ميزة.",
     "PT" : "Acesse os <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">problemas do GitHub</a> para enviar um relatório de bug ou solicitação de recurso.",
@@ -1155,7 +1155,7 @@
   "data" : {
     "EN" : "Join the players all over the world to discuss the game at <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">GitHub discussions</a>.\n",
     "ZH_HANS" : "想要和来自世界各地的玩家一起讨论？请移步<a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">GitHub discussions</a>。\n",
-    "ZH_HANT" : "想要和來自世界各地的玩家一起討論？請移步<a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">GitHub discussions</a> 。",
+    "ZH_HANT" : "想要和來自世界各地的玩家一起討論？請移步",
     "ES" : "Únase a los jugadores de todo el mundo para discutir el juego en las <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">discusiones de GitHub</a> .",
     "AR" : "انضم إلى اللاعبين من جميع أنحاء العالم لمناقشة اللعبة في <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">مناقشات GitHub</a> .",
     "PT" : "Junte-se a jogadores de todo o mundo para discutir o jogo nas <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">discussões do GitHub</a> .",
@@ -1211,7 +1211,7 @@
     "ZH_HANS" : "请耐心等待开发哦~",
     "ZH_HANT" : "請耐心等待開發哦~",
     "ES" : "Próximamente ~",
-    "AR" : "قريبا ~",
+    "AR" : "قريباً ~",
     "PT" : "Em breve ~",
     "ID" : "Segera hadir~",
     "FR" : "Bientôt ~",
@@ -1228,15 +1228,15 @@
     "EN" : "Git Island",
     "ZH_HANS" : "Git岛",
     "ZH_HANT" : "Git島",
-    "ES" : "Isla de Git",
+    "ES" : "Isla Git",
     "AR" : "جزيرة جيت",
-    "PT" : "Ilha git",
+    "PT" : "Ilha Git",
     "ID" : "Pulau Git",
     "FR" : "Île Git",
-    "JA" : "Gitアイランド",
+    "JA" : "Git Island",
     "RU" : "Остров Гит",
     "DE" : "Git-Insel",
-    "KO" : "힘내 섬",
+    "KO" : "힘내섬",
     "IT" : "Isola di Git"
   },
   "format" : "TEXT"
@@ -1252,7 +1252,7 @@
     "ID" : "Pulau Kotlin",
     "FR" : "Île de Kotlin",
     "JA" : "コトリン島",
-    "RU" : "Остров Котлин",
+    "RU" : "Котлин",
     "DE" : "Insel Kotlin",
     "KO" : "코틀린 아일랜드",
     "IT" : "Isola di Kotlin"
@@ -1336,14 +1336,14 @@
     "EN" : "Items",
     "ZH_HANS" : "物品",
     "ZH_HANT" : "物品",
-    "ES" : "Artículos",
+    "ES" : "Elementos",
     "AR" : "العناصر",
     "PT" : "Itens",
     "ID" : "Barang-barang",
     "FR" : "Articles",
     "JA" : "アイテム",
     "RU" : "Предметы",
-    "DE" : "Artikel",
+    "DE" : "Produkte",
     "KO" : "아이템",
     "IT" : "Elementi"
   },
@@ -1375,12 +1375,12 @@
     "ES" : "Autor",
     "AR" : "مؤلف",
     "PT" : "Autor",
-    "ID" : "Penulis",
+    "ID" : "Pengarang",
     "FR" : "Auteur",
     "JA" : "著者",
     "RU" : "Автор",
     "DE" : "Autor",
-    "KO" : "저자",
+    "KO" : "작가",
     "IT" : "Autore"
   },
   "format" : "TEXT"
@@ -1399,7 +1399,7 @@
     "RU" : "Язык",
     "DE" : "Sprache",
     "KO" : "언어",
-    "IT" : "linguaggio"
+    "IT" : "Lingua"
   },
   "format" : "TEXT"
 }, {
@@ -1462,16 +1462,16 @@
     "EN" : "Type",
     "ZH_HANS" : "类型",
     "ZH_HANT" : "類型",
-    "ES" : "Tipo",
-    "AR" : "يكتب",
+    "ES" : "Escribe",
+    "AR" : "نوع",
     "PT" : "Modelo",
-    "ID" : "Tipe",
+    "ID" : "Jenis",
     "FR" : "Taper",
     "JA" : "タイプ",
     "RU" : "Тип",
-    "DE" : "Art",
+    "DE" : "Typ",
     "KO" : "유형",
-    "IT" : "genere"
+    "IT" : "Tipo"
   },
   "format" : "TEXT"
 }, {
@@ -1481,14 +1481,14 @@
     "ZH_HANS" : "刷新",
     "ZH_HANT" : "刷新",
     "ES" : "Actualizar",
-    "AR" : "تحديث",
+    "AR" : "ينعش",
     "PT" : "Atualizar",
     "ID" : "Menyegarkan",
     "FR" : "Rafraîchir",
     "JA" : "更新",
     "RU" : "Обновить",
     "DE" : "Aktualisierung",
-    "KO" : "새롭게 하다",
+    "KO" : "새로 고치다",
     "IT" : "ricaricare"
   },
   "format" : "TEXT"
@@ -1497,7 +1497,7 @@
   "data" : {
     "EN" : "<span class=\"notranslate\">TL;DR</span>",
     "ZH_HANS" : "太长不看的描述",
-    "ZH_HANT" : "太長不看",
+    "ZH_HANT" : "太長不看的描述",
     "ES" : "<span class=\"notranslate\">TL;DR</span>",
     "AR" : "<span class=\"notranslate\">TL;DR</span>",
     "PT" : "<span class=\"notranslate\">TL;DR</span>",
@@ -1520,10 +1520,10 @@
     "AR" : "إجابتك",
     "PT" : "Sua Resposta",
     "ID" : "Jawaban Anda",
-    "FR" : "Ta Réponse",
+    "FR" : "Votre Réponse",
     "JA" : "あなたの答え",
     "RU" : "Ваш ответ",
-    "DE" : "Deine Antwort",
+    "DE" : "Ihre Antwort",
     "KO" : "너의 답",
     "IT" : "La tua risposta"
   },
@@ -1553,14 +1553,14 @@
     "ZH_HANS" : "提交",
     "ZH_HANT" : "提交",
     "ES" : "Enviar",
-    "AR" : "إرسال",
+    "AR" : "يقدم",
     "PT" : "Enviar",
-    "ID" : "Kirimkan",
+    "ID" : "Kirim",
     "FR" : "Soumettre",
-    "JA" : "参加する",
+    "JA" : "送信",
     "RU" : "Представлять на рассмотрение",
     "DE" : "einreichen",
-    "KO" : "제출",
+    "KO" : "제출하다",
     "IT" : "Invia"
   },
   "format" : "TEXT"
@@ -1718,7 +1718,7 @@
     "AR" : "يتكلم",
     "PT" : "Falar",
     "ID" : "Berbicara",
-    "FR" : "Parler",
+    "FR" : "Parlez",
     "JA" : "話す",
     "RU" : "Говорить",
     "DE" : "Sprechen",
@@ -1840,7 +1840,7 @@
     "EN" : "Try scroll and drag on the roadmap!",
     "ZH_HANS" : "试试在路线图上拨动滚轮并拖动！",
     "ZH_HANT" : "試試在路線圖上撥動滾輪並拖動！",
-    "ES" : "¡Prueba a desplazarte y arrastrar por la hoja de ruta!",
+    "ES" : "¡Intenta desplazarte y arrastrar por la hoja de ruta!",
     "AR" : "حاول التمرير والسحب على خريطة الطريق!",
     "PT" : "Tente rolar e arrastar no roteiro!",
     "ID" : "Coba gulir dan seret pada peta jalan!",
@@ -2024,7 +2024,7 @@
     "AR" : "كبار قلعة جافا",
     "PT" : "Castelo Java Sênior",
     "ID" : "Puri Jawa Senior",
-    "FR" : "Château de Java senior",
+    "FR" : "Château de Java sénior",
     "JA" : "シニアジャワ城",
     "RU" : "Старший Яванский замок",
     "DE" : "Senior Java Castle",
@@ -2541,11 +2541,11 @@
   "data" : {
     "EN" : "<p>Answer the question <a href=\"{0}\" target=\"_blank\">here</a> and put the answer into the input box below.</p>\n",
     "ZH_HANS" : "<p>回答<a href=\"{0}\" target=\"_blank\">这里</a>的问题，然后把答案贴在下面的输入框里。</p>\n",
-    "ZH_HANT" : "<p>回答</p>",
+    "ZH_HANT" : "<p>回答<a href=\"{0}\" target=\"_blank\">這裡</a>的問題，然後把答案貼在下面的輸入框裡。</p>\n",
     "ES" : "<p>Responda la pregunta <a href=\"{0}\" target=\"_blank\">aquí</a> y escriba la respuesta en el cuadro de entrada a continuación.</p>",
     "AR" : "<p style=\";text-align:right;direction:rtl\">أجب عن السؤال <a href=\"{0}\" target=\"_blank\">هنا</a> وضع الإجابة في مربع الإدخال أدناه.</p>",
     "PT" : "<p>Responda à pergunta <a href=\"{0}\" target=\"_blank\">aqui</a> e coloque a resposta na caixa de entrada abaixo.</p>",
-    "ID" : "<p>Jawab pertanyaan di <a href=\"{0}\" target=\"_blank\">sini</a> dan masukkan jawabannya ke dalam kotak input di bawah ini.</p>",
+    "ID" : "<p>Jawab pertanyaan di <a href=\"{0}\" target=\"_blank\">sini</a> dan masukkan jawabannya ke kotak input di bawah ini.</p>",
     "FR" : "<p>Répondez à la question <a href=\"{0}\" target=\"_blank\">ici</a> et mettez la réponse dans la zone de saisie ci-dessous.</p>",
     "JA" : "<p><a href=\"{0}\" target=\"_blank\">ここ</a>で質問に答えて、下の入力ボックスに答えを入力してください。</p>",
     "RU" : "<p>Ответьте на вопрос <a href=\"{0}\" target=\"_blank\">здесь</a> и введите ответ в поле ввода ниже.</p>",

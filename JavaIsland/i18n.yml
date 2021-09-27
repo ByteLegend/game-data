@@ -130,6 +130,7 @@
   data:
     EN: Install <span class="notranslate">IDE</span class="notranslate">
     ZH_HANS: 安装<span class="notranslate">IDE</span class="notranslate">
+    ZH_HANT: 安裝<span class="notranslate">IDE</span class="notranslate">
 - id: IDontKnowTakeALookAtStarBytelegend
   format: HTML
   data:
