@@ -307,14 +307,14 @@
 }, {
   "id" : "JavaBasicStructure-title",
   "data" : {
-    "EN" : "Java basic structure: class and package",
+    "EN" : "Java Basic Structure: Class and Package",
     "ZH_HANS" : "Java的基本结构：类与包",
     "ZH_HANT" : "Java的基本結構：類與包",
     "ES" : "Estructura básica de Java: clase y paquete",
-    "AR" : "بنية جافا الأساسية: فئة وحزمة",
-    "PT" : "Estrutura básica Java: classe e pacote",
-    "ID" : "Struktur dasar Java: kelas dan paket",
-    "FR" : "Structure de base Java : classe et package",
+    "AR" : "بنية Java الأساسية: فئة وحزمة",
+    "PT" : "Estrutura básica do Java: classe e pacote",
+    "ID" : "Struktur Dasar Java: Kelas dan Paket",
+    "FR" : "Structure de base Java : classe et package",
     "JA" : "Javaの基本構造：クラスとパッケージ",
     "RU" : "Базовая структура Java: класс и пакет",
     "DE" : "Java-Grundstruktur: Klasse und Paket",
@@ -323,57 +323,57 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "create-a-new-class-in-package-title",
+  "id" : "create-a-new-class-title",
   "data" : {
-    "EN" : "New Class in Specific Package",
-    "ZH_HANS" : "在指定的包中创建一个类",
-    "ZH_HANT" : "在指定的包中創建一個類",
-    "ES" : "Nueva clase en paquete específico",
-    "AR" : "فئة جديدة في حزمة محددة",
-    "PT" : "Nova Classe em Pacote Específico",
-    "ID" : "Kelas Baru dalam Paket Tertentu",
-    "FR" : "Nouvelle classe dans un package spécifique",
-    "JA" : "特定のパッケージの新しいクラス",
-    "RU" : "Новый класс в конкретном пакете",
-    "DE" : "Neue Klasse im spezifischen Paket",
-    "KO" : "특정 패키지의 새 클래스",
-    "IT" : "Nuova classe nel pacchetto specifico"
+    "EN" : "Create a New Class",
+    "ZH_HANS" : "创建一个类",
+    "ZH_HANT" : "創建一個類",
+    "ES" : "Crear una nueva clase",
+    "AR" : "قم بإنشاء فصل جديد",
+    "PT" : "Criar uma nova classe",
+    "ID" : "Buat Kelas Baru",
+    "FR" : "Créer une nouvelle classe",
+    "JA" : "新しいクラスを作成する",
+    "RU" : "Создать новый класс",
+    "DE" : "Erstellen Sie eine neue Klasse",
+    "KO" : "새 클래스 만들기",
+    "IT" : "Crea una nuova classe"
   },
   "format" : "TEXT"
 }, {
-  "id" : "import-class-in-other-package-title",
+  "id" : "import-class-title",
   "data" : {
-    "EN" : "Import Class from Another Package",
-    "ZH_HANS" : "导入其他包的类",
-    "ZH_HANT" : "導入其他包的類",
-    "ES" : "Importar clase de otro paquete",
-    "AR" : "فئة استيراد من حزمة أخرى",
-    "PT" : "Importar classe de outro pacote",
-    "ID" : "Impor Kelas dari Paket Lain",
-    "FR" : "Importer une classe à partir d'un autre package",
-    "JA" : "別のパッケージからクラスをインポートする",
-    "RU" : "Импортировать класс из другого пакета",
-    "DE" : "Klasse aus einem anderen Paket importieren",
-    "KO" : "다른 패키지에서 클래스 가져오기",
-    "IT" : "Importa classe da un altro pacchetto"
+    "EN" : "Import Class",
+    "ZH_HANS" : "导入类",
+    "ZH_HANT" : "導入類",
+    "ES" : "Importar clase",
+    "AR" : "فئة الاستيراد",
+    "PT" : "Classe de importação",
+    "ID" : "Kelas Impor",
+    "FR" : "Classe d'importation",
+    "JA" : "クラスのインポート",
+    "RU" : "Класс импорта",
+    "DE" : "Klasse importieren",
+    "KO" : "클래스 가져오기",
+    "IT" : "Importa classe"
   },
   "format" : "TEXT"
 }, {
   "id" : "import-third-party-package-title",
   "data" : {
-    "EN" : "Import class from 3rd party package",
+    "EN" : "Import Class from 3rd Party Package",
     "ZH_HANS" : "导入第三方包的类",
     "ZH_HANT" : "導入第三方包的類",
     "ES" : "Importar clase de paquete de terceros",
     "AR" : "فئة الاستيراد من حزمة الطرف الثالث",
     "PT" : "Importar classe de pacote de terceiros",
-    "ID" : "Impor kelas dari paket pihak ke-3",
-    "FR" : "Importer la classe à partir d'un package tiers",
+    "ID" : "Impor Kelas dari Paket Pihak Ketiga",
+    "FR" : "Importer une classe à partir d'un package tiers",
     "JA" : "サードパーティパッケージからクラスをインポートする",
     "RU" : "Импортировать класс из стороннего пакета",
-    "DE" : "Importieren Sie die Klasse aus dem Paket eines Drittanbieters",
+    "DE" : "Klasse aus Drittanbieterpaket importieren",
     "KO" : "타사 패키지에서 클래스 가져오기",
-    "IT" : "Importa classe da un pacchetto di terze parti"
+    "IT" : "Importa classe dal pacchetto di terze parti"
   },
   "format" : "TEXT"
 }, {
@@ -3758,6 +3758,60 @@
     "DE" : "Hast du deine Worte vergessen?",
     "KO" : "당신의 말을 잊었습니까?",
     "IT" : "Hai dimenticato le tue parole?"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaBasicStructure-challenge-text",
+  "data" : {
+    "EN" : "<p>To pass, you need to destroy 3 defense towers in this region:</p>\n<ul>\n<li><input type=\"checkbox\" disabled=\"\"> Create a New Class</li>\n<li><input type=\"checkbox\" disabled=\"\"> Import Class</li>\n<li><input type=\"checkbox\" disabled=\"\"> Import Class from 3rd Party Package</li>\n</ul>\n",
+    "ZH_HANS" : "<p>要从这里通过，你需要摧毁这个区域的三座防御塔：</p>\n<ul>\n<li><input type=\"checkbox\" disabled=\"\"> 创建一个类</li>\n<li><input type=\"checkbox\" disabled=\"\"> 导入类</li>\n<li><input type=\"checkbox\" disabled=\"\"> 导入第三方包的类</li>\n</ul>\n",
+    "ZH_HANT" : "<p>要從這里通過，你需要摧毀這個區域的三座防禦塔：</p><ul><li><input type=\"checkbox\" disabled=\"\">創建一個類</li><li><input type=\"checkbox\" disabled=\"\">導入類</li><li><input type=\"checkbox\" disabled=\"\">導入第三方包的類</li></ul>",
+    "ES" : "<p>Para pasar, debes destruir 3 torres de defensa en esta región:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Crear una nueva clase</li><li><input type=\"checkbox\" disabled=\"\"> Importar clase</li><li><input type=\"checkbox\" disabled=\"\"> Importar clase de paquete de terceros</li></ul>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">للمرور ، تحتاج إلى تدمير 3 أبراج دفاعية في هذه المنطقة:</p><ul style=\";text-align:right;direction:rtl\"><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> قم بإنشاء فصل جديد</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> فئة الاستيراد</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> فئة الاستيراد من حزمة الطرف الثالث</li></ul>",
+    "PT" : "<p>Para passar, você precisa destruir 3 torres de defesa nesta região:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Criar uma nova classe</li><li><input type=\"checkbox\" disabled=\"\"> Classe de importação</li><li><input type=\"checkbox\" disabled=\"\"> Importar classe de pacote de terceiros</li></ul>",
+    "ID" : "<p>Untuk lulus, Anda perlu menghancurkan 3 menara pertahanan di wilayah ini:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Buat Kelas Baru</li><li><input type=\"checkbox\" disabled=\"\"> Kelas Impor</li><li><input type=\"checkbox\" disabled=\"\"> Impor Kelas dari Paket Pihak Ketiga</li></ul>",
+    "FR" : "<p>Pour passer, vous devez détruire 3 tours de défense dans cette région :</p><ul><li><input type=\"checkbox\" disabled=\"\"> Créer une nouvelle classe</li><li><input type=\"checkbox\" disabled=\"\"> Classe d&#39;importation</li><li><input type=\"checkbox\" disabled=\"\"> Importer une classe à partir d&#39;un package tiers</li></ul>",
+    "JA" : "<p>合格するには、この地域の3つの防衛塔を破壊する必要があります。</p><ul><li><input type=\"checkbox\" disabled=\"\">新しいクラスを作成する</li><li><input type=\"checkbox\" disabled=\"\">クラスのインポート</li><li><input type=\"checkbox\" disabled=\"\">サードパーティパッケージからクラスをインポートする</li></ul>",
+    "RU" : "<p>Чтобы пройти, вам нужно разрушить 3 оборонительные башни в этом районе:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Создать новый класс</li><li><input type=\"checkbox\" disabled=\"\"> Класс импорта</li><li><input type=\"checkbox\" disabled=\"\"> Импортировать класс из стороннего пакета</li></ul>",
+    "DE" : "<p>Um zu bestehen, müssen Sie 3 Verteidigungstürme in dieser Region zerstören:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Erstellen Sie eine neue Klasse</li><li><input type=\"checkbox\" disabled=\"\"> Klasse importieren</li><li><input type=\"checkbox\" disabled=\"\"> Klasse aus Drittanbieterpaket importieren</li></ul>",
+    "KO" : "<p>통과하려면 이 지역에서 3개의 방어 타워를 파괴해야 합니다.</p><ul><li><input type=\"checkbox\" disabled=\"\"> 새 클래스 만들기</li><li><input type=\"checkbox\" disabled=\"\"> 클래스 가져오기</li><li><input type=\"checkbox\" disabled=\"\"> 타사 패키지에서 클래스 가져오기</li></ul>",
+    "IT" : "<p>Per passare, devi distruggere 3 torri di difesa in questa regione:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Crea una nuova classe</li><li><input type=\"checkbox\" disabled=\"\"> Importa classe</li><li><input type=\"checkbox\" disabled=\"\"> Importa classe dal pacchetto di terze parti</li></ul>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "WhatIsDungeonExplanation",
+  "data" : {
+    "EN" : "<p>Usually, there are some extra knowledge in dungeons,\nfrom which you can benefit a lot.</p>\n<p>If you're in a hurry, it's fine to skip them, but we\nhighly recommend to learn them.</p>\n",
+    "ZH_HANS" : "<p>地下城里通常包含一些特殊的知识，掌握它们会非常有利于之后的学习。</p>\n<p>如果您的时间很紧，跳过它们也没关系，但是我们强烈建议您学习它们。</p>\n",
+    "ZH_HANT" : "<p>地下城里通常包含一些特殊的知識，掌握它們會非常有利於之後的學習。</p><p>如果您的時間很緊，跳過它們也沒關係，但是我們強烈建議您學習它們。</p>",
+    "ES" : "<p>Por lo general, hay algunos conocimientos adicionales en las mazmorras, de los que puedes beneficiarte mucho.</p><p> Si tiene prisa, está bien omitirlos, pero le recomendamos que los aprenda.</p>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">عادة ، هناك بعض المعرفة الإضافية في الأبراج المحصنة ، والتي يمكنك الاستفادة منها كثيرًا.</p><p style=\";text-align:right;direction:rtl\"> إذا كنت في عجلة من أمرك ، فلا بأس من تخطيها ، لكننا نوصي بشدة بتعلمها.</p>",
+    "PT" : "<p>Normalmente, há algum conhecimento extra nas masmorras, do qual você pode se beneficiar muito.</p><p> Se você estiver com pressa, pode ignorá-los, mas é altamente recomendável aprendê-los.</p>",
+    "ID" : "<p>Biasanya, ada beberapa pengetahuan tambahan di ruang bawah tanah, dari mana Anda bisa mendapatkan banyak keuntungan.</p><p> Jika Anda sedang terburu-buru, boleh saja melewatkannya, tetapi kami sangat menyarankan untuk mempelajarinya.</p>",
+    "FR" : "<p>Habituellement, il y a des connaissances supplémentaires dans les donjons, dont vous pouvez grandement bénéficier.</p><p> Si vous êtes pressé, c&#39;est bien de les ignorer, mais nous vous recommandons fortement de les apprendre.</p>",
+    "JA" : "<p>通常、ダンジョンにはいくつかの追加の知識があり、そこから多くの利益を得ることができます。</p><p>お急ぎの場合はスキップしてもかまいませんが、学ぶことを強くお勧めします。</p>",
+    "RU" : "<p>Обычно в подземельях есть некоторые дополнительные знания, от которых вы можете получить много пользы.</p><p> Если вы спешите, их можно пропустить, но мы настоятельно рекомендуем изучить их.</p>",
+    "DE" : "<p>Normalerweise gibt es in Dungeons etwas zusätzliches Wissen, von dem Sie sehr profitieren können.</p><p> Wenn Sie es eilig haben, können Sie sie überspringen, aber wir empfehlen dringend, sie zu lernen.</p>",
+    "KO" : "<p>일반적으로 던전에는 몇 가지 추가 지식이 있으므로 많은 이점을 얻을 수 있습니다.</p><p> 바쁘신 분들은 건너뛰어도 괜찮지만 배우시는 것을 적극 추천합니다.</p>",
+    "IT" : "<p>Di solito, ci sono alcune conoscenze extra nei dungeon, dalle quali puoi trarre grandi vantaggi.</p><p> Se sei di fretta, va bene saltarli, ma ti consigliamo vivamente di impararli.</p>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "WhatIsDungeon",
+  "data" : {
+    "EN" : "What is Dungeon?",
+    "ZH_HANS" : "地下城是什么？",
+    "ZH_HANT" : "地下城是什麼？",
+    "ES" : "¿Qué es Dungeon?",
+    "AR" : "ما هو الزنزانة؟",
+    "PT" : "O que é masmorra?",
+    "ID" : "Apa itu Dungeon?",
+    "FR" : "Qu'est-ce que le donjon ?",
+    "JA" : "ダンジョンとは？",
+    "RU" : "Что такое Dungeon?",
+    "DE" : "Was ist Kerker?",
+    "KO" : "던전이란?",
+    "IT" : "Cos'è il Dungeon?"
   },
   "format" : "TEXT"
 } ]

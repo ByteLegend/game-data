@@ -13,3 +13,10 @@
 # limitations under the License.
 id: fix-simple-add
 title: fix-simple-add-title
+challenges:
+  - id: java-fix-add
+    type: PullRequest
+    star: 3
+    spec: github.com/ByteLegendQuest/java-fix-add
+discussions:
+  url: https://github.com/ByteLegendQuest/java-fix-add/discussions

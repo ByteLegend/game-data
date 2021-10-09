@@ -13,3 +13,11 @@
 # limitations under the License.
 id: import-third-party-package
 title: import-third-party-package-title
+challenges:
+  - id: java-import-3rd-party-class
+    type: PullRequest
+    star: 3
+    spec: github.com/ByteLegendQuest/java-import-3rd-party-class
+discussions:
+  url: https://github.com/ByteLegendQuest/java-import-3rd-party-class/discussions
+

@@ -2449,19 +2449,19 @@
 }, {
   "id" : "FinishChallengeInRepo",
   "data" : {
-    "EN" : "Finish the challenge in repository <a href='{0}' target='_blank' class='notranslate'>https://{0}</a>.",
+    "EN" : "Finish the challenge in repository <a href='https://{0}' target='_blank' class='notranslate'>{0}</a>.",
     "ZH_HANS" : "完成仓库<a href='https://{0}' target='_blank' class='notranslate'>{0}</a>中的挑战。",
     "ZH_HANT" : "完成倉庫",
-    "ES" : "Termina el desafío en el repositorio <a href='{0}' target='_blank' class='notranslate'>https://{0}</a> .",
-    "AR" : "قم بإنهاء التحدي في المستودع <a href='{0}' target='_blank' class='notranslate'>https://{0}</a> .",
-    "PT" : "Conclua o desafio no repositório <a href='{0}' target='_blank' class='notranslate'>https://{0}</a> .",
-    "ID" : "Selesaikan tantangan di repositori <a href='{0}' target='_blank' class='notranslate'>https://{0}</a> .",
-    "FR" : "Terminez le défi dans le référentiel <a href='{0}' target='_blank' class='notranslate'>https://{0}</a> .",
-    "JA" : "<a href='{0}' target='_blank' class='notranslate'>https://{0}</a>チャレンジを終了します。",
-    "RU" : "Завершите задание в репозитории <a href='{0}' target='_blank' class='notranslate'>https://{0}</a> .",
-    "DE" : "Beenden Sie die Herausforderung im Repository <a href='{0}' target='_blank' class='notranslate'>https://{0}</a> .",
-    "KO" : "<a href='{0}' target='_blank' class='notranslate'>https://{0}</a> 리포지토리에서 챌린지를 완료합니다.",
-    "IT" : "Completa la sfida nel repository <a href='{0}' target='_blank' class='notranslate'>https://{0}</a> ."
+    "ES" : "Termina el desafío en el repositorio <a href='https://{0}' target='_blank' class='notranslate'>{0}</a> .",
+    "AR" : "قم بإنهاء التحدي في المستودع <a href='https://{0}' target='_blank' class='notranslate'>{0}</a> .",
+    "PT" : "Termine o desafio no repositório <a href='https://{0}' target='_blank' class='notranslate'>{0}</a> .",
+    "ID" : "Selesaikan tantangan di repositori <a href='https://{0}' target='_blank' class='notranslate'>{0}</a> .",
+    "FR" : "Terminez le défi dans le référentiel <a href='https://{0}' target='_blank' class='notranslate'>{0}</a> .",
+    "JA" : "<a href='https://{0}' target='_blank' class='notranslate'>{0}</a>チャレンジを終了します。",
+    "RU" : "Завершите задание в репозитории <a href='https://{0}' target='_blank' class='notranslate'>{0}</a> .",
+    "DE" : "Beenden Sie die Herausforderung im Repository <a href='https://{0}' target='_blank' class='notranslate'>{0}</a> .",
+    "KO" : "<a href='https://{0}' target='_blank' class='notranslate'>{0}</a> 저장소에서 챌린지를 완료하십시오.",
+    "IT" : "Completa la sfida nel repository <a href='https://{0}' target='_blank' class='notranslate'>{0}</a> ."
   },
   "format" : "HTML"
 }, {

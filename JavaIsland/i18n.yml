@@ -115,19 +115,19 @@
     ZH_HANS: 使用PR修复bug
 - id: JavaBasicStructure-title
   data:
-    EN: "Java basic structure: class and package"
+    EN: "Java Basic Structure: Class and Package"
     ZH_HANS: Java的基本结构：类与包
-- id: create-a-new-class-in-package-title
+- id: create-a-new-class-title
   data:
-    EN: New Class in Specific Package
-    ZH_HANS: 在指定的包中创建一个类
-- id: import-class-in-other-package-title
+    EN: Create a New Class
+    ZH_HANS: 创建一个类
+- id: import-class-title
   data:
-    EN: Import Class from Another Package
-    ZH_HANS: 导入其他包的类
+    EN: Import Class
+    ZH_HANS: 导入类
 - id: import-third-party-package-title
   data:
-    EN: Import class from 3rd party package
+    EN: Import Class from 3rd Party Package
     ZH_HANS: 导入第三方包的类
 - id: install-java-ide-title
   format: HTML
@@ -1025,3 +1025,35 @@
   data:
     ZH_HANS: 你忘了你的承诺了吗？
     EN: Did you forget your words?
+- id: JavaBasicStructure-challenge-text
+  format: MARKDOWN
+  data:
+    ZH_HANS: |
+      要从这里通过，你需要摧毁这个区域的三座防御塔：
+
+      - [ ] 创建一个类
+      - [ ] 导入类
+      - [ ] 导入第三方包的类
+    EN: |
+      To pass, you need to destroy 3 defense towers in this region:
+
+      - [ ] Create a New Class
+      - [ ] Import Class
+      - [ ] Import Class from 3rd Party Package
+- id: WhatIsDungeonExplanation
+  format: MARKDOWN
+  data:
+    EN: |
+      Usually, there are some extra knowledge in dungeons,
+      from which you can benefit a lot.
+
+      If you're in a hurry, it's fine to skip them, but we
+      highly recommend to learn them.
+    ZH_HANS: |
+      地下城里通常包含一些特殊的知识，掌握它们会非常有利于之后的学习。
+
+      如果您的时间很紧，跳过它们也没关系，但是我们强烈建议您学习它们。
+- id: WhatIsDungeon
+  data:
+    EN: What is Dungeon?
+    ZH_HANS: 地下城是什么？

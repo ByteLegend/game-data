@@ -11,5 +11,17 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-id: create-a-new-class-in-package
-title: create-a-new-class-in-package-title
+id: import-class
+title: import-class-title
+challenges:
+  - id: java-import-class
+    type: PullRequest
+    star: 3
+    spec: github.com/ByteLegendQuest/java-import-class
+  - id: java-import-class-with-same-name
+    type: PullRequest
+    star: 3
+    spec: github.com/ByteLegendQuest/java-import-class-with-same-name
+discussions:
+  url: https://github.com/ByteLegendQuest/java-import-class/discussions
+
