@@ -791,75 +791,21 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "AboutByteLegendTitle",
+  "id" : "AboutByteLegendBody",
   "data" : {
-    "EN" : "About ByteLegend",
-    "ZH_HANS" : "关于字节传说",
-    "ZH_HANT" : "關於字節傳說",
-    "ES" : "Acerca de ByteLegend",
-    "AR" : "حول ByteLegend",
-    "PT" : "Sobre ByteLegend",
-    "ID" : "Tentang ByteLegend",
-    "FR" : "À propos de ByteLegend",
-    "JA" : "ByteLegendについて",
-    "RU" : "О ByteLegend",
-    "DE" : "Über ByteLegend",
-    "KO" : "ByteLegend 소개",
-    "IT" : "Informazioni su ByteLegend"
-  },
-  "format" : "TEXT"
-}, {
-  "id" : "AboutByteLegendParagraph",
-  "data" : {
-    "EN" : "ByteLegend is a MMORPG game in which you can learn programming skills.\nIt's a little hobby project in my free time.\n",
-    "ZH_HANS" : "字节传说是一个用于学习编程技能的多人在线RPG游戏，是我在业余时间的一个小作品。\n",
-    "ZH_HANT" : "字節傳說是一個用於學習編程技能的多人在線RPG遊戲，是我在業餘時間的一個小作品。\n",
-    "ES" : "ByteLegend es un juego MMORPG en el que puedes aprender habilidades de programación.\nEs un pequeño proyecto de hobby en mi tiempo libre.\n",
-    "AR" : "ByteLegend هي لعبة MMORPG حيث يمكنك تعلم مهارات البرمجة.\nإنه مشروع هواية صغير في وقت فراغي.\n",
-    "PT" : "ByteLegend é um jogo MMORPG no qual você pode aprender habilidades de programação.\nÉ um pequeno projeto de hobby no meu tempo livre.\n",
-    "ID" : "ByteLegend adalah game MMORPG di mana Anda dapat mempelajari keterampilan pemrograman.\nIni adalah proyek hobi kecil di waktu luang saya.\n",
-    "FR" : "ByteLegend est un jeu MMORPG dans lequel vous pouvez acquérir des compétences en programmation.\nC'est un petit projet de passe-temps pendant mon temps libre.\n",
-    "JA" : "ByteLegendは、プログラミングスキルを学ぶことができるMMORPGゲームです。\nそれは私の自由な時間の小さな趣味のプロジェクトです。\n",
-    "RU" : "ByteLegend - это MMORPG, в которой вы можете научиться программировать.\nВ свободное время я занимаюсь небольшим хобби.\n",
-    "DE" : "ByteLegend ist ein MMORPG-Spiel, in dem Sie Programmierkenntnisse erlernen können.\nEs ist ein kleines Hobbyprojekt in meiner Freizeit.\n",
-    "KO" : "ByteLegend는 프로그래밍 기술을 배울 수 있는 MMORPG 게임입니다.\n내 자유 시간에 작은 취미 프로젝트입니다.\n",
-    "IT" : "ByteLegend è un gioco MMORPG in cui puoi imparare abilità di programmazione.\nÈ un piccolo progetto per hobby nel mio tempo libero.\n"
-  },
-  "format" : "TEXT"
-}, {
-  "id" : "ContactUsTitle",
-  "data" : {
-    "EN" : "Contact us",
-    "ZH_HANS" : "联系我们",
-    "ZH_HANT" : "聯繫我們",
-    "ES" : "Contáctenos",
-    "AR" : "اتصل بنا",
-    "PT" : "Contate-Nos",
-    "ID" : "Hubungi kami",
-    "FR" : "Contactez-nous",
-    "JA" : "お問い合わせ",
-    "RU" : "Связаться с нами",
-    "DE" : "Kontaktiere uns",
-    "KO" : "문의하기",
-    "IT" : "Contattaci"
-  },
-  "format" : "TEXT"
-}, {
-  "id" : "ContactUsParagraph",
-  "data" : {
-    "EN" : "If you have any questions, suggestions or coorperation opportunities,\nplease feel free to contact us at <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a>.\n",
-    "ZH_HANS" : "如果有任何问题、建议或者合作机会，请联系<a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a>。\n",
-    "ZH_HANT" : "如果有任何問題、建議或者合作機會，請聯繫",
-    "ES" : "Si tiene alguna pregunta, sugerencia u oportunidades de cooperación, no dude en contactarnos en <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> .",
-    "AR" : "إذا كانت لديك أي أسئلة أو اقتراحات أو فرص تعاون ، فلا تتردد في الاتصال بنا على <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> .",
-    "PT" : "Se você tiver dúvidas, sugestões ou oportunidades de cooperação, não hesite em nos contatar em <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> .",
-    "ID" : "Jika Anda memiliki pertanyaan, saran, atau peluang kerjasama, jangan ragu untuk menghubungi kami di <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> .",
-    "FR" : "Si vous avez des questions, des suggestions ou des opportunités de coopération, n&#39;hésitez pas à nous contacter à <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> .",
-    "JA" : "ご質問、提案やcoorperationの機会を持っている場合は、お気軽にお問い合わせください<a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> 。",
-    "RU" : "Если у вас есть какие-либо вопросы, предложения или возможности сотрудничества, пожалуйста, свяжитесь с нами по адресу <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> .",
-    "DE" : "Bei Fragen, Anregungen oder Kooperationsmöglichkeiten können Sie uns <a href=\"mailto:contact@bytelegend.com\">gerne unter contact@bytelegend.com kontaktieren</a> .",
-    "KO" : "질문, 제안 또는 협력 기회가 있으면 <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com으로</a> 언제든지 문의하십시오.",
-    "IT" : "In caso di domande, suggerimenti o opportunità di collaborazione, non esitate a contattarci all&#39;indirizzo <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> ."
+    "EN" : "<h5>About ByteLegend</h5>\n<p>ByteLegend is a MMORPG game in which you can learn programming skills.\nIt's a little hobby project in my free time.</p>\n<h5>Bug Report &amp; Feature Request</h5>\n<p>Please go to <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">GitHub issues</a> to submit bug report or feature request.</p>\n<h5>Discuss How to Play</h5>\n<p>Join the players all over the world to discuss the game at <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">GitHub Discussions</a>.</p>\n<h5>Contact Us</h5>\n<p>If you have any questions, suggestions or coorperation opportunities,\nplease feel free to contact us at <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a>.</p>\n",
+    "ZH_HANS" : "<h5>关于字节传说</h5>\n<p>字节传说是一个用于学习编程技能的多人在线RPG游戏，是我在业余时间的一个小作品。</p>\n<h5>报告bug或增加功能</h5>\n<p>请移步<a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">GitHub issues</a>报告bug或者提出新功能的建议。</p>\n<h5>玩法讨论</h5>\n<p>想要和来自世界各地的玩家一起讨论？请移步<a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">GitHub Discussions</a>。</p>\n<h5>联系我们</h5>\n<p>如果有任何问题、建议或者合作机会，请联系<a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a>。</p>\n",
+    "ZH_HANT" : "<h5>關於字節傳說</h5><p>字節傳說是一個用於學習編程技能的多人在線RPG遊戲，是我在業餘時間的一個小作品。</p><h5>報告bug或增加功能</h5><p>請移步</p><h5>玩法討論</h5><p>想要和來自世界各地的玩家一起討論？請移步</p><h5>聯繫我們</h5><p>如果有任何問題、建議或者合作機會，請聯繫</p>",
+    "ES" : "<h5>Acerca de ByteLegend</h5><p> ByteLegend es un juego MMORPG en el que puedes aprender habilidades de programación. Es un pequeño proyecto de hobby en mi tiempo libre.</p><h5> Informe de error y solicitud de funciones</h5><p> <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">Vaya a Problemas de GitHub</a> para enviar un informe de error o una solicitud de función.</p><h5> Discutir cómo jugar</h5><p> Únase a los jugadores de todo el mundo para discutir el juego en <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">GitHub Discussions</a> .</p><h5> Contáctenos</h5><p> Si tiene alguna pregunta, sugerencia u oportunidad de cooperación, no dude en contactarnos en <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a> .</p>",
+    "AR" : "<h5 style=\";text-align:right;direction:rtl\">حول ByteLegend</h5><p style=\";text-align:right;direction:rtl\"> ByteLegend هي لعبة MMORPG حيث يمكنك تعلم مهارات البرمجة. إنه مشروع هواية صغير في وقت فراغي.</p><h5 style=\";text-align:right;direction:rtl\"> تقرير الشوائب وطلب الميزات</h5><p style=\";text-align:right;direction:rtl\"> الرجاء الانتقال إلى <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">مشكلات GitHub</a> لإرسال تقرير بالأخطاء أو طلب ميزة.</p><h5 style=\";text-align:right;direction:rtl\"> ناقش كيفية اللعب</h5><p style=\";text-align:right;direction:rtl\"> انضم إلى اللاعبين من جميع أنحاء العالم لمناقشة اللعبة في <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">GitHub Discussions</a> .</p><h5 style=\";text-align:right;direction:rtl\"> اتصل بنا</h5><p style=\";text-align:right;direction:rtl\"> إذا كانت لديك أي أسئلة أو اقتراحات أو فرص تعاون ، فلا تتردد في الاتصال بنا على <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a> .</p>",
+    "PT" : "<h5>Sobre ByteLegend</h5><p> ByteLegend é um jogo MMORPG no qual você pode aprender habilidades de programação. É um pequeno projeto de passatempo no meu tempo livre.</p><h5> Relatório de bug e solicitação de recurso</h5><p> Acesse os <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">problemas do GitHub</a> para enviar um relatório de bug ou solicitação de recurso.</p><h5> Discuta como jogar</h5><p> Junte-se a jogadores de todo o mundo para discutir o jogo nas <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">discussões do GitHub</a> .</p><h5> Entre em contato conosco</h5><p> Se você tiver dúvidas, sugestões ou oportunidades de cooperação, não hesite em nos contatar em <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a> .</p>",
+    "ID" : "<h5>Tentang ByteLegend</h5><p> ByteLegend adalah game MMORPG di mana Anda dapat mempelajari keterampilan pemrograman. Ini adalah proyek hobi kecil di waktu luang saya.</p><h5> Laporan Bug &amp; Permintaan Fitur</h5><p> Silakan buka <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">masalah GitHub</a> untuk mengirimkan laporan bug atau permintaan fitur.</p><h5> Diskusikan Cara Bermain</h5><p> Bergabunglah dengan para pemain di seluruh dunia untuk mendiskusikan permainan di <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">Diskusi GitHub</a> .</p><h5> Hubungi kami</h5><p> Jika Anda memiliki pertanyaan, saran, atau peluang kerjasama, jangan ragu untuk menghubungi kami di <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a> .</p>",
+    "FR" : "<h5>À propos de ByteLegend</h5><p> ByteLegend est un jeu MMORPG dans lequel vous pouvez acquérir des compétences en programmation. C&#39;est un petit projet de passe-temps pendant mon temps libre.</p><h5> Rapport de bogue et demande de fonctionnalité</h5><p> Veuillez vous rendre sur les <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">problèmes GitHub</a> pour soumettre un rapport de bogue ou une demande de fonctionnalité.</p><h5> Discuter de la façon de jouer</h5><p> Rejoignez les joueurs du monde entier pour discuter du jeu sur <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">GitHub Discussions</a> .</p><h5> Nous contacter</h5><p> Si vous avez des questions, des suggestions ou des opportunités de coopération, n&#39;hésitez pas à nous contacter à <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a> .</p>",
+    "JA" : "<h5>ByteLegendについて</h5><p>ByteLegendは、プログラミングスキルを学ぶことができるMMORPGゲームです。それは私の自由な時間の小さな趣味のプロジェクトです。</p><h5>バグレポートと機能リクエスト</h5><p><a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">GitHubの問題</a>にアクセスして、バグレポートまたは機能リクエストを送信してください。</p><h5>遊び方について話し合う</h5><p><a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">GitHubディスカッションで</a>ゲームについて話し合うために、世界中のプレーヤーに参加してください。</p><h5>お問い合わせ</h5><p>ご質問、提案やcoorperationの機会を持っている場合は、お気軽にお問い合わせください<a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a> 。</p>",
+    "RU" : "<h5>О ByteLegend</h5><p> ByteLegend - это MMORPG, в которой вы можете научиться программировать. В свободное время я занимаюсь небольшим хобби.</p><h5> Отчет об ошибке и запрос функции</h5><p> Пожалуйста, перейдите на <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">GitHub issues,</a> чтобы отправить отчет об ошибке или запрос функции.</p><h5> Обсудить, как играть</h5><p> Присоединяйтесь к игрокам со всего мира, чтобы обсудить игру в <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">обсуждениях GitHub</a> .</p><h5> Связаться с нами</h5><p> Если у вас есть какие-либо вопросы, предложения или возможности сотрудничества, пожалуйста, свяжитесь с нами по адресу <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a> .</p>",
+    "DE" : "<h5>Über ByteLegend</h5><p> ByteLegend ist ein MMORPG-Spiel, in dem Sie Programmierkenntnisse erlernen können. Es ist ein kleines Hobbyprojekt in meiner Freizeit.</p><h5> Fehlerbericht &amp; Funktionsanfrage</h5><p> Bitte gehen Sie zu <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">GitHub-Probleme</a> , um einen Fehlerbericht oder eine Funktionsanfrage einzureichen.</p><h5> Besprechen Sie, wie man spielt</h5><p> Schließen Sie sich den Spielern auf der ganzen Welt an, um das Spiel bei <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">GitHub Discussions</a> zu diskutieren.</p><h5> Kontaktiere uns</h5><p> Bei Fragen, Anregungen oder Kooperationsmöglichkeiten können Sie uns <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">gerne unter contact@bytelegend.com kontaktieren</a> .</p>",
+    "KO" : "<h5>ByteLegend 소개</h5><p> ByteLegend는 프로그래밍 기술을 배울 수 있는 MMORPG 게임입니다. 내 자유 시간에 작은 취미 프로젝트입니다.</p><h5> 버그 신고 및 기능 요청</h5><p> 버그 보고서 또는 기능 요청을 제출 <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">하려면 GitHub 문제</a> 로 이동하세요.</p><h5> 플레이 방법에 대해 토론</h5><p> <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">GitHub 토론</a> 에서 전 세계 플레이어와 함께 게임에 대해 토론하십시오.</p><h5> 문의하기</h5><p> 질문, 제안 또는 협력 기회가 있으면 <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com으로</a> 언제든지 문의하십시오.</p>",
+    "IT" : "<h5>Informazioni su ByteLegend</h5><p> ByteLegend è un gioco MMORPG in cui puoi imparare abilità di programmazione. È un piccolo progetto per hobby nel mio tempo libero.</p><h5> Segnalazione di bug e richiesta di funzionalità</h5><p> Vai a <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">Problemi di GitHub</a> per inviare segnalazioni di bug o richieste di funzionalità.</p><h5> Discuti su come giocare</h5><p> Unisciti ai giocatori di tutto il mondo per discutere del gioco su <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">GitHub Discussions</a> .</p><h5> Contattaci</h5><p> In caso di domande, suggerimenti o opportunità di collaborazione, non esitate a contattarci all&#39;indirizzo <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a> .</p>"
   },
   "format" : "HTML"
 }, {
@@ -1096,78 +1042,6 @@
     "IT" : "Discussioni"
   },
   "format" : "TEXT"
-}, {
-  "id" : "ReportBugFeatureRequestParagraph",
-  "data" : {
-    "EN" : "Please go to <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">GitHub issues</a> to submit bug report or feature request.\n",
-    "ZH_HANS" : "请移步<a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">GitHub issues</a>报告bug或者提出新功能的建议。\n",
-    "ZH_HANT" : "請移步",
-    "ES" : "<a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">Vaya a Problemas de GitHub</a> para enviar un informe de error o una solicitud de función.",
-    "AR" : "الرجاء الانتقال إلى <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">مشكلات GitHub</a> لإرسال تقرير بالأخطاء أو طلب ميزة.",
-    "PT" : "Acesse os <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">problemas do GitHub</a> para enviar um relatório de bug ou solicitação de recurso.",
-    "ID" : "Silakan buka <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">masalah GitHub</a> untuk mengirimkan laporan bug atau permintaan fitur.",
-    "FR" : "Veuillez vous rendre sur les <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">problèmes GitHub</a> pour soumettre un rapport de bogue ou une demande de fonctionnalité.",
-    "JA" : "<a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">GitHubの問題</a>にアクセスして、バグレポートまたは機能リクエストを送信してください。",
-    "RU" : "Пожалуйста, перейдите на <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">GitHub issues,</a> чтобы отправить отчет об ошибке или запрос функции.",
-    "DE" : "Bitte gehen Sie zu <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">GitHub-Probleme</a> , um einen Fehlerbericht oder eine Funktionsanfrage einzureichen.",
-    "KO" : "버그 보고서 또는 기능 요청을 제출 <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">하려면 GitHub 문제</a> 로 이동하세요.",
-    "IT" : "Vai a <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">Problemi di GitHub</a> per inviare segnalazioni di bug o richieste di funzionalità."
-  },
-  "format" : "HTML"
-}, {
-  "id" : "ReportBugFeatureRequestTitle",
-  "data" : {
-    "EN" : "Bug report & Feature request",
-    "ZH_HANS" : "报告bug或增加功能",
-    "ZH_HANT" : "報告bug或增加功能",
-    "ES" : "Informe de errores y solicitud de funciones",
-    "AR" : "تقرير الشوائب وطلب الميزة",
-    "PT" : "Relatório de bug e solicitação de recurso",
-    "ID" : "Laporan bug & Permintaan fitur",
-    "FR" : "Rapport de bogue et demande de fonctionnalité",
-    "JA" : "バグレポートと機能リクエスト",
-    "RU" : "Отчет об ошибке и запрос функции",
-    "DE" : "Fehlerbericht & Funktionsanfrage",
-    "KO" : "버그 신고 및 기능 요청",
-    "IT" : "Segnalazione di bug e richiesta di funzionalità"
-  },
-  "format" : "TEXT"
-}, {
-  "id" : "DiscussHowToPlayTitle",
-  "data" : {
-    "EN" : "Discuss how to play",
-    "ZH_HANS" : "玩法讨论",
-    "ZH_HANT" : "玩法討論",
-    "ES" : "Discutir cómo jugar",
-    "AR" : "ناقش كيفية اللعب",
-    "PT" : "Discuta como jogar",
-    "ID" : "Diskusikan cara bermain",
-    "FR" : "Discuter de la façon de jouer",
-    "JA" : "遊び方について話し合う",
-    "RU" : "Обсуди, как играть",
-    "DE" : "Besprechen Sie, wie man spielt",
-    "KO" : "게임 방법에 대해 토론",
-    "IT" : "Discutere su come giocare"
-  },
-  "format" : "TEXT"
-}, {
-  "id" : "DiscussHowToPlayParagraph",
-  "data" : {
-    "EN" : "Join the players all over the world to discuss the game at <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">GitHub discussions</a>.\n",
-    "ZH_HANS" : "想要和来自世界各地的玩家一起讨论？请移步<a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">GitHub discussions</a>。\n",
-    "ZH_HANT" : "想要和來自世界各地的玩家一起討論？請移步",
-    "ES" : "Únase a los jugadores de todo el mundo para discutir el juego en las <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">discusiones de GitHub</a> .",
-    "AR" : "انضم إلى اللاعبين من جميع أنحاء العالم لمناقشة اللعبة في <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">مناقشات GitHub</a> .",
-    "PT" : "Junte-se a jogadores de todo o mundo para discutir o jogo nas <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">discussões do GitHub</a> .",
-    "ID" : "Bergabunglah dengan para pemain di seluruh dunia untuk mendiskusikan permainan di <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">diskusi GitHub</a> .",
-    "FR" : "Rejoignez les joueurs du monde entier pour discuter du jeu lors des <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">discussions GitHub</a> .",
-    "JA" : "<a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">GitHubディスカッションで</a>ゲームについて話し合うために、世界中のプレーヤーに参加してください。",
-    "RU" : "Присоединяйтесь к игрокам со всего мира, чтобы обсудить игру в <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">обсуждениях</a> на GitHub.",
-    "DE" : "Schließen Sie sich den Spielern auf der ganzen Welt an, um das Spiel bei <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">GitHub-Diskussionen</a> zu diskutieren.",
-    "KO" : "전 세계의 플레이어와 함께 <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">GitHub 토론에서 게임에 대해 토론하십시오</a> .",
-    "IT" : "Unisciti ai giocatori di tutto il mondo per discutere del gioco nelle <a href=\"https://github.com/ByteLegend/ByteLegend/discussions\" target=\"_blank\">discussioni</a> su GitHub."
-  },
-  "format" : "HTML"
 }, {
   "id" : "UnfinishedTitle",
   "data" : {

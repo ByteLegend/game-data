@@ -214,34 +214,39 @@
   data:
     EN: My achievement
     ZH_HANS: 我的成就
-
 - id: MenuContactTitle
   data:
     EN: About & Contact
     ZH_HANS: 关于 & 联系
-- id: AboutByteLegendTitle
-  data:
-    EN: About ByteLegend
-    ZH_HANS: 关于字节传说
-- id: AboutByteLegendParagraph
+- id: AboutByteLegendBody
+  format: MARKDOWN
   data:
     EN: |
+      ##### About ByteLegend
       ByteLegend is a MMORPG game in which you can learn programming skills.
       It's a little hobby project in my free time.
-    ZH_HANS: |
-      字节传说是一个用于学习编程技能的多人在线RPG游戏，是我在业余时间的一个小作品。
-- id: ContactUsTitle
-  data:
-    EN: Contact us
-    ZH_HANS: 联系我们
-- id: ContactUsParagraph
-  format: HTML
-  data:
-    EN: |
+
+      ##### Bug Report & Feature Request
+      Please go to [GitHub issues](https://github.com/ByteLegend/ByteLegend/issues) to submit bug report or feature request.
+
+      ##### Discuss How to Play
+      Join the players all over the world to discuss the game at [GitHub Discussions](https://github.com/ByteLegend/ByteLegend/discussions).
+
+      ##### Contact Us
       If you have any questions, suggestions or coorperation opportunities,
-      please feel free to contact us at <a href="mailto:contact@bytelegend.com">contact@bytelegend.com</a>.
+      please feel free to contact us at [contact@bytelegend.com](mailto:contact@bytelegend.com).
     ZH_HANS: |
-      如果有任何问题、建议或者合作机会，请联系<a href="mailto:contact@bytelegend.com">contact@bytelegend.com</a>。
+      ##### 关于字节传说
+      字节传说是一个用于学习编程技能的多人在线RPG游戏，是我在业余时间的一个小作品。
+
+      ##### 报告bug或增加功能
+      请移步[GitHub issues](https://github.com/ByteLegend/ByteLegend/issues)报告bug或者提出新功能的建议。
+
+      ##### 玩法讨论
+      想要和来自世界各地的玩家一起讨论？请移步[GitHub Discussions](https://github.com/ByteLegend/ByteLegend/discussions)。
+
+      ##### 联系我们
+      如果有任何问题、建议或者合作机会，请联系[contact@bytelegend.com](mailto:contact@bytelegend.com)。
 - id: JavaIsland
   data:
     EN: Java Island
@@ -321,28 +326,6 @@
   data:
     EN: Discussions
     ZH_HANS: 挑战
-- id: ReportBugFeatureRequestParagraph
-  format: HTML
-  data:
-    EN: |
-      Please go to <a href="https://github.com/ByteLegend/ByteLegend/issues" target="_blank">GitHub issues</a> to submit bug report or feature request.
-    ZH_HANS: |
-      请移步<a href="https://github.com/ByteLegend/ByteLegend/issues" target="_blank">GitHub issues</a>报告bug或者提出新功能的建议。
-- id: ReportBugFeatureRequestTitle
-  data:
-    EN: Bug report & Feature request
-    ZH_HANS: 报告bug或增加功能
-- id: DiscussHowToPlayTitle
-  data:
-    EN: Discuss how to play
-    ZH_HANS: 玩法讨论
-- id: DiscussHowToPlayParagraph
-  format: HTML
-  data:
-    EN: |
-      Join the players all over the world to discuss the game at <a href="https://github.com/ByteLegend/ByteLegend/discussions" target="_blank">GitHub discussions</a>.
-    ZH_HANS: |
-      想要和来自世界各地的玩家一起讨论？请移步<a href="https://github.com/ByteLegend/ByteLegend/discussions" target="_blank">GitHub discussions</a>。
 - id: UnfinishedTitle
   data:
     EN: 😞 This page is unfinished yet...
