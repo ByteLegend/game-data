@@ -2428,4 +2428,40 @@
     "IT" : "<p>Rispondi alla domanda <a href=\"{0}\" target=\"_blank\">qui</a> e inserisci la risposta nella casella di input sottostante.</p>"
   },
   "format" : "HTML"
+}, {
+  "id" : "ContactUsTitle",
+  "data" : {
+    "EN" : "Contact us",
+    "ZH_HANS" : "联系我们",
+    "ZH_HANT" : "聯繫我們",
+    "ES" : "Contáctenos",
+    "AR" : "اتصل بنا",
+    "PT" : "Contate-Nos",
+    "ID" : "Hubungi kami",
+    "FR" : "Contactez-nous",
+    "JA" : "お問い合わせ",
+    "RU" : "Связаться с нами",
+    "DE" : "Kontaktiere uns",
+    "KO" : "문의하기",
+    "IT" : "Contattaci"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "ContactUsParagraph",
+  "data" : {
+    "EN" : "<h5>Contact Us</h5>\n<p>If you have any questions, suggestions or coorperation opportunities,\nplease feel free to contact us at <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a>.\nplease feel free to contact us at <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>\n",
+    "ZH_HANS" : "<h5>联系我们</h5>\n<p>如果有任何问题、建议或者合作机会，请联系<a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>\n",
+    "ZH_HANT" : "<h5>聯繫我們</h5><p>如果有任何問題、建議或者合作機會，請聯繫</p>",
+    "ES" : "<h5>Contáctenos</h5><p> Si tiene alguna pregunta, sugerencia u oportunidades de cooperación, no dude en contactarnos en <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . no dude en contactarnos en <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
+    "AR" : "<h5 style=\";text-align:right;direction:rtl\">اتصل بنا</h5><p style=\";text-align:right;direction:rtl\"> إذا كانت لديك أي أسئلة أو اقتراحات أو فرص تعاون ، فلا تتردد في الاتصال بنا على <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . لا تتردد في الاتصال بنا على <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
+    "PT" : "<h5>Entre em contato conosco</h5><p> Se você tiver dúvidas, sugestões ou oportunidades de cooperação, não hesite em nos contatar em <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . sinta-se à vontade para nos contatar em <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
+    "ID" : "<h5>Hubungi kami</h5><p> Jika Anda memiliki pertanyaan, saran, atau peluang kerjasama, jangan ragu untuk menghubungi kami di <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . jangan ragu untuk menghubungi kami di <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
+    "FR" : "<h5>Nous contacter</h5><p> Si vous avez des questions, des suggestions ou des opportunités de coopération, n&#39;hésitez pas à nous contacter à <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . n&#39;hésitez pas à nous contacter à <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
+    "JA" : "<h5>お問い合わせ</h5><p>ご質問、提案やcoorperationの機会を持っている場合は、お気軽にお問い合わせください<a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> 。 <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a>までお気軽にお問い合わせください</p>",
+    "RU" : "<h5>Связаться с нами</h5><p> Если у вас есть какие-либо вопросы, предложения или возможности сотрудничества, пожалуйста, свяжитесь с нами по адресу <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . пожалуйста, не стесняйтесь обращаться к нам по адресу <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
+    "DE" : "<h5>Kontaktiere uns</h5><p> Bei Fragen, Anregungen oder Kooperationsmöglichkeiten können Sie uns <a href=\"mailto:contact@bytelegend.com\">gerne unter contact@bytelegend.com kontaktieren</a> . Bitte kontaktieren Sie uns unter <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
+    "KO" : "<h5>문의하기</h5><p> 질문, 제안 또는 협력 기회가 있으면 <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com으로</a> 언제든지 문의하십시오. <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a> 으로 연락 주시기 바랍니다.</p>",
+    "IT" : "<h5>Contattaci</h5><p> In caso di domande, suggerimenti o opportunità di collaborazione, non esitate a contattarci all&#39;indirizzo <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . non esitate a contattarci all&#39;indirizzo <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>"
+  },
+  "format" : "HTML"
 } ]
