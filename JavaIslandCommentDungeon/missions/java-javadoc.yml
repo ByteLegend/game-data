@@ -11,11 +11,17 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-- id: "java-comment-title"
-  data:
-    EN: "Comment"
-    ZH_HANS: "注释"
-- id: "java-javadoc-title"
-  format: HTML
-  data:
-    EN: "<span class='notranslate'>Javadoc</span>"
+
+id: java-javadoc
+title: java-javadoc-title
+challenges:
+  - id: java-write-javadoc
+    type: PullRequest
+    star: 3
+    spec: github.com/ByteLegendQuest/java-write-javadoc
+  - id: java-fix-broken-javadoc
+    type: PullRequest
+    star: 3
+    spec: github.com/ByteLegendQuest/java-fix-broken-javadoc
+discussions:
+  url: https://github.com/ByteLegendQuest/java-write-javadoc/discussions

@@ -1,1 +1,37 @@
-[ ]
+[ {
+  "id" : "java-comment-title",
+  "data" : {
+    "EN" : "Comment",
+    "ZH_HANS" : "注释",
+    "ZH_HANT" : "註釋",
+    "ES" : "Comentario",
+    "AR" : "تعليق",
+    "PT" : "Comente",
+    "ID" : "Komentar",
+    "FR" : "Commenter",
+    "JA" : "コメント",
+    "RU" : "Комментарий",
+    "DE" : "Kommentar",
+    "KO" : "논평",
+    "IT" : "Commento"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-javadoc-title",
+  "data" : {
+    "EN" : "<span class='notranslate'>Javadoc</span>",
+    "ZH_HANS" : "<span class='notranslate'>Javadoc</span>",
+    "ZH_HANT" : "<span class='notranslate'>Javadoc</span>",
+    "ES" : "<span class='notranslate'>Javadoc</span>",
+    "AR" : "<span class='notranslate'>Javadoc</span>",
+    "PT" : "<span class='notranslate'>Javadoc</span>",
+    "ID" : "<span class='notranslate'>Javadoc</span>",
+    "FR" : "<span class='notranslate'>Javadoc</span>",
+    "JA" : "<span class='notranslate'>Javadoc</span>",
+    "RU" : "<span class='notranslate'>Javadoc</span>",
+    "DE" : "<span class='notranslate'>Javadoc</span>",
+    "KO" : "<span class='notranslate'>Javadoc</span>",
+    "IT" : "<span class='notranslate'>Javadoc</span>"
+  },
+  "format" : "HTML"
+} ]
