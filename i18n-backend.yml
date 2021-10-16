@@ -38,7 +38,7 @@
       I absolutely believe you can do better next time!
     ZH_HANS: |
       <span class='notranslate'>:sob:</span> 对不起，您的答案似乎没有通过CI测试，请不要气馁，点击[这里]({0})查看原因，再接再厉！
-      下次一定可以做得更好！
+      下次一定可以做得更好！如果您有疑问，欢迎加入官方玩家QQ群，在首页右下角的`联系 & 关于`菜单里可以找到入群方式，我们会尽我们所能帮助您。
 - id: YouAreNotAllowedToChange
   data:
     EN: "You are not allowed to change this file: `{0}`"
