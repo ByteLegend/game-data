@@ -56,7 +56,7 @@
   "id" : "YourAnswerFailedCI",
   "data" : {
     "EN" : "<span class='notranslate'>:sob:</span> Sorry, your answer seemed not pass our CI test. Don't worry, click [here]({0}) to see more details.\nI absolutely believe you can do better next time!\n",
-    "ZH_HANS" : "<span class='notranslate'>:sob:</span> 对不起，您的答案似乎没有通过CI测试，请不要气馁，点击[这里]({0})查看原因，再接再厉！\n下次一定可以做得更好！\n",
+    "ZH_HANS" : "<span class='notranslate'>:sob:</span> 对不起，您的答案似乎没有通过CI测试，请不要气馁，点击[这里]({0})查看原因，再接再厉！\n下次一定可以做得更好！如果您有疑问，欢迎加入官方玩家QQ群，在首页右下角的`联系 & 关于`菜单里可以找到入群方式，我们会尽我们所能帮助您。\n",
     "ZH_HANT" : ":sob:下次一定可以做得更好！",
     "ES" : "<span class='notranslate'>:sob:</span> Lo siento, su respuesta pareció no pasar nuestra prueba de CI. No se preocupe, haga clic [aquí] ({0}) para ver más detalles. ¡Creo absolutamente que puedes hacerlo mejor la próxima vez!",
     "AR" : "<span class='notranslate'>:sob:</span> عذرًا ، يبدو أن إجابتك لم تجتاز اختبار CI الخاص بنا. لا تقلق ، انقر [هنا] ({0}) لمشاهدة المزيد من التفاصيل. أعتقد تمامًا أنه يمكنك القيام بعمل أفضل في المرة القادمة!",

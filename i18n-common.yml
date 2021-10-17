@@ -300,8 +300,7 @@
       - [Help us improve the translation quality](https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md#help-us-improve-the-translation-quality)
 
       We sincerely appreciate your contribution.
-    ZH_HANS:
-      您可能已经知道，<span class="notranslate">字节传说</span>所支持的大多数语言是由机器所翻译的。
+    ZH_HANS: 您可能已经知道，<span class="notranslate">字节传说</span>所支持的大多数语言是由机器所翻译的。
       好消息是，您在<span class="notranslate">字节传说</span>中看到的任何文本
       （包括UI元素、游戏数据等）都是开源的，因此您可以通过提交GitHub的pull request帮助我们改进翻译的质量。
 
@@ -432,6 +431,10 @@
   data:
     EN: You're entering offline mode because your account is logged in somewhere else.
     ZH_HANS: 因为您的账号在其他地方登录，您已经进入离线模式。
+- id: YouMustBeAdjacentToOpenTheBox
+  data:
+    EN: To open the box, you must enter the adjacent tile.
+    ZH_HANS: 要打开箱子，您必须走到相邻的格子里。
 - id: YouMustBeAdjacentToTheMission
   data:
     EN: To answer the question, you must enter the adjacent tile.
@@ -621,9 +624,9 @@
   data:
     EN: |
       Ask a friend for an invitation code to open this chest.
-      You and your friend will both get 100 gold.
+      You and your friend will both get {0} gold.
     ZH_HANS: |
-      从你的朋友那里获取邀请码以打开这个宝箱，你们两位可以同时获得100金币。
+      从你的朋友那里获取邀请码以打开这个宝箱，你们两位可以同时获得{0}金币。
 - id: FinishChallengeInRepo
   format: HTML
   data:
@@ -663,10 +666,62 @@
   format: MARKDOWN
   data:
     EN: |
-      ##### Contact Us
       If you have any questions, suggestions or coorperation opportunities,
       please feel free to contact us at <a href="mailto:contact@bytelegend.com">contact@bytelegend.com</a>.
       please feel free to contact us at [contact@bytelegend.com](mailto:contact@bytelegend.com)
     ZH_HANS: |
-      ##### 联系我们
       如果有任何问题、建议或者合作机会，请联系[contact@bytelegend.com](mailto:contact@bytelegend.com)
+- id: YouAreInvitedBy
+  format: MARKDOWN
+  data:
+    ZH_HANS: |
+      您通过[{4}](https://github.com/{4})分享的邀请码打开了宝箱。
+
+      ### <span style='color:red'>{0}</span>
+      这是您的邀请码，您可以把它分享给您的朋友。
+
+      若您的朋友使用了这个邀请码，您和TA都会获得{1}金币的奖励。
+
+      ### <span style='color:darkorange'>{2}</span>
+      您的邀请码已经为您获得了{2}金币的奖励。
+
+      您最多可以从您的邀请码中得到{3}金币的奖励。
+
+      您可以复制以下文本并在社交网络分享。
+    EN: |
+      You've opened the chest by the invitation code from [{4}](https://github.com/{4}).
+
+      ### <span style='color:red'>{0}</span>
+      This is your invitation code.
+
+      You can share it with your friends.
+
+      If one of your friend use this code, both of you can get {1} gold reward.
+
+      ### <span style='color:darkorange'>{2}</span>
+      You've got {2} gold reward from your invitation code.
+
+      You can get at most {3} reward from your invitation code.
+
+      You can copy the following text and share it via social network.
+- id: Inviting
+  format: MARKDOWN
+  data:
+    EN: "Reward: inviting player [{0}](https://github.com/{0})"
+    ZH_HANS: 邀请玩家[{0}](https://github.com/{0})奖励
+- id: InvitedBy
+  format: MARKDOWN
+  data:
+    EN: "Reward: invited by player [{0}](https://github.com/{0})"
+    ZH_HANS: 被玩家[{0}](https://github.com/{0})邀请奖励
+- id: JoinMeWithInvitationCode
+  data:
+    EN: |
+      I'm learning programming in a game, come to JavaIsland coordinate {1},
+      open the chest with my invitation code {0},
+      you and me can both get {2} gold.
+      Join me at ByteLegend https://bytelegend.com !
+    ZH_HANS: |
+      我正在通过游戏学习编程，在爪哇岛的{1}坐标处打开
+      宝箱，输入我的邀请码 {0}，你和我都可以获得{2}金币，
+      快来 https://bytelegend.com 字节传说加入我吧！

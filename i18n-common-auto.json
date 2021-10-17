@@ -974,7 +974,7 @@
   "id" : "HelpUsImproveTheTranslationQualityBody",
   "data" : {
     "EN" : "<p>As you may know, most of the languages supported by <span class=\"notranslate\">ByteLegend</span>\nare translated by machine.\nThe good news is that any text (UI elements, game data, etc.) you see in <span class=\"notranslate\">ByteLegend</span>\nis open-source. You can create a GitHub pull request to help us improve the translation quality.</p>\n<p>Click <a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md\" target=\"_blank\">here</a> to see how to contribute to our codebase. <strong>Any text.</strong></p>\n<ul>\n<li><a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md#add-a-new-language\" target=\"_blank\">Add a new language</a></li>\n<li><a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md#help-us-improve-the-translation-quality\" target=\"_blank\">Help us improve the translation quality</a></li>\n</ul>\n<p>We sincerely appreciate your contribution.</p>\n",
-    "ZH_HANS" : "<p>您可能已经知道，<span class=\"notranslate\">字节传说</span>所支持的大多数语言是由机器所翻译的。 好消息是，您在<span class=\"notranslate\">字节传说</span>中看到的任何文本 （包括UI元素、游戏数据等）都是开源的，因此您可以通过提交GitHub的pull request帮助我们改进翻译的质量。\n点击<a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/zh_hans/i18n.md\" target=\"_blank\">这里</a>查看如何向我们的代码仓库贡献您的智慧。<strong>任何文本都可以。</strong></p>\n<ul>\n<li><a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/zh_hans/i18n.md#%E6%96%B0%E5%A2%9E%E4%B8%80%E7%A7%8D%E8%AF%AD%E8%A8%80\" target=\"_blank\">新增一种语言</a></li>\n<li><a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/zh_hans/i18n.md#%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E6%94%B9%E8%BF%9B%E7%BF%BB%E8%AF%91%E8%B4%A8%E9%87%8F\" target=\"_blank\">帮助我们改进翻译质量</a></li>\n</ul>\n<p>我们对您的贡献感激不尽。</p>\n",
+    "ZH_HANS" : "<p>您可能已经知道，<span class=\"notranslate\">字节传说</span>所支持的大多数语言是由机器所翻译的。 好消息是，您在<span class=\"notranslate\">字节传说</span>中看到的任何文本 （包括UI元素、游戏数据等）都是开源的，因此您可以通过提交GitHub的pull request帮助我们改进翻译的质量。\n点击<a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/zh_hans/i18n.md\" target=\"_blank\">这里</a>查看如何向我们的代码仓库贡献您的智慧。<strong>任何文本都可以。</strong></p>\n<ul>\n<li><a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/zh_hans/i18n.md#%E6%96%B0%E5%A2%9E%E4%B8%80%E7%A7%8D%E8%AF%AD%E8%A8%80\" target=\"_blank\"> 新增一种语言 </a></li>\n<li><a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/zh_hans/i18n.md#%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E6%94%B9%E8%BF%9B%E7%BF%BB%E8%AF%91%E8%B4%A8%E9%87%8F\" target=\"_blank\"> 帮助我们改进翻译质量 </a></li>\n</ul>\n<p>我们对您的贡献感激不尽。</p>\n",
     "ZH_HANT" : "<p>您可能已經知道，好消息是，您在點擊任何文本都可以。</p><ul><li>新增一種語言</li><li>幫助我們改進翻譯質量</li></ul><p>我們對您的貢獻感激不盡。</p>",
     "ES" : "<p>Como sabrá, la mayoría de los idiomas admitidos por <span class=\"notranslate\">ByteLegend</span> se traducen por máquina. La buena noticia es que cualquier texto (elementos de la interfaz de usuario, datos del juego, etc.) que ve en <span class=\"notranslate\">ByteLegend</span> es de código abierto. Puede crear una solicitud de extracción de GitHub para ayudarnos a mejorar la calidad de la traducción.</p><p> Haga clic <a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md\" target=\"_blank\">aquí</a> para ver cómo contribuir a nuestro código base. <strong>Cualquier texto.</strong></p><ul><li> <a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md#add-a-new-language\" target=\"_blank\">Agregar un nuevo idioma</a></li><li> <a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md#help-us-improve-the-translation-quality\" target=\"_blank\">Ayúdanos a mejorar la calidad de la traducción</a></li></ul><p> Agradecemos sinceramente su contribución.</p>",
     "AR" : "<p style=\";text-align:right;direction:rtl\">كما تعلم ، تتم ترجمة معظم اللغات المدعومة بواسطة <span class=\"notranslate\">ByteLegend</span> بواسطة الجهاز. الخبر السار هو أن أي نص (عناصر واجهة المستخدم وبيانات اللعبة وما إلى ذلك) تراه في <span class=\"notranslate\">ByteLegend</span> مفتوح المصدر. يمكنك إنشاء طلب سحب على GitHub لمساعدتنا في تحسين جودة الترجمة.</p><p style=\";text-align:right;direction:rtl\"> انقر <a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md\" target=\"_blank\">هنا</a> لمعرفة كيفية المساهمة في قاعدة البيانات الخاصة بنا. <strong>أي نص.</strong></p><ul style=\";text-align:right;direction:rtl\"><li style=\";text-align:right;direction:rtl\"> <a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md#add-a-new-language\" target=\"_blank\">أضف لغة جديدة</a></li><li style=\";text-align:right;direction:rtl\"> <a href=\"https://github.com/ByteLegend/ByteLegend/blob/master/docs/en/i18n.md#help-us-improve-the-translation-quality\" target=\"_blank\">ساعدنا في تحسين جودة الترجمة</a></li></ul><p style=\";text-align:right;direction:rtl\"> نحن بصدق نقدر مساهمتك.</p>",
@@ -1508,6 +1508,24 @@
     "DE" : "Sie wechseln in den Offline-Modus, weil Ihr Konto woanders angemeldet ist.",
     "KO" : "귀하의 계정이 다른 곳에 로그인되어 있기 때문에 오프라인 모드에 들어가고 있습니다.",
     "IT" : "Stai entrando in modalità offline perché il tuo account è connesso da qualche altra parte."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "YouMustBeAdjacentToOpenTheBox",
+  "data" : {
+    "EN" : "To open the box, you must enter the adjacent tile.",
+    "ZH_HANS" : "要打开箱子，您必须走到相邻的格子里。",
+    "ZH_HANT" : "要打開箱子，您必須走到相鄰的格子裡。",
+    "ES" : "Para abrir la caja, debe ingresar al mosaico adyacente.",
+    "AR" : "لفتح المربع ، يجب عليك إدخال المربع المجاور.",
+    "PT" : "Para abrir a caixa, você deve inserir o ladrilho adjacente.",
+    "ID" : "Untuk membuka kotak, Anda harus memasukkan ubin yang berdekatan.",
+    "FR" : "Pour ouvrir la boîte, vous devez entrer dans la tuile adjacente.",
+    "JA" : "ボックスを開くには、隣接するタイルを入力する必要があります。",
+    "RU" : "Чтобы открыть коробку, необходимо войти в соседнюю плитку.",
+    "DE" : "Um die Kiste zu öffnen, müssen Sie die angrenzende Kachel eingeben.",
+    "KO" : "상자를 열려면 인접한 타일로 들어가야 합니다.",
+    "IT" : "Per aprire la scatola, devi inserire la tessera adiacente."
   },
   "format" : "TEXT"
 }, {
@@ -2305,19 +2323,19 @@
 }, {
   "id" : "InvitationCodeBoxDescription",
   "data" : {
-    "EN" : "Ask a friend for an invitation code to open this chest.\nYou and your friend will both get 100 gold.\n",
-    "ZH_HANS" : "从你的朋友那里获取邀请码以打开这个宝箱，你们两位可以同时获得100金币。\n",
-    "ZH_HANT" : "從你的朋友那裡獲取邀請碼以打開這個寶箱，你們兩位可以同時獲得100金幣。\n",
-    "ES" : "Pídale a un amigo un código de invitación para abrir este cofre.\nTú y tu amigo obtendrán 100 de oro.\n",
-    "AR" : "اطلب من صديق رمز دعوة لفتح هذا الصندوق.\nستحصل أنت وصديقك على 100 ذهبية.\n",
-    "PT" : "Peça a um amigo um código de convite para abrir este baú.\nVocê e seu amigo receberão 100 de ouro.\n",
-    "ID" : "Mintalah teman untuk kode undangan untuk membuka peti ini.\nAnda dan teman Anda berdua akan mendapatkan 100 emas.\n",
-    "FR" : "Demandez à un ami un code d'invitation pour ouvrir ce coffre.\nVous et votre ami obtiendrez tous les deux 100 pièces d'or.\n",
-    "JA" : "このチェストを開くための招待コードを友達に頼んでください。\nあなたとあなたの友達は両方とも100ゴールドを獲得します。\n",
-    "RU" : "Попросите друга дать код приглашения, чтобы открыть этот сундук.\nВы и ваш друг получите по 100 золотых.\n",
-    "DE" : "Bitten Sie einen Freund um einen Einladungscode, um diese Truhe zu öffnen.\nSie und Ihr Freund erhalten beide 100 Gold.\n",
-    "KO" : "친구에게 이 상자를 열 수 있는 초대 코드를 요청하세요.\n당신과 당신의 친구는 모두 100골드를 받습니다.\n",
-    "IT" : "Chiedi a un amico un codice di invito per aprire questo baule.\nTu e il tuo amico riceverete entrambi 100 monete d'oro.\n"
+    "EN" : "Ask a friend for an invitation code to open this chest.\nYou and your friend will both get {0} gold.\n",
+    "ZH_HANS" : "从你的朋友那里获取邀请码以打开这个宝箱，你们两位可以同时获得{0}金币。\n",
+    "ZH_HANT" : "從你的朋友那裡獲取邀請碼以打開這個寶箱，你們兩位可以同時獲得{0}金幣。\n",
+    "ES" : "Pídale a un amigo un código de invitación para abrir este cofre.\nTú y tu amigo obtendrán {0} oro.\n",
+    "AR" : "اطلب من صديق رمز دعوة لفتح هذا الصندوق.\nستحصل أنت وصديقك على {0} ذهب.\n",
+    "PT" : "Peça a um amigo um código de convite para abrir este baú.\nVocê e seu amigo receberão {0} ouro.\n",
+    "ID" : "Mintalah teman untuk kode undangan untuk membuka peti ini.\nAnda dan teman Anda akan mendapatkan {0} emas.\n",
+    "FR" : "Demandez à un ami un code d'invitation pour ouvrir ce coffre.\nVous et votre ami obtiendrez tous les deux {0} or.\n",
+    "JA" : "このチェストを開くための招待コードを友達に頼んでください。\nあなたとあなたの友達は両方とも{0}ゴールドを獲得します。\n",
+    "RU" : "Попросите друга дать код приглашения, чтобы открыть этот сундук.\nВы и ваш друг получите {0} золота.\n",
+    "DE" : "Bitten Sie einen Freund um einen Einladungscode, um diese Truhe zu öffnen.\nSie und Ihr Freund erhalten beide {0} Gold.\n",
+    "KO" : "친구에게 이 상자를 열 수 있는 초대 코드를 요청하세요.\n귀하와 귀하의 친구 모두 {0}골드를 받게 됩니다.\n",
+    "IT" : "Chiedi a un amico un codice di invito per aprire questo baule.\nTu e il tuo amico riceverete entrambi {0} oro.\n"
   },
   "format" : "TEXT"
 }, {
@@ -2449,19 +2467,91 @@
 }, {
   "id" : "ContactUsParagraph",
   "data" : {
-    "EN" : "<h5>Contact Us</h5>\n<p>If you have any questions, suggestions or coorperation opportunities,\nplease feel free to contact us at <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a>.\nplease feel free to contact us at <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>\n",
-    "ZH_HANS" : "<h5>联系我们</h5>\n<p>如果有任何问题、建议或者合作机会，请联系<a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>\n",
-    "ZH_HANT" : "<h5>聯繫我們</h5><p>如果有任何問題、建議或者合作機會，請聯繫</p>",
-    "ES" : "<h5>Contáctenos</h5><p> Si tiene alguna pregunta, sugerencia u oportunidades de cooperación, no dude en contactarnos en <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . no dude en contactarnos en <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
-    "AR" : "<h5 style=\";text-align:right;direction:rtl\">اتصل بنا</h5><p style=\";text-align:right;direction:rtl\"> إذا كانت لديك أي أسئلة أو اقتراحات أو فرص تعاون ، فلا تتردد في الاتصال بنا على <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . لا تتردد في الاتصال بنا على <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
-    "PT" : "<h5>Entre em contato conosco</h5><p> Se você tiver dúvidas, sugestões ou oportunidades de cooperação, não hesite em nos contatar em <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . sinta-se à vontade para nos contatar em <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
-    "ID" : "<h5>Hubungi kami</h5><p> Jika Anda memiliki pertanyaan, saran, atau peluang kerjasama, jangan ragu untuk menghubungi kami di <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . jangan ragu untuk menghubungi kami di <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
-    "FR" : "<h5>Nous contacter</h5><p> Si vous avez des questions, des suggestions ou des opportunités de coopération, n&#39;hésitez pas à nous contacter à <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . n&#39;hésitez pas à nous contacter à <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
-    "JA" : "<h5>お問い合わせ</h5><p>ご質問、提案やcoorperationの機会を持っている場合は、お気軽にお問い合わせください<a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> 。 <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a>までお気軽にお問い合わせください</p>",
-    "RU" : "<h5>Связаться с нами</h5><p> Если у вас есть какие-либо вопросы, предложения или возможности сотрудничества, пожалуйста, свяжитесь с нами по адресу <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . пожалуйста, не стесняйтесь обращаться к нам по адресу <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
-    "DE" : "<h5>Kontaktiere uns</h5><p> Bei Fragen, Anregungen oder Kooperationsmöglichkeiten können Sie uns <a href=\"mailto:contact@bytelegend.com\">gerne unter contact@bytelegend.com kontaktieren</a> . Bitte kontaktieren Sie uns unter <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
-    "KO" : "<h5>문의하기</h5><p> 질문, 제안 또는 협력 기회가 있으면 <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com으로</a> 언제든지 문의하십시오. <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a> 으로 연락 주시기 바랍니다.</p>",
-    "IT" : "<h5>Contattaci</h5><p> In caso di domande, suggerimenti o opportunità di collaborazione, non esitate a contattarci all&#39;indirizzo <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . non esitate a contattarci all&#39;indirizzo <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>"
+    "EN" : "<p>If you have any questions, suggestions or coorperation opportunities,\nplease feel free to contact us at <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a>.\nplease feel free to contact us at <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>\n",
+    "ZH_HANS" : "<p>如果有任何问题、建议或者合作机会，请联系<a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>\n",
+    "ZH_HANT" : "<p>如果有任何問題、建議或者合作機會，請聯繫</p>",
+    "ES" : "<p>Si tiene alguna pregunta, sugerencia u oportunidades de cooperación, no dude en contactarnos en <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . no dude en contactarnos en <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">إذا كانت لديك أي أسئلة أو اقتراحات أو فرص تعاون ، فلا تتردد في الاتصال بنا على <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . لا تتردد في الاتصال بنا على <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
+    "PT" : "<p>Se você tiver dúvidas, sugestões ou oportunidades de cooperação, não hesite em nos contatar em <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . sinta-se à vontade para nos contatar em <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
+    "ID" : "<p>Jika Anda memiliki pertanyaan, saran, atau peluang kerjasama, jangan ragu untuk menghubungi kami di <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . jangan ragu untuk menghubungi kami di <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
+    "FR" : "<p>Si vous avez des questions, des suggestions ou des opportunités de coopération, n&#39;hésitez pas à nous contacter à <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . n&#39;hésitez pas à nous contacter à <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
+    "JA" : "<p>ご質問、提案やcoorperationの機会を持っている場合は、お気軽にお問い合わせください<a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> 。 <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a>までお気軽にお問い合わせください</p>",
+    "RU" : "<p>Если у вас есть какие-либо вопросы, предложения или возможности сотрудничества, пожалуйста, свяжитесь с нами по адресу <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . не стесняйтесь обращаться к нам по адресу <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
+    "DE" : "<p>Bei Fragen, Anregungen oder Kooperationsmöglichkeiten können Sie uns <a href=\"mailto:contact@bytelegend.com\">gerne unter contact@bytelegend.com kontaktieren</a> . Bitte kontaktieren Sie uns unter <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>",
+    "KO" : "<p>질문, 제안 또는 협력 기회가 있으면 <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com으로</a> 언제든지 문의하십시오. <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a> 으로 연락 주시기 바랍니다.</p>",
+    "IT" : "<p>In caso di domande, suggerimenti o opportunità di collaborazione, non esitate a contattarci all&#39;indirizzo <a href=\"mailto:contact@bytelegend.com\">contact@bytelegend.com</a> . non esitate a contattarci all&#39;indirizzo <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a></p>"
   },
   "format" : "HTML"
+}, {
+  "id" : "YouAreInvitedBy",
+  "data" : {
+    "EN" : "<p>You've opened the chest by the invitation code from <a href=\"https://github.com/{4}\" target=\"_blank\">{4}</a>.</p>\n<h3><span style='color:red'>{0}</span></h3>\n<p>This is your invitation code.</p>\n<p>You can share it with your friends.</p>\n<p>If one of your friend use this code, both of you can get {1} gold reward.</p>\n<h3><span style='color:darkorange'>{2}</span></h3>\n<p>You've got {2} gold reward from your invitation code.</p>\n<p>You can get at most {3} reward from your invitation code.</p>\n<p>You can copy the following text and share it via social network.</p>\n",
+    "ZH_HANS" : "<p>您通过<a href=\"https://github.com/{4}\" target=\"_blank\">{4}</a>分享的邀请码打开了宝箱。</p>\n<h3><span style='color:red'>{0}</span></h3>\n<p>这是您的邀请码，您可以把它分享给您的朋友。</p>\n<p>若您的朋友使用了这个邀请码，您和TA都会获得{1}金币的奖励。</p>\n<h3><span style='color:darkorange'>{2}</span></h3>\n<p>您的邀请码已经为您获得了{2}金币的奖励。</p>\n<p>您最多可以从您的邀请码中得到{3}金币的奖励。</p>\n<p>您可以复制以下文本并在社交网络分享。</p>\n",
+    "ZH_HANT" : "<p>您通過</p><h3>{0}</h3><p>這是您的邀請碼，您可以把它分享給您的朋友。</p><p>若您的朋友使用了這個邀請碼，您和TA都會獲得{1}金幣的獎勵。</p><h3> {2}</h3><p>您的邀請碼已經為您獲得了{2}金幣的獎勵。</p><p>您最多可以從您的邀請碼中得到{3}金幣的獎勵。</p><p>您可以復制以下文本並在社交網絡分享。</p>",
+    "ES" : "<p>Has abierto el cofre con el código de invitación de <a href=\"https://github.com/{4}\" target=\"_blank\">{4}</a> .</p><h3> <span style='color:red'>{0}</span></h3><p> Este es tu código de invitación.</p><p> Puedes compartirlo con tus amigos.</p><p> Si uno de sus amigos usa este código, ambos pueden obtener {1} recompensa de oro.</p><h3> <span style='color:darkorange'>{2}</span></h3><p> Tienes {2} recompensa de oro de tu código de invitación.</p><p> Puede obtener como máximo {3} recompensa de su código de invitación.</p><p> Puede copiar el siguiente texto y compartirlo a través de la red social.</p>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">لقد فتحت الصندوق برمز الدعوة من <a href=\"https://github.com/{4}\" target=\"_blank\">{4}</a> .</p><h3 style=\";text-align:right;direction:rtl\"> <span style='color:red'>{0}</span></h3><p style=\";text-align:right;direction:rtl\"> هذا هو رمز دعوتك.</p><p style=\";text-align:right;direction:rtl\"> يمكنك مشاركتها مع أصدقائك.</p><p style=\";text-align:right;direction:rtl\"> إذا استخدم أحد أصدقائك هذا الرمز ، يمكن لكلاكما الحصول على {1} مكافأة ذهبية.</p><h3 style=\";text-align:right;direction:rtl\"> <span style='color:darkorange'>{2}</span></h3><p style=\";text-align:right;direction:rtl\"> لقد حصلت على {2} مكافأة ذهبية من رمز دعوتك.</p><p style=\";text-align:right;direction:rtl\"> يمكنك الحصول على {3} مكافأة على الأكثر من رمز دعوتك.</p><p style=\";text-align:right;direction:rtl\"> يمكنك نسخ النص التالي ومشاركته عبر الشبكات الاجتماعية.</p>",
+    "PT" : "<p>Você abriu o baú pelo código de convite de <a href=\"https://github.com/{4}\" target=\"_blank\">{4}</a> .</p><h3> <span style='color:red'>{0}</span></h3><p> Este é o seu código de convite.</p><p> Você pode compartilhar isso com seus amigos.</p><p> Se um de seus amigos usar este código, vocês dois podem receber um prêmio de ouro de {1}.</p><h3> <span style='color:darkorange'>{2}</span></h3><p> Você ganhou {2} recompensa em ouro de seu código de convite.</p><p> Você pode obter no máximo {3} recompensa com seu código de convite.</p><p> Você pode copiar o texto a seguir e compartilhá-lo na rede social.</p>",
+    "ID" : "<p>Anda telah membuka peti dengan kode undangan dari <a href=\"https://github.com/{4}\" target=\"_blank\">{4}</a> .</p><h3> <span style='color:red'>{0}</span></h3><p> Ini adalah kode undangan Anda.</p><p> Anda dapat membaginya dengan teman-teman Anda.</p><p> Jika salah satu teman Anda menggunakan kode ini, Anda berdua bisa mendapatkan {1} hadiah emas.</p><h3> <span style='color:darkorange'>{2}</span></h3><p> Anda mendapatkan {2} hadiah emas dari kode undangan Anda.</p><p> Anda bisa mendapatkan paling banyak {3} hadiah dari kode undangan Anda.</p><p> Anda dapat menyalin teks berikut dan membagikannya melalui jejaring sosial.</p>",
+    "FR" : "<p>Vous avez ouvert le coffre grâce au code d&#39;invitation de <a href=\"https://github.com/{4}\" target=\"_blank\">{4}</a> .</p><h3> <span style='color:red'>{0}</span></h3><p> Ceci est votre code d&#39;invitation.</p><p> Vous pouvez le partager avec vos amis.</p><p> Si l&#39;un de vos amis utilise ce code, vous pouvez tous les deux obtenir {1} récompense en or.</p><h3> <span style='color:darkorange'>{2}</span></h3><p> Vous avez {2} récompense en or de votre code d&#39;invitation.</p><p> Vous pouvez obtenir au maximum {3} récompense à partir de votre code d&#39;invitation.</p><p> Vous pouvez copier le texte suivant et le partager via le réseau social.</p>",
+    "JA" : "<p><a href=\"https://github.com/{4}\" target=\"_blank\">{4}</a>からの招待コードでチェストを開きました。</p><h3> <span style='color:red'>{0}</span></h3><p>これはあなたの招待コードです。</p><p>あなたはそれをあなたの友人と共有することができます。</p><p>友達の1人がこのコードを使用すると、両方とも{1}ゴールド報酬を獲得できます。</p><h3> <span style='color:darkorange'>{2}</span></h3><p>招待コードから{2}ゴールドの報酬を獲得できます。</p><p>招待コードから最大{3}の報酬を受け取ることができます。</p><p>次のテキストをコピーして、ソーシャルネットワーク経由で共有できます。</p>",
+    "RU" : "<p>Вы открыли сундук по коду приглашения от <a href=\"https://github.com/{4}\" target=\"_blank\">{4}</a> .</p><h3> <span style='color:red'>{0}</span></h3><p> Это ваш пригласительный код.</p><p> Вы можете поделиться ею со своими друзьями.</p><p> Если один из ваших друзей воспользуется этим кодом, вы оба можете получить золотую награду в размере {1}.</p><h3> <span style='color:darkorange'>{2}</span></h3><p> Ваш пригласительный код получил золотую награду в размере {2}.</p><p> Вы можете получить максимум {3} вознаграждения с помощью кода приглашения.</p><p> Вы можете скопировать следующий текст и поделиться им в социальной сети.</p>",
+    "DE" : "<p>Du hast die Truhe mit dem Einladungscode von <a href=\"https://github.com/{4}\" target=\"_blank\">{4}</a> geöffnet.</p><h3> <span style='color:red'>{0}</span></h3><p> Dies ist Ihr Einladungscode.</p><p> Sie können es mit Ihren Freunden teilen.</p><p> Wenn einer Ihrer Freunde diesen Code verwendet, können Sie beide eine Goldprämie von {1} erhalten.</p><h3> <span style='color:darkorange'>{2}</span></h3><p> Sie haben {2} Goldprämien von Ihrem Einladungscode erhalten.</p><p> Sie können mit Ihrem Einladungscode höchstens {3} Prämie erhalten.</p><p> Sie können den folgenden Text kopieren und über ein soziales Netzwerk teilen.</p>",
+    "KO" : "<p><a href=\"https://github.com/{4}\" target=\"_blank\">{4}</a> 의 초대 코드로 상자를 열었습니다.</p><h3> <span style='color:red'>{0}</span></h3><p> 귀하의 초대 코드입니다.</p><p> 친구들과 공유할 수 있습니다.</p><p> 친구 중 한 명이 이 코드를 사용하면 둘 다 {1} 골드 보상을 받을 수 있습니다.</p><h3> <span style='color:darkorange'>{2}</span></h3><p> 초대 코드에서 {2} 골드 보상을 받았습니다.</p><p> 초대 코드에서 최대 {3}개의 보상을 받을 수 있습니다.</p><p> 다음 텍스트를 복사하여 소셜 네트워크를 통해 공유할 수 있습니다.</p>",
+    "IT" : "<p>Hai aperto lo scrigno tramite il codice di invito di <a href=\"https://github.com/{4}\" target=\"_blank\">{4}</a> .</p><h3> <span style='color:red'>{0}</span></h3><p> Questo è il tuo codice di invito.</p><p> Puoi condividerlo con i tuoi amici.</p><p> Se uno dei tuoi amici usa questo codice, entrambi potete ottenere {1} ricompensa in oro.</p><h3> <span style='color:darkorange'>{2}</span></h3><p> Hai {2} ricompensa in oro dal tuo codice di invito.</p><p> Puoi ottenere al massimo {3} premio dal tuo codice di invito.</p><p> Puoi copiare il seguente testo e condividerlo tramite social network.</p>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "Inviting",
+  "data" : {
+    "EN" : "<p>Reward: inviting player <a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>\n",
+    "ZH_HANS" : "<p>邀请玩家<a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a>奖励</p>\n",
+    "ZH_HANT" : "<p>邀請玩家</p>",
+    "ES" : "<p>Recompensa: invitar al jugador <a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">المكافأة: دعوة لاعب <a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>",
+    "PT" : "<p>Recompensa: convidar jogador <a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>",
+    "ID" : "<p>Hadiah: mengundang pemain <a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>",
+    "FR" : "<p>Récompense : inviter le joueur <a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>",
+    "JA" : "<p>報酬：招待プレイヤー<a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>",
+    "RU" : "<p>Награда: приглашение игрока <a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>",
+    "DE" : "<p>Belohnung: Spieler <a href=\"https://github.com/{0}\" target=\"_blank\">{0} einladen</a></p>",
+    "KO" : "<p>보상: 초대 플레이어 <a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>",
+    "IT" : "<p>Ricompensa: invito giocatore <a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "InvitedBy",
+  "data" : {
+    "EN" : "<p>Reward: invited by player <a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>\n",
+    "ZH_HANS" : "<p>被玩家<a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a>邀请奖励</p>\n",
+    "ZH_HANT" : "<p>被玩家</p>",
+    "ES" : "<p>Recompensa: invitado por el jugador <a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">المكافأة: بدعوة من اللاعب <a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>",
+    "PT" : "<p>Recompensa: convidado pelo jogador <a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>",
+    "ID" : "<p>Hadiah: diundang oleh pemain <a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>",
+    "FR" : "<p>Récompense : invité par le joueur <a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>",
+    "JA" : "<p><a href=\"https://github.com/{0}\" target=\"_blank\">報酬：プレイヤー{0}から</a>招待されました</p>",
+    "RU" : "<p>Награда: по приглашению игрока <a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>",
+    "DE" : "<p>Belohnung: eingeladen von Spieler <a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>",
+    "KO" : "<p>보상: <a href=\"https://github.com/{0}\" target=\"_blank\">{0} 플레이어 초대</a></p>",
+    "IT" : "<p>Ricompensa: invitato dal giocatore <a href=\"https://github.com/{0}\" target=\"_blank\">{0}</a></p>"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "JoinMeWithInvitationCode",
+  "data" : {
+    "EN" : "I'm learning programming in a game, come to JavaIsland coordinate {1},\nopen the chest with my invitation code {0},\nyou and me can both get {2} gold.\nJoin me at ByteLegend https://bytelegend.com !\n",
+    "ZH_HANS" : "我正在通过游戏学习编程，在爪哇岛的{1}坐标处打开\n宝箱，输入我的邀请码 {0}，你和我都可以获得{2}金币，\n快来 https://bytelegend.com 字节传说加入我吧！\n",
+    "ZH_HANT" : "我正在通過遊戲學習編程，在爪哇島的{1}坐標處打開\n寶箱，輸入我的邀請碼 {0}，你和我都可以獲得{2}金幣，\n快來 https://bytelegend.com 字節傳說加入我吧！\n",
+    "ES" : "Estoy aprendiendo a programar en un juego, ven a la coordenada de JavaIsland {1},\nabre el cofre con mi código de invitación {0},\ntú y yo podemos conseguir {2} oro.\n¡Únete a mí en ByteLegend https://bytelegend.com!\n",
+    "AR" : "أتعلم البرمجة في لعبة ، تعال إلى تنسيق جزيرة جافا {1} ،\nافتح الصندوق مع رمز دعوتي {0} ،\nيمكنك أنت وأنا الحصول على {2} ذهب.\nانضم إلي في ByteLegend https://bytelegend.com!\n",
+    "PT" : "Estou aprendendo programação em um jogo, venha para a coordenada JavaIsland {1},\nabra o baú com meu código de convite {0},\nvocê e eu podemos obter {2} ouro.\nJunte-se a mim em ByteLegend https://bytelegend.com!\n",
+    "ID" : "Saya sedang belajar pemrograman dalam permainan, datang ke koordinat JavaIsland {1},\nbuka peti dengan kode undangan saya {0},\nAnda dan saya bisa mendapatkan {2} emas.\nBergabunglah dengan saya di ByteLegend https://bytelegend.com !\n",
+    "FR" : "J'apprends la programmation dans un jeu, viens à JavaIsland coordonne {1},\nouvrir le coffre avec mon code d'invitation {0},\nvous et moi pouvons tous les deux obtenir {2} d'or.\nRejoignez-moi sur ByteLegend https://bytelegend.com !\n",
+    "JA" : "私はゲームでプログラミングを学んでいます。JavaIsland座標{1}に来てください。\n招待コード{0}でチェストを開きます。\nあなたと私は両方とも{2}ゴールドを手に入れることができます。\nByteLegend https://bytelegend.comに参加してください！\n",
+    "RU" : "Я изучаю программирование в игре, приезжаю в координаты JavaIsland {1},\nоткрой сундук с моим кодом приглашения {0},\nмы с вами можем получить {2} золота.\nПрисоединяйтесь ко мне на ByteLegend https://bytelegend.com!\n",
+    "DE" : "Ich lerne Programmieren in einem Spiel, komm nach JavaIsland Koordinate {1},\nöffne die Truhe mit meinem Einladungscode {0},\ndu und ich können beide {2} Gold bekommen.\nBegleiten Sie mich bei ByteLegend https://bytelegend.com !\n",
+    "KO" : "저는 게임에서 프로그래밍을 배우고 있습니다. JavaIsland 좌표 {1}로 오세요.\n내 초대 코드 {0}으로 상자를 열고\n너와 나 둘 다 {2}골드를 얻을 수 있습니다.\nByteLegend https://bytelegend.com에서 저와 함께하세요!\n",
+    "IT" : "Sto imparando a programmare in un gioco, vieni a JavaIsland coordinata {1},\napri lo scrigno con il mio codice di invito {0},\nio e te possiamo entrambi ottenere {2} oro.\nUnisciti a me su ByteLegend https://bytelegend.com!\n"
+  },
+  "format" : "TEXT"
 } ]
