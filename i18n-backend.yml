@@ -16,6 +16,11 @@
   data:
     EN: "<span class='notranslate'>:heart:</span> Thanks for the <span class='notranslate'>pull request</span>! A sec please, we've already submitted it to CI, and will let you know once it's done!"
     ZH_HANS: "<span class='notranslate'>:heart:</span> 感谢提交Pull Request！请稍等片刻，我们已经将其提交到CI进行检查，一旦有结果会立即通知您！"
+- id: ThanksForContribution
+  format: HTML
+  data:
+    EN: "<span class='notranslate'>:heart:</span> Thanks for contributing the <span class='notranslate'>pull request</span>! We will review it soon."
+    ZH_HANS: "<span class='notranslate'>:heart:</span> 感谢贡献Pull Request！我们会尽快Review。"
 - id: YourAnswerIsBeingTested
   format: HTML
   data:
