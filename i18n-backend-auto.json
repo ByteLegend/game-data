@@ -17,6 +17,24 @@
   },
   "format" : "HTML"
 }, {
+  "id" : "ThanksForContribution",
+  "data" : {
+    "EN" : "<span class='notranslate'>:heart:</span> Thanks for contributing the <span class='notranslate'>pull request</span>! We will review it soon.",
+    "ZH_HANS" : "<span class='notranslate'>:heart:</span> 感谢贡献Pull Request！我们会尽快Review。",
+    "ZH_HANT" : ":heart:我們會盡快Review。",
+    "ES" : "<span class='notranslate'>:heart:</span> Gracias por contribuir con la <span class='notranslate'>pull request</span> ! Lo revisaremos pronto.",
+    "AR" : "<span class='notranslate'>:heart:</span> شكرا للمساهمة في <span class='notranslate'>pull request</span> ! سوف نراجعها قريبا",
+    "PT" : "<span class='notranslate'>:heart:</span> Obrigado por contribuir com o <span class='notranslate'>pull request</span> ! Nós o revisaremos em breve.",
+    "ID" : "<span class='notranslate'>:heart:</span> Terima kasih telah berkontribusi dalam <span class='notranslate'>pull request</span> ! Kami akan segera meninjaunya.",
+    "FR" : "<span class='notranslate'>:heart:</span> Merci d&#39;avoir contribué à la <span class='notranslate'>pull request</span> ! Nous l&#39;examinerons bientôt.",
+    "JA" : "<span class='notranslate'>:heart:</span> <span class='notranslate'>pull request</span>協力いただきありがとうございます。すぐに確認します。",
+    "RU" : "<span class='notranslate'>:heart:</span> Спасибо за <span class='notranslate'>pull request</span> на включение! Скоро мы его рассмотрим.",
+    "DE" : "<span class='notranslate'>:heart:</span> Danke für den Beitrag zum <span class='notranslate'>pull request</span> ! Wir werden es bald überprüfen.",
+    "KO" : "<span class='notranslate'>:heart:</span> <span class='notranslate'>pull request</span> 에 참여해주셔서 감사합니다! 곧 검토하겠습니다.",
+    "IT" : "<span class='notranslate'>:heart:</span> Grazie per aver contribuito alla <span class='notranslate'>pull request</span> ! Lo esamineremo presto."
+  },
+  "format" : "HTML"
+}, {
   "id" : "YourAnswerIsBeingTested",
   "data" : {
     "EN" : "<span class='notranslate'>:smile:</span> Your answer is being tested by CI. Click [here]({0}) to see more details.",
