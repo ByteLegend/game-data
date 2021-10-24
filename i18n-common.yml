@@ -725,3 +725,11 @@
       我正在通过游戏学习编程，在爪哇岛的{1}坐标处打开
       宝箱，输入我的邀请码 {0}，你和我都可以获得{2}金币，
       快来 https://bytelegend.com 字节传说加入我吧！
+- id: OpenEditor
+  data:
+    EN: Open Editor
+    ZH_HANS: 打开编辑器
+- id: CloseEditor
+  data:
+    EN: Close Editor
+    ZH_HANS: 关闭编辑器

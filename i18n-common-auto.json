@@ -2554,4 +2554,40 @@
     "IT" : "Sto imparando a programmare in un gioco, vieni a JavaIsland coordinata {1},\napri lo scrigno con il mio codice di invito {0},\nio e te possiamo entrambi ottenere {2} oro.\nUnisciti a me su ByteLegend https://bytelegend.com!\n"
   },
   "format" : "TEXT"
+}, {
+  "id" : "OpenEditor",
+  "data" : {
+    "EN" : "Open Editor",
+    "ZH_HANS" : "打开编辑器",
+    "ZH_HANT" : "打開編輯器",
+    "ES" : "Abrir editor",
+    "AR" : "افتح المحرر",
+    "PT" : "Editor aberto",
+    "ID" : "Buka Editor",
+    "FR" : "Ouvrir éditeur",
+    "JA" : "エディターを開く",
+    "RU" : "Открыть редактор",
+    "DE" : "Editor öffnen",
+    "KO" : "편집기 열기",
+    "IT" : "Apri editor"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "CloseEditor",
+  "data" : {
+    "EN" : "Close Editor",
+    "ZH_HANS" : "关闭编辑器",
+    "ZH_HANT" : "關閉編輯器",
+    "ES" : "Cerrar editor",
+    "AR" : "أغلق المحرر",
+    "PT" : "Fechar editor",
+    "ID" : "Tutup Editor",
+    "FR" : "Fermer l'éditeur",
+    "JA" : "エディタを閉じる",
+    "RU" : "Закрыть редактор",
+    "DE" : "Editor schließen",
+    "KO" : "편집기 닫기",
+    "IT" : "Chiudi editor"
+  },
+  "format" : "TEXT"
 } ]
