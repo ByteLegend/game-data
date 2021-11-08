@@ -2554,4 +2554,94 @@
     "IT" : "Sto imparando a programmare in un gioco, vieni a JavaIsland coordinata {1},\napri lo scrigno con il mio codice di invito {0},\nio e te possiamo entrambi ottenere {2} oro.\nUnisciti a me su ByteLegend https://bytelegend.com!\n"
   },
   "format" : "TEXT"
+}, {
+  "id" : "OpenWebEditor",
+  "data" : {
+    "EN" : "Open Web Editor & Accomplish the Challenge",
+    "ZH_HANS" : "打开网页编辑器完成挑战",
+    "ZH_HANT" : "打開網頁編輯器完成挑戰",
+    "ES" : "Abra el editor web y complete el desafío",
+    "AR" : "افتح محرر الويب وأكمل التحدي",
+    "PT" : "Abra o Editor da Web e cumpra o desafio",
+    "ID" : "Buka Editor Web & Selesaikan Tantangan",
+    "FR" : "Ouvrez Web Editor et relevez le défi",
+    "JA" : "Webエディターを開いてチャレンジを達成する",
+    "RU" : "Откройте веб-редактор и решите задачу",
+    "DE" : "Öffnen Sie den Web-Editor und meistern Sie die Herausforderung",
+    "KO" : "웹 편집기 열기 및 도전 과제 달성",
+    "IT" : "Apri Web Editor e affronta la sfida"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "CloseWebEditor",
+  "data" : {
+    "EN" : "Close Web Editor",
+    "ZH_HANS" : "关闭网页编辑器",
+    "ZH_HANT" : "關閉網頁編輯器",
+    "ES" : "Cerrar el editor web",
+    "AR" : "أغلق محرر الويب",
+    "PT" : "Fechar o editor da web",
+    "ID" : "Tutup Editor Web",
+    "FR" : "Fermer l'éditeur Web",
+    "JA" : "Webエディターを閉じる",
+    "RU" : "Закройте веб-редактор",
+    "DE" : "Web-Editor schließen",
+    "KO" : "웹 편집기 닫기",
+    "IT" : "Chiudi editor web"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "YouMustSignInToUseWebEditor",
+  "data" : {
+    "EN" : "To use the web editor, you must sign in first.",
+    "ZH_HANS" : "要使用网页编辑器，您必须首先登录。",
+    "ZH_HANT" : "要使用網頁編輯器，您必須首先登錄。",
+    "ES" : "Para utilizar el editor web, primero debe iniciar sesión.",
+    "AR" : "لاستخدام محرر الويب ، يجب عليك تسجيل الدخول أولاً.",
+    "PT" : "Para usar o editor da web, você deve entrar primeiro.",
+    "ID" : "Untuk menggunakan editor web, Anda harus masuk terlebih dahulu.",
+    "FR" : "Pour utiliser l'éditeur Web, vous devez d'abord vous connecter.",
+    "JA" : "Webエディターを使用するには、最初にサインインする必要があります。",
+    "RU" : "Чтобы использовать веб-редактор, вы должны сначала войти в систему.",
+    "DE" : "Um den Webeditor zu verwenden, müssen Sie sich zuerst anmelden.",
+    "KO" : "웹 편집기를 사용하려면 먼저 로그인해야 합니다.",
+    "IT" : "Per utilizzare l'editor web, devi prima effettuare l'accesso."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "SubmitAnswer",
+  "data" : {
+    "EN" : "Submit Answer",
+    "ZH_HANS" : "提交答案",
+    "ZH_HANT" : "提交答案",
+    "ES" : "Enviar respuesta",
+    "AR" : "سلم الاجابة",
+    "PT" : "Enviar resposta",
+    "ID" : "Kirim Jawaban",
+    "FR" : "Soumettre la réponse",
+    "JA" : "回答を送信",
+    "RU" : "Отправить ответ",
+    "DE" : "Antwort einreichen",
+    "KO" : "답변 제출",
+    "IT" : "Inviare risposta"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "CheckingAnswer",
+  "data" : {
+    "EN" : "Checking Answer",
+    "ZH_HANS" : "检查答案中",
+    "ZH_HANT" : "檢查答案中",
+    "ES" : "Comprobando respuesta",
+    "AR" : "التحقق من الإجابة",
+    "PT" : "Verificando a resposta",
+    "ID" : "Memeriksa Jawaban",
+    "FR" : "Vérification de la réponse",
+    "JA" : "回答の確認",
+    "RU" : "Проверка ответа",
+    "DE" : "Antwort prüfen",
+    "KO" : "답변 확인",
+    "IT" : "Controllo della risposta"
+  },
+  "format" : "TEXT"
 } ]

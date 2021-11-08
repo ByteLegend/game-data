@@ -725,3 +725,23 @@
       我正在通过游戏学习编程，在爪哇岛的{1}坐标处打开
       宝箱，输入我的邀请码 {0}，你和我都可以获得{2}金币，
       快来 https://bytelegend.com 字节传说加入我吧！
+- id: OpenWebEditor
+  data:
+    EN: "Open Web Editor & Accomplish the Challenge"
+    ZH_HANS: "打开网页编辑器完成挑战"
+- id: CloseWebEditor
+  data:
+    EN: "Close Web Editor"
+    ZH_HANS: "关闭网页编辑器"
+- id: YouMustSignInToUseWebEditor
+  data:
+    EN: "To use the web editor, you must sign in first."
+    ZH_HANS: 要使用网页编辑器，您必须首先登录。
+- id: SubmitAnswer
+  data:
+    EN: "Submit Answer"
+    ZH_HANS: "提交答案"
+- id: CheckingAnswer
+  data:
+    EN: "Checking Answer"
+    ZH_HANS: "检查答案中"
