@@ -325,21 +325,21 @@
 }, {
   "id" : "SpecialThanks",
   "data" : {
-    "EN" : "Special Thanks",
-    "ZH_HANS" : "特别感谢",
-    "ZH_HANT" : "特別感謝",
-    "ES" : "Gracias especiales",
-    "AR" : "شكر خاص",
-    "PT" : "Agradecimentos especiais",
-    "ID" : "Terima kasih khusus",
-    "FR" : "Remerciement spécial",
-    "JA" : "特別な感謝",
-    "RU" : "Специальная благодарность",
-    "DE" : "Besonderer Dank",
-    "KO" : "특별한 감사",
-    "IT" : "Ringraziamenti speciali"
+    "EN" : "<h5>Special Thanks</h5>\n<p>This game is dedicated to my cute daughter Kitty, without whom it would have been completed much earlier. \uD83E\uDD26</p>\n",
+    "ZH_HANS" : "<h5>特别感谢</h5>\n<p>谨以本游戏献给我的萌闺女Kitty，要不是她我早就写完了…… \uD83E\uDD26</p>\n",
+    "ZH_HANT" : "<h5>特別感謝</h5><p>謹以本遊戲獻給我的萌閨女Kitty，要不是她我早就寫完了…… \uD83E\uDD26</p>",
+    "ES" : "<h5>Gracias especiales</h5><p> Este juego está dedicado a mi linda hija Kitty, sin la cual se habría completado mucho antes. \uD83E\uDD26</p>",
+    "AR" : "<h5 style=\";text-align:right;direction:rtl\">شكر خاص</h5><p style=\";text-align:right;direction:rtl\"> هذه اللعبة مخصصة لابنتي اللطيفة كيتي ، والتي لولاها لكانت قد اكتملت قبل ذلك بكثير. \uD83E\uDD26</p>",
+    "PT" : "<h5>Agradecimentos especiais</h5><p> Este jogo é dedicado à minha linda filha Kitty, sem a qual teria sido concluído muito antes. \uD83E\uDD26</p>",
+    "ID" : "<h5>Terima kasih khusus</h5><p> Game ini didedikasikan untuk putriku yang lucu, Kitty, yang tanpanya game ini akan selesai lebih awal. \uD83E\uDD26</p>",
+    "FR" : "<h5>Remerciement spécial</h5><p> Ce jeu est dédié à ma jolie fille Kitty, sans qui il aurait été terminé bien plus tôt. ??</p>",
+    "JA" : "<h5>特別な感謝</h5><p>このゲームは私のかわいい娘キティに捧げられています。キティがいなければ、ずっと早く完成していたでしょう。 \uD83E\uDD26</p>",
+    "RU" : "<h5>Специальная благодарность</h5><p> Эта игра посвящена моей симпатичной дочке Китти, без которой она была бы завершена намного раньше. \uD83E\uDD26</p>",
+    "DE" : "<h5>Besonderer Dank</h5><p> Dieses Spiel ist meiner süßen Tochter Kitty gewidmet, ohne die es schon viel früher fertig gewesen wäre. \uD83E\uDD26</p>",
+    "KO" : "<h5>특별한 감사</h5><p> 이 게임은 내 귀여운 딸 Kitty에게 헌정되었습니다. \uD83E\uDD26</p>",
+    "IT" : "<h5>Ringraziamenti speciali</h5><p> Questo gioco è dedicato alla mia simpatica figlia Kitty, senza la quale sarebbe stato completato molto prima. ?</p>"
   },
-  "format" : "TEXT"
+  "format" : "HTML"
 }, {
   "id" : "Thanks",
   "data" : {
@@ -539,24 +539,6 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "SpecialThanksMyDaughter",
-  "data" : {
-    "EN" : "This game is dedicated to my cute daughter Kitty, without whom it would have been completed much earlier. \uD83E\uDD26",
-    "ZH_HANS" : "谨以本游戏献给我的萌闺女Kitty，要不是她我早就写完了…… \uD83E\uDD26",
-    "ZH_HANT" : "謹以本遊戲獻給我的萌閨女Kitty，要不是她我早就寫完了…… \uD83E\uDD26",
-    "ES" : "Este juego está dedicado a mi linda hija Kitty, sin la cual se habría completado mucho antes. \uD83E\uDD26",
-    "AR" : "هذه اللعبة مخصصة لابنتي اللطيفة كيتي ، والتي لولاها لكانت قد اكتملت قبل ذلك بكثير. \uD83E\uDD26",
-    "PT" : "Este jogo é dedicado à minha linda filha Kitty, sem a qual teria sido concluído muito antes. \uD83E\uDD26",
-    "ID" : "Game ini didedikasikan untuk putriku yang lucu, Kitty, yang tanpanya game ini akan selesai lebih awal. \uD83E\uDD26",
-    "FR" : "Ce jeu est dédié à ma jolie fille Kitty, sans qui il aurait été terminé bien plus tôt. ??",
-    "JA" : "このゲームは私のかわいい娘キティに捧げられています。キティがいなければ、ずっと早く完成していたでしょう。 \uD83E\uDD26",
-    "RU" : "Эта игра посвящена моей милой дочке Китти, без которой она была бы завершена намного раньше. \uD83E\uDD26",
-    "DE" : "Dieses Spiel ist meiner süßen Tochter Kitty gewidmet, ohne die es schon viel früher fertig gewesen wäre. \uD83E\uDD26",
-    "KO" : "이 게임은 내 귀여운 딸 Kitty에게 헌정되었습니다. \uD83E\uDD26",
-    "IT" : "Questo gioco è dedicato alla mia simpatica figlia Kitty, senza la quale sarebbe stato completato molto prima. ?"
-  },
-  "format" : "TEXT"
-}, {
   "id" : "SpecialThanksGradleParagraph",
   "data" : {
     "EN" : "<a href=\"https://gradle.org\" target=\"_blank\" class=\"badge badge-success notranslate\">Gradle</a>: an awesome automated tool, by which the game is built.\n",
@@ -626,6 +608,24 @@
     "DE" : "<a href=\"https://www.mapeditor.org/\" target=\"_blank\" class=\"badge badge-info notranslate\">Tiled</a> : ein kostenloser, benutzerfreundlicher Karteneditor. Alle Karten im Spiel werden damit erstellt.",
     "KO" : "<a href=\"https://www.mapeditor.org/\" target=\"_blank\" class=\"badge badge-info notranslate\">Tiled</a> : 사용하기 쉬운 무료 지도 편집기. 게임의 모든 맵은 그것으로 생성됩니다.",
     "IT" : "<a href=\"https://www.mapeditor.org/\" target=\"_blank\" class=\"badge badge-info notranslate\">Tiled</a> : un editor di mappe gratuito e facile da usare. Tutte le mappe del gioco vengono create con esso."
+  },
+  "format" : "HTML"
+}, {
+  "id" : "SpecialThanksGitHub1sParagraph",
+  "data" : {
+    "EN" : "<a href=\"https://github.com/conwnet/github1s\" target=\"_blank\" class=\"badge badge-dark notranslate\">VSCode/GitHub1s</a>: the webeditor is built on top of it.\n",
+    "ZH_HANS" : "<a href=\"https://github.com/conwnet/github1s\" target=\"_blank\" class=\"badge badge-dark notranslate\">VSCode/GitHub1s</a>: 网页编辑器是基于它的。\n",
+    "ZH_HANT" : "VSCode/GitHub1s",
+    "ES" : "<a href=\"https://github.com/conwnet/github1s\" target=\"_blank\" class=\"badge badge-dark notranslate\">VSCode/GitHub1s</a> : el editor web está construido sobre él.",
+    "AR" : "<a href=\"https://github.com/conwnet/github1s\" target=\"_blank\" class=\"badge badge-dark notranslate\">VSCode/GitHub1s</a> : تم إنشاء محرر الويب فوقه.",
+    "PT" : "<a href=\"https://github.com/conwnet/github1s\" target=\"_blank\" class=\"badge badge-dark notranslate\">VSCode/GitHub1s</a> : o webeditor é construído sobre ele.",
+    "ID" : "<a href=\"https://github.com/conwnet/github1s\" target=\"_blank\" class=\"badge badge-dark notranslate\">VSCode/GitHub1s</a> : webeditor dibangun di atasnya.",
+    "FR" : "<a href=\"https://github.com/conwnet/github1s\" target=\"_blank\" class=\"badge badge-dark notranslate\">VSCode/GitHub1s</a> : l&#39;éditeur web est construit dessus.",
+    "JA" : "<a href=\"https://github.com/conwnet/github1s\" target=\"_blank\" class=\"badge badge-dark notranslate\">VSCode/GitHub1s</a> ：webeditorはその上に構築されています。",
+    "RU" : "<a href=\"https://github.com/conwnet/github1s\" target=\"_blank\" class=\"badge badge-dark notranslate\">VSCode/GitHub1s</a> : на его основе построен веб-редактор.",
+    "DE" : "<a href=\"https://github.com/conwnet/github1s\" target=\"_blank\" class=\"badge badge-dark notranslate\">VSCode/GitHub1s</a> : Der Webeditor baut darauf auf.",
+    "KO" : "<a href=\"https://github.com/conwnet/github1s\" target=\"_blank\" class=\"badge badge-dark notranslate\">VSCode/GitHub1s</a> : webeditor가 그 위에 구축됩니다.",
+    "IT" : "<a href=\"https://github.com/conwnet/github1s\" target=\"_blank\" class=\"badge badge-dark notranslate\">VSCode/GitHub1s</a> : il webeditor è costruito su di esso."
   },
   "format" : "HTML"
 }, {
