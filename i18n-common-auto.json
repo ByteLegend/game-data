@@ -2627,6 +2627,24 @@
   },
   "format" : "TEXT"
 }, {
+  "id" : "SubmittingAnswer",
+  "data" : {
+    "EN" : "Submitting Answer",
+    "ZH_HANS" : "提交答案中",
+    "ZH_HANT" : "提交答案中",
+    "ES" : "Envío de respuesta",
+    "AR" : "تقديم الجواب",
+    "PT" : "Enviando resposta",
+    "ID" : "Mengirimkan Jawaban",
+    "FR" : "Soumettre la réponse",
+    "JA" : "回答の提出",
+    "RU" : "Отправка ответа",
+    "DE" : "Antwort senden",
+    "KO" : "답변 제출",
+    "IT" : "Invio della risposta"
+  },
+  "format" : "TEXT"
+}, {
   "id" : "CheckingAnswer",
   "data" : {
     "EN" : "Checking Answer",
@@ -2642,6 +2660,240 @@
     "DE" : "Antwort prüfen",
     "KO" : "답변 확인",
     "IT" : "Controllo della risposta"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "MyAnswerAt",
+  "data" : {
+    "EN" : "Answer at {0}",
+    "ZH_HANS" : "在{0}的回答",
+    "ZH_HANT" : "在{0}的回答",
+    "ES" : "Responde en {0}",
+    "AR" : "إجابة في {0}",
+    "PT" : "Resposta em {0}",
+    "ID" : "Jawab di {0}",
+    "FR" : "Répondez à {0}",
+    "JA" : "{0}で答える",
+    "RU" : "Ответьте на {0}",
+    "DE" : "Antwort um {0}",
+    "KO" : "{0}에서 답변",
+    "IT" : "Rispondi alle {0}"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "CommitAt",
+  "data" : {
+    "EN" : "Commit {0} ({1})",
+    "ZH_HANS" : "提交{0} ({1})",
+    "ZH_HANT" : "提交{0} ({1})",
+    "ES" : "Confirmar {0} ({1})",
+    "AR" : "تنفيذ {0} ({1})",
+    "PT" : "Commit {0} ({1})",
+    "ID" : "Komit {0} ({1})",
+    "FR" : "Valider {0} ({1})",
+    "JA" : "コミット{0}（{1}）",
+    "RU" : "Фиксация {0} ({1})",
+    "DE" : "Bestätigen {0} ({1})",
+    "KO" : "커밋 {0}({1})",
+    "IT" : "Impegna {0} ({1})"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "FetchingLog",
+  "data" : {
+    "EN" : "Fetching log for check run {0}",
+    "ZH_HANS" : "正在获取check run {0}的日志",
+    "ZH_HANT" : "正在獲取check run {0}的日誌",
+    "ES" : "Obteniendo el registro para la ejecución de verificación {0}",
+    "AR" : "إحضار السجل لتشغيل الاختيار {0}",
+    "PT" : "Buscando log para verificação de execução {0}",
+    "ID" : "Mengambil log untuk pemeriksaan berjalan {0}",
+    "FR" : "Récupération du journal pour l'exécution du contrôle {0}",
+    "JA" : "チェック実行{0}のログを取得しています",
+    "RU" : "Получение журнала для проверки {0}",
+    "DE" : "Protokoll für Prüflauf {0} wird abgerufen",
+    "KO" : "{0} 검사 실행에 대한 로그 가져오기",
+    "IT" : "Recupero del registro per l'esecuzione del controllo {0}"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "NothingToSubmit",
+  "data" : {
+    "EN" : "There is nothing to submit. Please make some changes and re-submit.",
+    "ZH_HANS" : "您没有进行任何修改，无法提交。请对代码作出一些修改后重试。",
+    "ZH_HANT" : "您沒有進行任何修改，無法提交。請修改代碼然後重新提交。",
+    "ES" : "No hay nada que enviar. Realice algunos cambios y vuelva a enviarlo.",
+    "AR" : "لا يوجد شيء لتقديمه. يرجى إجراء بعض التغييرات وإعادة الإرسال.",
+    "PT" : "Não há nada a submeter. Faça algumas alterações e reenvie.",
+    "ID" : "Tidak ada yang harus diserahkan. Harap buat beberapa perubahan dan kirim ulang.",
+    "FR" : "Il n'y a rien à soumettre. Veuillez apporter quelques modifications et soumettre à nouveau.",
+    "JA" : "提出するものはありません。変更を加えて、再送信してください。",
+    "RU" : "Нечего представить. Пожалуйста, внесите некоторые изменения и повторите отправку.",
+    "DE" : "Es gibt nichts einzureichen. Bitte nehmen Sie einige Änderungen vor und senden Sie sie erneut.",
+    "KO" : "제출할 항목이 없습니다. 일부 변경하고 다시 제출하십시오.",
+    "IT" : "Non c'è niente da presentare. Si prega di apportare alcune modifiche e inviare nuovamente."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "HttpResponseError",
+  "data" : {
+    "EN" : "HTTP response error, status code {0}:\n{1}",
+    "ZH_HANS" : "HTTP响应错误，状态码{0}:\n{1}",
+    "ZH_HANT" : "HTTP響應錯誤，狀態碼{0}:\n{1}",
+    "ES" : "Error de respuesta HTTP, código de estado {0}:\n{1}",
+    "AR" : "خطأ استجابة HTTP ، رمز الحالة {0}:\n{1}",
+    "PT" : "Erro de resposta HTTP, código de status {0}:\n{1}",
+    "ID" : "Kesalahan respons HTTP, kode status {0}:\n{1}",
+    "FR" : "Erreur de réponse HTTP, code d'état {0} :\n{1}",
+    "JA" : "HTTP応答エラー、ステータスコード{0}：\n{1}",
+    "RU" : "Ошибка ответа HTTP, код состояния {0}:\n{1}",
+    "DE" : "HTTP-Antwortfehler, Statuscode {0}:\n{1}",
+    "KO" : "HTTP 응답 오류, 상태 코드 {0}:\n{1}",
+    "IT" : "Errore di risposta HTTP, codice di stato {0}:\n{1}"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "LogCleanedUp",
+  "data" : {
+    "EN" : "The log does not exit or has already been cleaned up",
+    "ZH_HANS" : "日志不存在或者已被清理",
+    "ZH_HANT" : "日誌不存在或者已被清理",
+    "ES" : "El registro no sale o ya se ha limpiado",
+    "AR" : "السجل لا يخرج أو تم تنظيفه بالفعل",
+    "PT" : "O registro não sai ou já foi limpo",
+    "ID" : "Log tidak keluar atau sudah dibersihkan",
+    "FR" : "Le journal ne se ferme pas ou a déjà été nettoyé",
+    "JA" : "ログが終了しないか、すでにクリーンアップされています",
+    "RU" : "Журнал не выходит или уже был очищен",
+    "DE" : "Das Protokoll wird nicht beendet oder wurde bereits bereinigt",
+    "KO" : "로그가 종료되지 않거나 이미 정리되었습니다.",
+    "IT" : "Il registro non esce o è già stato ripulito"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "YouHaveAccomplishedThisChallenge",
+  "data" : {
+    "EN" : "You can't submit because you have already accomplished this challenge. To submit another answer, please close and restart this webeditor.",
+    "ZH_HANS" : "你已经完成了挑战，无法提交新的答案。要提交新的答案，请关闭然后重新打开网页编辑器。",
+    "ZH_HANT" : "你已經完成了挑戰，無法提交新的答案。要提交新的答案，請關閉然後重新打開網頁編輯器。",
+    "ES" : "No puede enviar porque ya ha logrado este desafío. Para enviar otra respuesta, cierre y reinicie este editor web.",
+    "AR" : "لا يمكنك الإرسال لأنك قد أنجزت هذا التحدي بالفعل. لتقديم إجابة أخرى ، يرجى إغلاق وإعادة تشغيل محرر الويب هذا.",
+    "PT" : "Você não pode enviar porque já cumpriu este desafio. Para enviar outra resposta, feche e reinicie este editor da web.",
+    "ID" : "Anda tidak dapat mengirimkan karena Anda telah menyelesaikan tantangan ini. Untuk mengirimkan jawaban lain, harap tutup dan mulai ulang editor web ini.",
+    "FR" : "Vous ne pouvez pas soumettre car vous avez déjà accompli ce défi. Pour soumettre une autre réponse, veuillez fermer et redémarrer cet éditeur Web.",
+    "JA" : "このチャレンジはすでに完了しているため、送信できません。別の回答を送信するには、このWebエディターを閉じて再起動してください。",
+    "RU" : "Вы не можете подать заявку, потому что вы уже выполнили эту задачу. Чтобы отправить другой ответ, закройте и перезапустите этот веб-редактор.",
+    "DE" : "Sie können nicht einreichen, da Sie diese Herausforderung bereits gemeistert haben. Um eine weitere Antwort zu senden, schließen Sie bitte diesen Webeditor und starten Sie ihn neu.",
+    "KO" : "이미 이 챌린지를 완료했으므로 제출할 수 없습니다. 다른 답변을 제출하려면 이 웹 편집기를 닫고 다시 시작하십시오.",
+    "IT" : "Non puoi inviare perché hai già completato questa sfida. Per inviare un'altra risposta, chiudi e riavvia questo editor web."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "SaveChangesDetail",
+  "data" : {
+    "EN" : "Click \"Discard Changes\" to discard the changes you made; reopen the file you'll get the original version.\nClick \"Cancel\" to go back to the editor.\n",
+    "ZH_HANS" : "点击\"丢弃变更\"丢弃您修改的代码；重新打开该文件可以恢复到原始版本。\n点击\"取消\"返回编辑器界面。\n",
+    "ZH_HANT" : "點擊\"丟棄變更\"丟棄您修改的代碼；重新打開該文件可以恢復到原始版本。\n點擊\"取消\"返回編輯器界面。\n",
+    "ES" : "Haga clic en \"Descartar cambios\" para descartar los cambios que realizó; Vuelve a abrir el archivo y obtendrás la versión original.\nHaga clic en \"Cancelar\" para volver al editor.\n",
+    "AR" : "انقر فوق \"تجاهل التغييرات\" لتجاهل التغييرات التي أجريتها ؛ أعد فتح الملف وستحصل على النسخة الأصلية.\nانقر فوق \"إلغاء\" للعودة إلى المحرر.\n",
+    "PT" : "Clique em \"Descartar alterações\" para descartar as alterações feitas; reabra o arquivo para obter a versão original.\nClique em \"Cancelar\" para voltar ao editor.\n",
+    "ID" : "Klik \"Buang Perubahan\" untuk membuang perubahan yang Anda buat; buka kembali file Anda akan mendapatkan versi aslinya.\nKlik \"Batal\" untuk kembali ke editor.\n",
+    "FR" : "Cliquez sur « Annuler les modifications » pour annuler les modifications que vous avez apportées ; rouvrez le fichier, vous obtiendrez la version originale.\nCliquez sur \"Annuler\" pour revenir à l'éditeur.\n",
+    "JA" : "[変更を破棄]をクリックして、行った変更を破棄します。ファイルを再度開くと、元のバージョンが取得されます。\n「キャンセル」をクリックして、エディタに戻ります。\n",
+    "RU" : "Нажмите «Отменить изменения», чтобы отменить внесенные вами изменения; повторно откройте файл, и вы получите исходную версию.\nНажмите «Отмена», чтобы вернуться в редактор.\n",
+    "DE" : "Klicken Sie auf \"Änderungen verwerfen\", um die vorgenommenen Änderungen zu verwerfen; Öffnen Sie die Datei erneut und Sie erhalten die Originalversion.\nKlicken Sie auf \"Abbrechen\", um zum Editor zurückzukehren.\n",
+    "KO" : "변경 사항을 취소하려면 \"변경 사항 취소\"를 클릭하십시오. 파일을 다시 열면 원본 버전을 얻을 수 있습니다.\n편집기로 돌아가려면 \"취소\"를 클릭하십시오.\n",
+    "IT" : "Fare clic su \"Annulla modifiche\" per annullare le modifiche apportate; riapri il file otterrai la versione originale.\nFare clic su \"Annulla\" per tornare all'editor.\n"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "WhatDoYouWantToDoSingleFile",
+  "data" : {
+    "EN" : "What do you want to do to {0}?",
+    "ZH_HANS" : "您想要如何处理{0}？",
+    "ZH_HANT" : "您想要如何處理{0}？",
+    "ES" : "¿Qué quieres hacer con {0}?",
+    "AR" : "ماذا تريد أن تفعل لـ {0}؟",
+    "PT" : "O que você deseja fazer com {0}?",
+    "ID" : "Apa yang ingin Anda lakukan pada {0}?",
+    "FR" : "Que voulez-vous faire pour {0} ?",
+    "JA" : "{0}に何をしたいですか？",
+    "RU" : "Что вы хотите сделать с {0}?",
+    "DE" : "Was möchten Sie mit {0} tun?",
+    "KO" : "{0}에게 무엇을 하시겠습니까?",
+    "IT" : "Cosa vuoi fare a {0}?"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "WhatDoYouWantToDoMultipleFile",
+  "data" : {
+    "EN" : "What do you want to do to the following {0} files?",
+    "ZH_HANS" : "您想要如何处理下列{0}个文件？",
+    "ZH_HANT" : "您想要如何處理下列{0}個文件？",
+    "ES" : "¿Qué desea hacer con los siguientes {0} archivos?",
+    "AR" : "ماذا تريد أن تفعل لملفات {0} التالية؟",
+    "PT" : "O que você deseja fazer com os seguintes {0} arquivos?",
+    "ID" : "Apa yang ingin Anda lakukan pada {0} file berikut?",
+    "FR" : "Que voulez-vous faire des {0} fichiers suivants ?",
+    "JA" : "次の{0}ファイルをどうしますか？",
+    "RU" : "Что вы хотите сделать со следующими файлами {0}?",
+    "DE" : "Was möchten Sie mit den folgenden {0} Dateien tun?",
+    "KO" : "다음 {0} 파일에 무엇을 하시겠습니까?",
+    "IT" : "Cosa vuoi fare con i seguenti {0} file?"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "DiscardChanges",
+  "data" : {
+    "EN" : "Discard Changes",
+    "ZH_HANS" : "丢弃变更",
+    "ZH_HANT" : "丟棄變更",
+    "ES" : "Descartar los cambios",
+    "AR" : "تجاهل التغييرات",
+    "PT" : "Descartar mudanças",
+    "ID" : "Membuang perubahan",
+    "FR" : "Annuler les modifications",
+    "JA" : "変更を破棄",
+    "RU" : "Отменить изменения",
+    "DE" : "Änderungen verwerfen",
+    "KO" : "변경 사항을 취소",
+    "IT" : "Non salvare le modifiche"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "Cancel",
+  "data" : {
+    "EN" : "Cancel",
+    "ZH_HANS" : "取消",
+    "ZH_HANT" : "取消",
+    "ES" : "Cancelar",
+    "AR" : "يلغي",
+    "PT" : "Cancelar",
+    "ID" : "Membatalkan",
+    "FR" : "Annuler",
+    "JA" : "キャンセル",
+    "RU" : "Отмена",
+    "DE" : "Abbrechen",
+    "KO" : "취소",
+    "IT" : "Annulla"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "ChangesAreNotAllowed",
+  "data" : {
+    "EN" : "File changes are not allowed: {0}",
+    "ZH_HANS" : "不允许修改文件：{0}",
+    "ZH_HANT" : "不允許修改文件：{0}",
+    "ES" : "No se permiten cambios de archivo: {0}",
+    "AR" : "غير مسموح بتغييرات الملف: {0}",
+    "PT" : "Alterações de arquivo não são permitidas: {0}",
+    "ID" : "Perubahan file tidak diizinkan: {0}",
+    "FR" : "Les modifications de fichier ne sont pas autorisées : {0}",
+    "JA" : "ファイルの変更は許可されていません：{0}",
+    "RU" : "Изменения файлов не разрешены: {0}",
+    "DE" : "Dateiänderungen sind nicht zulässig: {0}",
+    "KO" : "파일 변경이 허용되지 않음: {0}",
+    "IT" : "Le modifiche ai file non sono consentite: {0}"
   },
   "format" : "TEXT"
 } ]

@@ -749,7 +749,67 @@
   data:
     EN: "Submit Answer"
     ZH_HANS: "提交答案"
+- id: SubmittingAnswer
+  data:
+    EN: "Submitting Answer"
+    ZH_HANS: "提交答案中"
 - id: CheckingAnswer
   data:
     EN: "Checking Answer"
-    ZH_HANS: "检查答案中"
+    ZH_HANS: 检查答案中
+- id: MyAnswerAt
+  data:
+    EN: "Answer at {0}"
+    ZH_HANS: "在{0}的回答"
+- id: CommitAt
+  data:
+    EN: "Commit {0} ({1})"
+    ZH_HANS: "提交{0} ({1})"
+- id: FetchingLog
+  data:
+    EN: "Fetching log for check run {0}"
+    ZH_HANS: "正在获取check run {0}的日志"
+- id: NothingToSubmit
+  data:
+    EN: "There is nothing to submit. Please make some changes and re-submit."
+    ZH_HANS: "您没有进行任何修改，无法提交。请对代码作出一些修改后重试。"
+- id: HttpResponseError
+  data:
+    EN: "HTTP response error, status code {0}:\n{1}"
+    ZH_HANS: "HTTP响应错误，状态码{0}:\n{1}"
+- id: LogCleanedUp
+  data:
+    EN: "The log does not exit or has already been cleaned up"
+    ZH_HANS: "日志不存在或者已被清理"
+- id: YouHaveAccomplishedThisChallenge
+  data:
+    EN: "You can't submit because you have already accomplished this challenge. To submit another answer, please close and restart this webeditor."
+    ZH_HANS: "你已经完成了挑战，无法提交新的答案。要提交新的答案，请关闭然后重新打开网页编辑器。"
+- id: SaveChangesDetail
+  data:
+    EN: |
+      Click "Discard Changes" to discard the changes you made; reopen the file you'll get the original version.
+      Click "Cancel" to go back to the editor.
+    ZH_HANS: |
+      点击"丢弃变更"丢弃您修改的代码；重新打开该文件可以恢复到原始版本。
+      点击"取消"返回编辑器界面。
+- id: WhatDoYouWantToDoSingleFile
+  data:
+    EN: What do you want to do to {0}?
+    ZH_HANS: 您想要如何处理{0}？
+- id: WhatDoYouWantToDoMultipleFile
+  data:
+    EN: What do you want to do to the following {0} files?
+    ZH_HANS: 您想要如何处理下列{0}个文件？
+- id: DiscardChanges
+  data:
+    EN: Discard Changes
+    ZH_HANS: 丢弃变更
+- id: Cancel
+  data:
+    EN: Cancel
+    ZH_HANS: 取消
+- id: ChangesAreNotAllowed
+  data:
+    EN: "File changes are not allowed: {0}"
+    ZH_HANS: "不允许修改文件：{0}"
