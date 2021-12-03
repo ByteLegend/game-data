@@ -11,16 +11,9 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-id: java-field
-title: java-field-title
+id: JavaMethodField
+title: JavaMethodField-title
 challenges:
-  - id: java-create-static-field
-    type: PullRequest
-    star: 3
-    spec: github.com/ByteLegendQuest/java-create-static-field
-  - id: java-swap-static-fields
-    type: PullRequest
-    star: 3
-    spec: github.com/ByteLegendQuest/java-swap-static-fields
-discussions:
-  url: https://github.com/ByteLegendQuest/java-create-static-field/discussions
+  - id: JavaMethodField-challenge
+    type: TextContent
+    spec: JavaMethodField-challenge-text

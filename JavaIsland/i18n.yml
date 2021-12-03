@@ -115,7 +115,7 @@
     ZH_HANS: 使用PR修复bug
 - id: JavaBasicStructure-title
   data:
-    EN: "Java Basic Structure: Class and Package"
+    EN: "Java Basic Structure: Class & Package"
     ZH_HANS: Java的基本结构：类与包
 - id: create-a-new-class-title
   data:
@@ -315,22 +315,22 @@
   data:
     EN: Java Field
     ZH_HANS: Java的字段
-- id: java-method-and-field-title
+- id: java-method-invocation-title
   data:
-    EN: Java Method and Field
-    ZH_HANS: Java的方法和字段
-- id: method-overload-title
+    EN: Java Method Invocation
+    ZH_HANS: Java的方法调用
+- id: java-method-overloading-title
   data:
     EN: Method Overload
     ZH_HANS: 方法的重载
-- id: local-variable-and-scope-title
+- id: java-local-variable-scope-title
   data:
     EN: Local Variable and Scope
     ZH_HANS: 局部变量与作用域
-- id: method-invocation-and-recursion-title
+- id: java-method-recursion-title
   data:
-    EN: Method Invocation and Recursion
-    ZH_HANS: Java的字段
+    EN: Method Recursion
+    ZH_HANS: 方法的递归
 - id: object-and-instantiation-title
   data:
     EN: Object and Instantiation
@@ -1025,6 +1025,31 @@
   data:
     ZH_HANS: 你忘了你的承诺了吗？
     EN: Did you forget your words?
+- id: JavaMethodField-title
+  data:
+    ZH_HANS: Java的方法和字段
+    EN: "Java Method & Field"
+- id: JavaMethodField-challenge-text
+  format: MARKDOWN
+  data:
+    ZH_HANS: |
+      要从这里通过，你需要摧毁这个区域的防御塔：
+
+      - [ ] Java的方法
+      - [ ] 方法的重载
+      - [ ] Java的字段
+      - [ ] Java的方法调用
+      - [ ] 局部变量与作用域
+      - [ ] 方法的递归
+    EN: |
+      To pass, you need to destroy the defense towers in this region:
+
+      - [ ] Java Method
+      - [ ] Method Overload
+      - [ ] Java Field
+      - [ ] Java Method Invocation
+      - [ ] Local Variable and Scope
+      - [ ] Method Recursion
 - id: JavaBasicStructure-challenge-text
   format: MARKDOWN
   data:

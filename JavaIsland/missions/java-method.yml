@@ -1,11 +1,11 @@
 # Copyright 2021 ByteLegend Technologies and the original author or authors.
-# 
+#
 # Licensed under the GNU Affero General Public License v3.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
-# 
+#
 #      https://github.com/ByteLegend/ByteLegend/blob/master/LICENSE
-# 
+#
 # Unless required by applicable law or agreed to in writing, software
 # distributed under the License is distributed on an "AS IS" BASIS,
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -13,3 +13,14 @@
 # limitations under the License.
 id: java-method
 title: java-method-title
+challenges:
+  - id: java-create-psvm
+    type: PullRequest
+    star: 3
+    spec: github.com/ByteLegendQuest/java-create-psvm
+  - id: java-write-static-methods
+    type: PullRequest
+    star: 3
+    spec: github.com/ByteLegendQuest/java-write-static-methods
+discussions:
+  url: https://github.com/ByteLegendQuest/java-create-psvm/discussions

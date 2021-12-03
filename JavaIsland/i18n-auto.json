@@ -307,17 +307,17 @@
 }, {
   "id" : "JavaBasicStructure-title",
   "data" : {
-    "EN" : "Java Basic Structure: Class and Package",
+    "EN" : "Java Basic Structure: Class & Package",
     "ZH_HANS" : "Java的基本结构：类与包",
     "ZH_HANT" : "Java的基本結構：類與包",
     "ES" : "Estructura básica de Java: clase y paquete",
-    "AR" : "بنية Java الأساسية: فئة وحزمة",
+    "AR" : "بنية جافا الأساسية: فئة وحزمة",
     "PT" : "Estrutura básica do Java: classe e pacote",
-    "ID" : "Struktur Dasar Java: Kelas dan Paket",
+    "ID" : "Struktur Dasar Java: Kelas & Paket",
     "FR" : "Structure de base Java : classe et package",
     "JA" : "Javaの基本構造：クラスとパッケージ",
     "RU" : "Базовая структура Java: класс и пакет",
-    "DE" : "Java-Grundstruktur: Klasse und Paket",
+    "DE" : "Java-Grundstruktur: Klasse & Paket",
     "KO" : "Java 기본 구조: 클래스 및 패키지",
     "IT" : "Struttura di base Java: classe e pacchetto"
   },
@@ -1133,25 +1133,25 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "java-method-and-field-title",
+  "id" : "java-method-invocation-title",
   "data" : {
-    "EN" : "Java Method and Field",
-    "ZH_HANS" : "Java的方法和字段",
-    "ZH_HANT" : "Java的方法和字段",
-    "ES" : "Método y campo Java",
-    "AR" : "طريقة جافا والمجال",
-    "PT" : "Método e campo Java",
-    "ID" : "Metode dan Bidang Java",
-    "FR" : "Méthode et champ Java",
-    "JA" : "Javaのメソッドとフィールド",
-    "RU" : "Метод и поле Java",
-    "DE" : "Java-Methode und -Feld",
-    "KO" : "자바 메소드 및 필드",
-    "IT" : "Metodo e campo Java"
+    "EN" : "Java Method Invocation",
+    "ZH_HANS" : "Java的方法调用",
+    "ZH_HANT" : "Java的方法調用",
+    "ES" : "Invocación del método Java",
+    "AR" : "استدعاء أسلوب جافا",
+    "PT" : "Invocação de Método Java",
+    "ID" : "Pemanggilan Metode Java",
+    "FR" : "Invocation de méthode Java",
+    "JA" : "Javaメソッド呼び出し",
+    "RU" : "Вызов метода Java",
+    "DE" : "Aufruf von Java-Methoden",
+    "KO" : "자바 메소드 호출",
+    "IT" : "Invocazione del metodo Java"
   },
   "format" : "TEXT"
 }, {
-  "id" : "method-overload-title",
+  "id" : "java-method-overloading-title",
   "data" : {
     "EN" : "Method Overload",
     "ZH_HANS" : "方法的重载",
@@ -1169,7 +1169,7 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "local-variable-and-scope-title",
+  "id" : "java-local-variable-scope-title",
   "data" : {
     "EN" : "Local Variable and Scope",
     "ZH_HANS" : "局部变量与作用域",
@@ -1187,21 +1187,21 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "method-invocation-and-recursion-title",
+  "id" : "java-method-recursion-title",
   "data" : {
-    "EN" : "Method Invocation and Recursion",
-    "ZH_HANS" : "Java的字段",
-    "ZH_HANT" : "Java的字段",
-    "ES" : "Invocación y recursividad de métodos",
-    "AR" : "طريقة الاحتجاج والتكرار",
-    "PT" : "Invocação e Recursão do Método",
-    "ID" : "Metode Doa dan Rekursi",
-    "FR" : "Invocation de méthode et récursivité",
-    "JA" : "メソッドの呼び出しと再帰",
-    "RU" : "Вызов метода и рекурсия",
-    "DE" : "Methodenaufruf und Rekursion",
-    "KO" : "메서드 호출 및 재귀",
-    "IT" : "Invocazione e ricorsione del metodo"
+    "EN" : "Method Recursion",
+    "ZH_HANS" : "方法的递归",
+    "ZH_HANT" : "方法的遞歸",
+    "ES" : "Método de recursión",
+    "AR" : "أسلوب العودية",
+    "PT" : "Método de Recursão",
+    "ID" : "Metode Rekursi",
+    "FR" : "Récursivité de méthode",
+    "JA" : "メソッドの再帰",
+    "RU" : "Рекурсия метода",
+    "DE" : "Methode Rekursion",
+    "KO" : "메소드 재귀",
+    "IT" : "Ricorsione del metodo"
   },
   "format" : "TEXT"
 }, {
@@ -3761,6 +3761,42 @@
   },
   "format" : "TEXT"
 }, {
+  "id" : "JavaMethodField-title",
+  "data" : {
+    "EN" : "Java Method & Field",
+    "ZH_HANS" : "Java的方法和字段",
+    "ZH_HANT" : "Java的方法和字段",
+    "ES" : "Método y campo Java",
+    "AR" : "طريقة جافا والمجال",
+    "PT" : "Método e campo Java",
+    "ID" : "Metode & Bidang Java",
+    "FR" : "Méthode et champ Java",
+    "JA" : "Javaメソッドとフィールド",
+    "RU" : "Метод и поле Java",
+    "DE" : "Java-Methode und -Feld",
+    "KO" : "자바 메소드 및 필드",
+    "IT" : "Metodo e campo Java"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "JavaMethodField-challenge-text",
+  "data" : {
+    "EN" : "<p>To pass, you need to destroy the defense towers in this region:</p>\n<ul>\n<li><input type=\"checkbox\" disabled=\"\"> Java Method</li>\n<li><input type=\"checkbox\" disabled=\"\"> Method Overload</li>\n<li><input type=\"checkbox\" disabled=\"\"> Java Field</li>\n<li><input type=\"checkbox\" disabled=\"\"> Java Method Invocation</li>\n<li><input type=\"checkbox\" disabled=\"\"> Local Variable and Scope</li>\n<li><input type=\"checkbox\" disabled=\"\"> Method Recursion</li>\n</ul>\n",
+    "ZH_HANS" : "<p>要从这里通过，你需要摧毁这个区域的防御塔：</p>\n<ul>\n<li><input type=\"checkbox\" disabled=\"\"> Java的方法</li>\n<li><input type=\"checkbox\" disabled=\"\"> 方法的重载</li>\n<li><input type=\"checkbox\" disabled=\"\"> Java的字段</li>\n<li><input type=\"checkbox\" disabled=\"\"> Java的方法调用</li>\n<li><input type=\"checkbox\" disabled=\"\"> 局部变量与作用域</li>\n<li><input type=\"checkbox\" disabled=\"\"> 方法的递归</li>\n</ul>\n",
+    "ZH_HANT" : "<p>要從這里通過，你需要摧毀這個區域的防禦塔：</p><ul><li><input type=\"checkbox\" disabled=\"\"> Java的方法</li><li><input type=\"checkbox\" disabled=\"\">方法的重載</li><li><input type=\"checkbox\" disabled=\"\">Java的字段</li><li><input type=\"checkbox\" disabled=\"\">Java的方法調用</li><li><input type=\"checkbox\" disabled=\"\">局部變量與作用域</li><li><input type=\"checkbox\" disabled=\"\">方法的遞歸</li></ul>",
+    "ES" : "<p>Para pasar, debes destruir las torres de defensa en esta región:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Método Java</li><li><input type=\"checkbox\" disabled=\"\"> Sobrecarga de método</li><li><input type=\"checkbox\" disabled=\"\"> Campo de Java</li><li><input type=\"checkbox\" disabled=\"\"> Invocación del método Java</li><li><input type=\"checkbox\" disabled=\"\"> Alcance y variable local</li><li><input type=\"checkbox\" disabled=\"\"> Método de recursión</li></ul>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">لتمرير ، تحتاج إلى تدمير أبراج الدفاع في هذه المنطقة:</p><ul style=\";text-align:right;direction:rtl\"><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> طريقة جافا</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> طريقة الزائد</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> جافا فيلد</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> استدعاء أسلوب جافا</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> المتغير المحلي والنطاق</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> أسلوب العودية</li></ul>",
+    "PT" : "<p>Para passar, você precisa destruir as torres de defesa nesta região:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Método Java</li><li><input type=\"checkbox\" disabled=\"\"> Sobrecarga de método</li><li><input type=\"checkbox\" disabled=\"\"> Java Field</li><li><input type=\"checkbox\" disabled=\"\"> Invocação de Método Java</li><li><input type=\"checkbox\" disabled=\"\"> Variável local e escopo</li><li><input type=\"checkbox\" disabled=\"\"> Método de Recursão</li></ul>",
+    "ID" : "<p>Untuk lulus, Anda harus menghancurkan menara pertahanan di wilayah ini:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Metode Jawa</li><li><input type=\"checkbox\" disabled=\"\"> Metode Overload</li><li><input type=\"checkbox\" disabled=\"\"> Lapangan Jawa</li><li><input type=\"checkbox\" disabled=\"\"> Pemanggilan Metode Java</li><li><input type=\"checkbox\" disabled=\"\"> Variabel Lokal dan Lingkup</li><li><input type=\"checkbox\" disabled=\"\"> Metode Rekursi</li></ul>",
+    "FR" : "<p>Pour passer, vous devez détruire les tours de défense de cette région :</p><ul><li><input type=\"checkbox\" disabled=\"\"> Méthode Java</li><li><input type=\"checkbox\" disabled=\"\"> Surcharge de méthode</li><li><input type=\"checkbox\" disabled=\"\"> Champ Java</li><li><input type=\"checkbox\" disabled=\"\"> Invocation de méthode Java</li><li><input type=\"checkbox\" disabled=\"\"> Variable locale et étendue</li><li><input type=\"checkbox\" disabled=\"\"> Récursivité de méthode</li></ul>",
+    "JA" : "<p>合格するには、この地域の防衛塔を破壊する必要があります。</p><ul><li><input type=\"checkbox\" disabled=\"\"> Javaメソッド</li><li><input type=\"checkbox\" disabled=\"\">メソッドのオーバーロード</li><li><input type=\"checkbox\" disabled=\"\">Javaフィールド</li><li><input type=\"checkbox\" disabled=\"\">Javaメソッド呼び出し</li><li><input type=\"checkbox\" disabled=\"\">ローカル変数とスコープ</li><li><input type=\"checkbox\" disabled=\"\">メソッドの再帰</li></ul>",
+    "RU" : "<p>Чтобы пройти, вам нужно разрушить оборонительные башни в этом районе:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Метод Java</li><li><input type=\"checkbox\" disabled=\"\"> Перегрузка метода</li><li><input type=\"checkbox\" disabled=\"\"> Поле Java</li><li><input type=\"checkbox\" disabled=\"\"> Вызов метода Java</li><li><input type=\"checkbox\" disabled=\"\"> Локальная переменная и область действия</li><li><input type=\"checkbox\" disabled=\"\"> Рекурсия метода</li></ul>",
+    "DE" : "<p>Um zu bestehen, müssen Sie die Verteidigungstürme in dieser Region zerstören:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Java-Methode</li><li><input type=\"checkbox\" disabled=\"\"> Methodenüberladung</li><li><input type=\"checkbox\" disabled=\"\"> Java-Feld</li><li><input type=\"checkbox\" disabled=\"\"> Aufruf von Java-Methoden</li><li><input type=\"checkbox\" disabled=\"\"> Lokale Variable und Geltungsbereich</li><li><input type=\"checkbox\" disabled=\"\"> Methode Rekursion</li></ul>",
+    "KO" : "<p>통과하려면 이 지역의 방어 타워를 파괴해야 합니다.</p><ul><li><input type=\"checkbox\" disabled=\"\"> 자바 메소드</li><li><input type=\"checkbox\" disabled=\"\"> 메소드 과부하</li><li><input type=\"checkbox\" disabled=\"\"> 자바 필드</li><li><input type=\"checkbox\" disabled=\"\"> 자바 메소드 호출</li><li><input type=\"checkbox\" disabled=\"\"> 지역 변수와 범위</li><li><input type=\"checkbox\" disabled=\"\"> 메소드 재귀</li></ul>",
+    "IT" : "<p>Per passare, devi distruggere le torri di difesa in questa regione:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Metodo Java</li><li><input type=\"checkbox\" disabled=\"\"> Sovraccarico del metodo</li><li><input type=\"checkbox\" disabled=\"\"> Campo Java</li><li><input type=\"checkbox\" disabled=\"\"> Invocazione del metodo Java</li><li><input type=\"checkbox\" disabled=\"\"> Variabile locale e ambito</li><li><input type=\"checkbox\" disabled=\"\"> Ricorsione del metodo</li></ul>"
+  },
+  "format" : "HTML"
+}, {
   "id" : "JavaBasicStructure-challenge-text",
   "data" : {
     "EN" : "<p>To pass, you need to destroy 3 defense towers in this region:</p>\n<ul>\n<li><input type=\"checkbox\" disabled=\"\"> Create a New Class</li>\n<li><input type=\"checkbox\" disabled=\"\"> Import Class</li>\n<li><input type=\"checkbox\" disabled=\"\"> Import Class from 3rd Party Package</li>\n</ul>\n",
@@ -3775,7 +3811,7 @@
     "RU" : "<p>Чтобы пройти, вам нужно разрушить 3 оборонительные башни в этом районе:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Создать новый класс</li><li><input type=\"checkbox\" disabled=\"\"> Класс импорта</li><li><input type=\"checkbox\" disabled=\"\"> Импортировать класс из стороннего пакета</li></ul>",
     "DE" : "<p>Um zu bestehen, müssen Sie 3 Verteidigungstürme in dieser Region zerstören:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Erstellen Sie eine neue Klasse</li><li><input type=\"checkbox\" disabled=\"\"> Klasse importieren</li><li><input type=\"checkbox\" disabled=\"\"> Klasse aus Drittanbieterpaket importieren</li></ul>",
     "KO" : "<p>통과하려면 이 지역에서 3개의 방어 타워를 파괴해야 합니다.</p><ul><li><input type=\"checkbox\" disabled=\"\"> 새 클래스 만들기</li><li><input type=\"checkbox\" disabled=\"\"> 클래스 가져오기</li><li><input type=\"checkbox\" disabled=\"\"> 타사 패키지에서 클래스 가져오기</li></ul>",
-    "IT" : "<p>Per passare, devi distruggere 3 torri di difesa in questa regione:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Crea una nuova classe</li><li><input type=\"checkbox\" disabled=\"\"> Importa classe</li><li><input type=\"checkbox\" disabled=\"\"> Importa classe dal pacchetto di terze parti</li></ul>"
+    "IT" : "<p>Per passare, devi distruggere 3 torri di difesa in questa regione:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Crea una nuova classe</li><li><input type=\"checkbox\" disabled=\"\"> Importa classe</li><li><input type=\"checkbox\" disabled=\"\"> Classe di importazione dal pacchetto di terze parti</li></ul>"
   },
   "format" : "HTML"
 }, {
