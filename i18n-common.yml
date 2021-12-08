@@ -635,11 +635,6 @@
       You and your friend will both get {0} gold.
     ZH_HANS: |
       从你的朋友那里获取邀请码以打开这个宝箱，你们两位可以同时获得{0}金币。
-- id: FinishChallengeInRepo
-  format: HTML
-  data:
-    EN: Finish the challenge in repository <a href='https://{0}' target='_blank' class='notranslate'>{0}</a>.
-    ZH_HANS: 完成仓库<a href='https://{0}' target='_blank' class='notranslate'>{0}</a>中的挑战。
 - id: Achievement
   data:
     EN: Achievement
