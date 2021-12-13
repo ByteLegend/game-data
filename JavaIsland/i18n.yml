@@ -331,23 +331,23 @@
   data:
     EN: Method Recursion
     ZH_HANS: 方法的递归
-- id: object-and-instantiation-title
+- id: java-class-instantiation-title
   data:
-    EN: Object and Instantiation
-    ZH_HANS: 对象与实例化
-- id: instance-field-title
+    EN: Class Instantiation
+    ZH_HANS: 实例化
+- id: java-instance-field-title
   data:
     EN: Instance Field
     ZH_HANS: 实例字段
-- id: instance-method-title
+- id: java-instance-method-title
   data:
     EN: Instance Method
     ZH_HANS: 实例方法
-- id: instance-constructor-title
+- id: java-constructor-title
   data:
     EN: Instance Constructor
     ZH_HANS: 实例构造器
-- id: java-NPE-title
+- id: java-npe-title
   data:
     EN: Java NullPointerException
     ZH_HANS: Java的空指针异常

@@ -1205,25 +1205,25 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "object-and-instantiation-title",
+  "id" : "java-class-instantiation-title",
   "data" : {
-    "EN" : "Object and Instantiation",
-    "ZH_HANS" : "对象与实例化",
-    "ZH_HANT" : "對象與實例化",
-    "ES" : "Objeto e instanciación",
-    "AR" : "الكائن والتماثل",
-    "PT" : "Objeto e instanciação",
-    "ID" : "Objek dan Instansiasi",
-    "FR" : "Objet et instanciation",
-    "JA" : "オブジェクトとインスタンス化",
-    "RU" : "Объект и реализация",
-    "DE" : "Objekt und Instanziierung",
-    "KO" : "객체와 인스턴스화",
-    "IT" : "Oggetto e istanza"
+    "EN" : "Class Instantiation",
+    "ZH_HANS" : "实例化",
+    "ZH_HANT" : "實例化",
+    "ES" : "Instanciación de clase",
+    "AR" : "فئة مثيل",
+    "PT" : "Instanciação de classe",
+    "ID" : "Instansiasi Kelas",
+    "FR" : "Instanciation de classe",
+    "JA" : "クラスのインスタンス化",
+    "RU" : "Создание класса",
+    "DE" : "Klassen-Instanziierung",
+    "KO" : "클래스 인스턴스화",
+    "IT" : "Istanziazione della classe"
   },
   "format" : "TEXT"
 }, {
-  "id" : "instance-field-title",
+  "id" : "java-instance-field-title",
   "data" : {
     "EN" : "Instance Field",
     "ZH_HANS" : "实例字段",
@@ -1241,7 +1241,7 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "instance-method-title",
+  "id" : "java-instance-method-title",
   "data" : {
     "EN" : "Instance Method",
     "ZH_HANS" : "实例方法",
@@ -1259,7 +1259,7 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "instance-constructor-title",
+  "id" : "java-constructor-title",
   "data" : {
     "EN" : "Instance Constructor",
     "ZH_HANS" : "实例构造器",
@@ -1277,7 +1277,7 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "java-NPE-title",
+  "id" : "java-npe-title",
   "data" : {
     "EN" : "Java NullPointerException",
     "ZH_HANS" : "Java的空指针异常",
