@@ -18,7 +18,7 @@ challenges:
     type: PullRequest
     star: 3
     spec: github.com/ByteLegendQuest/java-fix-uninitialized-field-npe
-  - id: java-fix-uninitialized-field-npe
+  - id: java-fix-method-return-npe
     type: PullRequest
     star: 3
-    spec: github.com/ByteLegendQuest/java-fix-uninitialized-field-npe
+    spec: github.com/ByteLegendQuest/java-fix-method-return-npe
