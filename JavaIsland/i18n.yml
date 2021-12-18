@@ -471,7 +471,7 @@
     ZH_HANS: 继承
 - id: java-importance-of-encapsulation-title
   data:
-    EN: Imporance of Encapsulation
+    EN: Importance of Encapsulation
     ZH_HANS: 封装的必要性
 - id: "java-bean-convention-title"
   data:
