@@ -736,10 +736,6 @@
   data:
     EN: "Close Web Editor"
     ZH_HANS: "关闭网页编辑器"
-- id: YouMustSignInToUseWebEditor
-  data:
-    EN: "To use the web editor, you must sign in first."
-    ZH_HANS: 要使用网页编辑器，您必须首先登录。
 - id: SubmitAnswer
   data:
     EN: "Submit Answer"

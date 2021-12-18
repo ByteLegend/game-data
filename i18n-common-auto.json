@@ -2573,24 +2573,6 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "YouMustSignInToUseWebEditor",
-  "data" : {
-    "EN" : "To use the web editor, you must sign in first.",
-    "ZH_HANS" : "要使用网页编辑器，您必须首先登录。",
-    "ZH_HANT" : "要使用網頁編輯器，您必須首先登錄。",
-    "ES" : "Para utilizar el editor web, primero debe iniciar sesión.",
-    "AR" : "لاستخدام محرر الويب ، يجب عليك تسجيل الدخول أولاً.",
-    "PT" : "Para usar o editor da web, você deve entrar primeiro.",
-    "ID" : "Untuk menggunakan editor web, Anda harus masuk terlebih dahulu.",
-    "FR" : "Pour utiliser l'éditeur Web, vous devez d'abord vous connecter.",
-    "JA" : "Webエディターを使用するには、最初にサインインする必要があります。",
-    "RU" : "Чтобы использовать веб-редактор, вы должны сначала войти в систему.",
-    "DE" : "Um den Webeditor zu verwenden, müssen Sie sich zuerst anmelden.",
-    "KO" : "웹 편집기를 사용하려면 먼저 로그인해야 합니다.",
-    "IT" : "Per utilizzare l'editor web, devi prima effettuare l'accesso."
-  },
-  "format" : "TEXT"
-}, {
   "id" : "SubmitAnswer",
   "data" : {
     "EN" : "Submit Answer",
