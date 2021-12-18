@@ -950,19 +950,19 @@
     ZH_HANS: |
       这是一个密码箱，里面似乎有一些金币。安装你喜欢的Java IDE，然后将"About"中的信息粘贴到下面的输入框中以打开箱子。
     EN: |
-      This is a key carbinet, which seems to have some gold inside. To open it, install your favorite Java IDE, and paste the "About" information into the input box below.
+      This is a locked chest, which seems to have some gold inside. To open it, install your favorite Java IDE, and paste the "About" information into the input box below.
 - id: install-java-ide-readme
   format: MARKDOWN
   data:
     EN: |
       Most developers prefer to use IDE (Integrated Development Environment) for Java development.
-      This key carbinet supports three kinds of IDEs now, you **just need to install one of them**.
+      This chest supports three kinds of IDEs now, you **just need to install one of them**.
 
       - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) (highly recommended!!!)
       - [Eclipse IDE](https://www.eclipse.org/downloads/packages/)
       - [Visual Studio Code](https://code.visualstudio.com/download)
 
-      Then copy the "About" information, which is the password to open this key carbinet.
+      Then copy the "About" information, which is the key to unlock this chest.
 
       ![idea-about.png](https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/install-java-ide/idea-about.png)
 
