@@ -1,11 +1,11 @@
 # Copyright 2021 ByteLegend Technologies and the original author or authors.
-# 
+#
 # Licensed under the GNU Affero General Public License v3.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
-# 
+#
 #      https://github.com/ByteLegend/ByteLegend/blob/master/LICENSE
-# 
+#
 # Unless required by applicable law or agreed to in writing, software
 # distributed under the License is distributed on an "AS IS" BASIS,
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -156,5 +156,9 @@
   data:
     EN: |
       To finish this challenge, install <span class="notranslate">Java Development Kit (JDK)</span>, then put the output of `java -version` into the input box.
+
+      <<<<< Don't know how to do it? Take a look at the tutorials on the left side.
     ZH_HANS: |
       要完成这个挑战，你需要先安装一个<span class="notranslate">Java Development Kit (JDK)</span>，然后把`java -version`的输出结果放到输入框中。
+
+      <<<<< 不知道如何做？请查看左边的教程。
