@@ -852,7 +852,7 @@
     ZH_HANS: "真实项目: 从零开始<br>电商网站"
 - id: SeekForHighPayingJob
   data:
-    EN: Seek for High-paying Job?
+    EN: Seeking a High-paying Job?
     ZH_HANS: 在寻找高薪工作？
 - id: WelcomeToJavaIsland
   data:
@@ -870,7 +870,7 @@
   format: MARKDOWN
   data:
     EN: |
-      Congratulations! If you arrive at this point, you are fully qualified for a junior Java software engineer job.
+      Congratulations! At this point, you are fully qualified for a junior Java software engineer job.
       Please keep exploring the territory of senior Java software engineer!
     ZH_HANS: |
       恭喜！如果你能来到这个点上，你就完全具备了初级Java软件工程师的能力。请再接再厉，探索高级Java工程师的未知领域吧！
@@ -901,13 +901,13 @@
     EN: |
       #### Free Job-oriented Programming Education Game
 
-      Instead of wasting time in other games, you will get **realworld** knowledge, skills, experience, and a more promising future.
+      Instead of wasting time in other games, you will get **real-world** knowledge, skills, experience, and a more promising future.
 
-      `Java` is the **most popular**, **most promising** and **most high-paying** progamming language in the world.
-      On Java Island, you will accomplish a series of challenges - realworld programming problems and project practice.
-      Once you clear all mission on Java Island, you are qualified for any tech companies in the world.
+      `Java` is the **most popular**, **most promising** and **highest-paying** progamming language in the world.
+      On Java Island, you will face a series of challenges - real-world programming problems and project practice.
+      Once you clear all the missions on Java Island, you are qualified for any tech companies in the world.
 
-      Good luck. Every expert you admire was an average person, like you.
+      Remember, every expert you admire had to start somewhere just like you're starting now. Good luck!
 
       #### Why GitHub
 
@@ -917,9 +917,9 @@
 
       #### Which Level Should I Be Before Trying to Seek a Job?
 
-      If you can clear all missions and arrive at the entrance of `Senior Java Castle` (<span style='color:red'>coordinate {0}</span>),
-      we can assure you that you are fully qualified for a junior Java software engineer.
-      If you want to go further (salary increase or promotion), please enter `Senior Java Castle`, accomplish more missions, to become a senior Java software engineer.
+      Once you clear all missions and reach the entrance of the `Senior Java Castle` (<span style='color:red'>coordinate {0}</span>),
+      we can assure you that you are fully qualified for a junior Java software engineer position.
+      If you want to go further (salary increase or promotion), please enter the `Senior Java Castle` and complete the additional missions towards becoming a senior Java software engineer.
 - id: StarByteLegendChallengeText
   format: MARKDOWN
   data:
