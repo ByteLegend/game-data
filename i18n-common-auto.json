@@ -2878,4 +2878,22 @@
     "IT" : "Le modifiche ai file non sono consentite: {0}"
   },
   "format" : "TEXT"
+}, {
+  "id" : "NoTutorials",
+  "data" : {
+    "EN" : "No Tutorials",
+    "ZH_HANS" : "还没有任何教程",
+    "ZH_HANT" : "還沒有任何教程",
+    "ES" : "Sin tutoriales",
+    "AR" : "لا دروس",
+    "PT" : "Sem tutoriais",
+    "ID" : "Tidak ada Tutorial",
+    "FR" : "Pas de tutoriels",
+    "JA" : "チュートリアルなし",
+    "RU" : "Нет учебников",
+    "DE" : "Keine Tutorials",
+    "KO" : "튜토리얼 없음",
+    "IT" : "Nessun tutorial"
+  },
+  "format" : "TEXT"
 } ]

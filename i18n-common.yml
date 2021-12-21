@@ -808,3 +808,7 @@
   data:
     EN: "File changes are not allowed: {0}"
     ZH_HANS: "不允许修改文件：{0}"
+- id: NoTutorials
+  data:
+    EN: "No Tutorials"
+    ZH_HANS: "还没有任何教程"
