@@ -283,8 +283,13 @@
 - id: ClickHereToLogin
   format: HTML
   data:
-    EN: Click <a href="/game/login?redirect=/">here</a> to log in.
+    EN: Click <a href="/game/login?redirect=/">here</a> to sign in.
     ZH_HANS: 点击<a href="/game/login?redirect=/">这里</a>登录。
+- id: ToSubmitAnswerClickHereToLogin
+  format: HTML
+  data:
+    EN: To submit an answer, please <a href="/game/login?redirect=/">sign in</a> first.
+    ZH_HANS: 要提交答案，请先<a href="/game/login?redirect=/">登录</a>。
 - id: HelpUsImproveTheTranslationQuality
   data:
     EN: Help us improve the translation quality

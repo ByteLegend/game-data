@@ -919,7 +919,7 @@
 }, {
   "id" : "ClickHereToLogin",
   "data" : {
-    "EN" : "Click <a href=\"/game/login?redirect=/\">here</a> to log in.",
+    "EN" : "Click <a href=\"/game/login?redirect=/\">here</a> to sign in.",
     "ZH_HANS" : "点击<a href=\"/game/login?redirect=/\">这里</a>登录。",
     "ZH_HANT" : "點擊",
     "ES" : "Haga clic <a href=\"/game/login?redirect=/\">aquí</a> para iniciar sesión.",
@@ -927,11 +927,29 @@
     "PT" : "Clique <a href=\"/game/login?redirect=/\">aqui</a> para entrar.",
     "ID" : "Klik di <a href=\"/game/login?redirect=/\">sini</a> untuk masuk.",
     "FR" : "Cliquez <a href=\"/game/login?redirect=/\">ici</a> pour vous connecter.",
-    "JA" : "クリックして<a href=\"/game/login?redirect=/\">ここ</a>にログインします。",
+    "JA" : "クリックして<a href=\"/game/login?redirect=/\">ここ</a>に署名します。",
     "RU" : "Щелкните <a href=\"/game/login?redirect=/\">здесь,</a> чтобы войти.",
     "DE" : "Klicken Sie <a href=\"/game/login?redirect=/\">hier,</a> um sich anzumelden.",
     "KO" : "로그인하려면 <a href=\"/game/login?redirect=/\">여기를 클릭하세요.</a>",
     "IT" : "Clicca <a href=\"/game/login?redirect=/\">qui</a> per accedere."
+  },
+  "format" : "HTML"
+}, {
+  "id" : "ToSubmitAnswerClickHereToLogin",
+  "data" : {
+    "EN" : "To submit an answer, please <a href=\"/game/login?redirect=/\">sign in</a> first.",
+    "ZH_HANS" : "要提交答案，请先<a href=\"/game/login?redirect=/\">登录</a>。",
+    "ZH_HANT" : "要提交答案，請先<a href=\"/game/login?redirect=/\">登錄</a>。",
+    "ES" : "Para enviar una respuesta, inicie <a href=\"/game/login?redirect=/\">sesión</a> primero.",
+    "AR" : "لتقديم إجابة ، الرجاء <a href=\"/game/login?redirect=/\">تسجيل الدخول</a> أولا.",
+    "PT" : "Para enviar uma resposta, faça <a href=\"/game/login?redirect=/\">login</a> primeiro.",
+    "ID" : "Untuk mengirimkan jawaban, silakan <a href=\"/game/login?redirect=/\">masuk</a> terlebih dahulu.",
+    "FR" : "Pour soumettre une réponse, veuillez <a href=\"/game/login?redirect=/\">d&#39;</a> abord vous connecter.",
+    "JA" : "回答を送信するには、最初に<a href=\"/game/login?redirect=/\">サインインしてください。</a>",
+    "RU" : "Чтобы отправить ответ, сначала <a href=\"/game/login?redirect=/\">войдите в систему.</a>",
+    "DE" : "Um eine Antwort zu senden bitte <a href=\"/game/login?redirect=/\">melden</a> Sie sich <a href=\"/game/login?redirect=/\">an</a> erster Stelle .",
+    "KO" : "답변을 제출하려면 먼저 <a href=\"/game/login?redirect=/\">로그인하십시오.</a>",
+    "IT" : "Per inviare una risposta, si prega <a href=\"/game/login?redirect=/\">accedi</a> prima."
   },
   "format" : "HTML"
 }, {
