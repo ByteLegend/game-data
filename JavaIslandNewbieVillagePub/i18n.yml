@@ -77,7 +77,7 @@
     ZH_HANS: 不养。
 - id: YouAreGay
   data:
-    EN: That means... you don't have a girlfriend.
+    EN: That means... you are a gay.
     ZH_HANS: 这说明……你是一个gay。
 - id: install-java-title
   format: HTML
