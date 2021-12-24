@@ -21,23 +21,13 @@ challenges:
 discussions:
   url: https://github.com/ByteLegendQuest/remember-brave-people/discussions
 tutorials:
-  - id: create-your-first-pr-zh
-    title: 创建你的第一个Pull Request
-    href: https://raw.githubusercontent.com/ByteLegendQuest/remember-brave-people/main/docs/zh/create-your-first-pull-request.md
-    type: text/markdown
-    language: ZH_HANS
-  - id: frequent-failures-zh
-    title: 我的PR失败了怎么办？
-    href: https://raw.githubusercontent.com/ByteLegendQuest/remember-brave-people/main/docs/zh/frequent-failures.md
-    type: text/markdown
-    language: ZH_HANS
-  - id: create-your-first-pr-en
-    title: Create Your First Pull Request
-    href: https://raw.githubusercontent.com/ByteLegendQuest/remember-brave-people/main/docs/en/create-your-first-pull-request.md
+  - id: create-pr-via-web-editor-en
+    title: Complete the Challenge via Web Editor
+    href: https://github.com/ByteLegendQuest/remember-brave-people/blob/main/docs/en/create-pr-via-web-editor.md
     type: text/markdown
     language: EN
-  - id: frequent-failures-en
-    title: Why My PR Failed?
-    href: https://raw.githubusercontent.com/ByteLegendQuest/remember-brave-people/main/docs/en/frequent-failures.md
+  - id: create-pr-via-web-editor-zh
+    title: 通过网页编辑器完成挑战
+    href: https://github.com/ByteLegendQuest/remember-brave-people/blob/main/docs/zh/create-pr-via-web-editor.md
     type: text/markdown
-    language: EN
+    language: ZH_HANS

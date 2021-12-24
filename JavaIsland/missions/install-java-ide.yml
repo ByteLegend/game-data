@@ -20,5 +20,41 @@ challenges:
     spec: "(?s).*(IntelliJ IDEA|Eclipse IDE|Electron:).*"
     tldr: install-java-ide-tldr
     readme: install-java-ide-readme
+tutorials:
+  - id: install-intellij-idea-en
+    title: How to Install and Configure IntelliJ IDEA
+    href: https://www.youtube.com/watch?v=S_GLO5la_nI
+    type: video/youtube
+    language: EN
+  - id: install-vscode-en
+    title: Install and Use Visual Studio Code on Windows 10
+    href: https://www.youtube.com/watch?v=MlIzFUI1QGA
+    type: video/youtube
+    language: EN
+  - id: install-eclipse-en
+    title: How to Install Eclipse 2021-09 with Java 17 on Windows 10
+    href: https://www.youtube.com/watch?v=wRevWJAEpTQ
+    type: video/youtube
+    language: EN
+  - id: install-idea-on-windows-cn
+    title: 安装IDEA(2020.3.1) 并配置中文语言
+    href: https://www.bilibili.com/video/BV1VX4y1T78Z
+    type: video/bilibili
+    language: ZH_HANS
+  - id: install-idea-on-ubuntu
+    title: Ubuntu下安装IDEA教程
+    href: https://www.bilibili.com/video/BV11b4y1r72Z
+    type: video/bilibili
+    language: ZH_HANS
+  - id: install-vscode-zh
+    title: 2021年VScode最新版安装教程
+    href: https://www.bilibili.com/video/BV1C54y1p7ic
+    type: video/bilibili
+    language: ZH_HANS
+  - id: install-eclipse-zh
+    title: Eclipse下载安装配置教程
+    href: https://www.bilibili.com/video/BV1V7411L7sh
+    type: video/bilibili
+    language: ZH_HANS
 onFinish:
   coin: 100
