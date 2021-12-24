@@ -19,3 +19,14 @@ challenges:
     readme: https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/README.md
     star: 1
     spec: "(?s)SGVsbG8sIEJ5dGVMZWdlbmQh"
+tutorials:
+  - id: clone-and-run-in-idea-en
+    title: Clone, Import, and Run a Project in IntelliJ IDEA
+    href: https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/docs/en/clone-and-run-idea.md
+    type: text/markdown
+    language: EN
+  - id: clone-and-run-in-idea-zh
+    title: 在IntelliJ IDEA中Clone、导入然后运行Maven项目
+    href: https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/docs/zh/clone-and-run-idea.md
+    type: text/markdown
+    language: ZH_HANS
