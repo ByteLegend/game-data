@@ -19,3 +19,24 @@ challenges:
     readme: https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/README.md
     star: 1
     spec: "(?s)SGVsbG8sIEJ5dGVMZWdlbmRKREsxNyE="
+tutorials:
+  - id: switch-branch-idea-en
+    title: Switch git Branch in IDEA
+    href: https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/docs/en/switch-branch-idea.md
+    type: text/markdown
+    language: EN
+  - id: switch-jdk-idea-en
+    title: Switch JDK in IDEA
+    href: https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/docs/en/switch-jdk-idea.md
+    type: text/markdown
+    language: EN
+  - id: switch-branch-idea-zh
+    title: 在IDEA中切换git分支
+    href: https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/docs/zh/switch-branch-idea.md
+    type: text/markdown
+    language: ZH_HANS
+  - id: switch-jdk-idea-zh
+    title: 在IDEA中切换JDK
+    href: https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/docs/zh/switch-jdk-idea.md
+    type: text/markdown
+    language: ZH_HANS

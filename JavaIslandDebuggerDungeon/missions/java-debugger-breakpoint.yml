@@ -1,0 +1,10 @@
+id: java-debugger-breakpoint
+title: java-debugger-breakpoint-title
+challenges:
+  - id: java-set-a-breakpoint
+    type: Question
+    star: 1
+    spec: ".*74dbeff789e6b3020caea1c54258c93e.*"
+    readme: https://github.com/ByteLegendQuest/java-set-a-breakpoint/blob/main/README.md
+onFinish:
+  coin: 100

@@ -1,1 +1,37 @@
-[ ]
+[ {
+  "id" : "java-debugger-breakpoint-title",
+  "data" : {
+    "EN" : "Java Debugger - Breakpoint",
+    "ZH_HANS" : "Java调试器 - 断点",
+    "ZH_HANT" : "Java調試器 - 斷點",
+    "ES" : "Depurador de Java: punto de interrupción",
+    "AR" : "جافا المصحح - نقطة التوقف",
+    "PT" : "Depurador Java - Ponto de Interrupção",
+    "ID" : "Java Debugger - Breakpoint",
+    "FR" : "Débogueur Java - Point d'arrêt",
+    "JA" : "Javaデバッガー-ブレークポイント",
+    "RU" : "Отладчик Java - точка останова",
+    "DE" : "Java-Debugger - Haltepunkt",
+    "KO" : "자바 디버거 - 중단점",
+    "IT" : "Debugger Java - Punto di interruzione"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-debugger-conditional-breakpoint-title",
+  "data" : {
+    "EN" : "Java Debugger - Conditional Breakpoint",
+    "ZH_HANS" : "Java调试器 - 条件断点",
+    "ZH_HANT" : "Java調試器 - 條件斷點",
+    "ES" : "Depurador de Java: punto de interrupción condicional",
+    "AR" : "Java Debugger - نقطة توقف شرطية",
+    "PT" : "Depurador Java - Ponto de Interrupção Condicional",
+    "ID" : "Java Debugger - Breakpoint Bersyarat",
+    "FR" : "Débogueur Java - Point d'arrêt conditionnel",
+    "JA" : "Javaデバッガー-条件付きブレークポイント",
+    "RU" : "Отладчик Java - условная точка останова",
+    "DE" : "Java Debugger - Bedingter Breakpoint",
+    "KO" : "자바 디버거 - 조건부 중단점",
+    "IT" : "Java Debugger - Punto di interruzione condizionale"
+  },
+  "format" : "TEXT"
+} ]

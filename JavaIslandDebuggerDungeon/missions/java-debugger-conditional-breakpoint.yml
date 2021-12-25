@@ -1,0 +1,10 @@
+id: java-debugger-conditional-breakpoint
+title: java-debugger-conditional-breakpoint-title
+challenges:
+  - id: java-set-a-conditional-breakpoint
+    type: Question
+    star: 1
+    spec: ".*af8a682253b28bde360686d818ac0b1a.*"
+    readme: https://github.com/ByteLegendQuest/java-set-a-conditional-breakpoint/blob/main/README.md
+onFinish:
+  coin: 100
