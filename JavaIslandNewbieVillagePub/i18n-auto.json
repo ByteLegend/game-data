@@ -1,19 +1,19 @@
 [ {
   "id" : "HiBroYouAreCool",
   "data" : {
-    "EN" : "Hi bro, you are so cool! I've never seen you before.",
+    "EN" : "Hey bro, you look cool! I've never seen a guy like you before...",
     "ZH_HANS" : "哥们挺酷啊，我好像从来没见过你？",
     "ZH_HANT" : "哥們挺酷啊，我好像從來沒見過你？",
-    "ES" : "¡Hola hermano, eres tan genial! Nunca te había visto antes.",
-    "AR" : "مرحبا اخي ، انت رائع جدا! لم أرك من قبل.",
-    "PT" : "Oi mano, você é tão legal! Eu nunca te vi antes.",
-    "ID" : "Hai bro, kamu sangat keren! Aku belum pernah melihatmu sebelumnya.",
-    "FR" : "Salut mon frère, tu es tellement cool! Je ne t'ai jamais vu auparavant.",
-    "JA" : "こんにちは仲間、あなたはとてもクールです！私はあなたに会ったことがありません。",
-    "RU" : "Привет, братан, ты такой классный! Я тебя раньше не видел.",
-    "DE" : "Hallo Bruder, du bist so cool! Ich habe dich noch nie gesehen.",
-    "KO" : "안녕 형님, 정말 멋져요! 나는 당신을 전에 본 적이 없습니다.",
-    "IT" : "Ciao fratello, sei così forte! Non ti ho mai visto prima."
+    "ES" : "¡Oye hermano, te ves genial! Nunca había visto a un chico como tú antes ...",
+    "AR" : "مرحبًا يا أخي ، تبدو رائعًا! لم أر رجلاً مثلك من قبل ...",
+    "PT" : "Ei mano, você está legal! Eu nunca vi um cara como você antes ...",
+    "ID" : "Hei bro, kamu terlihat keren! Aku belum pernah melihat pria sepertimu sebelumnya...",
+    "FR" : "Hé frère, tu as l'air cool ! Je n'ai jamais vu un gars comme toi avant...",
+    "JA" : "やあ、かっこいいね！私はあなたのような男を見たことがありません...",
+    "RU" : "Эй, братан, ты круто выглядишь! Я никогда раньше не видел такого парня, как ты ...",
+    "DE" : "Hey Bruder, du siehst cool aus! Ich habe noch nie einen Typen wie dich gesehen...",
+    "KO" : "이봐 형, 멋져 보여! 너 같은 놈은 본 적이 없어...",
+    "IT" : "Ehi fratello, stai benissimo! Non ho mai visto un ragazzo come te prima..."
   },
   "format" : "TEXT"
 }, {
@@ -37,37 +37,37 @@
 }, {
   "id" : "WhatIsProgrammer",
   "data" : {
-    "EN" : "What is programmer?",
+    "EN" : "Who is a programmer?",
     "ZH_HANS" : "程序员是啥？",
     "ZH_HANT" : "程序員是啥？",
-    "ES" : "¿Qué es programador?",
-    "AR" : "ما هو المبرمج؟",
-    "PT" : "O que é programador?",
-    "ID" : "Apa itu programmer?",
-    "FR" : "Qu'est-ce que le programmeur?",
-    "JA" : "プログラマーとは？",
-    "RU" : "Что такое программист?",
-    "DE" : "Was ist Programmierer?",
-    "KO" : "프로그래머는 무엇입니까?",
-    "IT" : "Cos'è il programmatore?"
+    "ES" : "¿Quién es programador?",
+    "AR" : "من هو المبرمج؟",
+    "PT" : "Quem é programador?",
+    "ID" : "Siapa seorang pemrogram?",
+    "FR" : "Qui est programmeur ?",
+    "JA" : "プログラマーは誰ですか？",
+    "RU" : "Кто такой программист?",
+    "DE" : "Wer ist Programmierer?",
+    "KO" : "프로그래머는 누구입니까?",
+    "IT" : "Chi è un programmatore?"
   },
   "format" : "TEXT"
 }, {
   "id" : "ProgrammerNeedsLogic",
   "data" : {
-    "EN" : "Well... programmer is a job where you need to be a \"logic thinker\".",
+    "EN" : "Well... programming is a job where you need to be a \"logic thinker\".",
     "ZH_HANS" : "嗯……程序员是一个需要很多逻辑思考的职业。",
     "ZH_HANT" : "嗯……程序員是一個需要很多邏輯思考的職業。",
-    "ES" : "Bueno ... programador es un trabajo en el que necesitas ser un \"pensador lógico\".",
-    "AR" : "حسنًا ... المبرمج وظيفة تحتاج فيها إلى أن تكون \"مفكرًا منطقيًا\".",
-    "PT" : "Bem ... programador é um trabalho em que você precisa ser um \"pensador lógico\".",
-    "ID" : "Nah ... programmer adalah pekerjaan di mana Anda harus menjadi \"pemikir logika\".",
-    "FR" : "Eh bien ... le programmeur est un travail où vous devez être un \"penseur logique\".",
-    "JA" : "ええと...プログラマーはあなたが「論理思想家」である必要がある仕事です。",
-    "RU" : "Ну ... программист - это работа, где нужно быть «логическим мыслителем».",
-    "DE" : "Nun ... Programmierer ist ein Job, bei dem man ein \"logischer Denker\" sein muss.",
-    "KO" : "글쎄요 ... 프로그래머는 당신이 \"논리적 사상가\"가되어야하는 직업입니다.",
-    "IT" : "Beh ... il programmatore è un lavoro in cui devi essere un \"pensatore logico\"."
+    "ES" : "Bueno ... la programación es un trabajo en el que necesitas ser un \"pensador lógico\".",
+    "AR" : "حسنًا ... البرمجة هي وظيفة تحتاج فيها إلى أن تكون \"مفكرًا منطقيًا\".",
+    "PT" : "Bem ... programar é um trabalho em que você precisa ser um \"pensador lógico\".",
+    "ID" : "Yah ... pemrograman adalah pekerjaan di mana Anda harus menjadi \"pemikir logika\".",
+    "FR" : "Eh bien... la programmation est un travail où vous devez être un \"penseur logique\".",
+    "JA" : "ええと...プログラミングはあなたが「論理思想家」である必要がある仕事です。",
+    "RU" : "Что ж ... программирование - это работа, в которой нужно быть «логическим мыслителем».",
+    "DE" : "Nun... Programmieren ist ein Job, bei dem man ein \"logischer Denker\" sein muss.",
+    "KO" : "음... 프로그래밍은 \"논리적으로 생각하는 사람\"이 되어야 하는 직업입니다.",
+    "IT" : "Beh... la programmazione è un lavoro in cui devi essere un \"pensatore logico\"."
   },
   "format" : "TEXT"
 }, {
@@ -91,19 +91,19 @@
 }, {
   "id" : "HardToExplain",
   "data" : {
-    "EN" : "It's kind of hard to explain, let's practise... do you have a dog?",
+    "EN" : "It's kind of hard to explain, let's see... Do you have a dog?",
     "ZH_HANS" : "解释起来有点难，我们来举个例子，你养狗么？",
     "ZH_HANT" : "解釋起來有點難，我們來舉個例子，你養狗麼？",
-    "ES" : "Es un poco difícil de explicar, practiquemos ... ¿tienes un perro?",
-    "AR" : "من الصعب شرح ذلك ، دعنا نتدرب ... هل لديك كلب؟",
-    "PT" : "É meio difícil de explicar, vamos praticar ... você tem cachorro?",
-    "ID" : "Agak sulit untuk dijelaskan, ayo berlatih ... apakah kamu punya anjing?",
-    "FR" : "C'est un peu difficile à expliquer, pratiquons-nous ... avez-vous un chien?",
-    "JA" : "説明するのはちょっと難しいです、練習しましょう...あなたは犬を飼っていますか？",
-    "RU" : "Это сложно объяснить, давай потренируемся ... у тебя есть собака?",
-    "DE" : "Es ist schwer zu erklären, lass uns üben ... hast du einen Hund?",
-    "KO" : "설명하기 좀 어렵 네요. 연습 해 보죠 ... 개가 있나요?",
-    "IT" : "È un po 'difficile da spiegare, facciamo pratica ... hai un cane?"
+    "ES" : "Es un poco difícil de explicar, veamos ... ¿Tienes un perro?",
+    "AR" : "من الصعب شرح ذلك ، دعنا نرى ... هل لديك كلب؟",
+    "PT" : "É meio difícil de explicar, vamos ver ... Você tem cachorro?",
+    "ID" : "Agak sulit untuk dijelaskan, mari kita lihat ... Apakah Anda punya anjing?",
+    "FR" : "C'est un peu difficile à expliquer, voyons voir... Vous avez un chien ?",
+    "JA" : "説明するのはちょっと難しいです、見てみましょう...あなたは犬を飼っていますか？",
+    "RU" : "Сложно объяснить, давай посмотрим ... У тебя есть собака?",
+    "DE" : "Es ist schwer zu erklären, mal sehen... Hast du einen Hund?",
+    "KO" : "설명하기가 좀 어렵습니다. 봅시다... 개가 있습니까?",
+    "IT" : "È un po' difficile da spiegare, vediamo... Hai un cane?"
   },
   "format" : "TEXT"
 }, {
@@ -127,19 +127,19 @@
 }, {
   "id" : "YouLoveAnimal",
   "data" : {
-    "EN" : "So that means you love animal.",
+    "EN" : "So that means you love animals.",
     "ZH_HANS" : "所以你肯定喜欢小动物。",
     "ZH_HANT" : "所以你肯定喜歡小動物。",
     "ES" : "Eso significa que amas a los animales.",
     "AR" : "هذا يعني أنك تحب الحيوانات.",
-    "PT" : "Então isso significa que você ama os animais.",
-    "ID" : "Jadi itu artinya Anda mencintai binatang.",
+    "PT" : "Isso significa que você ama os animais.",
+    "ID" : "Jadi itu berarti Anda mencintai binatang.",
     "FR" : "Cela signifie donc que vous aimez les animaux.",
     "JA" : "つまり、あなたは動物を愛しているということです。",
     "RU" : "Значит, вы любите животных.",
-    "DE" : "Das heißt also, du liebst Tier.",
-    "KO" : "그것은 당신이 동물을 사랑한다는 것을 의미합니다.",
-    "IT" : "Quindi questo significa che ami gli animali."
+    "DE" : "Das bedeutet, dass Sie Tiere lieben.",
+    "KO" : "동물을 사랑한다는 뜻입니다.",
+    "IT" : "Quindi significa che ami gli animali."
   },
   "format" : "TEXT"
 }, {
@@ -163,19 +163,19 @@
 }, {
   "id" : "YouMustLoveYourKids",
   "data" : {
-    "EN" : "If you love animal, you must be really love your kid.",
+    "EN" : "If you love animals, you'd probably want to have a kid as well.",
     "ZH_HANS" : "如果你喜欢小动物，你肯定喜欢自己的孩子。",
     "ZH_HANT" : "如果你喜歡小動物，你肯定喜歡自己的孩子。",
-    "ES" : "Si amas a los animales, debes amar realmente a tu hijo.",
-    "AR" : "إذا كنت تحب الحيوانات ، فلا بد أنك تحب ابنك حقًا.",
-    "PT" : "Se você ama animais, você deve realmente amar seu filho.",
-    "ID" : "Jika Anda menyukai binatang, Anda pasti sangat menyayangi anak Anda.",
-    "FR" : "Si vous aimez les animaux, vous devez vraiment aimer votre enfant.",
-    "JA" : "あなたが動物を愛しているなら、あなたは本当にあなたの子供を愛しているに違いありません。",
-    "RU" : "Если вы любите животных, вы, должно быть, действительно любите своего ребенка.",
-    "DE" : "Wenn Sie Tier lieben, müssen Sie Ihr Kind wirklich lieben.",
-    "KO" : "동물을 사랑한다면 아이를 정말 사랑해야합니다.",
-    "IT" : "Se ami gli animali, devi amare davvero tuo figlio."
+    "ES" : "Si amas a los animales, probablemente también quieras tener un hijo.",
+    "AR" : "إذا كنت تحب الحيوانات ، فربما ترغب في إنجاب طفل أيضًا.",
+    "PT" : "Se você ama animais, provavelmente também gostaria de ter um filho.",
+    "ID" : "Jika Anda menyukai binatang, Anda mungkin ingin punya anak juga.",
+    "FR" : "Si vous aimez les animaux, vous voudriez probablement aussi avoir un enfant.",
+    "JA" : "あなたが動物を愛しているなら、あなたはおそらく子供も欲しいでしょう。",
+    "RU" : "Если вы любите животных, вы, вероятно, тоже захотите завести ребенка.",
+    "DE" : "Wenn Sie Tiere lieben, möchten Sie wahrscheinlich auch ein Kind haben.",
+    "KO" : "동물을 사랑한다면 아이도 갖고 싶어할 것입니다.",
+    "IT" : "Se ami gli animali, probabilmente vorresti anche avere un figlio."
   },
   "format" : "TEXT"
 }, {
@@ -199,37 +199,37 @@
 }, {
   "id" : "YouHaveAWife",
   "data" : {
-    "EN" : "So, if you have a kid, you have a wife.",
+    "EN" : "So, if you'd want to have a kid at some point, you may want to get married too, right?",
     "ZH_HANS" : "所以，如果你有一个孩子，那你肯定有一个老婆。",
     "ZH_HANT" : "所以，如果你有一個孩子，那你肯定有一個老婆。",
-    "ES" : "Entonces, si tienes un hijo, tienes esposa.",
-    "AR" : "لذا ، إذا كان لديك طفل ، فلديك زوجة.",
-    "PT" : "Então, se você tem um filho, você tem uma esposa.",
-    "ID" : "Jadi, jika Anda punya anak, Anda punya istri.",
-    "FR" : "Donc, si vous avez un enfant, vous avez une femme.",
-    "JA" : "ですから、子供がいるなら、妻がいます。",
-    "RU" : "Итак, если у вас есть ребенок, у вас есть жена.",
-    "DE" : "Wenn Sie also ein Kind haben, haben Sie eine Frau.",
-    "KO" : "그래서 아이가 있다면 아내가 있습니다.",
-    "IT" : "Quindi, se hai un figlio, hai una moglie."
+    "ES" : "Entonces, si desea tener un hijo en algún momento, es posible que también desee casarse, ¿verdad?",
+    "AR" : "لذا ، إذا كنت ترغب في إنجاب طفل في وقت ما ، فقد ترغب في الزواج أيضًا ، أليس كذلك؟",
+    "PT" : "Então, se você quiser ter um filho em algum momento, pode querer se casar também, certo?",
+    "ID" : "Jadi, jika suatu saat Anda ingin punya anak, Anda mungkin ingin menikah juga, bukan?",
+    "FR" : "Donc, si vous voulez avoir un enfant à un moment donné, vous voudrez peut-être aussi vous marier, n'est-ce pas ?",
+    "JA" : "だから、いつか子供が欲しいなら、結婚したいと思うかもしれませんね。",
+    "RU" : "Итак, если в какой-то момент вы захотите завести ребенка, возможно, вы тоже захотите выйти замуж, верно?",
+    "DE" : "Wenn Sie also irgendwann ein Kind haben möchten, möchten Sie vielleicht auch heiraten, oder?",
+    "KO" : "그래서 언젠가 아이를 갖고 싶다면 결혼도 하고 싶어질 수 있지 않을까요?",
+    "IT" : "Quindi, se prima o poi vorrai avere un figlio, potresti anche volerti sposare, giusto?"
   },
   "format" : "TEXT"
 }, {
   "id" : "YesIHaveAWife",
   "data" : {
-    "EN" : "Yes, I have a beautiful wife, is this logical? Interesting.",
+    "EN" : "Yes! In fact, I have a beautiful wife and we have a child! Is this logical? Interesting.",
     "ZH_HANS" : "是啊，我有一个漂亮老婆，这就是逻辑？真神奇。",
     "ZH_HANT" : "是啊，我有一個漂亮老婆，這就是邏輯？真神奇。",
-    "ES" : "Sí, tengo una hermosa esposa, ¿es lógico? Interesante.",
-    "AR" : "نعم لدي زوجة جميلة هل هذا منطقي؟ مثير للإعجاب.",
-    "PT" : "Sim, tenho uma linda esposa, isso é lógico? Interessante.",
-    "ID" : "Ya, saya punya istri yang cantik, apakah ini logis? Menarik.",
-    "FR" : "Oui, j'ai une belle femme, est-ce logique? Intéressant.",
-    "JA" : "はい、私には美しい妻がいます、これは論理的ですか？面白い。",
-    "RU" : "Да, у меня красивая жена, это логично? Интересно.",
-    "DE" : "Ja, ich habe eine schöne Frau, ist das logisch? Interessant.",
-    "KO" : "예, 저는 아름다운 아내가 있습니다. 이것이 논리적입니까? 흥미 롭군.",
-    "IT" : "Sì, ho una bella moglie, è logico? Interessante."
+    "ES" : "¡Sí! De hecho, ¡tengo una esposa hermosa y tenemos un hijo! ¿Es esto lógico? Interesante.",
+    "AR" : "نعم! في الحقيقة لدي زوجة جميلة ولدينا طفل! هل هذا منطقي؟ مثير للاهتمام.",
+    "PT" : "Sim! Na verdade, tenho uma linda esposa e temos um filho! Isso é lógico? Interessante.",
+    "ID" : "Ya! Sebenarnya, saya punya istri yang cantik dan kami punya anak! Apakah ini logis? Menarik.",
+    "FR" : "Oui! En fait, j'ai une belle femme et nous avons un enfant ! Est-ce logique ? Intéressant.",
+    "JA" : "はい！実際、私には美しい妻がいて、子供がいます！これは論理的ですか？面白い。",
+    "RU" : "Да! На самом деле у меня красивая жена и у нас есть ребенок! Это логично? Интересный.",
+    "DE" : "Ja! Tatsächlich habe ich eine wunderschöne Frau und wir haben ein Kind! Ist das logisch? Interessant.",
+    "KO" : "네! 사실 저에게는 아름다운 아내와 아이가 있습니다! 이것이 논리적입니까? 흥미로운.",
+    "IT" : "Sì! In effetti, ho una bellissima moglie e abbiamo un bambino! È logico? Interessante."
   },
   "format" : "TEXT"
 }, {
