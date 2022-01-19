@@ -2896,4 +2896,40 @@
     "IT" : "Nessun tutorial"
   },
   "format" : "TEXT"
+}, {
+  "id" : "CantUseItem",
+  "data" : {
+    "EN" : "Can't use item",
+    "ZH_HANS" : "无法使用物品",
+    "ZH_HANT" : "無法使用物品",
+    "ES" : "No puedo usar el artículo",
+    "AR" : "لا يمكن استخدام العنصر",
+    "PT" : "Não é possível usar o item",
+    "ID" : "Tidak dapat menggunakan barang",
+    "FR" : "Impossible d'utiliser l'article",
+    "JA" : "使用できないアイテム",
+    "RU" : "Не могу использовать предмет",
+    "DE" : "Artikel kann nicht verwendet werden",
+    "KO" : "아이템을 사용할 수 없습니다",
+    "IT" : "Impossibile utilizzare l'oggetto"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "YouMustBeAdjacentToUseTheItem",
+  "data" : {
+    "EN" : "To use item <span style='color:red'>[{0}]</span>, you must enter the adjacent tile.",
+    "ZH_HANS" : "要使用物品<span style='color:red'>【{0}】</span>，您必须走到相邻的格子里。",
+    "ZH_HANT" : "要使用物品<span style='color:red'>【{0}】</span> ，您必須走到相鄰的格子裡。",
+    "ES" : "Para usar el elemento <span style='color:red'>[{0}]</span> , debe ingresar el mosaico adyacente.",
+    "AR" : "لاستخدام العنصر <span style='color:red'>[{0}]</span> ، يجب إدخال المربع المجاور.",
+    "PT" : "Para usar o item <span style='color:red'>[{0}]</span> , você deve inserir o bloco adjacente.",
+    "ID" : "Untuk menggunakan item <span style='color:red'>[{0}]</span> , Anda harus memasukkan ubin yang berdekatan.",
+    "FR" : "Pour utiliser l&#39;élément <span style='color:red'>[{0}]</span> , vous devez entrer la tuile adjacente.",
+    "JA" : "<span style='color:red'>アイテム[{0}]</span>を使用するには、隣接するタイルを入力する必要があります。",
+    "RU" : "Чтобы использовать элемент <span style='color:red'>[{0}]</span> , вы должны войти в соседнюю плитку.",
+    "DE" : "Um Gegenstand <span style='color:red'>[{0}] zu verwenden</span> , müssen Sie die benachbarte Kachel betreten.",
+    "KO" : "<span style='color:red'>[{0}]</span> 항목을 사용하려면 인접한 타일로 들어가야 합니다.",
+    "IT" : "Per utilizzare l&#39;elemento <span style='color:red'>[{0}]</span> , devi inserire la tessera adiacente."
+  },
+  "format" : "HTML"
 } ]

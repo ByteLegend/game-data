@@ -812,3 +812,12 @@
   data:
     EN: "No Tutorials"
     ZH_HANS: "还没有任何教程"
+- id: CantUseItem
+  data:
+    EN: "Can't use item"
+    ZH_HANS: "无法使用物品"
+- id: YouMustBeAdjacentToUseTheItem
+  format: HTML
+  data:
+    EN: To use item <span style='color:red'>[{0}]</span>, you must enter the adjacent tile.
+    ZH_HANS: 要使用物品<span style='color:red'>【{0}】</span>，您必须走到相邻的格子里。
