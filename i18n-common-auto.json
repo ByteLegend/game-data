@@ -755,14 +755,50 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "MyAchievement",
+  "id" : "MyItems",
   "data" : {
-    "EN" : "My Achievement",
+    "EN" : "My Items",
+    "ZH_HANS" : "我的物品",
+    "ZH_HANT" : "我的物品",
+    "ES" : "Mis cosas",
+    "AR" : "أشيائي",
+    "PT" : "Meus itens",
+    "ID" : "Barang Saya",
+    "FR" : "Mes articles",
+    "JA" : "私のアイテム",
+    "RU" : "Мои товары",
+    "DE" : "Meine Sachen",
+    "KO" : "내 항목",
+    "IT" : "I miei articoli"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "YouDontHaveAnyItems",
+  "data" : {
+    "EN" : "You don't have any items.",
+    "ZH_HANS" : "您没有任何物品。",
+    "ZH_HANT" : "您沒有任何物品。",
+    "ES" : "No tienes ningún artículo.",
+    "AR" : "ليس لديك أي عناصر.",
+    "PT" : "Você não tem nenhum item.",
+    "ID" : "Anda tidak memiliki item apa pun.",
+    "FR" : "Vous n'avez aucun article.",
+    "JA" : "アイテムがありません。",
+    "RU" : "У вас нет предметов.",
+    "DE" : "Sie haben keine Artikel.",
+    "KO" : "항목이 없습니다.",
+    "IT" : "Non hai nessun oggetto."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "MyAchievements",
+  "data" : {
+    "EN" : "My achievement",
     "ZH_HANS" : "我的成就",
     "ZH_HANT" : "我的成就",
-    "ES" : "Mi logro",
-    "AR" : "إنجازاتي",
-    "PT" : "Minha Conquista",
+    "ES" : "mi logro",
+    "AR" : "إنجازي",
+    "PT" : "Minha conquista",
     "ID" : "Prestasi saya",
     "FR" : "Ma réalisation",
     "JA" : "私の業績",
@@ -2375,6 +2411,24 @@
   },
   "format" : "TEXT"
 }, {
+  "id" : "MyAchievement",
+  "data" : {
+    "EN" : "My Achievement",
+    "ZH_HANS" : "我的成就",
+    "ZH_HANT" : "我的成就",
+    "ES" : "mi logro",
+    "AR" : "إنجازاتي",
+    "PT" : "Minha conquista",
+    "ID" : "Prestasi saya",
+    "FR" : "Ma réalisation",
+    "JA" : "私の成果",
+    "RU" : "Мое достижение",
+    "DE" : "Meine Leistung",
+    "KO" : "나의 업적",
+    "IT" : "Il mio successo"
+  },
+  "format" : "TEXT"
+}, {
   "id" : "bronze-git-medal",
   "data" : {
     "EN" : "Bronze Git Medal",
@@ -2932,4 +2986,184 @@
     "IT" : "Per utilizzare l&#39;elemento <span style='color:red'>[{0}]</span> , devi inserire la tessera adiacente."
   },
   "format" : "HTML"
+}, {
+  "id" : "item-key-name",
+  "data" : {
+    "EN" : "A key",
+    "ZH_HANS" : "一把钥匙",
+    "ZH_HANT" : "一把鑰匙",
+    "ES" : "Una llave",
+    "AR" : "مفتاح",
+    "PT" : "Uma chave",
+    "ID" : "Sebuah kunci",
+    "FR" : "Une clé",
+    "JA" : "かぎ",
+    "RU" : "Ключ",
+    "DE" : "Ein Schlüssel",
+    "KO" : "열쇠",
+    "IT" : "Una chiave"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "item-key-desc",
+  "data" : {
+    "EN" : "A key",
+    "ZH_HANS" : "一把钥匙",
+    "ZH_HANT" : "一把鑰匙",
+    "ES" : "Una llave",
+    "AR" : "مفتاح",
+    "PT" : "Uma chave",
+    "ID" : "Sebuah kunci",
+    "FR" : "Une clé",
+    "JA" : "かぎ",
+    "RU" : "Ключ",
+    "DE" : "Ein Schlüssel",
+    "KO" : "열쇠",
+    "IT" : "Una chiave"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "item-coffee-name",
+  "data" : {
+    "EN" : "A coffee",
+    "ZH_HANS" : "一杯咖啡",
+    "ZH_HANT" : "一杯咖啡",
+    "ES" : "Un café",
+    "AR" : "قهوة",
+    "PT" : "Um café",
+    "ID" : "Kopi",
+    "FR" : "Un café",
+    "JA" : "コーヒー",
+    "RU" : "Кофе",
+    "DE" : "Ein Kaffee",
+    "KO" : "커피",
+    "IT" : "Un caffè"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "item-coffee-desc",
+  "data" : {
+    "EN" : "A coffee",
+    "ZH_HANS" : "一杯咖啡",
+    "ZH_HANT" : "一杯咖啡",
+    "ES" : "Un café",
+    "AR" : "قهوة",
+    "PT" : "Um café",
+    "ID" : "Kopi",
+    "FR" : "Un café",
+    "JA" : "コーヒー",
+    "RU" : "Кофе",
+    "DE" : "Ein Kaffee",
+    "KO" : "커피",
+    "IT" : "Un caffè"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "item-iron-sword-name",
+  "data" : {
+    "EN" : "Iron Sword",
+    "ZH_HANS" : "铁剑",
+    "ZH_HANT" : "鐵劍",
+    "ES" : "Espada de hierro",
+    "AR" : "سيف حديدي",
+    "PT" : "Espada de ferro",
+    "ID" : "Pedang besi",
+    "FR" : "Épée de fer",
+    "JA" : "アイアンソード",
+    "RU" : "Железный меч",
+    "DE" : "Eisenschwert",
+    "KO" : "철검",
+    "IT" : "Spada di ferro"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "item-iron-sword-desc",
+  "data" : {
+    "EN" : "A sword made of iron.",
+    "ZH_HANS" : "一把铁打造的剑",
+    "ZH_HANT" : "一把鐵打造的劍",
+    "ES" : "Una espada hecha de hierro.",
+    "AR" : "سيف من حديد.",
+    "PT" : "Uma espada feita de ferro.",
+    "ID" : "Pedang yang terbuat dari besi.",
+    "FR" : "Une épée en fer.",
+    "JA" : "鉄でできた刀。",
+    "RU" : "Меч из железа.",
+    "DE" : "Ein Schwert aus Eisen.",
+    "KO" : "철로 만든 검.",
+    "IT" : "Una spada di ferro."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "item-silver-sword-name",
+  "data" : {
+    "EN" : "Silver Sword",
+    "ZH_HANS" : "银剑",
+    "ZH_HANT" : "銀劍",
+    "ES" : "Espada de plata",
+    "AR" : "سيف فضي",
+    "PT" : "Espada de Prata",
+    "ID" : "Pedang Perak",
+    "FR" : "Épée d'argent",
+    "JA" : "シルバーソード",
+    "RU" : "Серебряный меч",
+    "DE" : "Silbernes Schwert",
+    "KO" : "은검",
+    "IT" : "Spada d'argento"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "item-silver-sword-desc",
+  "data" : {
+    "EN" : "A sword made of silver.",
+    "ZH_HANS" : "一把银光闪闪的宝剑",
+    "ZH_HANT" : "一把銀光閃閃的寶劍",
+    "ES" : "Una espada hecha de plata.",
+    "AR" : "سيف من الفضة.",
+    "PT" : "Uma espada feita de prata.",
+    "ID" : "Pedang yang terbuat dari perak.",
+    "FR" : "Une épée en argent.",
+    "JA" : "銀製の剣。",
+    "RU" : "Меч из серебра.",
+    "DE" : "Ein Schwert aus Silber.",
+    "KO" : "은으로 만든 검.",
+    "IT" : "Una spada d'argento."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "item-golden-sword-name",
+  "data" : {
+    "EN" : "Golden Sword",
+    "ZH_HANS" : "金剑",
+    "ZH_HANT" : "金劍",
+    "ES" : "espada dorada",
+    "AR" : "السيف الذهبي",
+    "PT" : "Espada Dourada",
+    "ID" : "Pedang Emas",
+    "FR" : "Épée d'or",
+    "JA" : "ゴールデンソード",
+    "RU" : "Золотой меч",
+    "DE" : "Goldenes Schwert",
+    "KO" : "황금 검",
+    "IT" : "Spada d'oro"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "item-golden-sword-desc",
+  "data" : {
+    "EN" : "A sword made of gold.",
+    "ZH_HANS" : "一把金光闪闪的宝剑",
+    "ZH_HANT" : "一把金光閃閃的寶劍",
+    "ES" : "Una espada hecha de oro.",
+    "AR" : "سيف من ذهب.",
+    "PT" : "Uma espada feita de ouro.",
+    "ID" : "Pedang yang terbuat dari emas.",
+    "FR" : "Une épée en or.",
+    "JA" : "金で作られた剣。",
+    "RU" : "Меч из золота.",
+    "DE" : "Ein Schwert aus Gold.",
+    "KO" : "금으로 만든 검.",
+    "IT" : "Una spada d'oro."
+  },
+  "format" : "TEXT"
 } ]

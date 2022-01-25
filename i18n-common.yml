@@ -218,7 +218,15 @@
   data:
     EN: maximize
     ZH_HANS: 最大化
-- id: MyAchievement
+- id: MyItems
+  data:
+    EN: My Items
+    ZH_HANS: 我的物品
+- id: YouDontHaveAnyItems
+  data:
+    EN: You don't have any items.
+    ZH_HANS: 您没有任何物品。
+- id: MyAchievements
   data:
     EN: My achievement
     ZH_HANS: 我的成就
@@ -821,3 +829,43 @@
   data:
     EN: To use item <span style='color:red'>[{0}]</span>, you must enter the adjacent tile.
     ZH_HANS: 要使用物品<span style='color:red'>【{0}】</span>，您必须走到相邻的格子里。
+- id: "item-key-name"
+  data:
+    EN: A key
+    ZH_HANS: 一把钥匙
+- id: "item-key-desc"
+  data:
+    EN: A key
+    ZH_HANS: 一把钥匙
+- id: "item-coffee-name"
+  data:
+    EN: A coffee
+    ZH_HANS: 一杯咖啡
+- id: "item-coffee-desc"
+  data:
+    EN: A coffee
+    ZH_HANS: 一杯咖啡
+- id: "item-iron-sword-name"
+  data:
+    EN: Iron Sword
+    ZH_HANS: 铁剑
+- id: "item-iron-sword-desc"
+  data:
+    EN: A sword made of iron.
+    ZH_HANS: 一把铁打造的剑
+- id: "item-silver-sword-name"
+  data:
+    EN: Silver Sword
+    ZH_HANS: 银剑
+- id: "item-silver-sword-desc"
+  data:
+    EN: A sword made of silver.
+    ZH_HANS: 一把银光闪闪的宝剑
+- id: "item-golden-sword-name"
+  data:
+    EN: Golden Sword
+    ZH_HANS: 金剑
+- id: "item-golden-sword-desc"
+  data:
+    EN: A sword made of gold.
+    ZH_HANS: 一把金光闪闪的宝剑
