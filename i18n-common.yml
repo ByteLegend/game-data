@@ -829,43 +829,49 @@
   data:
     EN: To use item <span style='color:red'>[{0}]</span>, you must enter the adjacent tile.
     ZH_HANS: 要使用物品<span style='color:red'>【{0}】</span>，您必须走到相邻的格子里。
+- id: ItemCanOnlyBeUsedOnMission
+  format: HTML
+  data:
+    EN: <span style='color:gold'>This item can be only used for mission <span style='color:red'>[{0}]</span>.</span>
+    ZH_HANS: <span style='color:gold'>此物品只能用在关卡<span style='color:red'>【{0}】</span>上。</span>
 - id: "item-key-name"
   data:
-    EN: A key
-    ZH_HANS: 一把钥匙
+    EN: Chest Key
+    ZH_HANS: 宝箱钥匙
 - id: "item-key-desc"
   data:
-    EN: A key
-    ZH_HANS: 一把钥匙
+    EN: A key to open a chest.
+    ZH_HANS: 一把用来打开宝箱的钥匙。
 - id: "item-coffee-name"
   data:
     EN: A coffee
-    ZH_HANS: 一杯咖啡
+    ZH_HANS: 咖啡
 - id: "item-coffee-desc"
   data:
     EN: A coffee
-    ZH_HANS: 一杯咖啡
+    ZH_HANS: 一杯普普通通的咖啡
 - id: "item-iron-sword-name"
   data:
     EN: Iron Sword
-    ZH_HANS: 铁剑
+    ZH_HANS: 玄铁剑
 - id: "item-iron-sword-desc"
   data:
-    EN: A sword made of iron.
-    ZH_HANS: 一把铁打造的剑
+    EN: A sword made of iron. Though not well crafted, it can be used to disable a defense tower.
+    ZH_HANS: 一把玄铁打造的剑。虽然不是十分精致，但是仍然可以用来使一座防御塔失去效能。
 - id: "item-silver-sword-name"
   data:
     EN: Silver Sword
-    ZH_HANS: 银剑
+    ZH_HANS: 白银宝剑
 - id: "item-silver-sword-desc"
   data:
-    EN: A sword made of silver.
-    ZH_HANS: 一把银光闪闪的宝剑
-- id: "item-golden-sword-name"
+    EN: A sword made of pure silver with magic. It can be used to destroy a defense tower when waving properly.
+    ZH_HANS: 一把纯银打造的宝剑，被施加了魔法。若使用得当，它能几下摧毁一座防御塔。
+- id: "item-gold-sword-name"
   data:
-    EN: Golden Sword
-    ZH_HANS: 金剑
-- id: "item-golden-sword-desc"
+    EN: Gold Sword
+    ZH_HANS: 黄金大金剑
+- id: "item-gold-sword-desc"
+  format: HTML
   data:
-    EN: A sword made of gold.
-    ZH_HANS: 一把金光闪闪的宝剑
+    EN: A sword made of gold, with powerful magic. A defense tower will smash into pieces immediately when it's chopped by this gold sword.
+    ZH_HANS: 一把黄金打造、淬有强大魔法的大宝剑。防御塔在它的劈砍下立成齑粉。
