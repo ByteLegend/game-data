@@ -869,7 +869,7 @@
 - id: "item-gold-sword-name"
   data:
     EN: Gold Sword
-    ZH_HANS: 黄金大金剑
+    ZH_HANS: 黄金大宝剑
 - id: "item-gold-sword-desc"
   format: HTML
   data:
