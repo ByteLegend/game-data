@@ -226,6 +226,10 @@
   data:
     EN: You don't have any items.
     ZH_HANS: 您没有任何物品。
+- id: YouDontHaveAnyAchievements
+  data:
+    EN: You haven't got any achievements.
+    ZH_HANS: 您尚未获得任何成就。
 - id: MyAchievements
   data:
     EN: My achievement
@@ -656,10 +660,38 @@
   data:
     EN: My Achievement
     ZH_HANS: 我的成就
-- id: bronze-git-medal
+- id: bronze-git-medal-name
   data:
     EN: Bronze Git Medal
     ZH_HANS: 青铜Git勋章
+- id: bronze-git-medal-desc
+  data:
+    EN: Bronze Git Medal
+    ZH_HANS: 青铜Git勋章
+- id: silver-git-medal-name
+  data:
+    EN: Silver Git Medal
+    ZH_HANS: 白银Git勋章
+- id: silver-git-medal-desc
+  data:
+    EN: Silver Git Medal
+    ZH_HANS: 白银Git勋章
+- id: gold-git-medal-name
+  data:
+    EN: Gold Git Medal
+    ZH_HANS: 黄金Git勋章
+- id: gold-git-medal-desc
+  data:
+    EN: Gold Git Medal
+    ZH_HANS: 黄金Git勋章
+- id: first-star-medal-name
+  data:
+    EN: First Star Medal
+    ZH_HANS: 首星勋章
+- id: first-star-medal-desc
+  data:
+    EN: Congrats! You have got your first ⭐ on ByteLegend!
+    ZH_HANS: 恭喜！您已经在字节传说中获得了第一颗⭐！
 - id: coffee-icon
   data:
     EN: A Coffee

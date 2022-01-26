@@ -11,17 +11,15 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-- id: StarCondition
+- id: FirstStarMedalCondition
   format: HTML
   data:
-    EN: |
-      Oh sorry, I only allow people with more than <span style='color:red'>{0} ⭐</span> to pass,
-      but you only have <span style='color:red'>{1} ⭐</span>.
+    EN: Oh sorry, I only allow people with [<span style='color:red'>First Star Medal⭐</span>] to pass.
     ZH_HANS: 哦对不起，我允许拥有<span style='color:red'>{0}颗⭐</span>的人通过，但是你只有<span style='color:red'>{1}颗⭐</span>。
-- id: DoYouPreferToBeMediocre
+- id: DoYouWantToHaveADrink
   data:
-    EN: Hey! Do you prefer to be mediocre for the rest of your life or come in for a 🍺 then change the world?
-    ZH_HANS: 嘿！你是想一辈子平庸，还是进来喝一杯🍺然后改变世界？
+    EN: Hey dude! Today is the end of the world, so why not come in for a 🍺?
+    ZH_HANS: 嘿，老哥！今天是世界末日，还不进来喝一杯🍺嘛？
 - id: StepCloserToOpenTheBook
   data:
     EN: Step closer to open the book!

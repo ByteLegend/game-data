@@ -791,6 +791,24 @@
   },
   "format" : "TEXT"
 }, {
+  "id" : "YouDontHaveAnyAchievements",
+  "data" : {
+    "EN" : "You haven't got any achievements.",
+    "ZH_HANS" : "您尚未获得任何成就。",
+    "ZH_HANT" : "您尚未獲得任何成就。",
+    "ES" : "No tienes ningún logro.",
+    "AR" : "ليس لديك أي إنجازات.",
+    "PT" : "Você não tem nenhuma conquista.",
+    "ID" : "Anda belum mendapatkan prestasi apa pun.",
+    "FR" : "Vous n'avez aucune réussite.",
+    "JA" : "成果はありません。",
+    "RU" : "У тебя нет достижений.",
+    "DE" : "Du hast keine Erfolge.",
+    "KO" : "업적이 없습니다.",
+    "IT" : "Non hai alcun risultato."
+  },
+  "format" : "TEXT"
+}, {
   "id" : "MyAchievements",
   "data" : {
     "EN" : "My achievement",
@@ -2429,21 +2447,147 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "bronze-git-medal",
+  "id" : "bronze-git-medal-name",
   "data" : {
     "EN" : "Bronze Git Medal",
     "ZH_HANS" : "青铜Git勋章",
     "ZH_HANT" : "青銅Git勳章",
     "ES" : "Medalla de bronce Git",
     "AR" : "ميدالية جيت البرونزية",
-    "PT" : "Medalha Git Bronze",
+    "PT" : "Medalha de Bronze Git",
     "ID" : "Medali Git Perunggu",
-    "FR" : "Médaille de bronze Git",
+    "FR" : "Médaille de Bronze Git",
     "JA" : "ブロンズGitメダル",
-    "RU" : "Бронзовая медаль Git",
+    "RU" : "Бронзовая медаль Гит",
     "DE" : "Bronzene Git-Medaille",
-    "KO" : "브론즈 깃 메달",
+    "KO" : "브론즈 Git 메달",
     "IT" : "Medaglia di bronzo Git"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "bronze-git-medal-desc",
+  "data" : {
+    "EN" : "Bronze Git Medal",
+    "ZH_HANS" : "青铜Git勋章",
+    "ZH_HANT" : "青銅Git勳章",
+    "ES" : "Medalla de bronce Git",
+    "AR" : "ميدالية جيت البرونزية",
+    "PT" : "Medalha de Bronze Git",
+    "ID" : "Medali Git Perunggu",
+    "FR" : "Médaille de Bronze Git",
+    "JA" : "ブロンズGitメダル",
+    "RU" : "Бронзовая медаль Гит",
+    "DE" : "Bronzene Git-Medaille",
+    "KO" : "브론즈 Git 메달",
+    "IT" : "Medaglia di bronzo Git"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "silver-git-medal-name",
+  "data" : {
+    "EN" : "Silver Git Medal",
+    "ZH_HANS" : "白银Git勋章",
+    "ZH_HANT" : "白銀Git勳章",
+    "ES" : "Medalla de plata Git",
+    "AR" : "ميدالية جيت الفضية",
+    "PT" : "Medalha de prata Git",
+    "ID" : "Medali Perak Git",
+    "FR" : "Médaille d'argent Git",
+    "JA" : "シルバーGitメダル",
+    "RU" : "Серебряная медаль Гита",
+    "DE" : "Silberne Git-Medaille",
+    "KO" : "실버 Git 메달",
+    "IT" : "Medaglia d'argento Git"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "silver-git-medal-desc",
+  "data" : {
+    "EN" : "Silver Git Medal",
+    "ZH_HANS" : "白银Git勋章",
+    "ZH_HANT" : "白銀Git勳章",
+    "ES" : "Medalla de plata Git",
+    "AR" : "ميدالية جيت الفضية",
+    "PT" : "Medalha de prata Git",
+    "ID" : "Medali Perak Git",
+    "FR" : "Médaille d'argent Git",
+    "JA" : "シルバーGitメダル",
+    "RU" : "Серебряная медаль Гита",
+    "DE" : "Silberne Git-Medaille",
+    "KO" : "실버 Git 메달",
+    "IT" : "Medaglia d'argento Git"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "gold-git-medal-name",
+  "data" : {
+    "EN" : "Gold Git Medal",
+    "ZH_HANS" : "黄金Git勋章",
+    "ZH_HANT" : "黃金Git勳章",
+    "ES" : "Medalla de oro Git",
+    "AR" : "ميدالية جيت الذهبية",
+    "PT" : "Medalha de ouro Git",
+    "ID" : "Medali Emas Git",
+    "FR" : "Médaille d'or Git",
+    "JA" : "ゴールドGitメダル",
+    "RU" : "Золотая медаль Гит",
+    "DE" : "Goldene Git-Medaille",
+    "KO" : "골드 깃 메달",
+    "IT" : "Medaglia d'oro Git"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "gold-git-medal-desc",
+  "data" : {
+    "EN" : "Gold Git Medal",
+    "ZH_HANS" : "黄金Git勋章",
+    "ZH_HANT" : "黃金Git勳章",
+    "ES" : "Medalla de oro Git",
+    "AR" : "ميدالية جيت الذهبية",
+    "PT" : "Medalha de ouro Git",
+    "ID" : "Medali Emas Git",
+    "FR" : "Médaille d'or Git",
+    "JA" : "ゴールドGitメダル",
+    "RU" : "Золотая медаль Гит",
+    "DE" : "Goldene Git-Medaille",
+    "KO" : "골드 깃 메달",
+    "IT" : "Medaglia d'oro Git"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "first-star-medal-name",
+  "data" : {
+    "EN" : "First Star Medal",
+    "ZH_HANS" : "首星勋章",
+    "ZH_HANT" : "首星勳章",
+    "ES" : "Medalla Primera Estrella",
+    "AR" : "وسام النجم الأول",
+    "PT" : "Primeira Medalha Estrela",
+    "ID" : "Medali Bintang Pertama",
+    "FR" : "Médaille première étoile",
+    "JA" : "ファーストスターメダル",
+    "RU" : "Первая звездная медаль",
+    "DE" : "Erste Sternmedaille",
+    "KO" : "퍼스트 스타 메달",
+    "IT" : "Medaglia prima stella"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "first-star-medal-desc",
+  "data" : {
+    "EN" : "Congrats! You have got your first ⭐ on ByteLegend!",
+    "ZH_HANS" : "恭喜！您已经在字节传说中获得了第一颗⭐！",
+    "ZH_HANT" : "恭喜！您已經在字節傳說中獲得了第一顆⭐！",
+    "ES" : "¡Felicitaciones! ¡Tienes tu primer ⭐ en ByteLegend!",
+    "AR" : "مبروك! لقد حصلت على أول على ByteLegend!",
+    "PT" : "Parabéns! Você conseguiu seu primeiro ⭐ no ByteLegend!",
+    "ID" : "Selamat! Anda telah mendapatkan pertama Anda di ByteLegend!",
+    "FR" : "Félicitations! Vous avez votre premier ⭐ sur ByteLegend !",
+    "JA" : "おめでとうございます！ ByteLegendで最初の⭐を手に入れました！",
+    "RU" : "Поздравляю! Вы получили свой первый ⭐ на ByteLegend!",
+    "DE" : "Glückwunsch! Du hast dein erstes ⭐ auf ByteLegend!",
+    "KO" : "축하 해요! ByteLegend에서 첫 ⭐을 얻었습니다!",
+    "IT" : "Congratulazioni! Hai il tuo primo ⭐ su ByteLegend!"
   },
   "format" : "TEXT"
 }, {
