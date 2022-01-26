@@ -2558,8 +2558,8 @@
   "id" : "first-star-medal-name",
   "data" : {
     "EN" : "First Star Medal",
-    "ZH_HANS" : "首星勋章",
-    "ZH_HANT" : "首星勳章",
+    "ZH_HANS" : "一星勋章",
+    "ZH_HANT" : "一星勳章",
     "ES" : "Medalla Primera Estrella",
     "AR" : "وسام النجم الأول",
     "PT" : "Primeira Medalha Estrela",
@@ -2611,21 +2611,21 @@
 }, {
   "id" : "GetAchievement",
   "data" : {
-    "EN" : "Get Achievement: {0}",
-    "ZH_HANS" : "获得成就：{0}",
-    "ZH_HANT" : "獲得成就：{0}",
-    "ES" : "Obtenga un logro: {0}",
-    "AR" : "احصل على الإنجاز: {0}",
-    "PT" : "Obtenha Conquista: {0}",
-    "ID" : "Dapatkan Prestasi: {0}",
-    "FR" : "Obtenir le succès : {0}",
-    "JA" : "成果を得る：{0}",
-    "RU" : "Получить достижение: {0}",
-    "DE" : "Errungenschaft: {0}",
-    "KO" : "업적 달성: {0}",
-    "IT" : "Ottieni obiettivo: {0}"
+    "EN" : "Get Achievement: [<span style='color:red'>{0}</span>]",
+    "ZH_HANS" : "获得成就：【<span style='color:red'>{0}</span>】",
+    "ZH_HANT" : "獲得成就：【 <span style='color:red'>{0}</span> 】",
+    "ES" : "Obtener Logro: [ <span style='color:red'>{0}</span> ]",
+    "AR" : "الحصول على الإنجاز: [ <span style='color:red'>{0}</span> ]",
+    "PT" : "Obter conquista: [ <span style='color:red'>{0}</span> ]",
+    "ID" : "Dapatkan Prestasi: [ <span style='color:red'>{0}</span> ]",
+    "FR" : "Obtenir le succès : [ <span style='color:red'>{0}</span> ]",
+    "JA" : "実績を取得する：[ <span style='color:red'>{0}</span> ]",
+    "RU" : "Получить достижение: [ <span style='color:red'>{0}</span> ]",
+    "DE" : "Errungenschaft erhalten: [ <span style='color:red'>{0}</span> ]",
+    "KO" : "업적 얻기: [ <span style='color:red'>{0}</span> ]",
+    "IT" : "Ottieni risultati: [ <span style='color:red'>{0}</span> ]"
   },
-  "format" : "TEXT"
+  "format" : "HTML"
 }, {
   "id" : "AnswerTheQuestionInReadme",
   "data" : {

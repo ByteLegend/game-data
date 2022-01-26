@@ -47,3 +47,5 @@ tutorials:
     language: ZH_HANS
 discussions:
   url: https://github.com/ByteLegend/ByteLegend/discussions
+onFinish:
+  achievements: [ "first-star-medal" ]

@@ -136,8 +136,8 @@
     ZH_HANS: 你好，请问有咖啡么？
 - id: WeDontSellCoffee
   data:
-    EN: Are you kidding me? We don't sell coffee in pubs!
-    ZH_HANS: 你在逗我吧？我们酒吧从来不卖咖啡！
+    EN: Coffee? Are you kidding me? Today is THE END OF THE WORLD!
+    ZH_HANS: 你在逗我吧？世界末日了还喝什么咖啡！
 - id: DidYouEliminateAllBugs
   data:
     EN: Did you eliminate all bugs on Java island?

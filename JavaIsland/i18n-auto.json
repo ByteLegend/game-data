@@ -1,19 +1,19 @@
 [ {
   "id" : "FirstStarMedalCondition",
   "data" : {
-    "EN" : "Oh sorry, I only allow people with [<span style='color:red'>First Star Medal⭐</span>] to pass.",
-    "ZH_HANS" : "哦对不起，我允许拥有<span style='color:red'>{0}颗⭐</span>的人通过，但是你只有<span style='color:red'>{1}颗⭐</span>。",
-    "ZH_HANT" : "哦對不起，我允許擁有<span style='color:red'>{0}顆⭐</span>的人通過，但是你只有<span style='color:red'>{1}顆⭐</span> 。",
-    "ES" : "Oh, lo siento, solo permito el paso a personas con [ <span style='color:red'>Medalla de la Primera Estrella⭐</span> ].",
-    "AR" : "آسف ، أنا أسمح فقط للأشخاص الذين يحملون [ <span style='color:red'>First Star Medal⭐</span> ] بالمرور.",
-    "PT" : "Ah, desculpe, eu só permito que pessoas com [ <span style='color:red'>Medalha de Primeira Estrela⭐</span> ] passem.",
-    "ID" : "Oh maaf, saya hanya mengizinkan orang dengan [ <span style='color:red'>Medali Bintang Pertama</span> ] untuk lulus.",
-    "FR" : "Oh désolé, je n&#39;autorise que les personnes avec [ <span style='color:red'>First Star Medal⭐</span> ] à passer.",
-    "JA" : "申し訳ありませんが、[ <span style='color:red'>FirstStarMedal⭐</span> ]をお持ちの方のみ通過させていただきます。",
-    "RU" : "Извините, я разрешаю <span style='color:red'>проходить только людям с [Медалью первой звезды⭐</span> ].",
-    "DE" : "Oh, tut mir leid, ich lasse nur Leute mit [ <span style='color:red'>First Star Medal⭐</span> ] passieren.",
-    "KO" : "아 죄송합니다 [ <span style='color:red'>퍼스트스타메달⭐</span> ]이 있는 분들만 통과를 허용합니다.",
-    "IT" : "Mi dispiace, permetto solo alle persone con [ <span style='color:red'>Medaglia Prima Stella⭐</span> ] di passare."
+    "EN" : "Oh sorry, I only allow people with [<span style='color:red'>{0}</span>] to pass, but you don't have it.",
+    "ZH_HANS" : "哦对不起，我只允许拥有【<span style='color:red'>{0}</span>】的人通过，但是你没有。",
+    "ZH_HANT" : "哦對不起，我只允許擁有【 <span style='color:red'>{0}</span> 】的人通過，但是你沒有。 。",
+    "ES" : "Oh, lo siento, solo permito <span style='color:red'>que pasen personas con [{0}</span> ], pero tú no lo tienes.",
+    "AR" : "عذرًا ، أنا أسمح فقط للأشخاص الذين لديهم [ <span style='color:red'>{0}</span> ] بالمرور ، ولكن ليس لديك.",
+    "PT" : "Ah, desculpe, só permito que pessoas com [ <span style='color:red'>{0}</span> ] passem, mas você não tem.",
+    "ID" : "Oh maaf, saya hanya mengizinkan orang dengan [ <span style='color:red'>{0}</span> ] untuk lewat, tetapi Anda tidak memilikinya.",
+    "FR" : "Oh désolé, je n&#39;autorise que les personnes avec [ <span style='color:red'>{0}</span> ] à passer, mais vous ne l&#39;avez pas.",
+    "JA" : "申し訳ありませんが、[ <span style='color:red'>{0}</span> ]の人だけが通過できますが、あなたはそれを持っていません。",
+    "RU" : "Извините, я разрешаю <span style='color:red'>проходить только людям с [ {0}</span> ], но у вас их нет.",
+    "DE" : "Oh, tut mir leid, ich erlaube nur Personen mit [ <span style='color:red'>{0}</span> ] zu bestehen, aber Sie haben es nicht.",
+    "KO" : "죄송합니다. [ <span style='color:red'>{0}</span> ]이(가) 있는 사람만 통과하도록 허용하지만 귀하는 통과할 수 없습니다.",
+    "IT" : "Mi dispiace, permetto solo alle persone con [ <span style='color:red'>{0}</span> ] di passare, ma tu non ce l&#39;hai."
   },
   "format" : "HTML"
 }, {
@@ -91,19 +91,19 @@
 }, {
   "id" : "WhereToFindStar",
   "data" : {
-    "EN" : "But where can I get ⭐?",
-    "ZH_HANS" : "但是我去哪弄⭐呢？",
-    "ZH_HANT" : "但是我去哪弄⭐呢？",
-    "ES" : "Pero, ¿dónde puedo conseguirlo?",
-    "AR" : "لكن من أين يمكنني الحصول على ⭐؟",
-    "PT" : "Mas onde posso conseguir ⭐?",
-    "ID" : "Tapi di mana saya bisa mendapatkan ?",
-    "FR" : "Mais où puis-je me procurer ⭐ ?",
-    "JA" : "しかし、どこで⭐を入手できますか？",
-    "RU" : "Но где взять ⭐?",
-    "DE" : "Aber wo bekomme ich ?",
-    "KO" : "근데 어디서 ⭐을 받을 수 있나요?",
-    "IT" : "Ma dove posso trovare ⭐?"
+    "EN" : "But where can I get this medal?",
+    "ZH_HANS" : "但是我去哪弄这个勋章呢？",
+    "ZH_HANT" : "但是我去哪弄這個勳章呢？",
+    "ES" : "Pero donde puedo conseguir esta medalla?",
+    "AR" : "لكن من أين أحصل على هذه الميدالية؟",
+    "PT" : "Mas onde consigo essa medalha?",
+    "ID" : "Tapi di mana saya bisa mendapatkan medali ini?",
+    "FR" : "Mais où puis-je obtenir cette médaille ?",
+    "JA" : "しかし、このメダルはどこで入手できますか？",
+    "RU" : "Но где взять эту медаль?",
+    "DE" : "Aber wo bekomme ich diese Medaille her?",
+    "KO" : "근데 이 메달은 어디서 구하나요?",
+    "IT" : "Ma dove posso trovare questa medaglia?"
   },
   "format" : "TEXT"
 }, {
@@ -395,41 +395,23 @@
   },
   "format" : "HTML"
 }, {
-  "id" : "IDontKnowTakeALookAtStarBytelegend",
+  "id" : "TakeALookAtStarBytelegend",
   "data" : {
-    "EN" : "I don't know, maybe take a look at coordinate <span style='color:red'>{0}</span>?",
-    "ZH_HANS" : "我不知道，看一下<span style='color:red'>{0}</span>坐标？",
-    "ZH_HANT" : "我不知道，看一下",
-    "ES" : "No lo sé, ¿quizás eche un vistazo a la coordenada <span style='color:red'>{0}</span> ?",
-    "AR" : "لا أعرف ، ربما ألقي نظرة على التنسيق <span style='color:red'>{0}</span> ؟",
-    "PT" : "Não sei, talvez dê uma olhada na coordenada <span style='color:red'>{0}</span> .",
-    "ID" : "Saya tidak tahu, mungkin lihat koordinat <span style='color:red'>{0}</span> ?",
-    "FR" : "Je ne sais pas, jetez peut-être un œil à la coordonnée <span style='color:red'>{0}</span> ?",
-    "JA" : "わからない、多分座標<span style='color:red'>{0}を</span>見てみませんか？",
-    "RU" : "Не знаю, может взглянуть на координату <span style='color:red'>{0}</span> ?",
-    "DE" : "Ich weiß nicht, vielleicht schauen Sie sich die Koordinate <span style='color:red'>{0} an</span> ?",
-    "KO" : "잘 모르겠습니다. 좌표 <span style='color:red'>{0}을(를)</span> 살펴볼까요?",
-    "IT" : "Non lo so, forse dai un&#39;occhiata alla coordinata <span style='color:red'>{0}</span> ?"
+    "EN" : "Accomplish the mission at coordinate <span style='color:red'>{0}</span> and you can get the medal.\nMove your mouse you can see the tile coordinate at left-top corner of this window.\n",
+    "ZH_HANS" : "完成<span style='color:red'>{0}</span>坐标处的任务你就可以获得此勋章。\n移动鼠标，你可以在窗口的左上角看到对应格子的坐标。\n",
+    "ZH_HANT" : "完成<span style='color:red'>{0}</span>坐標處的任務你就可以獲得此勳章。移動鼠標，你可以在窗口的左上角看到對應格子的坐標。",
+    "ES" : "Cumple la misión en la coordenada <span style='color:red'>{0}</span> y podrás conseguir la medalla. Mueva el mouse para ver la coordenada del mosaico en la esquina superior izquierda de esta ventana.",
+    "AR" : "أنجز المهمة عند التنسيق <span style='color:red'>{0}</span> ويمكنك الحصول على الميدالية. حرك الماوس الخاص بك يمكنك رؤية تنسيق البلاط في الزاوية العلوية اليسرى من هذه النافذة.",
+    "PT" : "Complete a missão na coordenada <span style='color:red'>{0}</span> e você poderá obter a medalha. Mova o mouse para ver a coordenada do bloco no canto superior esquerdo desta janela.",
+    "ID" : "Selesaikan misi di koordinat <span style='color:red'>{0}</span> dan Anda bisa mendapatkan medali. Gerakkan mouse Anda, Anda dapat melihat koordinat ubin di sudut kiri atas jendela ini.",
+    "FR" : "Accomplissez la mission à la coordonnée <span style='color:red'>{0}</span> et vous pourrez obtenir la médaille. Déplacez votre souris, vous pouvez voir la coordonnée de la tuile dans le coin supérieur gauche de cette fenêtre.",
+    "JA" : "<span style='color:red'>座標{0}</span>でミッションを達成すると、メダルを獲得できます。マウスを動かすと、このウィンドウの左上隅にタイルの座標が表示されます。",
+    "RU" : "Выполните задание по координате <span style='color:red'>{0}</span> и получите медаль. Наведите указатель мыши, и вы увидите координаты плитки в левом верхнем углу этого окна.",
+    "DE" : "Erfüllen Sie die Mission bei Koordinate <span style='color:red'>{0}</span> und Sie können die Medaille erhalten. Bewegen Sie Ihre Maus, um die Kachelkoordinaten in der linken oberen Ecke dieses Fensters zu sehen.",
+    "KO" : "<span style='color:red'>좌표 {0}</span> 에서 임무를 완수하면 메달을 획득할 수 있습니다. 마우스를 움직이면 이 창의 왼쪽 상단 모서리에 타일 좌표가 표시됩니다.",
+    "IT" : "Completa la missione alle coordinate <span style='color:red'>{0}</span> e potrai ottenere la medaglia. Muovi il mouse per vedere le coordinate del riquadro nell&#39;angolo in alto a sinistra di questa finestra."
   },
   "format" : "HTML"
-}, {
-  "id" : "ImSupposedToTakeYouToGitIsland",
-  "data" : {
-    "EN" : "I'm supposed to take you to Git island, but the author hasn't finished the code...",
-    "ZH_HANS" : "我本来应该带你去Git岛的，但是作者还没写完这部分的代码……",
-    "ZH_HANT" : "我本來應該帶你去Git島的，但是作者還沒寫完這部分的代碼……",
-    "ES" : "Se supone que debo llevarte a la isla Git, pero el autor no ha terminado el código ...",
-    "AR" : "من المفترض أن آخذك إلى جزيرة جيت ، لكن المؤلف لم يكمل الكود ...",
-    "PT" : "Devo levá-lo à ilha Git, mas o autor ainda não terminou o código ...",
-    "ID" : "Saya seharusnya membawa Anda ke pulau Git, tetapi pembuatnya belum menyelesaikan kodenya ...",
-    "FR" : "Je suis censé vous emmener sur l'île de Git, mais l'auteur n'a pas fini le code...",
-    "JA" : "私はあなたをGit島に連れて行くことになっていますが、作者はコードを完成させていません...",
-    "RU" : "Я должен отвезти вас на остров Git, но автор еще не закончил код ...",
-    "DE" : "Ich soll dich auf die Insel Git bringen, aber der Autor hat den Code noch nicht fertig...",
-    "KO" : "Git 섬으로 데려가야 하는데 작성자가 코드를 완성하지 않았네요...",
-    "IT" : "Dovrei portarti all'isola di Git, ma l'autore non ha finito il codice..."
-  },
-  "format" : "TEXT"
 }, {
   "id" : "ImSupposedToDoSomething",
   "data" : {

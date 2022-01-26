@@ -687,7 +687,7 @@
 - id: first-star-medal-name
   data:
     EN: First Star Medal
-    ZH_HANS: 首星勋章
+    ZH_HANS: 一星勋章
 - id: first-star-medal-desc
   data:
     EN: Congrats! You have got your first ⭐ on ByteLegend!
@@ -697,9 +697,10 @@
     EN: A Coffee
     ZH_HANS: 一杯咖啡
 - id: GetAchievement
+  format: HTML
   data:
-    EN: "Get Achievement: {0}"
-    ZH_HANS: 获得成就：{0}
+    EN: "Get Achievement: [<span style='color:red'>{0}</span>]"
+    ZH_HANS: 获得成就：【<span style='color:red'>{0}</span>】
 - id: AnswerTheQuestionInReadme
   format: MARKDOWN
   data:

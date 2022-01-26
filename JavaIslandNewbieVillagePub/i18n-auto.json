@@ -523,19 +523,19 @@
 }, {
   "id" : "WeDontSellCoffee",
   "data" : {
-    "EN" : "Are you kidding me? We don't sell coffee in pubs!",
-    "ZH_HANS" : "你在逗我吧？我们酒吧从来不卖咖啡！",
-    "ZH_HANT" : "你在逗我吧？我們酒吧從來不賣咖啡！",
-    "ES" : "¿Me estás tomando el pelo? ¡No vendemos café en pubs!",
-    "AR" : "هل تمزح معي؟ نحن لا نبيع القهوة في الحانات!",
-    "PT" : "Você está brincando comigo? Não vendemos café em pubs!",
-    "ID" : "Apakah kamu bercanda? Kami tidak menjual kopi di pub!",
-    "FR" : "Vous plaisantez j'espère? Nous ne vendons pas de café dans les pubs!",
-    "JA" : "私をからかってるの？パブではコーヒーを販売していません！",
-    "RU" : "Ты шутишь, что ли? Мы не продаем кофе в пабах!",
-    "DE" : "Willst du mich veräppeln? Wir verkaufen keinen Kaffee in Pubs!",
-    "KO" : "장난 해? 우리는 술집에서 커피를 팔지 않습니다!",
-    "IT" : "Ma stai scherzando? Non vendiamo caffè nei pub!"
+    "EN" : "Coffee? Are you kidding me? Today is the end of the world!",
+    "ZH_HANS" : "你在逗我吧？世界末日了还喝什么咖啡！",
+    "ZH_HANT" : "你在逗我吧？世界末日了還喝什麼咖啡！",
+    "ES" : "¿Café? ¿Me estás tomando el pelo? ¡Hoy es el fin del mundo!",
+    "AR" : "قهوة؟ هل تمزح معي؟ اليوم نهاية العالم!",
+    "PT" : "Café? Você está brincando comigo? Hoje é o fim do mundo!",
+    "ID" : "Kopi? Apakah kamu bercanda? Hari ini adalah akhir dunia!",
+    "FR" : "Café? Vous plaisantez j'espère? Aujourd'hui c'est la fin du monde !",
+    "JA" : "コーヒー？私をからかってるの？今日は世界の終わりです！",
+    "RU" : "Кофе? Ты шутишь, что ли? Сегодня конец света!",
+    "DE" : "Kaffee? Willst du mich verarschen? Heute ist das Ende der Welt!",
+    "KO" : "커피? 장난해? 오늘은 세상의 종말이다!",
+    "IT" : "Caffè? Ma stai scherzando? Oggi è la fine del mondo!"
   },
   "format" : "TEXT"
 }, {

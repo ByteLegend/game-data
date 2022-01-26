@@ -14,8 +14,8 @@
 - id: FirstStarMedalCondition
   format: HTML
   data:
-    EN: Oh sorry, I only allow people with [<span style='color:red'>First Star Medal⭐</span>] to pass.
-    ZH_HANS: 哦对不起，我允许拥有<span style='color:red'>{0}颗⭐</span>的人通过，但是你只有<span style='color:red'>{1}颗⭐</span>。
+    EN: Oh sorry, I only allow people with [<span style='color:red'>{0}</span>] to pass, but you don't have it.
+    ZH_HANS: 哦对不起，我只允许拥有【<span style='color:red'>{0}</span>】的人通过，但是你没有。
 - id: DoYouWantToHaveADrink
   data:
     EN: Hey dude! Today is the end of the world, so why not come in for a 🍺?
@@ -34,8 +34,8 @@
     ZH_HANS: 谢谢你的咖啡！
 - id: WhereToFindStar
   data:
-    EN: But where can I get ⭐?
-    ZH_HANS: 但是我去哪弄⭐呢？
+    EN: But where can I get this medal?
+    ZH_HANS: 但是我去哪弄这个勋章呢？
 - id: NiceJob
   data:
     EN: I see you have already starred ByteLegend. Nice job! Now I have to let you in.
@@ -129,15 +129,15 @@
     EN: Install <span class="notranslate">IDE</span class="notranslate">
     ZH_HANS: 安装<span class="notranslate">IDE</span class="notranslate">
     ZH_HANT: 安裝<span class="notranslate">IDE</span class="notranslate">
-- id: IDontKnowTakeALookAtStarBytelegend
+- id: TakeALookAtStarBytelegend
   format: HTML
   data:
-    EN: I don't know, maybe take a look at coordinate <span style='color:red'>{0}</span>?
-    ZH_HANS: 我不知道，看一下<span style='color:red'>{0}</span>坐标？
-- id: ImSupposedToTakeYouToGitIsland
-  data:
-    EN: I'm supposed to take you to Git island, but the author hasn't finished the code...
-    ZH_HANS: 我本来应该带你去Git岛的，但是作者还没写完这部分的代码……
+    EN: |
+      Accomplish the mission at coordinate <span style='color:red'>{0}</span> and you can get the medal.
+      Move your mouse you can see the tile coordinate at left-top corner of this window.
+    ZH_HANS: |
+      完成<span style='color:red'>{0}</span>坐标处的任务你就可以获得此勋章。
+      移动鼠标，你可以在窗口的左上角看到对应格子的坐标。
 - id: ImSupposedToDoSomething
   data:
     EN: I'm supposed to do something, but the author hasn't finished the code...
