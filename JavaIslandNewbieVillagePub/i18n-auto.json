@@ -523,19 +523,19 @@
 }, {
   "id" : "WeDontSellCoffee",
   "data" : {
-    "EN" : "Coffee? Are you kidding me? Today is the end of the world!",
+    "EN" : "Coffee? Are you kidding me? Today is THE END OF THE WORLD!",
     "ZH_HANS" : "你在逗我吧？世界末日了还喝什么咖啡！",
     "ZH_HANT" : "你在逗我吧？世界末日了還喝什麼咖啡！",
-    "ES" : "¿Café? ¿Me estás tomando el pelo? ¡Hoy es el fin del mundo!",
-    "AR" : "قهوة؟ هل تمزح معي؟ اليوم نهاية العالم!",
-    "PT" : "Café? Você está brincando comigo? Hoje é o fim do mundo!",
-    "ID" : "Kopi? Apakah kamu bercanda? Hari ini adalah akhir dunia!",
-    "FR" : "Café? Vous plaisantez j'espère? Aujourd'hui c'est la fin du monde !",
+    "ES" : "¿Café? ¿Me estás tomando el pelo? ¡Hoy es EL FIN DEL MUNDO!",
+    "AR" : "قهوة؟ هل تمزح معي؟ اليوم هو نهاية العالم!",
+    "PT" : "Café? Você está brincando comigo? Hoje é o FIM DO MUNDO!",
+    "ID" : "Kopi? Apakah kamu bercanda? Hari ini adalah AKHIR DUNIA!",
+    "FR" : "Café? Vous plaisantez j'espère? Aujourd'hui c'est LA FIN DU MONDE !",
     "JA" : "コーヒー？私をからかってるの？今日は世界の終わりです！",
-    "RU" : "Кофе? Ты шутишь, что ли? Сегодня конец света!",
-    "DE" : "Kaffee? Willst du mich verarschen? Heute ist das Ende der Welt!",
-    "KO" : "커피? 장난해? 오늘은 세상의 종말이다!",
-    "IT" : "Caffè? Ma stai scherzando? Oggi è la fine del mondo!"
+    "RU" : "Кофе? Ты шутишь, что ли? Сегодня КОНЕЦ СВЕТА!",
+    "DE" : "Kaffee? Willst du mich verarschen? Heute ist DAS ENDE DER WELT!",
+    "KO" : "커피? 장난해? 오늘은 세계의 끝입니다!",
+    "IT" : "Caffè? Ma stai scherzando? Oggi è LA FINE DEL MONDO!"
   },
   "format" : "TEXT"
 }, {
