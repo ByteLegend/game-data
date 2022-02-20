@@ -17,7 +17,7 @@ challenges:
   - id: install-java-challenge
     type: Question
     star: 1
-    spec: "(?s).*(jdk|java) version.*"
+    spec: "(?s).*(jdk|java).*"
     tldr: install-java-tldr
     readme: install-java-readme
 onFinish:
