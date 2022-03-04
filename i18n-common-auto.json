@@ -2447,39 +2447,111 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "bronze-git-medal-name",
+  "id" : "git-amulet-name",
   "data" : {
-    "EN" : "Bronze Git Medal",
-    "ZH_HANS" : "青铜Git勋章",
-    "ZH_HANT" : "青銅Git勳章",
-    "ES" : "Medalla de bronce Git",
-    "AR" : "ميدالية جيت البرونزية",
-    "PT" : "Medalha de Bronze Git",
-    "ID" : "Medali Git Perunggu",
-    "FR" : "Médaille de Bronze Git",
-    "JA" : "ブロンズGitメダル",
-    "RU" : "Бронзовая медаль Гит",
-    "DE" : "Bronzene Git-Medaille",
-    "KO" : "브론즈 Git 메달",
-    "IT" : "Medaglia di bronzo Git"
+    "EN" : "Git Amulet",
+    "ZH_HANS" : "Git护身符",
+    "ZH_HANT" : "Git護身符",
+    "ES" : "Amuleto Git",
+    "AR" : "تميمة بوابة",
+    "PT" : "Amuleto Git",
+    "ID" : "Git Jimat",
+    "FR" : "Amulette Git",
+    "JA" : "Gitアミュレット",
+    "RU" : "Гит Амулет",
+    "DE" : "Git-Amulett",
+    "KO" : "힘내 부적",
+    "IT" : "Git Amuleto"
   },
   "format" : "TEXT"
 }, {
-  "id" : "bronze-git-medal-desc",
+  "id" : "git-amulet-desc",
   "data" : {
-    "EN" : "Bronze Git Medal",
-    "ZH_HANS" : "青铜Git勋章",
-    "ZH_HANT" : "青銅Git勳章",
-    "ES" : "Medalla de bronce Git",
-    "AR" : "ميدالية جيت البرونزية",
-    "PT" : "Medalha de Bronze Git",
-    "ID" : "Medali Git Perunggu",
-    "FR" : "Médaille de Bronze Git",
-    "JA" : "ブロンズGitメダル",
-    "RU" : "Бронзовая медаль Гит",
-    "DE" : "Bronzene Git-Medaille",
-    "KO" : "브론즈 Git 메달",
-    "IT" : "Medaglia di bronzo Git"
+    "EN" : "An amulet made of jade, infiltrating the powerful magic of Git,\ncan empower programmers with better insights into bugs.\nGit has become the cornerstone of modern software development - we can't imagine a world without it.\n",
+    "ZH_HANS" : "由玉制成的护身符，浸润了Git的强大魔力，能赋予程序员更好的洞察bug的能力。\nGit已经成为了现代软件开发的基石，我们无法想象没有Git的世界。\n",
+    "ZH_HANT" : "由玉製成的護身符，浸潤了Git的強大魔力，能賦予程序員更好的洞察bug的能力。\nGit已經成為了現代軟件開發的基石，我們無法想像沒有Git的世界。\n",
+    "ES" : "Un amuleto hecho de jade, que se infiltra en la poderosa magia de Git,\npuede empoderar a los programadores con mejores conocimientos sobre los errores.\nGit se ha convertido en la piedra angular del desarrollo de software moderno: no podemos imaginar un mundo sin él.\n",
+    "AR" : "تميمة مصنوعة من اليشم تتسلل إلى السحر القوي لـ Git ،\nيمكن أن يمكّن المبرمجين من الحصول على رؤى أفضل للأخطاء.\nأصبح Git حجر الزاوية في تطوير البرامج الحديثة - لا يمكننا تخيل عالم بدونه.\n",
+    "PT" : "Um amuleto feito de jade, infiltrando a poderosa magia de Git,\npode capacitar os programadores com melhores insights sobre bugs.\nGit se tornou a pedra angular do desenvolvimento de software moderno - não podemos imaginar um mundo sem ele.\n",
+    "ID" : "Jimat yang terbuat dari batu giok, menyusup ke dalam sihir kuat Git,\ndapat memberdayakan programmer dengan wawasan yang lebih baik tentang bug.\nGit telah menjadi landasan pengembangan perangkat lunak modern - kita tidak dapat membayangkan dunia tanpanya.\n",
+    "FR" : "Une amulette en jade, infiltrant la puissante magie de Git,\npeut permettre aux programmeurs de mieux comprendre les bogues.\nGit est devenu la pierre angulaire du développement logiciel moderne - nous ne pouvons pas imaginer un monde sans lui.\n",
+    "JA" : "翡翠で作られたお守りは、Gitの強力な魔法に浸透し、\nバグに対するより良い洞察をプログラマーに与えることができます。\nGitは、現代のソフトウェア開発の基礎になっています。Gitがなければ世界を想像することはできません。\n",
+    "RU" : "Амулет из нефрита, проникающий в могущественную магию Гита,\nможет дать программистам лучшее понимание ошибок.\nGit стал краеугольным камнем современной разработки программного обеспечения — мы не можем представить мир без него.\n",
+    "DE" : "Ein Amulett aus Jade, das die mächtige Magie von Git infiltriert,\nkann Programmierern bessere Einblicke in Fehler geben.\nGit ist zum Eckpfeiler der modernen Softwareentwicklung geworden – aus unserer Welt nicht mehr wegzudenken.\n",
+    "KO" : "깃의 강력한 마법이 스며든 옥으로 만든 부적,\n프로그래머에게 버그에 대한 더 나은 통찰력을 제공할 수 있습니다.\nGit은 현대 소프트웨어 개발의 초석이 되었습니다. Git이 없는 세상은 상상할 수 없습니다.\n",
+    "IT" : "Un amuleto di giada, che si infiltra nella potente magia di Git,\npuò fornire ai programmatori informazioni migliori sui bug.\nGit è diventato la pietra angolare del moderno sviluppo software: non possiamo immaginare un mondo senza di esso.\n"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "item-door-key-name",
+  "data" : {
+    "EN" : "Door Key",
+    "ZH_HANS" : "大门钥匙",
+    "ZH_HANT" : "大門鑰匙",
+    "ES" : "Llave de la puerta",
+    "AR" : "مفتاح الباب",
+    "PT" : "Chave da porta",
+    "ID" : "Kunci pintu",
+    "FR" : "Clé de la porte",
+    "JA" : "ドアキー",
+    "RU" : "Дверной ключ",
+    "DE" : "Türschlüssel",
+    "KO" : "문 열쇠",
+    "IT" : "Chiave della porta"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "item-door-key-desc",
+  "data" : {
+    "EN" : "A key which to open a door.",
+    "ZH_HANS" : "一把用来打开大门的钥匙。",
+    "ZH_HANT" : "一把用來打開大門的鑰匙。",
+    "ES" : "Una llave para abrir una puerta.",
+    "AR" : "مفتاح لفتح الباب.",
+    "PT" : "Uma chave para abrir uma porta.",
+    "ID" : "Sebuah kunci yang untuk membuka pintu.",
+    "FR" : "Une clé qui ouvre une porte.",
+    "JA" : "ドアを開ける鍵。",
+    "RU" : "Ключ, чтобы открыть дверь.",
+    "DE" : "Ein Schlüssel, um eine Tür zu öffnen.",
+    "KO" : "문을 여는 열쇠.",
+    "IT" : "Una chiave per aprire una porta."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "item-dagger-name",
+  "data" : {
+    "EN" : "Dagger",
+    "ZH_HANS" : "短刀",
+    "ZH_HANT" : "短刀",
+    "ES" : "Daga",
+    "AR" : "خنجر",
+    "PT" : "Punhal",
+    "ID" : "Belati",
+    "FR" : "Dague",
+    "JA" : "短剣",
+    "RU" : "Кинжал",
+    "DE" : "Dolch",
+    "KO" : "단검",
+    "IT" : "Pugnale"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "item-dagger-desc",
+  "data" : {
+    "EN" : "A razor-sharp knife that even beginners can use to kill slow-moving bugs easily.",
+    "ZH_HANS" : "一把锋利的短刀，即使初学者也能轻松用它击杀行动缓慢的虫子。",
+    "ZH_HANT" : "一把鋒利的短刀，即使初學者也能輕鬆用它擊殺行動緩慢的蟲子。",
+    "ES" : "Un cuchillo afilado como una navaja que incluso los principiantes pueden usar para matar fácilmente insectos que se mueven lentamente.",
+    "AR" : "سكين حاد للغاية يمكن حتى للمبتدئين استخدامه لقتل الحشرات البطيئة الحركة بسهولة.",
+    "PT" : "Uma faca afiada que até mesmo os iniciantes podem usar para matar facilmente os insetos lentos.",
+    "ID" : "Pisau setajam silet yang bahkan bisa digunakan pemula untuk membunuh serangga yang bergerak lambat dengan mudah.",
+    "FR" : "Un couteau tranchant comme un rasoir que même les débutants peuvent utiliser pour tuer facilement les insectes lents.",
+    "JA" : "初心者でも動きの遅い虫を簡単に殺すことができるかみそりの鋭いナイフ。",
+    "RU" : "Острый как бритва нож, с помощью которого даже новички легко убивают медленно движущихся жуков.",
+    "DE" : "Ein rasiermesserscharfes Messer, mit dem auch Anfänger langsame Käfer problemlos töten können.",
+    "KO" : "초보자도 느리게 움직이는 벌레를 쉽게 죽일 수 있는 면도날 같은 칼.",
+    "IT" : "Un coltello affilato come un rasoio che anche i principianti possono usare per uccidere facilmente gli insetti che si muovono lentamente."
   },
   "format" : "TEXT"
 }, {
@@ -3133,19 +3205,19 @@
 }, {
   "id" : "ItemCanOnlyBeUsedOnMission",
   "data" : {
-    "EN" : "<span style='color:gold'>This item can be only used for mission <span style='color:red'>[{0}]</span>.</span>",
-    "ZH_HANS" : "<span style='color:gold'>此物品只能用在关卡<span style='color:red'>【{0}】</span>上。</span>",
-    "ZH_HANT" : "<span style='color:gold'>此物品只能用在關卡<span style='color:red'>【{0}】</span>上。</span>",
-    "ES" : "<span style='color:gold'>Este elemento solo se puede usar para la misión <span style='color:red'>[{0}]</span> .</span>",
-    "AR" : "<span style='color:gold'>لا يمكن استخدام هذا العنصر إلا للمهمة <span style='color:red'>[{0}]</span> .</span>",
-    "PT" : "<span style='color:gold'>Este item só pode ser usado para a missão <span style='color:red'>[{0}]</span> .</span>",
-    "ID" : "<span style='color:gold'>Item ini hanya dapat digunakan untuk misi <span style='color:red'>[{0}]</span> .</span>",
-    "FR" : "<span style='color:gold'>Cet objet ne peut être utilisé que pour la mission <span style='color:red'>[{0}]</span> .</span>",
-    "JA" : "<span style='color:gold'>このアイテムはミッション<span style='color:red'>[{0}]に</span>のみ使用できます。</span>",
-    "RU" : "<span style='color:gold'>Этот предмет можно использовать только для миссии <span style='color:red'>[{0}]</span> .</span>",
-    "DE" : "<span style='color:gold'>Dieser Gegenstand kann nur für Mission <span style='color:red'>[{0}] verwendet werden</span> .</span>",
-    "KO" : "<span style='color:gold'>이 항목은 임무 <span style='color:red'>[{0}]</span> 에만 사용할 수 있습니다.</span>",
-    "IT" : "<span style='color:gold'>Questo oggetto può essere utilizzato solo per la missione <span style='color:red'>[{0}]</span> .</span>"
+    "EN" : "<span style='color:gold'>This item can be used for mission <span style='color:red'>[{0}]</span>.</span>",
+    "ZH_HANS" : "<span style='color:gold'>此物品可用于关卡<span style='color:red'>【{0}】</span>。</span>",
+    "ZH_HANT" : "<span style='color:gold'>此物品可用於關卡<span style='color:red'>【{0}】</span> 。</span>",
+    "ES" : "<span style='color:gold'>Este elemento se puede utilizar para la misión <span style='color:red'>[{0}]</span> .</span>",
+    "AR" : "<span style='color:gold'>يمكن استخدام هذا العنصر للمهمة <span style='color:red'>[{0}]</span> .</span>",
+    "PT" : "<span style='color:gold'>Este item pode ser usado para a missão <span style='color:red'>[{0}]</span> .</span>",
+    "ID" : "<span style='color:gold'>Item ini dapat digunakan untuk misi <span style='color:red'>[{0}]</span> .</span>",
+    "FR" : "<span style='color:gold'>Cet objet peut être utilisé pour la mission <span style='color:red'>[{0}]</span> .</span>",
+    "JA" : "<span style='color:gold'>このアイテムはミッション<span style='color:red'>[{0}]</span>に使用できます。</span>",
+    "RU" : "<span style='color:gold'>Этот предмет можно использовать для миссии <span style='color:red'>[{0}]</span> .</span>",
+    "DE" : "<span style='color:gold'>Dieser Gegenstand kann für Mission <span style='color:red'>[{0}]</span> verwendet werden.</span>",
+    "KO" : "<span style='color:gold'>이 아이템은 임무 <span style='color:red'>[{0}]</span> 에 사용할 수 있습니다.</span>",
+    "IT" : "<span style='color:gold'>Questo oggetto può essere utilizzato per la missione <span style='color:red'>[{0}]</span> .</span>"
   },
   "format" : "HTML"
 }, {
@@ -3187,37 +3259,37 @@
 }, {
   "id" : "item-coffee-name",
   "data" : {
-    "EN" : "A coffee",
-    "ZH_HANS" : "咖啡",
-    "ZH_HANT" : "一杯咖啡",
-    "ES" : "Un café",
-    "AR" : "قهوة",
-    "PT" : "Um café",
-    "ID" : "Kopi",
-    "FR" : "Un café",
-    "JA" : "コーヒー",
-    "RU" : "Кофе",
-    "DE" : "Ein Kaffee",
-    "KO" : "커피",
-    "IT" : "Un caffè"
+    "EN" : "Java Coffee",
+    "ZH_HANS" : "爪哇咖啡",
+    "ZH_HANT" : "爪哇咖啡",
+    "ES" : "Café Java",
+    "AR" : "قهوة جافا",
+    "PT" : "Café Java",
+    "ID" : "Kopi Jawa",
+    "FR" : "Café de Java",
+    "JA" : "Javaコーヒー",
+    "RU" : "Кофе Ява",
+    "DE" : "Java-Kaffee",
+    "KO" : "자바 커피",
+    "IT" : "Caffè Giava"
   },
   "format" : "TEXT"
 }, {
   "id" : "item-coffee-desc",
   "data" : {
-    "EN" : "A coffee",
-    "ZH_HANS" : "一杯普普通通的咖啡",
-    "ZH_HANT" : "一杯咖啡",
-    "ES" : "Un café",
-    "AR" : "قهوة",
-    "PT" : "Um café",
-    "ID" : "Kopi",
-    "FR" : "Un café",
-    "JA" : "コーヒー",
-    "RU" : "Кофе",
-    "DE" : "Ein Kaffee",
-    "KO" : "커피",
-    "IT" : "Un caffè"
+    "EN" : "A cup of coffee made from the best coffee beans produced in Java Island.\nThe coffee is less and less because Java Island has been occupied by alien bugs.\nIt is said that The Oracle of Newbie Village likes Java Coffee very much and has spent a lot of money on it.\n",
+    "ZH_HANS" : "一杯使用爪哇岛出产的上好咖啡豆制成的咖啡，由于爪哇岛被外星虫子占领，喝一杯少一杯。\n据说新手村的先知非常喜欢这个口味，曾经花了很多钱买爪哇咖啡。\n",
+    "ZH_HANT" : "一杯使用爪哇島出產的上好咖啡豆製成的咖啡，由於爪哇島被外星蟲子佔領，喝一杯少一杯。\n據說新手村的先知非常喜歡這個口味，曾經花了很多錢買爪哇咖啡。\n",
+    "ES" : "Una taza de café hecha con los mejores granos de café producidos en la isla de Java.\nEl café cada vez es menos porque la isla de Java ha sido ocupada por bichos extraterrestres.\nSe dice que a The Oracle of Newbie Village le gusta mucho Java Coffee y ha gastado mucho dinero en él.\n",
+    "AR" : "فنجان قهوة مصنوع من أفضل أنواع حبوب البن المنتجة في جزيرة جاوة.\nالقهوة أقل وأقل لأن جزيرة جاوة احتلتها الحشرات الفضائية.\nيقال أن The Oracle of Newbie Village تحب قهوة جافا كثيرًا وقد أنفقت الكثير من المال عليها.\n",
+    "PT" : "Uma xícara de café feita com os melhores grãos de café produzidos na Ilha de Java.\nO café é cada vez menor porque a Ilha de Java foi ocupada por insetos alienígenas.\nDiz-se que The Oracle of Newbie Village gosta muito do Java Coffee e gastou muito dinheiro com isso.\n",
+    "ID" : "Secangkir kopi yang terbuat dari biji kopi terbaik yang diproduksi di Pulau Jawa.\nKopi semakin sedikit karena Pulau Jawa telah ditempati oleh serangga asing.\nDikatakan bahwa Oracle of Newbie Village sangat menyukai Java Coffee dan telah menghabiskan banyak uang untuk itu.\n",
+    "FR" : "Une tasse de café à base des meilleurs grains de café produits sur l'île de Java.\nLe café l'est de moins en moins car l'île de Java a été occupée par des insectes extraterrestres.\nOn dit que The Oracle of Newbie Village aime beaucoup le café Java et y a dépensé beaucoup d'argent.\n",
+    "JA" : "ジャワ島で生産された最高のコーヒー豆から作られた一杯のコーヒー。\nジャワ島はエイリアンの虫に占領されているため、コーヒーはどんどん少なくなっています。\n初心者の村のオラクルはジャバコーヒーがとても好きで、それにたくさんのお金を費やしたと言われています。\n",
+    "RU" : "Чашка кофе из лучших кофейных зерен, произведенных на острове Ява.\nКофе все меньше и меньше, потому что остров Ява был оккупирован инопланетными жуками.\nГоворят, что Оракул из Деревни Новичков очень любит кофе Java и потратил на него много денег.\n",
+    "DE" : "Eine Tasse Kaffee aus den besten Kaffeebohnen der Insel Java.\nDer Kaffee wird immer weniger, weil Java Island von außerirdischen Käfern besetzt wurde.\nEs wird gesagt, dass das Orakel von Newbie Village Java Coffee sehr mag und viel Geld dafür ausgegeben hat.\n",
+    "KO" : "자바섬에서 생산되는 최고의 원두로 만든 커피 한 잔.\n자바 섬이 외계인 벌레에 의해 점령되었기 때문에 커피는 점점 줄어들고 있습니다.\nNewbie Village의 Oracle은 Java Coffee를 매우 좋아하고 그것에 많은 돈을 썼다고합니다.\n",
+    "IT" : "Una tazza di caffè fatta con i migliori chicchi di caffè prodotti nell'isola di Giava.\nIl caffè è sempre meno perché Java Island è stata occupata da insetti alieni.\nSi dice che a The Oracle of Newbie Village piaccia molto Java Coffee e abbia speso molti soldi per questo.\n"
   },
   "format" : "TEXT"
 }, {
@@ -3326,6 +3398,42 @@
     "DE" : "Ein Schwert aus Gold mit mächtiger Magie. Ein Verteidigungsturm zerschmettert sofort, wenn er von diesem goldenen Schwert zerhackt wird.",
     "KO" : "강력한 마력을 지닌 금으로 만든 검. 방어 타워는 이 금검에 의해 잘려지면 즉시 산산이 부서질 것입니다.",
     "IT" : "Una spada d&#39;oro, con una potente magia. Una torre di difesa andrà in pezzi immediatamente quando viene tagliata da questa spada d&#39;oro."
+  },
+  "format" : "HTML"
+}, {
+  "id" : "UseItemFailed",
+  "data" : {
+    "EN" : "Failed to use item",
+    "ZH_HANS" : "使用物品失败",
+    "ZH_HANT" : "使用物品失敗",
+    "ES" : "No se pudo usar el elemento",
+    "AR" : "فشل استخدام العنصر",
+    "PT" : "Falha ao usar o item",
+    "ID" : "Gagal menggunakan barang",
+    "FR" : "Impossible d'utiliser l'élément",
+    "JA" : "アイテムの使用に失敗しました",
+    "RU" : "Не удалось использовать элемент",
+    "DE" : "Artikel konnte nicht verwendet werden",
+    "KO" : "아이템 사용 실패",
+    "IT" : "Impossibile utilizzare l'elemento"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "UseItemFailedWith",
+  "data" : {
+    "EN" : "Failed to use item [<span style='color:red'>{0}</span>]. It may help to refresh the page. {1}",
+    "ZH_HANS" : "使用物品【<span style='color:red'>{0}</span>】失败。刷新页面可能有助于解决此问题。{1}",
+    "ZH_HANT" : "使用物品【 <span style='color:red'>{0}</span> 】失敗。刷新頁面可能有助於解決此問題。 {1}",
+    "ES" : "No se pudo usar el elemento [ <span style='color:red'>{0}</span> ]. Puede ser útil actualizar la página. {1}",
+    "AR" : "فشل استخدام العنصر [ <span style='color:red'>{0}</span> ]. قد يساعد في تحديث الصفحة. {1}",
+    "PT" : "Falha ao usar o item [ <span style='color:red'>{0}</span> ]. Pode ajudar a atualizar a página. {1}",
+    "ID" : "Gagal menggunakan item [ <span style='color:red'>{0}</span> ]. Ini dapat membantu untuk menyegarkan halaman. {1}",
+    "FR" : "Impossible d&#39;utiliser l&#39;élément [ <span style='color:red'>{0}</span> ]. Cela peut aider à rafraîchir la page. {1}",
+    "JA" : "アイテム[ <span style='color:red'>{0}</span> ]を使用できませんでした。ページを更新すると役立つ場合があります。 {1}",
+    "RU" : "Не удалось использовать элемент [ <span style='color:red'>{0}</span> ]. Это может помочь обновить страницу. {1}",
+    "DE" : "Artikel [ <span style='color:red'>{0}</span> ] konnte nicht verwendet werden. Es kann hilfreich sein, die Seite zu aktualisieren. {1}",
+    "KO" : "[ <span style='color:red'>{0}</span> ] 항목을 사용하지 못했습니다. 페이지를 새로 고치는 데 도움이 될 수 있습니다. {1}",
+    "IT" : "Impossibile utilizzare l&#39;elemento [ <span style='color:red'>{0}</span> ]. Potrebbe essere utile aggiornare la pagina. {1}"
   },
   "format" : "HTML"
 } ]

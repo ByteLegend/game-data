@@ -19,19 +19,19 @@
 }, {
   "id" : "DoYouWantToHaveADrink",
   "data" : {
-    "EN" : "Hey dude! Today is the end of the world, so why not come in for a \uD83C\uDF7A?",
+    "EN" : "Hey dude! Today is THE END OF THE WORLD, why not come in for a \uD83C\uDF7A?",
     "ZH_HANS" : "嘿，老哥！今天是世界末日，还不进来喝一杯\uD83C\uDF7A嘛？",
     "ZH_HANT" : "嘿，老哥！今天是世界末日，還不進來喝一杯\uD83C\uDF7A嘛？",
-    "ES" : "¡Hola amigo! Hoy es el fin del mundo, así que ¿por qué no venir por un \uD83C\uDF7A?",
+    "ES" : "¡Hola amigo! Hoy es EL FIN DEL MUNDO, ¿por qué no pasas por un \uD83C\uDF7A?",
     "AR" : "اهلا يا دودى! اليوم هو نهاية العالم ، فلماذا لا تأتي من أجل \uD83C\uDF7A؟",
-    "PT" : "Ei cara! Hoje é o fim do mundo, então por que não entrar para um \uD83C\uDF7A?",
-    "ID" : "Hei bung! Hari ini adalah akhir dunia, jadi mengapa tidak datang untuk ?",
-    "FR" : "Salut mec! Aujourd'hui c'est la fin du monde, alors pourquoi ne pas venir pour un \uD83C\uDF7A ?",
-    "JA" : "おいおい！今日は世界の終わりですので、\uD83C\uDF7Aに来てみませんか？",
-    "RU" : "Эй чувак! Сегодня конец света, так почему бы не зайти на \uD83C\uDF7A?",
-    "DE" : "Hey Alter! Heute ist das Ende der Welt, warum also nicht auf ein \uD83C\uDF7A vorbeikommen?",
-    "KO" : "이봐 친구! 오늘은 세상의 종말인데 \uD83C\uDF7A에 오지 않으시겠습니까?",
-    "IT" : "Hey amico! Oggi è la fine del mondo, quindi perché non venire per un \uD83C\uDF7A?"
+    "PT" : "Ei cara! Hoje é o FIM DO MUNDO, por que não entrar para um \uD83C\uDF7A?",
+    "ID" : "Hei bung! Hari ini adalah AKHIR DUNIA, mengapa tidak datang untuk ?",
+    "FR" : "Salut mec! Aujourd'hui c'est LA FIN DU MONDE, pourquoi ne pas venir pour un \uD83C\uDF7A ?",
+    "JA" : "おいおい！今日は世界の終わりです、\uD83C\uDF7Aに来てみませんか？",
+    "RU" : "Эй чувак! Сегодня КОНЕЦ СВЕТА, почему бы не зайти на \uD83C\uDF7A?",
+    "DE" : "Hey Alter! Heute ist DAS ENDE DER WELT, warum nicht auf ein \uD83C\uDF7A vorbeikommen?",
+    "KO" : "이봐 친구! 오늘은 THE END OF WORLD인데 \uD83C\uDF7A 하러 오세요.",
+    "IT" : "Hey amico! Oggi è LA FINE DEL MONDO, perché non vieni per un \uD83C\uDF7A?"
   },
   "format" : "TEXT"
 }, {
@@ -53,41 +53,221 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "CanYouPleaseGrabACoffee",
+  "id" : "CanYouGetMeACoffee",
   "data" : {
-    "EN" : "Hey, can you please grab a coffee for me?",
-    "ZH_HANS" : "嘿，你能给我弄杯咖啡嘛？",
-    "ZH_HANT" : "嘿，你能給我弄杯咖啡嘛？",
-    "ES" : "Oye, ¿puedes traerme un café?",
-    "AR" : "مرحبًا ، هل يمكنك تناول القهوة من أجلي من فضلك؟",
-    "PT" : "Ei, você pode pegar um café para mim?",
-    "ID" : "Hei, bisa tolong ambilkan kopi untukku?",
-    "FR" : "Hé, pouvez-vous s'il vous plaît prendre un café pour moi?",
-    "JA" : "ねえ、私のためにコーヒーを飲んでもらえますか？",
-    "RU" : "Эй, не могли бы вы принести мне кофе?",
-    "DE" : "Hey, kannst du mir bitte einen Kaffee holen?",
-    "KO" : "이봐, 나에게 커피를 가져다 줄 수 있니?",
-    "IT" : "Ehi, puoi per favore prendermi un caffè?"
+    "EN" : "Hey, young man, THE END OF THE WORLD is coming, can you get me a cup of coffee?",
+    "ZH_HANS" : "嘿，年轻人，世界末日马上就要到了，你能给我弄杯咖啡嘛？",
+    "ZH_HANT" : "嘿，年輕人，世界末日馬上就要到了，你能給我弄杯咖啡嘛？",
+    "ES" : "Oye, joven, se acerca EL FIN DEL MUNDO, ¿me puedes traer una taza de café?",
+    "AR" : "مرحبًا أيها الشاب ، نهاية العالم قادمة ، هل يمكنك أن تحضر لي فنجانًا من القهوة؟",
+    "PT" : "Ei, jovem, o FIM DO MUNDO está chegando, você pode me trazer uma xícara de café?",
+    "ID" : "Hei, anak muda, AKHIR DUNIA akan datang, bisakah kamu membuatkanku secangkir kopi?",
+    "FR" : "Hé, jeune homme, LA FIN DU MONDE approche, peux-tu me servir une tasse de café ?",
+    "JA" : "ねえ、若い男、世界の終わりが来ています、あなたは私にコーヒーを一杯もらえますか？",
+    "RU" : "Эй, молодой человек, приближается КОНЕЦ СВЕТА, не могли бы вы принести мне чашечку кофе?",
+    "DE" : "Hey, junger Mann, DAS ENDE DER WELT kommt, kannst du mir eine Tasse Kaffee bringen?",
+    "KO" : "이봐, 젊은이여, 세상의 끝이 다가오고 있습니다. 커피 한 잔 드릴까요?",
+    "IT" : "Ehi, giovanotto, sta arrivando LA FINE DEL MONDO, puoi portarmi una tazza di caffè?"
   },
   "format" : "TEXT"
 }, {
   "id" : "ThankYouForYourCoffee",
   "data" : {
-    "EN" : "Thank you for your coffee!",
-    "ZH_HANS" : "谢谢你的咖啡！",
-    "ZH_HANT" : "謝謝你的咖啡！",
-    "ES" : "¡Gracias por tu café!",
-    "AR" : "شكرا لك على قهوتك!",
-    "PT" : "Obrigado pelo seu café!",
-    "ID" : "Terima kasih untuk kopimu!",
-    "FR" : "Merci pour votre café !",
-    "JA" : "コーヒーありがとうございます！",
-    "RU" : "Спасибо за кофе!",
-    "DE" : "Vielen Dank für Ihren Kaffee!",
-    "KO" : "커피 주셔서 감사합니다!",
-    "IT" : "Grazie per il tuo caffè!"
+    "EN" : "Young man, thank you for your coffee! What's your name?",
+    "ZH_HANS" : "年轻人，谢谢你的咖啡！你叫什么名字？",
+    "ZH_HANT" : "年輕人，謝謝你的咖啡！你叫什麼名字？",
+    "ES" : "Joven, ¡gracias por tu café! ¿Cuál es tu nombre?",
+    "AR" : "أيها الشاب ، شكرا لك على قهوتك! ما اسمك؟",
+    "PT" : "Jovem, obrigado pelo seu café! Qual o seu nome?",
+    "ID" : "Anak muda, terima kasih untuk kopimu! Siapa namamu?",
+    "FR" : "Jeune homme, merci pour votre café ! Quel est ton nom?",
+    "JA" : "若い男、あなたのコーヒーをありがとう！あなたの名前は何ですか？",
+    "RU" : "Молодой человек, спасибо за ваш кофе! Какое у тебя имя?",
+    "DE" : "Junger Mann, danke für deinen Kaffee! Wie heißen Sie?",
+    "KO" : "젊은이, 커피 주셔서 감사합니다! 이름이 뭐에요?",
+    "IT" : "Giovane, grazie per il tuo caffè! Come ti chiami?"
   },
   "format" : "TEXT"
+}, {
+  "id" : "MyNameIs",
+  "data" : {
+    "EN" : "My name is <span style='color:red'>{0}</span>.",
+    "ZH_HANS" : "我叫<span style='color:red'>{0}</span>。",
+    "ZH_HANT" : "我叫<span style='color:red'>{0}</span> 。",
+    "ES" : "Mi nombre es <span style='color:red'>{0}</span> .",
+    "AR" : "اسمي <span style='color:red'>{0}</span> .",
+    "PT" : "Meu nome é <span style='color:red'>{0}</span> .",
+    "ID" : "Nama saya <span style='color:red'>{0}</span> .",
+    "FR" : "Je m&#39;appelle <span style='color:red'>{0}</span> .",
+    "JA" : "私の名前は<span style='color:red'>{0}</span>です。",
+    "RU" : "Меня зовут <span style='color:red'>{0}</span> .",
+    "DE" : "Mein Name ist <span style='color:red'>{0}</span> .",
+    "KO" : "제 이름은 <span style='color:red'>{0}</span> 입니다.",
+    "IT" : "Mi chiamo <span style='color:red'>{0}</span> ."
+  },
+  "format" : "HTML"
+}, {
+  "id" : "YouAreFinallyHere",
+  "data" : {
+    "EN" : "<span style='color:red'>{0}</span>, <span style='color:red'>The One</span>, you are finally here.",
+    "ZH_HANS" : "<span style='color:red'>{0}</span>，<span style='color:red'>救世主</span>，你终于还是来了。",
+    "ZH_HANT" : "<span style='color:red'>{0}</span> ，<span style='color:red'>救世主</span>，你終於還是來了。",
+    "ES" : "<span style='color:red'>{0}</span> , <span style='color:red'>The One</span> , finalmente estás aquí.",
+    "AR" : "<span style='color:red'>{0}</span> <span style='color:red'>،</span> أنت هنا في النهاية.",
+    "PT" : "<span style='color:red'>{0}</span> , <span style='color:red'>The One</span> , você finalmente está aqui.",
+    "ID" : "<span style='color:red'>{0}</span> , <span style='color:red'>The One</span> , Anda akhirnya di sini.",
+    "FR" : "<span style='color:red'>{0}</span> , <span style='color:red'>The One</span> , vous êtes enfin là.",
+    "JA" : "<span style='color:red'>{0}</span> 、 <span style='color:red'>The One</span> 、あなたはついにここにいます。",
+    "RU" : "<span style='color:red'>{0}</span> , <span style='color:red'>Избранный</span> , наконец-то ты здесь.",
+    "DE" : "<span style='color:red'>{0}</span> , <span style='color:red'>The One</span> , du bist endlich da.",
+    "KO" : "<span style='color:red'>{0}</span> , <span style='color:red'>The One</span> , 드디어 왔습니다.",
+    "IT" : "<span style='color:red'>{0}</span> , <span style='color:red'>The One</span> , sei finalmente qui."
+  },
+  "format" : "HTML"
+}, {
+  "id" : "HowToEliminateBugs",
+  "data" : {
+    "EN" : "To be honest, I have no idea why you call me <span style='color:red'>The One</span> and how to eliminate bugs, can you tell me?",
+    "ZH_HANS" : "说实话，我不知道为什么你叫我<span style='color:red'>救世主</span>，也不知道怎么消灭虫子，你能告诉我么？",
+    "ZH_HANT" : "說實話，我不知道為什麼你叫我<span style='color:red'>救世主</span>，也不知道怎麼消滅蟲子，你能告訴我麼？",
+    "ES" : "Para ser honesto, no tengo idea de por qué me llamas <span style='color:red'>The One</span> y cómo eliminar errores, ¿puedes decirme?",
+    "AR" : "لأكون صادقًا ، ليس لدي أي فكرة عن سبب اتصالك بي <span style='color:red'>The One</span> وكيفية التخلص من الأخطاء ، هل يمكن أن تخبرني؟",
+    "PT" : "Para ser honesto, não tenho ideia de por que você me chama de <span style='color:red'>The One</span> e como eliminar bugs, você pode me dizer?",
+    "ID" : "Sejujurnya, saya tidak tahu mengapa Anda memanggil saya <span style='color:red'>The One</span> dan bagaimana cara menghilangkan bug, dapatkah Anda memberi tahu saya?",
+    "FR" : "Pour être honnête, je ne sais pas pourquoi vous m&#39;appelez <span style='color:red'>The One</span> et comment éliminer les bugs, pouvez-vous me dire ?",
+    "JA" : "正直なところ、なぜ私を<span style='color:red'>ザ・ワン</span>と呼んでいるのか、バグを取り除く方法がわかりません。教えていただけますか？",
+    "RU" : "Честно говоря, понятия не имею, почему вы называете меня <span style='color:red'>Избранным</span> и как устранять баги, можете подсказать?",
+    "DE" : "Um ehrlich zu sein, habe ich keine Ahnung, warum Sie mich <span style='color:red'>The One</span> nennen und wie Sie Fehler beseitigen können, können Sie es mir sagen?",
+    "KO" : "솔직히 말해서 왜 나를 <span style='color:red'>One</span> 이라고 부르고 버그를 제거하는 방법을 알 수 없습니다. 알려주실 수 있습니까?",
+    "IT" : "Ad essere onesti, non ho idea del perché mi chiami <span style='color:red'>The One</span> e di come eliminare i bug, puoi dirmelo?"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "BugsAreScoutOfFleet",
+  "data" : {
+    "EN" : "The bugs on Java Island are scout of a huge alien fleet wandering in the universe.\nWhenever the bugs find a resource-rich planet, they land and build huge defense towers to communicate with the alien fleet.\nUpon signals, the fleet will quickly come and squeeze up all resources on that planet - air, water, and mineral, turning it into a death planet without any life.\n",
+    "ZH_HANS" : "爪哇岛上的虫子是一支巨大流浪在宇宙中的外星舰队的先遣队，每当它们发现资源丰富的星球，就会着陆并建造巨大的防御塔和外星流浪舰队通信。\n舰队收到信号后会迅速赶来榨干目标星球的一切资源——空气、水、矿物，将它变成一颗没有任何生命的死星。\n",
+    "ZH_HANT" : "爪哇島上的蟲子是一支巨大流浪在宇宙中的外星艦隊的先遣隊，每當它們發現資源豐富的星球，就會著陸並建造巨大的防禦塔和外星流浪艦隊通信。艦隊收到信號後會迅速趕來榨乾目標星球的一切資源——空氣、水、礦物，將它變成一顆沒有任何生命的死星。",
+    "ES" : "Los bichos de la isla de Java son exploradores de una enorme flota alienígena que vaga por el universo. Cada vez que los insectos encuentran un planeta rico en recursos, aterrizan y construyen enormes torres de defensa para comunicarse con la flota alienígena. Ante las señales, la flota vendrá rápidamente y exprimirá todos los recursos en ese planeta: aire, agua y minerales, convirtiéndolo en un planeta muerto sin vida.",
+    "AR" : "الحشرات في جزيرة جافا هي مستكشف لأسطول فضائي ضخم يتجول في الكون. عندما تجد الحشرات كوكبًا غنيًا بالموارد ، فإنها تهبط وتبني أبراجًا دفاعية ضخمة للتواصل مع الأسطول الفضائي. عند وجود إشارات ، سيأتي الأسطول بسرعة ويضغط على جميع الموارد على هذا الكوكب - الهواء والماء والمعادن ، مما يحولها إلى كوكب موت بدون أي حياة.",
+    "PT" : "Os insetos na Ilha de Java são o batedor de uma enorme frota alienígena vagando pelo universo. Sempre que os insetos encontram um planeta rico em recursos, eles pousam e constroem enormes torres de defesa para se comunicar com a frota alienígena. Após os sinais, a frota virá rapidamente e espremerá todos os recursos daquele planeta - ar, água e minerais, transformando-o em um planeta morto sem vida.",
+    "ID" : "Serangga di Pulau Jawa adalah pengintai armada alien besar yang berkeliaran di alam semesta. Setiap kali serangga menemukan planet yang kaya sumber daya, mereka mendarat dan membangun menara pertahanan besar untuk berkomunikasi dengan armada alien. Setelah sinyal, armada akan segera datang dan memeras semua sumber daya di planet itu - udara, air, dan mineral, mengubahnya menjadi planet kematian tanpa kehidupan.",
+    "FR" : "Les insectes de l&#39;île de Java sont les éclaireurs d&#39;une immense flotte extraterrestre errant dans l&#39;univers. Chaque fois que les insectes trouvent une planète riche en ressources, ils atterrissent et construisent d&#39;énormes tours de défense pour communiquer avec la flotte extraterrestre. Au signal, la flotte viendra rapidement et comprimera toutes les ressources de cette planète - air, eau et minéraux, la transformant en une planète morte sans aucune vie.",
+    "JA" : "ジャワ島のバグは、宇宙をさまよう巨大なエイリアンの艦隊のスカウトです。バグが資源の豊富な惑星を見つけるときはいつでも、彼らはエイリアンの艦隊と通信するために着陸して巨大な防御塔を建設します。信号が届くと、艦隊はすぐにやって来て、その惑星上のすべての資源（空気、水、鉱物）を圧迫し、生命のない死の惑星に変えます。",
+    "RU" : "Жуки на острове Ява — разведчики огромного инопланетного флота, блуждающего по вселенной. Всякий раз, когда жуки находят богатую ресурсами планету, они приземляются и строят огромные защитные башни для связи с инопланетным флотом. По сигналу флот быстро прибудет и выжмет все ресурсы на этой планете - воздух, воду и минералы, превратив ее в планету смерти без какой-либо жизни.",
+    "DE" : "Die Käfer auf Java Island sind Späher einer riesigen außerirdischen Flotte, die im Universum umherwandert. Immer wenn die Käfer einen rohstoffreichen Planeten finden, landen sie und bauen riesige Verteidigungstürme, um mit der außerirdischen Flotte zu kommunizieren. Auf Signale hin wird die Flotte schnell kommen und alle Ressourcen auf diesem Planeten - Luft, Wasser und Mineralien - zusammenpressen und ihn in einen Todesplaneten ohne Leben verwandeln.",
+    "KO" : "자바 섬의 버그는 우주를 떠도는 거대한 외계 함대의 정찰병입니다. 버그는 자원이 풍부한 행성을 찾을 때마다 착륙하고 외계 함대와 통신하기 위해 거대한 방어 타워를 건설합니다. 신호에 따라 함대는 신속하게 해당 행성의 모든 자원(공기, 물, 광물)을 짜내어 생명체가 없는 죽음의 행성으로 만듭니다.",
+    "IT" : "Gli insetti sull&#39;isola di Java sono esploratori di un&#39;enorme flotta aliena che vaga per l&#39;universo. Ogni volta che gli insetti trovano un pianeta ricco di risorse, atterrano e costruiscono enormi torri di difesa per comunicare con la flotta aliena. Sui segnali, la flotta arriverà rapidamente e spremerà tutte le risorse su quel pianeta: aria, acqua e minerali, trasformandolo in un pianeta della morte senza vita."
+  },
+  "format" : "HTML"
+}, {
+  "id" : "DestroyBugTowers",
+  "data" : {
+    "EN" : "The defense towers will be ready on full moon night and begin signaling the alien fleet.\nDestroying towers is not easy, as towers are heavily guarded and will attack anyone who comes close.\nThere are countless people in the world who have tried and failed.\nThe prophecy says that <span style='color:red'>The One</span> with power to vanquish the bugs is named <span style='color:red'>{0}</span>.\n",
+    "ZH_HANS" : "防御塔在月圆之夜前就会建造完毕，开始向外星舰队发射信号。摧毁防御塔并不是一件容易的事情，因为防御塔被重重保护，并且会攻击一切靠近的人。\n世上有无数人都曾经尝试过，但是都失败了。老夫夜观天象，预言说只有一个名为<span style='color:red'>{0}</span>的<span style='color:red'>救世主</span>才拥有彻底消灭虫子的能力。\n",
+    "ZH_HANT" : "防禦塔在月圓之夜前就會建造完畢，開始向外星艦隊發射信號。摧毀防禦塔並不是一件容易的事情，因為防禦塔被重重保護，並且會攻擊一切靠近的人。世上有無數人都曾經嘗試過，但是都失敗了。老夫夜觀天象，預言說只有一個名為<span style='color:red'>{0}</span>的<span style='color:red'>救世主</span>才擁有徹底消滅蟲子的能力。",
+    "ES" : "Las torres de defensa estarán listas en la noche de luna llena y comenzarán a señalar a la flota alienígena. Destruir torres no es fácil, ya que las torres están fuertemente protegidas y atacarán a cualquiera que se acerque. Hay innumerables personas en el mundo que lo han intentado y han fallado. La profecía dice que <span style='color:red'>El</span> que tiene poder para vencer a los insectos se llama <span style='color:red'>{0}</span> .",
+    "AR" : "ستكون أبراج الدفاع جاهزة في ليلة اكتمال القمر وتبدأ في إرسال إشارات للأسطول الفضائي. تدمير الأبراج ليس بالأمر السهل ، حيث أن الأبراج تخضع لحراسة مشددة وسوف تهاجم أي شخص يقترب منها. هناك عدد لا يحصى من الناس في العالم حاولوا وفشلوا. تقول النبوة أن <span style='color:red'>الشخص</span> الذي لديه القدرة على هزيمة الحشرات يسمى <span style='color:red'>{0}</span> .",
+    "PT" : "As torres de defesa estarão prontas na noite de lua cheia e começarão a sinalizar a frota alienígena. Destruir torres não é fácil, pois as torres são fortemente vigiadas e atacarão qualquer um que se aproxime. Existem inúmeras pessoas no mundo que tentaram e falharam. A profecia diz que <span style='color:red'>Aquele</span> com poder para derrotar os insetos se chama <span style='color:red'>{0}</span> .",
+    "ID" : "Menara pertahanan akan siap pada malam bulan purnama dan mulai memberi sinyal pada armada alien. Menghancurkan menara tidaklah mudah, karena menara dijaga ketat dan akan menyerang siapa saja yang mendekat. Ada banyak orang di dunia yang telah mencoba dan gagal. Ramalan mengatakan bahwa <span style='color:red'>Yang Esa</span> dengan kekuatan untuk mengalahkan serangga bernama <span style='color:red'>{0}</span> .",
+    "FR" : "Les tours de défense seront prêtes la nuit de la pleine lune et commenceront à signaler la flotte extraterrestre. Détruire des tours n&#39;est pas facile, car les tours sont fortement gardées et attaqueront tous ceux qui s&#39;en approchent. Il y a d&#39;innombrables personnes dans le monde qui ont essayé et échoué. La prophétie dit que <span style='color:red'>Celui</span> qui a le pouvoir de vaincre les insectes s&#39;appelle <span style='color:red'>{0}</span> .",
+    "JA" : "防衛塔は満月の夜に準備が整い、エイリアンの艦隊に信号を送り始めます。塔は厳重に守られており、近くにいる人を攻撃するため、塔を破壊するのは簡単ではありません。試みて失敗した人は世界中に無数にいます。予言によれば<span style='color:red'>、</span>バグを打ち負かす力を持つ者は<span style='color:red'>{0}</span>という名前です。",
+    "RU" : "Защитные башни будут готовы в ночь полнолуния и начнут сигнализировать инопланетному флоту. Уничтожать башни непросто, так как башни усиленно охраняются и атакуют любого, кто подойдет близко. В мире есть бесчисленное множество людей, которые пытались и потерпели неудачу. В пророчестве говорится, что <span style='color:red'>Того</span> , кто обладает силой победить жуков, зовут <span style='color:red'>{0}</span> .",
+    "DE" : "Die Verteidigungstürme werden in der Vollmondnacht bereit sein und beginnen, der außerirdischen Flotte Signale zu geben. Das Zerstören von Türmen ist nicht einfach, da Türme schwer bewacht sind und jeden angreifen, der sich ihnen nähert. Es gibt unzählige Menschen auf der Welt, die es versucht haben und gescheitert sind. Die Prophezeiung besagt, dass <span style='color:red'>der Eine</span> mit der Macht, die Käfer zu besiegen, <span style='color:red'>{0}</span> heißt.",
+    "KO" : "방어 타워는 보름달 밤에 준비되어 외계인 함대에 신호를 보내기 시작할 것입니다. 타워를 파괴하는 것은 쉽지 않습니다. 타워는 철저하게 보호되고 가까이 오는 모든 사람을 공격할 것이기 때문입니다. 세상에는 시도하고 실패한 사람이 셀 수 없이 많습니다. 예언에 따르면 벌레를 퇴치하는 능력을 가진 <span style='color:red'>자의</span> 이름은 <span style='color:red'>{0}</span> 입니다.",
+    "IT" : "Le torri di difesa saranno pronte nella notte di luna piena e inizieranno a segnalare la flotta aliena. Distruggere le torri non è facile, poiché le torri sono pesantemente sorvegliate e attaccheranno chiunque si avvicini. Ci sono innumerevoli persone nel mondo che ci hanno provato e hanno fallito. La profezia dice che <span style='color:red'>Colui</span> che ha il potere di sconfiggere gli insetti si chiama <span style='color:red'>{0}</span> ."
+  },
+  "format" : "HTML"
+}, {
+  "id" : "SoIOnlyNeedToDestroyTowers",
+  "data" : {
+    "EN" : "So I can vanquish the bugs by destroying defense towers?",
+    "ZH_HANS" : "所以我只要摧毁防御塔，就能消灭虫子了？",
+    "ZH_HANT" : "所以我只要摧毀防禦塔，就能消滅蟲子了？",
+    "ES" : "¿Entonces puedo vencer a los bichos destruyendo las torres de defensa?",
+    "AR" : "لذا يمكنني قهر الحشرات بتدمير أبراج الدفاع؟",
+    "PT" : "Para que eu possa derrotar os insetos destruindo as torres de defesa?",
+    "ID" : "Jadi saya bisa mengalahkan serangga dengan menghancurkan menara pertahanan?",
+    "FR" : "Pour vaincre les insectes en détruisant les tours de défense ?",
+    "JA" : "だから私は防衛塔を破壊することでバグを打ち負かすことができますか？",
+    "RU" : "Значит, я могу победить жуков, уничтожив оборонительные башни?",
+    "DE" : "Also kann ich die Käfer besiegen, indem ich Verteidigungstürme zerstöre?",
+    "KO" : "방어 타워를 파괴하여 버그를 무찌를 수 있습니까?",
+    "IT" : "Quindi posso sconfiggere gli insetti distruggendo le torri di difesa?"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "BugsInCastle",
+  "data" : {
+    "EN" : "No, destroying defense towers only prevents the bugs from communicating with the fleet.\nThe bug mastermind is in <span style='color:red'>{0}</span> castle, which must be eliminated to avoid all later troubles.\n",
+    "ZH_HANS" : "不，摧毁防御塔只是阻止了虫子和舰队通信，虫子的主脑在<span style='color:red'>{0}</span>坐标的城堡里，必须彻底消灭它才能永绝后患。",
+    "ZH_HANT" : "不，摧毀防禦塔只是阻止了蟲子和艦隊通信，蟲子的主腦在<span style='color:red'>{0}</span>坐標的城堡裡，必須徹底消滅它才能永絕後患。",
+    "ES" : "No, destruir las torres de defensa solo evita que los bichos se comuniquen con la flota. El autor intelectual del error está en el castillo <span style='color:red'>{0}</span> , que debe eliminarse para evitar todos los problemas posteriores.",
+    "AR" : "لا ، تدمير الأبراج الدفاعية يمنع فقط الحشرات من التواصل مع الأسطول. العقل المدبر للخطأ موجود في قلعة <span style='color:red'>{0}</span> ، والتي يجب القضاء عليها لتجنب كل المشاكل اللاحقة.",
+    "PT" : "Não, destruir torres de defesa apenas impede que os insetos se comuniquem com a frota. O mentor do bug está no castelo <span style='color:red'>{0}</span> , que deve ser eliminado para evitar todos os problemas posteriores.",
+    "ID" : "Tidak, menghancurkan menara pertahanan hanya mencegah serangga berkomunikasi dengan armada. Dalang bug ada di <span style='color:red'>{0}</span> kastil, yang harus dihilangkan untuk menghindari semua masalah di kemudian hari.",
+    "FR" : "Non, détruire les tours de défense empêche uniquement les insectes de communiquer avec la flotte. Le cerveau du bogue est dans le château <span style='color:red'>{0}</span> , qui doit être éliminé pour éviter tous les problèmes ultérieurs.",
+    "JA" : "いいえ、防御塔を破壊すると、バグが艦隊と通信するのを防ぐだけです。バグの首謀者は<span style='color:red'>{0}</span>城にいます。これは、後のトラブルをすべて回避するために排除する必要があります。",
+    "RU" : "Нет, разрушение защитных башен только мешает жукам общаться с флотом. Вдохновитель ошибки находится в замке <span style='color:red'>{0}</span> , который необходимо разрушить, чтобы избежать последующих неприятностей.",
+    "DE" : "Nein, die Zerstörung von Verteidigungstürmen verhindert nur, dass die Käfer mit der Flotte kommunizieren. Der Bug-Mastermind befindet sich im Schloss <span style='color:red'>{0}</span> , das eliminiert werden muss, um alle späteren Probleme zu vermeiden.",
+    "KO" : "아니요, 방어 타워를 파괴하면 버그가 함대와 통신하는 것을 막을 수 있습니다. 버그의 주모자는 <span style='color:red'>{0}</span> 성에 있으며, 이후의 모든 문제를 피하기 위해 제거해야 합니다.",
+    "IT" : "No, la distruzione delle torri di difesa impedisce solo agli insetti di comunicare con la flotta. La mente del bug è nel castello di <span style='color:red'>{0}</span> , che deve essere eliminato per evitare tutti i problemi successivi."
+  },
+  "format" : "HTML"
+}, {
+  "id" : "IWillGoNow",
+  "data" : {
+    "EN" : "I see. I will go right now.",
+    "ZH_HANS" : "我知道了，我现在就去。",
+    "ZH_HANT" : "我知道了，我現在就去。",
+    "ES" : "Veo. Iré ahora mismo.",
+    "AR" : "أرى. سأذهب الآن.",
+    "PT" : "Eu vejo. Eu vou agora mesmo.",
+    "ID" : "Jadi begitu. Aku akan pergi sekarang.",
+    "FR" : "Je vois. J&#39;irai tout de suite.",
+    "JA" : "そうですか。今すぐ行きます。",
+    "RU" : "Я понимаю. Я пойду прямо сейчас.",
+    "DE" : "Ich verstehe. Ich werde gleich gehen.",
+    "KO" : "내가 참조. 지금 바로 가겠습니다.",
+    "IT" : "Vedo. andrò subito."
+  },
+  "format" : "HTML"
+}, {
+  "id" : "GoodLuckFateOfWorldInYourHands",
+  "data" : {
+    "EN" : "Good luck. The fate of the world is in your hands.",
+    "ZH_HANS" : "祝你好运，世界的命运在你手中。",
+    "ZH_HANT" : "祝你好運，世界的命運在你手中。",
+    "ES" : "Buena suerte. El destino del mundo está en tus manos.",
+    "AR" : "حظا طيبا وفقك الله. مصير العالم بين يديك.",
+    "PT" : "Boa sorte. O destino do mundo está em suas mãos.",
+    "ID" : "Semoga berhasil. Nasib dunia ada di tangan Anda.",
+    "FR" : "Bonne chance. Le destin du monde est entre vos mains.",
+    "JA" : "幸運を。世界の運命はあなたの手の中にあります。",
+    "RU" : "Удачи. Судьба мира в ваших руках.",
+    "DE" : "Viel Glück. Das Schicksal der Welt liegt in deinen Händen.",
+    "KO" : "행운을 빕니다. 세상의 운명은 당신의 손에 달려 있습니다.",
+    "IT" : "Buona fortuna. Il destino del mondo è nelle tue mani."
+  },
+  "format" : "HTML"
+}, {
+  "id" : "RememberDestroyTowers",
+  "data" : {
+    "EN" : "Remember, destroy defense towers, and eliminate the Bug Mastermind in <span style='color:red'>{0}</span> castle.",
+    "ZH_HANS" : "记住，摧毁爪哇岛上的防御塔，消灭<span style='color:red'>{0}</span>城堡里的虫子主脑。",
+    "ZH_HANT" : "記住，摧毀爪哇島上的防禦塔，消滅<span style='color:red'>{0}</span>城堡裡的蟲子主腦。",
+    "ES" : "Recuerda, destruye las torres de defensa y elimina al Bug Mastermind en el castillo <span style='color:red'>{0}</span> .",
+    "AR" : "تذكر ، ودمر أبراج الدفاع ، واقض على Bug Mastermind في قلعة <span style='color:red'>{0}</span> .",
+    "PT" : "Lembre-se, destrua as torres de defesa e elimine o Bug Mastermind no castelo <span style='color:red'>{0}</span> .",
+    "ID" : "Ingat, hancurkan menara pertahanan, dan singkirkan Bug Mastermind di <span style='color:red'>{0}</span> kastil.",
+    "FR" : "N&#39;oubliez pas, détruisez les tours de défense et éliminez le Bug Mastermind dans le château <span style='color:red'>{0}</span> .",
+    "JA" : "覚えておいてください、防御塔を破壊し、 <span style='color:red'>{0}</span>城のバグ首謀者を排除してください。",
+    "RU" : "Помните, разрушьте оборонительные башни и уничтожьте Вдохновителя Жуков в замке <span style='color:red'>{0}</span> .",
+    "DE" : "Denken Sie daran, zerstören Sie Verteidigungstürme und eliminieren Sie den Käfer-Mastermind im Schloss <span style='color:red'>{0}</span> .",
+    "KO" : "기억하십시오. 방어 타워를 파괴하고 <span style='color:red'>{0}</span> 성의 벌레 주동자를 제거하십시오.",
+    "IT" : "Ricorda, distruggi le torri di difesa ed elimina Bug Mastermind nel castello di <span style='color:red'>{0}</span> ."
+  },
+  "format" : "HTML"
 }, {
   "id" : "WhereToFindStar",
   "data" : {
@@ -413,183 +593,75 @@
   },
   "format" : "HTML"
 }, {
-  "id" : "ImSupposedToDoSomething",
+  "id" : "OutsideWorldIsDangerous",
   "data" : {
-    "EN" : "I'm supposed to do something, but the author hasn't finished the code...",
-    "ZH_HANS" : "我本来应该做点什么的，但是作者还没写完这部分的代码……",
-    "ZH_HANT" : "我本來應該做點什麼的，但是作者還沒寫完這部分的代碼……",
-    "ES" : "Se supone que debo hacer algo, pero el autor no ha terminado el código ...",
-    "AR" : "من المفترض أن أفعل شيئًا ، لكن المؤلف لم يكمل الكود ...",
-    "PT" : "Devo fazer algo, mas o autor não terminou o código ...",
-    "ID" : "Saya seharusnya melakukan sesuatu, tetapi penulis belum menyelesaikan kodenya ...",
-    "FR" : "Je suis censé faire quelque chose, mais l'auteur n'a pas fini le code...",
-    "JA" : "私は何かをすることになっていますが、作者はコードを完成させていません...",
-    "RU" : "Я должен что-то сделать, но автор не доделал код ...",
-    "DE" : "Ich soll etwas tun, aber der Autor hat den Code noch nicht fertig...",
-    "KO" : "내가 뭔가를 해야 하는데 작성자가 코드를 완성하지 않았어...",
-    "IT" : "Dovrei fare qualcosa, ma l'autore non ha finito il codice..."
+    "EN" : "Where are you going? The outside world is full of dangerous monsters, evils,  ... and poisonous alien bugs.",
+    "ZH_HANS" : "你要去哪儿？外面的世界充满了危险，到处都是怪物、恶魔……以及有毒的外星虫子。",
+    "ZH_HANT" : "你要去哪兒？外面的世界充滿了危險，到處都是怪物、惡魔……以及有毒的外星蟲子。",
+    "ES" : "¿Adónde vas? El mundo exterior está lleno de peligrosos monstruos, males... y bichos alienígenas venenosos.",
+    "AR" : "إلى أين تذهب؟ العالم الخارجي مليء بالوحوش الخطيرة والشرور ... والبق الفضائي السام.",
+    "PT" : "Onde você está indo? O mundo exterior está cheio de monstros perigosos, males... e insetos alienígenas venenosos.",
+    "ID" : "Kemana kamu pergi? Dunia luar penuh dengan monster berbahaya, kejahatan, ... dan serangga asing beracun.",
+    "FR" : "Où allez-vous? Le monde extérieur est plein de monstres dangereux, de maux, ... et d&#39;insectes extraterrestres venimeux.",
+    "JA" : "どこに行くの？外の世界は危険なモンスター、悪、...そして有毒なエイリアンの虫でいっぱいです。",
+    "RU" : "Куда ты направляешься? Внешний мир полон опасных монстров, зла, ... и ядовитых инопланетных жуков.",
+    "DE" : "Wohin gehst du? Die Außenwelt ist voller gefährlicher Monster, Übel, ... und giftiger außerirdischer Käfer.",
+    "KO" : "어디 가세요? 외부 세계는 위험한 괴물, 악, ... 그리고 유독한 외계인 벌레로 가득합니다.",
+    "IT" : "Dove stai andando? Il mondo esterno è pieno di mostri pericolosi, mali, ... e insetti alieni velenosi."
+  },
+  "format" : "HTML"
+}, {
+  "id" : "WouldTheBugsDisappear",
+  "data" : {
+    "EN" : "Would the alien bugs disappear if I do nothing but sit at home all day?",
+    "ZH_HANS" : "难道我整天坐在家里，外星虫子就会凭空消失吗？",
+    "ZH_HANT" : "難道我整天坐在家裡，外星蟲子就會憑空消失嗎？",
+    "ES" : "¿Desaparecerían los insectos alienígenas si no hago nada más que sentarme en casa todo el día?",
+    "AR" : "هل ستختفي الحشرات الغريبة إذا لم أفعل شيئًا سوى الجلوس في المنزل طوال اليوم؟",
+    "PT" : "Os insetos alienígenas desapareceriam se eu não fizesse nada além de ficar em casa o dia todo?",
+    "ID" : "Apakah serangga alien akan hilang jika saya tidak melakukan apa-apa selain duduk di rumah sepanjang hari?",
+    "FR" : "Les insectes extraterrestres disparaîtraient-ils si je ne faisais que rester assis à la maison toute la journée ?",
+    "JA" : "一日中家に座っているだけでエイリアンの虫は消えますか？",
+    "RU" : "Исчезнут ли инопланетные жуки, если я ничего не буду делать, кроме как сидеть дома весь день?",
+    "DE" : "Würden die außerirdischen Käfer verschwinden, wenn ich den ganzen Tag nur zu Hause sitze?",
+    "KO" : "하루 종일 집에만 있는 것 외에는 아무것도 하지 않으면 외계인 벌레가 사라질까요?",
+    "IT" : "Gli insetti alieni scomparirebbero se non facessi altro che stare seduto a casa tutto il giorno?"
   },
   "format" : "TEXT"
 }, {
-  "id" : "OutsideWorldIsDangerous",
+  "id" : "LeaveYourName",
   "data" : {
-    "EN" : "Where are you going? The outside world is full of dangerous monsters, evils ... and <span style='color:red'>poisonous <span class='notranslate'>bugs</span></span>.",
-    "ZH_HANS" : "你要去哪儿？外面的世界充满了危险，到处都是怪物、恶魔……以及<span style='color:red'>有毒的幺蛾子</span>。",
-    "ZH_HANT" : "你要去哪兒？外面的世界充滿了危險，到處都是怪物、惡魔……以及",
-    "ES" : "¿Adónde vas? El mundo exterior está lleno de monstruos peligrosos, males ... e <span style='color:red'><span class='notranslate'>bugs</span> venenosos</span> .",
-    "AR" : "إلى أين تذهب؟ العالم الخارجي مليء بالوحوش الخطيرة والشرور ... <span style='color:red'><span class='notranslate'>bugs</span> السام</span> .",
-    "PT" : "Onde você está indo? O mundo exterior está cheio de monstros perigosos, males ... e <span style='color:red'><span class='notranslate'>bugs</span> venenosos</span> .",
-    "ID" : "Kemana kamu pergi? Dunia luar penuh dengan monster berbahaya, kejahatan ... dan <span style='color:red'><span class='notranslate'>bugs</span> beracun</span> .",
-    "FR" : "Où allez-vous? Le monde extérieur regorge de monstres dangereux, de maux... et d&#39; <span style='color:red'><span class='notranslate'>bugs</span> venimeux</span> .",
-    "JA" : "どこに行くの？外の世界は危険なモンスター、悪...そして<span style='color:red'>有毒な<span class='notranslate'>bugs</span></span>いっぱいです。",
-    "RU" : "Куда ты направляешься? Внешний мир полон опасных монстров, зла ... и <span style='color:red'>ядовитых <span class='notranslate'>bugs</span></span> .",
-    "DE" : "Wo gehst du hin? Die Außenwelt ist voller gefährlicher Monster, Übel ... und <span style='color:red'>giftiger <span class='notranslate'>bugs</span></span> .",
-    "KO" : "어디 가세요? 외부 세계는 위험한 괴물, 악, 그리고 <span style='color:red'>유독한 <span class='notranslate'>bugs</span></span> 로 가득 차 있습니다.",
-    "IT" : "Dove stai andando? Il mondo esterno è pieno di mostri pericolosi, mali... e <span style='color:red'><span class='notranslate'>bugs</span> velenosi</span> ."
+    "EN" : "... You are right. Brave person, if you insist, leave your name on the noticeboard at coordinate <span style='color:red'>{0}</span>, we'll remember your forever.",
+    "ZH_HANS" : "……你是对的。勇敢的人啊，如果你非要去，请在<span style='color:red'>{0}</span>坐标的公告牌留下你的名字吧，你会永远活在我们心中的。",
+    "ZH_HANT" : "……你是對的。勇敢的人啊，如果你非要去，請在<span style='color:red'>{0}</span>坐標的公告牌留下你的名字吧，你會永遠活在我們心中的。",
+    "ES" : "... Tienes razón. Valiente, si insistes, deja tu nombre en el tablón de anuncios en la coordenada <span style='color:red'>{0}</span> , te recordaremos para siempre.",
+    "AR" : "... أنت محق. أيها الشخص الشجاع ، إذا أصررت ، اترك اسمك على لوحة الملاحظات عند التنسيق <span style='color:red'>{0}</span> ، سنتذكر اسمك إلى الأبد.",
+    "PT" : "... Você está certo. Corajosa pessoa, se insiste, deixe seu nome no quadro de avisos na coordenada <span style='color:red'>{0}</span> , lembraremos do seu para sempre.",
+    "ID" : "... Kamu benar. Orang pemberani, jika Anda bersikeras, tinggalkan nama Anda di papan pengumuman di koordinat <span style='color:red'>{0}</span> , kami akan mengingat Anda selamanya.",
+    "FR" : "... Vous avez raison. Courageux, si tu insistes, laisse ton nom sur le panneau d&#39;affichage à la coordonnée <span style='color:red'>{0}</span> , nous nous souviendrons de toi pour toujours.",
+    "JA" : "... あなたが正しいです。勇敢な人、あなたが主張するなら、あなたの名前を座標<span style='color:red'>{0}</span>の掲示板に残してください、私たちはあなたを永遠に覚えています。",
+    "RU" : "... Ты прав. Храбрый человек, если ты настаиваешь, оставь свое имя на доске объявлений по координате <span style='color:red'>{0}</span> , мы запомним тебя навсегда.",
+    "DE" : "... Sie haben Recht. Tapfere Person, wenn Sie darauf bestehen, hinterlassen Sie Ihren Namen an der Pinnwand bei Koordinate <span style='color:red'>{0}</span> , wir werden uns für immer an Ihren erinnern.",
+    "KO" : "... 당신 말이 맞아. 용감한 분, 원하시면 게시판 좌표 <span style='color:red'>{0}</span> 에 이름을 남겨주시면 영원히 기억하겠습니다.",
+    "IT" : "... Hai ragione. Persona coraggiosa, se insisti, lascia il tuo nome in bacheca alle coordinate <span style='color:red'>{0}</span> , ti ricorderemo per sempre."
   },
   "format" : "HTML"
 }, {
   "id" : "OutsideWorldIsDangerousButIHaveToLetYouGo",
   "data" : {
-    "EN" : "Even though the outside world is full of dangerous monsters, evils ... and <span style='color:red'>poisonous <span class='notranslate'>bugs</span></span>, I have to let you go.",
-    "ZH_HANS" : "虽然外面的世界充满了危险，到处都是怪物、恶魔……以及<span style='color:red'>有毒的幺蛾子</span>，但是我还是得让你过去。",
-    "ZH_HANT" : "雖然外面的世界充滿了危險，到處都是怪物、惡魔……以及",
-    "ES" : "Aunque el mundo exterior está lleno de monstruos peligrosos, males ... e <span style='color:red'><span class='notranslate'>bugs</span> venenosos</span> , tengo que dejarte ir.",
-    "AR" : "على الرغم من أن العالم الخارجي مليء بالوحوش الخطيرة والشرور ... <span style='color:red'><span class='notranslate'>bugs</span> السام</span> ، يجب أن أتركك تذهب.",
-    "PT" : "Mesmo que o mundo exterior esteja cheio de monstros perigosos, males ... e <span style='color:red'><span class='notranslate'>bugs</span> venenosos</span> , eu tenho que deixar você ir.",
-    "ID" : "Meskipun dunia luar penuh dengan monster berbahaya, kejahatan ... dan <span style='color:red'><span class='notranslate'>bugs</span> beracun</span> , aku harus melepaskanmu.",
-    "FR" : "Même si le monde extérieur regorge de monstres dangereux, de maux... et d&#39; <span style='color:red'><span class='notranslate'>bugs</span> venimeux</span> , je dois vous laisser partir.",
-    "JA" : "外の世界は危険なモンスター、悪、そして<span style='color:red'>有毒な<span class='notranslate'>bugs</span></span>でいっぱいですが、私はあなたを手放さなければなりません。",
-    "RU" : "Несмотря на то, что внешний мир полон опасных монстров, зла ... и <span style='color:red'>ядовитых <span class='notranslate'>bugs</span></span> , я должен тебя отпустить.",
-    "DE" : "Auch wenn die Außenwelt voller gefährlicher Monster, Übel ... und <span style='color:red'>giftiger <span class='notranslate'>bugs</span></span> , muss ich dich gehen lassen.",
-    "KO" : "바깥세상이 위험한 몬스터와 악마, 그리고 <span style='color:red'>독이 <span class='notranslate'>bugs</span></span> 로 가득 차 있지만, 나는 당신을 보내야 합니다.",
-    "IT" : "Anche se il mondo esterno è pieno di mostri pericolosi, mali... e <span style='color:red'><span class='notranslate'>bugs</span> velenosi</span> , devo lasciarti andare."
-  },
-  "format" : "HTML"
-}, {
-  "id" : "ButIHaveToDoSomething",
-  "data" : {
-    "EN" : "But I have to do something, to eradicate the bugs, I don't want to stay at home all the time!",
-    "ZH_HANS" : "但是我必须做点什么终结所有的幺蛾子！我不想整天呆在家里！",
-    "ZH_HANT" : "但是我必須做點什麼終結所有的么蛾子！我不想整天呆在家裡！",
-    "ES" : "Pero tengo que hacer algo, para erradicar los bichos, ¡no quiero quedarme en casa todo el tiempo!",
-    "AR" : "لكن علي أن أفعل شيئًا ، للقضاء على الحشرات ، لا أريد البقاء في المنزل طوال الوقت!",
-    "PT" : "Mas eu tenho que fazer alguma coisa, para erradicar os bichinhos, não quero ficar em casa o tempo todo!",
-    "ID" : "Tapi saya harus melakukan sesuatu, untuk membasmi serangga, saya tidak ingin tinggal di rumah sepanjang waktu!",
-    "FR" : "Mais je dois faire quelque chose, éradiquer les bugs, je ne veux pas rester à la maison tout le temps !",
-    "JA" : "しかし、私は何かをしなければなりません、バグを根絶するために、私はいつも家にいたくないです！",
-    "RU" : "Но мне нужно что-то делать, чтобы искоренить ошибки, я не хочу все время сидеть дома!",
-    "DE" : "Aber ich muss etwas tun, um die Käfer auszurotten, ich möchte nicht die ganze Zeit zu Hause bleiben!",
-    "KO" : "하지만 버그를 없애기 위해 뭔가를 해야 합니다. 항상 집에 있고 싶지 않아요!",
-    "IT" : "Ma devo fare qualcosa, per debellare gli insetti, non voglio stare tutto il tempo a casa!"
-  },
-  "format" : "TEXT"
-}, {
-  "id" : "YouCanFindHolyJavaCoffee",
-  "data" : {
-    "EN" : "There is a way... you can find <span style='color:red'>Holy Java Coffee</span> in the castle at <span style='color:red'>{0}</span>...",
-    "ZH_HANS" : "有一个办法……在<span style='color:red'>{0}坐标</span>的城堡里有<span style='color:red'>神圣爪哇咖啡</span>……",
-    "ZH_HANT" : "有一個辦法……在",
-    "ES" : "Hay una manera ... puedes encontrar <span style='color:red'>Holy Java Coffee</span> en el castillo en <span style='color:red'>{0}</span> ...",
-    "AR" : "هناك طريقة ... يمكنك العثور على <span style='color:red'>قهوة جافا المقدسة</span> في القلعة في <span style='color:red'>{0}</span> ...",
-    "PT" : "Há uma maneira ... você pode encontrar <span style='color:red'>Holy Java Coffee</span> no castelo em <span style='color:red'>{0}</span> ...",
-    "ID" : "Ada caranya... Anda bisa menemukan <span style='color:red'>Kopi Jawa Suci</span> di kastil di <span style='color:red'>{0}</span> ...",
-    "FR" : "Il existe un moyen... vous pouvez trouver du <span style='color:red'>café Holy Java</span> dans le château à <span style='color:red'>{0}</span> ...",
-    "JA" : "方法があります...あなたは<span style='color:red'>{0}の</span>城で<span style='color:red'>聖なるジャワコーヒー</span>を見つけることができます...",
-    "RU" : "Есть способ ... вы можете найти <span style='color:red'>Holy Java Coffee</span> в замке на <span style='color:red'>{0}</span> ...",
-    "DE" : "Es gibt einen Weg ... Sie finden <span style='color:red'>Holy Java Coffee</span> im Schloss bei <span style='color:red'>{0}</span> ...",
-    "KO" : "방법이 있습니다... <span style='color:red'>{0}</span> 의 성에서 <span style='color:red'>Holy Java Coffee</span> 를 찾을 수 있습니다 ...",
-    "IT" : "C&#39;è un modo... puoi trovare <span style='color:red'>Holy Java Coffee</span> nel castello a <span style='color:red'>{0}</span> ..."
-  },
-  "format" : "HTML"
-}, {
-  "id" : "HolyJavaCoffeeIsAntidote",
-  "data" : {
-    "EN" : "which is the antidote of <span style='color:red'>poisonous <span class='notranslate'>bugs</span></span>.",
-    "ZH_HANS" : "是<span style='color:red'>有毒的幺蛾子</span>的克星。",
-    "ZH_HANT" : "是",
-    "ES" : "que es el antídoto de <span style='color:red'>los <span class='notranslate'>bugs</span></span> venenosos.",
-    "AR" : "وهو ترياق <span style='color:red'><span class='notranslate'>bugs</span> السامة</span> .",
-    "PT" : "que é o antídoto para <span style='color:red'><span class='notranslate'>bugs</span> venenosos</span> .",
-    "ID" : "yang merupakan penangkal <span style='color:red'><span class='notranslate'>bugs</span> beracun</span> .",
-    "FR" : "qui est l&#39;antidote <span style='color:red'>des <span class='notranslate'>bugs</span></span> venimeux.",
-    "JA" : "<span style='color:red'>これは有毒な<span class='notranslate'>bugs</span></span>の解毒剤です。",
-    "RU" : "который является противоядием от <span style='color:red'>ядовитых <span class='notranslate'>bugs</span></span> .",
-    "DE" : "das ist das Gegenmittel von <span style='color:red'>giftigen <span class='notranslate'>bugs</span></span> .",
-    "KO" : "<span style='color:red'>이것은 유독한 <span class='notranslate'>bugs</span></span> 의 해독제입니다.",
-    "IT" : "che è l&#39;antidoto degli <span style='color:red'><span class='notranslate'>bugs</span> velenosi</span> ."
-  },
-  "format" : "HTML"
-}, {
-  "id" : "ButYouHaveToGoThroughJavaIsland",
-  "data" : {
-    "EN" : "But you have to go through Java island, with dangerous bugs all over the island.",
-    "ZH_HANS" : "但是你必须穿越满是危险幺蛾子的爪哇岛。",
-    "ZH_HANT" : "但是你必須穿越滿是危險么蛾子的爪哇島。",
-    "ES" : "Pero tienes que atravesar la isla de Java, con insectos peligrosos por toda la isla.",
-    "AR" : "ولكن عليك المرور عبر جزيرة جافا ، مع وجود حشرات خطيرة في جميع أنحاء الجزيرة.",
-    "PT" : "Mas você tem que passar pela ilha de Java, com insetos perigosos por toda a ilha.",
-    "ID" : "Tapi Anda harus melewati pulau Jawa, dengan serangga berbahaya di seluruh pulau.",
-    "FR" : "Mais vous devez passer par l'île de Java, avec des insectes dangereux partout sur l'île.",
-    "JA" : "しかし、島中に危険なバグがあるジャワ島を通過する必要があります。",
-    "RU" : "Но вам предстоит пройти остров Ява, по всему острову обитают опасные жуки.",
-    "DE" : "Aber Sie müssen durch die Insel Java gehen, mit gefährlichen Käfern auf der ganzen Insel.",
-    "KO" : "하지만 섬 전체에 위험한 버그가 있는 자바 섬을 통과해야 합니다.",
-    "IT" : "Ma devi attraversare l'isola di Giava, con insetti pericolosi in tutta l'isola."
-  },
-  "format" : "TEXT"
-}, {
-  "id" : "WithItICanDate",
-  "data" : {
-    "EN" : "So with <span style='color:red'>Holy Java Coffee</span> I can date girls, I mean, heal the world?",
-    "ZH_HANS" : "所以有了<span style='color:red'>神圣爪哇咖啡</span>我就可以和女孩子约会……我的意思是……拯救世界了？",
-    "ZH_HANT" : "所以有了",
-    "ES" : "Entonces, con <span style='color:red'>Holy Java Coffee</span> puedo salir con chicas, quiero decir, ¿curar el mundo?",
-    "AR" : "لذا مع <span style='color:red'>قهوة جافا المقدسة</span> يمكنني مواعدة الفتيات ، أعني ، شفاء العالم؟",
-    "PT" : "Então, com o <span style='color:red'>Holy Java Coffee</span> eu posso namorar garotas, quer dizer, curar o mundo?",
-    "ID" : "Jadi dengan <span style='color:red'>Kopi Jawa Suci</span> saya bisa berkencan dengan gadis, maksud saya, menyembuhkan dunia?",
-    "FR" : "Donc, avec <span style='color:red'>Holy Java Coffee,</span> je peux sortir avec des filles, je veux dire, guérir le monde ?",
-    "JA" : "だから、<span style='color:red'>ホーリージャバコーヒーで</span>私は女の子とデートすることができます、つまり、世界を癒しますか？",
-    "RU" : "Так что с <span style='color:red'>Holy Java Coffee</span> я могу встречаться с девушками, я имею в виду, исцелять мир?",
-    "DE" : "Also mit <span style='color:red'>Holy Java Coffee</span> kann ich mit Mädchen ausgehen, ich meine, die Welt heilen?",
-    "KO" : "그래서 <span style='color:red'>홀리 자바 커피로</span> 여자와 데이트를 할 수 있습니다. 세상을 치유할 수 있을까요?",
-    "IT" : "Quindi con <span style='color:red'>Holy Java Coffee</span> posso uscire con le ragazze, voglio dire, guarire il mondo?"
-  },
-  "format" : "HTML"
-}, {
-  "id" : "LeaveYourName",
-  "data" : {
-    "EN" : "Yes... brave person, if you insist, leave your name on the noticeboard at coordinate <span style='color:red'>{0}</span>, we'll remember your forever.",
-    "ZH_HANS" : "是的。勇敢的人啊，如果你非要去，请在<span style='color:red'>{0}</span>坐标的公告牌留下你的名字吧，你会永远活在我们心中的。",
-    "ZH_HANT" : "是的。勇敢的人啊，如果你非要去，請在",
-    "ES" : "Sí ... valiente, si insistes, deja tu nombre en el tablón de anuncios en la coordenada <span style='color:red'>{0}</span> , te recordaremos para siempre.",
-    "AR" : "نعم ... أيها الشخص الشجاع ، إذا أصررت ، اترك اسمك على لوحة الملاحظات عند التنسيق <span style='color:red'>{0}</span> ، سنتذكر اسمك إلى الأبد.",
-    "PT" : "Sim ... pessoa corajosa, se você insiste, deixe seu nome no quadro de avisos na coordenada <span style='color:red'>{0}</span> , nós nos lembraremos do seu para sempre.",
-    "ID" : "Ya... orang pemberani, jika Anda bersikeras, tinggalkan nama Anda di papan pengumuman di koordinat <span style='color:red'>{0}</span> , kami akan mengingat Anda selamanya.",
-    "FR" : "Oui... brave personne, si vous insistez, laissez votre nom sur le tableau d&#39;affichage aux coordonnées <span style='color:red'>{0}</span> , nous nous souviendrons de vous pour toujours.",
-    "JA" : "はい...勇敢な人、あなたが主張するなら、座標<span style='color:red'>{0}の</span>掲示板にあなたの名前を残してください、私たちはあなたを永遠に覚えています。",
-    "RU" : "Да ... храбрый человек, если вы будете настаивать, оставьте свое имя на доске объявлений с координатой <span style='color:red'>{0}</span> , мы будем помнить ваше навсегда.",
-    "DE" : "Ja... mutiger Mensch, wenn Sie darauf bestehen, hinterlassen Sie Ihren Namen auf dem Schwarzen Brett bei der Koordinate <span style='color:red'>{0}</span> , wir werden uns für immer an Ihren erinnern.",
-    "KO" : "예... 용감한 사람이요, 고집하면 게시판 좌표 <span style='color:red'>{0}</span> 에 이름을 남겨 주시면 영원히 기억하겠습니다.",
-    "IT" : "Sì... persona coraggiosa, se insisti, lascia il tuo nome in bacheca alle coordinate <span style='color:red'>{0}</span> , ti ricorderemo per sempre."
-  },
-  "format" : "HTML"
-}, {
-  "id" : "GoodLuckPursueHolyJavaCoffee",
-  "data" : {
-    "EN" : "Good luck pursuing <span style='color:red'>Holy Java Coffee</span>!",
-    "ZH_HANS" : "祝你追寻<span style='color:red'>神圣爪哇咖啡</span>好运！",
-    "ZH_HANT" : "祝你追尋",
-    "ES" : "¡Buena suerte persiguiendo <span style='color:red'>Holy Java Coffee</span> !",
-    "AR" : "حظًا سعيدًا في متابعة <span style='color:red'>قهوة جافا المقدسة</span> !",
-    "PT" : "Boa sorte perseguindo <span style='color:red'>Holy Java Coffee</span> !",
-    "ID" : "Selamat mengejar <span style='color:red'>Kopi Jawa Suci</span> !",
-    "FR" : "Bonne chance pour la poursuite du <span style='color:red'>Holy Java Coffee</span> !",
-    "JA" : "<span style='color:red'>ホーリージャバコーヒー</span>を追求して頑張ってください！",
-    "RU" : "Удачи в поисках <span style='color:red'>Holy Java Coffee</span> !",
-    "DE" : "Viel Glück bei der Verfolgung von <span style='color:red'>Holy Java Coffee</span> !",
-    "KO" : "<span style='color:red'>Holy Java Coffee를</span> 추구하는 행운을 빕니다!",
-    "IT" : "Buona fortuna a perseguire <span style='color:red'>Holy Java Coffee</span> !"
+    "EN" : "Even though the outside world is full of dangerous monsters, evils, and poisonous alien bugs., I have to let you go.",
+    "ZH_HANS" : "虽然外面的世界充满了危险，到处都是怪物、恶魔以及有毒的外星虫子，但是我还是得让你过去。",
+    "ZH_HANT" : "雖然外面的世界充滿了危險，到處都是怪物、惡魔以及有毒的外星蟲子，但是我還是得讓你過去。",
+    "ES" : "A pesar de que el mundo exterior está lleno de monstruos peligrosos, males y bichos alienígenas venenosos, tengo que dejarte ir.",
+    "AR" : "على الرغم من أن العالم الخارجي مليء بالوحوش الخطرة والشرور والحشرات الفضائية السامة ، يجب أن أتركك تذهب.",
+    "PT" : "Mesmo que o mundo exterior esteja cheio de monstros perigosos, males e insetos alienígenas venenosos, eu tenho que deixar você ir.",
+    "ID" : "Meskipun dunia luar penuh dengan monster berbahaya, kejahatan, dan serangga asing beracun., Aku harus melepaskanmu.",
+    "FR" : "Même si le monde extérieur est plein de monstres dangereux, de démons et d&#39;insectes extraterrestres venimeux, je dois te laisser partir.",
+    "JA" : "外の世界は危険なモンスター、悪、そして有毒なエイリアンの虫でいっぱいですが、私はあなたを手放さなければなりません。",
+    "RU" : "Несмотря на то, что внешний мир полон опасных монстров, зла и ядовитых инопланетных жуков, я должен отпустить тебя.",
+    "DE" : "Obwohl die Außenwelt voller gefährlicher Monster, Übel und giftiger außerirdischer Käfer ist, muss ich dich gehen lassen.",
+    "KO" : "바깥세상이 위험한 몬스터와 악마, 그리고 유독한 외계인 벌레로 가득 차 있지만, 나는 당신을 보내야 합니다.",
+    "IT" : "Anche se il mondo esterno è pieno di mostri pericolosi, mali e insetti alieni velenosi, devo lasciarti andare."
   },
   "format" : "HTML"
 }, {
@@ -3653,57 +3725,93 @@
   },
   "format" : "HTML"
 }, {
-  "id" : "YouMustGetBronzeGitMedal",
+  "id" : "YouMustGetGitAmulet",
   "data" : {
-    "EN" : "I only allow people with <span style='color:red'>Bronze Git Medal</span> to pass.\n",
-    "ZH_HANS" : "我只允许拥有<span style='color:red'>青铜Git勋章</span>的人通过。\n",
-    "ZH_HANT" : "我只允許擁有",
-    "ES" : "Solo permito que pasen personas con la <span style='color:red'>medalla de bronce Git.</span>",
-    "AR" : "أسمح فقط للأشخاص <span style='color:red'>الحاصلين على ميدالية جيت البرونزية</span> بالمرور.",
-    "PT" : "Eu só permito que pessoas com <span style='color:red'>medalha Git de Bronze</span> passem.",
-    "ID" : "Saya hanya mengizinkan orang dengan <span style='color:red'>Medali Git Perunggu</span> untuk lulus.",
-    "FR" : "Je n&#39;autorise que les personnes ayant la <span style='color:red'>médaille de bronze Git</span> à passer.",
-    "JA" : "<span style='color:red'>ブロンズGitメダル</span>を持っている人だけが通過できるようにします。",
-    "RU" : "Я разрешаю пройти только людям с <span style='color:red'>бронзовой медалью Git.</span>",
-    "DE" : "Ich lasse nur Leute mit der <span style='color:red'>Bronze-Git-Medaille</span> passieren.",
-    "KO" : "<span style='color:red'>나는 Bronze Git Medal</span> 을 가진 사람들만 통과하도록 허용합니다.",
-    "IT" : "Permetto solo a persone con <span style='color:red'>medaglia di bronzo Git</span> di passare."
+    "EN" : "Are you sure going to Java Island? The journey will be arduous, only the bravest people can survive.\nThe bugs are poisonous, you must have a <span style='color:red'>Git Amulet</span>.\nWithout it, you can't even survive the first door.\n",
+    "ZH_HANS" : "你确定要去爪哇岛吗？旅途将会千辛万苦，只有最勇敢的人才能坚持下来。\n那里的虫子非常毒，你必须拥有<span style='color:red'>Git护身符</span>才行。\n没有它，你甚至撑不过第一扇门。\n",
+    "ZH_HANT" : "你確定要去爪哇島嗎？旅途將會千辛萬苦，只有最勇敢的人才能堅持下來。那裡的蟲子非常毒，你必須擁有<span style='color:red'>Git護身符</span>才行。沒有它，你甚至活不到第一扇門那裡。",
+    "ES" : "¿Estás seguro de ir a la isla de Java? El viaje será arduo, solo las personas más valientes pueden sobrevivir. Los bichos son venenosos, debes tener un <span style='color:red'>Git Amulet</span> . Sin él, ni siquiera puedes sobrevivir a la primera puerta.",
+    "AR" : "هل أنت متأكد من أنك ذاهب إلى جزيرة جافا؟ ستكون الرحلة شاقة ، ولن يتمكن من البقاء على قيد الحياة إلا الأشجع. الحشرات سامة ، يجب أن يكون لديك <span style='color:red'>Git Amulet</span> . بدونها ، لا يمكنك حتى النجاة من الباب الأول.",
+    "PT" : "Tem certeza que vai para a Ilha de Java? A jornada será árdua, apenas as pessoas mais corajosas podem sobreviver. Os bugs são venenosos, você deve ter um <span style='color:red'>Git Amulet</span> . Sem ele, você não pode nem sobreviver à primeira porta.",
+    "ID" : "Apakah Anda yakin akan ke Pulau Jawa? Perjalanan akan sulit, hanya orang-orang paling berani yang bisa bertahan. Serangga itu beracun, Anda harus memiliki <span style='color:red'>Git Amulet</span> . Tanpa itu, Anda bahkan tidak bisa bertahan di pintu pertama.",
+    "FR" : "Êtes-vous sûr d&#39;aller sur l&#39;île de Java ? Le voyage sera ardu, seuls les plus courageux pourront survivre. Les bugs sont vénéneux, vous devez avoir une <span style='color:red'>Git Amulet</span> . Sans cela, vous ne pouvez même pas survivre à la première porte.",
+    "JA" : "ジャワ島に行ってよろしいですか？旅は困難であり、勇敢な人々だけが生き残ることができます。バグは有毒です<span style='color:red'>。GitAmulet</span>が必要です。それがなければ、あなたは最初のドアを生き残ることさえできません。",
+    "RU" : "Вы уверены, что собираетесь на остров Ява? Путешествие будет трудным, выжить смогут только самые смелые люди. Жуки ядовиты, у вас должен быть <span style='color:red'>Git Amulet</span> . Без него вы не сможете пройти даже через первую дверь.",
+    "DE" : "Bist du sicher, dass du nach Java Island gehst? Die Reise wird beschwerlich sein, nur die Mutigsten können überleben. Die Käfer sind giftig, Sie müssen ein <span style='color:red'>Git-Amulett</span> haben. Ohne sie kannst du nicht einmal die erste Tür überleben.",
+    "KO" : "자바 섬에 가실 건가요? 여정은 험난할 것이며 가장 용감한 사람만이 살아남을 수 있습니다. 버그는 유독합니다. <span style='color:red'>Git Amulet</span> 이 있어야 합니다. 그것 없이는 첫 번째 문에서도 살아남을 수 없습니다.",
+    "IT" : "Sei sicuro di andare a Java Island? Il viaggio sarà arduo, solo le persone più coraggiose possono sopravvivere. Gli insetti sono velenosi, devi avere un <span style='color:red'>Git Amulet</span> . Senza di essa, non puoi nemmeno sopravvivere alla prima porta."
+  },
+  "format" : "HTML"
+}, {
+  "id" : "WhereToGetGitAmulet",
+  "data" : {
+    "EN" : "So where can I get a <span style='color:red'>Git护身符</span>?",
+    "ZH_HANS" : "那我要去哪里才能得到<span style='color:red'>Git护身符</span>？",
+    "ZH_HANT" : "那我要去哪裡才能得到<span style='color:red'>Git護身符</span>？",
+    "ES" : "Entonces, ¿dónde puedo obtener un <span style='color:red'>Git护身符</span>?",
+    "AR" : "إذن أين يمكنني الحصول على <span style='color:red'>Git 护身符</span>؟",
+    "PT" : "Então, onde posso obter um <span style='color:red'>Git护身符</span>?",
+    "ID" : "Jadi di mana saya bisa mendapatkan <span style='color:red'>Git</span> ?",
+    "FR" : "Alors, où puis-je obtenir un <span style='color:red'>Git护身符</span> ?",
+    "JA" : "では、 <span style='color:red'>Git护身符</span>はどこで入手できますか？",
+    "RU" : "Итак, где я могу получить <span style='color:red'>Git护身符</span>?",
+    "DE" : "Woher bekomme ich also eine <span style='color:red'>Git护身符</span>?",
+    "KO" : "<span style='color:red'>Git护身符</span>은 어디에서 구할 수 있습니까?",
+    "IT" : "Allora, dove posso ottenere un <span style='color:red'>Git护身符</span>?"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "GitAmuletOnGitIsland",
+  "data" : {
+    "EN" : "There is a <span style='color:red'>Git Island</span> in the distance.\nThe items on the island are fantastic - they are resistant to the poison of bugs.\n",
+    "ZH_HANS" : "远方有一座<span style='color:red'>Git岛</span>，岛上的物品拥有神奇的魔力，能够抵抗虫子的剧毒。",
+    "ZH_HANT" : "遠方有一座<span style='color:red'>Git島</span>，島上的物品擁有神奇的魔力，能夠抵抗蟲子的劇毒。",
+    "ES" : "Hay una <span style='color:red'>isla Git</span> en la distancia. Los artículos de la isla son fantásticos: son resistentes al veneno de los insectos.",
+    "AR" : "هناك <span style='color:red'>جزيرة جيت</span> في الأفق. العناصر الموجودة على الجزيرة رائعة - فهي مقاومة لسم الحشرات.",
+    "PT" : "Há uma <span style='color:red'>ilha Git</span> à distância. Os itens da ilha são fantásticos - são resistentes ao veneno de insetos.",
+    "ID" : "Ada <span style='color:red'>Pulau Git</span> di kejauhan. Barang-barang di pulau itu luar biasa - mereka tahan terhadap racun serangga.",
+    "FR" : "Il y a une <span style='color:red'>île Git</span> au loin. Les objets sur l&#39;île sont fantastiques - ils résistent au poison des insectes.",
+    "JA" : "遠くに<span style='color:red'>Git島</span>があります。島のアイテムは素晴らしいです-彼らは虫の毒に耐性があります。",
+    "RU" : "Вдалеке находится <span style='color:red'>остров Гит</span> . Предметы на острове фантастические — они устойчивы к яду жуков.",
+    "DE" : "In der Ferne befindet sich eine <span style='color:red'>Git-Insel</span> . Die Gegenstände auf der Insel sind fantastisch – sie sind resistent gegen das Gift von Käfern.",
+    "KO" : "멀리 <span style='color:red'>Git Island</span> 가 있습니다. 섬의 아이템은 환상적입니다. 벌레의 독에 저항력이 있습니다.",
+    "IT" : "C&#39;è <span style='color:red'>un&#39;isola di Git</span> in lontananza. Gli oggetti sull&#39;isola sono fantastici: sono resistenti al veleno degli insetti."
   },
   "format" : "HTML"
 }, {
   "id" : "WouldYouLikeToGitIsland",
   "data" : {
-    "EN" : "Would you like to Git Island? Pay me 50 gold and I'll take you there.\n",
-    "ZH_HANS" : "你想去Git岛么？付我50金币，我就带你去。\n",
-    "ZH_HANT" : "你想去Git島麼？付我50金幣，我就帶你去。\n",
-    "ES" : "¿Te gustaría ir a la isla de Git? Págame 50 de oro y te llevaré allí.\n",
-    "AR" : "هل ترغب في جزيرة جيت؟ ادفع لي 50 ذهبًا وسآخذك إلى هناك.\n",
-    "PT" : "Você gostaria de Git Island? Pague-me 50 de ouro e eu levo você lá.\n",
-    "ID" : "Apakah Anda ingin ke Pulau Git? Bayar saya 50 emas dan saya akan membawa Anda ke sana.\n",
-    "FR" : "Souhaitez-vous visiter l'île de Git ? Payez-moi 50 pièces d'or et je vous y emmènerai.\n",
-    "JA" : "Git Islandに行きませんか？私に50ゴールドを払ってください、そして私はあなたをそこに連れて行きます。\n",
-    "RU" : "Хотели бы вы на Git Island? Заплати мне 50 золотых, и я отвезу тебя туда.\n",
-    "DE" : "Möchten Sie Git Island besuchen? Zahlen Sie mir 50 Gold und ich bringe Sie dorthin.\n",
-    "KO" : "Git Island에 가고 싶습니까? 나에게 50골드를 지불하면 당신을 그곳으로 데려가겠습니다.\n",
-    "IT" : "Ti piacerebbe Git Island? Pagami 50 monete d'oro e ti ci porto.\n"
+    "EN" : "Would you like to Git Island? Pay me 50 gold and I'll take you there.\nIf you don't have enough gold, there is more gold under the tree at coordinate <span style='color:red'>{0}</span>.\n",
+    "ZH_HANS" : "你想去Git岛么？付我50金币，我就带你去。如果你的金币不够，在<span style='color:red'>{0}</span>的树下有更多的金币。\n",
+    "ZH_HANT" : "你想去Git島麼？付我50金幣，我就帶你去。如果你的金幣不夠，在<span style='color:red'>{0}</span>的樹下有更多的金幣。",
+    "ES" : "¿Te gustaría ir a la isla Git? Págame 50 de oro y te llevaré allí. Si no tienes suficiente oro, hay más oro debajo del árbol en la coordenada <span style='color:red'>{0}</span> .",
+    "AR" : "هل ترغب في جزيرة جيت؟ ادفع لي 50 ذهبًا وسآخذك إلى هناك. إذا لم يكن لديك ما يكفي من الذهب ، فهناك المزيد من الذهب تحت الشجرة عند الإحداثيات <span style='color:red'>{0}</span> .",
+    "PT" : "Você gostaria de Git Island? Pague-me 50 de ouro e eu te levo até lá. Se você não tiver ouro suficiente, há mais ouro sob a árvore na coordenada <span style='color:red'>{0}</span> .",
+    "ID" : "Apakah Anda ingin ke Pulau Git? Bayar saya 50 emas dan saya akan membawa Anda ke sana. Jika Anda tidak memiliki cukup emas, ada lebih banyak emas di bawah pohon di koordinat <span style='color:red'>{0}</span> .",
+    "FR" : "Aimeriez-vous Git Island? Payez-moi 50 pièces d&#39;or et je vous emmènerai là-bas. Si vous n&#39;avez pas assez d&#39;or, il y en a plus sous l&#39;arbre à la coordonnée <span style='color:red'>{0}</span> .",
+    "JA" : "Git Islandに行きませんか？私に50ゴールドを払えば、私はあなたをそこに連れて行きます。十分なゴールドがない場合は、ツリーの下の座標<span style='color:red'>{0}</span>にさらにゴールドがあります。",
+    "RU" : "Хотите на остров Гит? Заплати мне 50 золотых, и я отведу тебя туда. Если у вас недостаточно золота, под деревом с координатой <span style='color:red'>{0}</span> есть еще золото.",
+    "DE" : "Möchtest du nach Git Island? Zahl mir 50 Gold und ich bringe dich hin. Wenn Sie nicht genug Gold haben, gibt es mehr Gold unter dem Baum bei Koordinate <span style='color:red'>{0}</span> .",
+    "KO" : "Git Island에 가고 싶습니까? 나에게 50골드를 지불하면 당신을 그곳으로 데려다 드리겠습니다. 골드가 충분하지 않다면 좌표 <span style='color:red'>{0}</span> 에 있는 나무 아래에 더 많은 골드가 있습니다.",
+    "IT" : "Ti piacerebbe Git Island? Pagami 50 monete d&#39;oro e ti ci porto. Se non hai abbastanza oro, c&#39;è più oro sotto l&#39;albero alla coordinata <span style='color:red'>{0}</span> ."
   },
-  "format" : "TEXT"
+  "format" : "HTML"
 }, {
-  "id" : "BravePeopleISeeYourBronzeGitMedal",
+  "id" : "BravePeopleISeeYourGitAmulet",
   "data" : {
-    "EN" : "Brave man, I see your <span style='color:red'>Brave Git Medal</span> and courage,\npromise me, keep on until you find <span style='color:red'>Holy Java Coffee</span>,\nsave our home!\n",
-    "ZH_HANS" : "勇敢的人啊，我看到了你的<span style='color:red'>青铜Git勋章</span>和勇气，\n请答应我，一定要坚持到底，找到<span style='color:red'>神圣爪哇咖啡</span>，\n拯救我们的家园！\n",
-    "ZH_HANT" : "勇敢的人啊，我看到了你的",
-    "ES" : "Hombre valiente, veo tu <span style='color:red'>medalla Brave Git</span> y tu coraje, prométeme, sigue hasta que encuentres <span style='color:red'>Holy Java Coffee</span> , ¡salva nuestro hogar!",
-    "AR" : "رجل شجاع ، أرى <span style='color:red'>وسام Brave Git وشجاعتك</span> ، وعدني ، استمر حتى تجد <span style='color:red'>قهوة جافا المقدسة</span> ، واحفظ منزلنا!",
-    "PT" : "Homem valente, vejo sua <span style='color:red'>medalha de Brave Git</span> e coragem, prometa-me, continue até encontrar o <span style='color:red'>Santo Café Java</span> , salve nossa casa!",
-    "ID" : "Pria pemberani, saya melihat <span style='color:red'>Medali dan keberanian Brave Git Anda</span> , berjanjilah, teruskan sampai Anda menemukan <span style='color:red'>Kopi Jawa Suci</span> , selamatkan rumah kami!",
-    "FR" : "Homme courageux, je vois votre <span style='color:red'>médaille Brave Git</span> et courage, promets-moi, continue jusqu&#39;à ce que tu trouves <span style='color:red'>Holy Java Coffee</span> , sauve notre maison !",
-    "JA" : "勇敢な男、私はあなたの<span style='color:red'>勇敢なGitメダル</span>と勇気を見て、私に約束し、あなたが<span style='color:red'>聖なるジャワコーヒー</span>を見つけるまで続けて、私たちの家を救ってください！",
-    "RU" : "Храбрый человек, я вижу твою <span style='color:red'>медаль храброго гита</span> и храбрость, обещай мне, продолжай, пока не найдешь <span style='color:red'>Holy Java Coffee</span> , спаси наш дом!",
-    "DE" : "Tapferer Mann, ich sehe deine <span style='color:red'>Brave Git-Medaille</span> und deinen Mut, versprich es mir, mach weiter, bis du <span style='color:red'>Holy Java Coffee</span> findest, rette unser Zuhause!",
-    "KO" : "용감한 사람, 나는 당신의 <span style='color:red'>Brave Git 메달</span> <span style='color:red'>과 용기를 봅니다. 약속합니다. 당신이 Holy Java Coffee</span> 를 찾을 때까지 계속하십시오, 우리 집을 구하십시오!",
-    "IT" : "Uomo coraggioso, vedo la tua <span style='color:red'>Medaglia Brave Git</span> e coraggio, promettimi, continua finché non trovi <span style='color:red'>Holy Java Coffee</span> , salva la nostra casa!"
+    "EN" : "Brave man, I see your <span style='color:red'>Git Amulet</span> and courage,\npromise me, keep on until you eliminate all bugs, save our home!\n",
+    "ZH_HANS" : "勇敢的人啊，我看到了你的<span style='color:red'>青铜Git护身符</span>和勇气，\n请答应我，一定要坚持到底，消灭虫子，拯救我们的家园！\n",
+    "ZH_HANT" : "勇敢的人啊，我看到了你的<span style='color:red'>青銅Git護身符</span>和勇氣， 請答應我，一定要堅持到底，消滅蟲子，拯救我們的家園！",
+    "ES" : "Hombre valiente, veo tu <span style='color:red'>Git Amulet</span> y coraje, prométeme, continúa hasta que elimines todos los errores, ¡salva nuestra casa!",
+    "AR" : "رجل شجاع ، أرى <span style='color:red'>Git Amulet وشجاعتك</span> ، وعدني ، استمر حتى تقضي على جميع الأخطاء ، وتنقذ منزلنا!",
+    "PT" : "Bravo homem, vejo seu <span style='color:red'>Git Amulet</span> e coragem, me prometa, continue até eliminar todos os bugs, salve nossa casa!",
+    "ID" : "Pria pemberani, saya melihat <span style='color:red'>Git Amulet</span> dan keberanian Anda, berjanjilah, teruskan sampai Anda menghilangkan semua serangga, selamatkan rumah kami!",
+    "FR" : "Homme courageux, je vois ton <span style='color:red'>amulette Git</span> et ton courage, promets-moi, continue jusqu&#39;à ce que tu élimines tous les insectes, sauve notre maison !",
+    "JA" : "勇敢な男、私はあなたの<span style='color:red'>Gitアミュレット</span>と勇気を見て、私に約束し、あなたがすべてのバグを取り除くまで続けて、私たちの家を救ってください！",
+    "RU" : "Смелый человек, я вижу твой <span style='color:red'>Git Amulet</span> и мужество, обещай мне, продолжай, пока не устранишь все ошибки, спаси наш дом!",
+    "DE" : "Tapferer Mann, ich sehe dein <span style='color:red'>Git-Amulett</span> und Mut, versprich mir, mach weiter, bis du alle Käfer beseitigt hast, rette unser Zuhause!",
+    "KO" : "용감한 사람, 나는 당신의 <span style='color:red'>Git 부적</span> 과 용기를 봅니다. 약속합니다. 모든 버그를 제거하고 우리 집을 구할 때까지 계속하십시오!",
+    "IT" : "Uomo coraggioso, vedo il tuo <span style='color:red'>amuleto Git</span> e il tuo coraggio, promettimelo, continua fino a quando non eliminerai tutti gli insetti, salva la nostra casa!"
   },
   "format" : "HTML"
 }, {
@@ -3763,37 +3871,37 @@
 }, {
   "id" : "JavaMethodField-challenge-text",
   "data" : {
-    "EN" : "<p>To pass, you need to destroy the defense towers in this region:</p>\n<ul>\n<li><input type=\"checkbox\" disabled=\"\"> Java Method</li>\n<li><input type=\"checkbox\" disabled=\"\"> Method Overload</li>\n<li><input type=\"checkbox\" disabled=\"\"> Java Field</li>\n<li><input type=\"checkbox\" disabled=\"\"> Java Method Invocation</li>\n<li><input type=\"checkbox\" disabled=\"\"> Local Variable and Scope</li>\n<li><input type=\"checkbox\" disabled=\"\"> Method Recursion</li>\n</ul>\n",
-    "ZH_HANS" : "<p>要从这里通过，你需要摧毁这个区域的防御塔：</p>\n<ul>\n<li><input type=\"checkbox\" disabled=\"\"> Java的方法</li>\n<li><input type=\"checkbox\" disabled=\"\"> 方法的重载</li>\n<li><input type=\"checkbox\" disabled=\"\"> Java的字段</li>\n<li><input type=\"checkbox\" disabled=\"\"> Java的方法调用</li>\n<li><input type=\"checkbox\" disabled=\"\"> 局部变量与作用域</li>\n<li><input type=\"checkbox\" disabled=\"\"> 方法的递归</li>\n</ul>\n",
-    "ZH_HANT" : "<p>要從這里通過，你需要摧毀這個區域的防禦塔：</p><ul><li><input type=\"checkbox\" disabled=\"\"> Java的方法</li><li><input type=\"checkbox\" disabled=\"\">方法的重載</li><li><input type=\"checkbox\" disabled=\"\">Java的字段</li><li><input type=\"checkbox\" disabled=\"\">Java的方法調用</li><li><input type=\"checkbox\" disabled=\"\">局部變量與作用域</li><li><input type=\"checkbox\" disabled=\"\">方法的遞歸</li></ul>",
-    "ES" : "<p>Para pasar, debes destruir las torres de defensa en esta región:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Método Java</li><li><input type=\"checkbox\" disabled=\"\"> Sobrecarga de método</li><li><input type=\"checkbox\" disabled=\"\"> Campo de Java</li><li><input type=\"checkbox\" disabled=\"\"> Invocación del método Java</li><li><input type=\"checkbox\" disabled=\"\"> Alcance y variable local</li><li><input type=\"checkbox\" disabled=\"\"> Método de recursión</li></ul>",
-    "AR" : "<p style=\";text-align:right;direction:rtl\">لتمرير ، تحتاج إلى تدمير أبراج الدفاع في هذه المنطقة:</p><ul style=\";text-align:right;direction:rtl\"><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> طريقة جافا</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> طريقة الزائد</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> جافا فيلد</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> استدعاء أسلوب جافا</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> المتغير المحلي والنطاق</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> أسلوب العودية</li></ul>",
-    "PT" : "<p>Para passar, você precisa destruir as torres de defesa nesta região:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Método Java</li><li><input type=\"checkbox\" disabled=\"\"> Sobrecarga de método</li><li><input type=\"checkbox\" disabled=\"\"> Java Field</li><li><input type=\"checkbox\" disabled=\"\"> Invocação de Método Java</li><li><input type=\"checkbox\" disabled=\"\"> Variável local e escopo</li><li><input type=\"checkbox\" disabled=\"\"> Método de Recursão</li></ul>",
-    "ID" : "<p>Untuk lulus, Anda harus menghancurkan menara pertahanan di wilayah ini:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Metode Jawa</li><li><input type=\"checkbox\" disabled=\"\"> Metode Overload</li><li><input type=\"checkbox\" disabled=\"\"> Lapangan Jawa</li><li><input type=\"checkbox\" disabled=\"\"> Pemanggilan Metode Java</li><li><input type=\"checkbox\" disabled=\"\"> Variabel Lokal dan Lingkup</li><li><input type=\"checkbox\" disabled=\"\"> Metode Rekursi</li></ul>",
-    "FR" : "<p>Pour passer, vous devez détruire les tours de défense de cette région :</p><ul><li><input type=\"checkbox\" disabled=\"\"> Méthode Java</li><li><input type=\"checkbox\" disabled=\"\"> Surcharge de méthode</li><li><input type=\"checkbox\" disabled=\"\"> Champ Java</li><li><input type=\"checkbox\" disabled=\"\"> Invocation de méthode Java</li><li><input type=\"checkbox\" disabled=\"\"> Variable locale et étendue</li><li><input type=\"checkbox\" disabled=\"\"> Récursivité de méthode</li></ul>",
-    "JA" : "<p>合格するには、この地域の防衛塔を破壊する必要があります。</p><ul><li><input type=\"checkbox\" disabled=\"\"> Javaメソッド</li><li><input type=\"checkbox\" disabled=\"\">メソッドのオーバーロード</li><li><input type=\"checkbox\" disabled=\"\">Javaフィールド</li><li><input type=\"checkbox\" disabled=\"\">Javaメソッド呼び出し</li><li><input type=\"checkbox\" disabled=\"\">ローカル変数とスコープ</li><li><input type=\"checkbox\" disabled=\"\">メソッドの再帰</li></ul>",
-    "RU" : "<p>Чтобы пройти, вам нужно разрушить оборонительные башни в этом районе:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Метод Java</li><li><input type=\"checkbox\" disabled=\"\"> Перегрузка метода</li><li><input type=\"checkbox\" disabled=\"\"> Поле Java</li><li><input type=\"checkbox\" disabled=\"\"> Вызов метода Java</li><li><input type=\"checkbox\" disabled=\"\"> Локальная переменная и область действия</li><li><input type=\"checkbox\" disabled=\"\"> Рекурсия метода</li></ul>",
-    "DE" : "<p>Um zu bestehen, müssen Sie die Verteidigungstürme in dieser Region zerstören:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Java-Methode</li><li><input type=\"checkbox\" disabled=\"\"> Methodenüberladung</li><li><input type=\"checkbox\" disabled=\"\"> Java-Feld</li><li><input type=\"checkbox\" disabled=\"\"> Aufruf von Java-Methoden</li><li><input type=\"checkbox\" disabled=\"\"> Lokale Variable und Geltungsbereich</li><li><input type=\"checkbox\" disabled=\"\"> Methode Rekursion</li></ul>",
-    "KO" : "<p>통과하려면 이 지역의 방어 타워를 파괴해야 합니다.</p><ul><li><input type=\"checkbox\" disabled=\"\"> 자바 메소드</li><li><input type=\"checkbox\" disabled=\"\"> 메소드 과부하</li><li><input type=\"checkbox\" disabled=\"\"> 자바 필드</li><li><input type=\"checkbox\" disabled=\"\"> 자바 메소드 호출</li><li><input type=\"checkbox\" disabled=\"\"> 지역 변수와 범위</li><li><input type=\"checkbox\" disabled=\"\"> 메소드 재귀</li></ul>",
-    "IT" : "<p>Per passare, devi distruggere le torri di difesa in questa regione:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Metodo Java</li><li><input type=\"checkbox\" disabled=\"\"> Sovraccarico del metodo</li><li><input type=\"checkbox\" disabled=\"\"> Campo Java</li><li><input type=\"checkbox\" disabled=\"\"> Invocazione del metodo Java</li><li><input type=\"checkbox\" disabled=\"\"> Variabile locale e ambito</li><li><input type=\"checkbox\" disabled=\"\"> Ricorsione del metodo</li></ul>"
+    "EN" : "<p>It's the limb of huge unknown alien creature that blocks the way.\nThey are connected to the defense towers underground,\nthus anyone approaching will be attacked by the defense towers.\nAlthough they look scary, these creatures are actually\nincredibly fragile. Once out of protection of the defense towers,\nthese alien creatures will turn to ashes at one touch.\nTherefore, to pass, the connected defense towers\nmust be disabled or destroyed.</p>\n<p>Defense towers disabled or destroyed:</p>\n<ul>\n<li><input type=\"checkbox\" disabled=\"\"> Java Method</li>\n<li><input type=\"checkbox\" disabled=\"\"> Method Overload</li>\n<li><input type=\"checkbox\" disabled=\"\"> Java Field</li>\n<li><input type=\"checkbox\" disabled=\"\"> Java Method Invocation</li>\n<li><input type=\"checkbox\" disabled=\"\"> Local Variable and Scope</li>\n<li><input type=\"checkbox\" disabled=\"\"> Method Recursion</li>\n</ul>\n",
+    "ZH_HANS" : "<p>阻塞道路的是埋在地下的巨大的不明外星生物的肢体，\n它们在地下和防御塔相连，因此任何接近它们的人都会被防御塔攻击。\n虽然看上去十分恐怖，这些生物实际上异常脆弱，\n一旦脱离了防御塔的保护，这些外星生物一碰就会成为灰烬。\n因此，要想从这里通过，必须瘫痪或摧毁与其相连的防御塔。</p>\n<p>防御塔已瘫痪/摧毁：</p>\n<ul>\n<li><input type=\"checkbox\" disabled=\"\"> Java的方法</li>\n<li><input type=\"checkbox\" disabled=\"\"> 方法的重载</li>\n<li><input type=\"checkbox\" disabled=\"\"> Java的字段</li>\n<li><input type=\"checkbox\" disabled=\"\"> Java的方法调用</li>\n<li><input type=\"checkbox\" disabled=\"\"> 局部变量与作用域</li>\n<li><input type=\"checkbox\" disabled=\"\"> 方法的递归</li>\n</ul>\n",
+    "ZH_HANT" : "<p>阻塞道路的是埋在地下的巨大的不明外星生物的肢體， 它們在地下和防禦塔相連，因此任何接近它們的人都會被防禦塔攻擊。雖然看上去十分恐怖，這些生物實際上異常脆弱， 一旦脫離了防禦塔的保護，這些外星生物一碰就會成為灰燼。因此，要想從這里通過，必須癱瘓或摧毀與其相連的防禦塔。</p><p>防禦塔已癱瘓/摧毀：</p><ul><li><input type=\"checkbox\" disabled=\"\"> Java的方法</li><li><input type=\"checkbox\" disabled=\"\">方法的重載</li><li><input type=\"checkbox\" disabled=\"\">Java的字段</li><li><input type=\"checkbox\" disabled=\"\">Java的方法調用</li><li><input type=\"checkbox\" disabled=\"\">局部變量與作用域</li><li><input type=\"checkbox\" disabled=\"\">方法的遞歸</li></ul>",
+    "ES" : "<p>Es la extremidad de una enorme criatura alienígena desconocida que bloquea el camino. Están conectados a las torres de defensa subterráneas, por lo que cualquiera que se acerque será atacado por las torres de defensa. Aunque dan miedo, estas criaturas son en realidad increíblemente frágiles. Una vez fuera de la protección de las torres de defensa, estas criaturas alienígenas se convertirán en cenizas con un solo toque. Por lo tanto, para pasar, las torres de defensa conectadas deben desactivarse o destruirse.</p><p> Torres de defensa inhabilitadas o destruidas:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Método Java</li><li><input type=\"checkbox\" disabled=\"\"> Sobrecarga de método</li><li><input type=\"checkbox\" disabled=\"\"> Campo Java</li><li><input type=\"checkbox\" disabled=\"\"> Invocación del método Java</li><li><input type=\"checkbox\" disabled=\"\"> Variable local y alcance</li><li><input type=\"checkbox\" disabled=\"\"> Recursividad del método</li></ul>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">إنه طرف مخلوق فضائي ضخم غير معروف الذي يسد الطريق. إنها متصلة بأبراج الدفاع تحت الأرض ، وبالتالي فإن أي شخص يقترب سيتعرض للهجوم من قبل الأبراج الدفاعية. على الرغم من أنها تبدو مخيفة ، إلا أن هذه المخلوقات هشة للغاية في الواقع. بمجرد الخروج من حماية الأبراج الدفاعية ، ستتحول هذه المخلوقات الفضائية إلى رماد بلمسة واحدة. لذلك ، للتمرير ، يجب تعطيل أو تدمير أبراج الدفاع المتصلة.</p><p style=\";text-align:right;direction:rtl\"> أبراج الدفاع المعطلة أو المدمرة:</p><ul style=\";text-align:right;direction:rtl\"><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> طريقة جافا</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> طريقة الزائد</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> جافا فيلد</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> استدعاء أسلوب جافا</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> المتغير المحلي والنطاق</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> أسلوب العودية</li></ul>",
+    "PT" : "<p>É o membro de uma enorme criatura alienígena desconhecida que bloqueia o caminho. Eles estão conectados às torres de defesa no subsolo, portanto, quem se aproximar será atacado pelas torres de defesa. Embora pareçam assustadoras, essas criaturas são incrivelmente frágeis. Uma vez fora da proteção das torres de defesa, essas criaturas alienígenas se transformarão em cinzas com um toque. Portanto, para passar, as torres de defesa conectadas devem ser desativadas ou destruídas.</p><p> Torres de defesa desativadas ou destruídas:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Método Java</li><li><input type=\"checkbox\" disabled=\"\"> Sobrecarga do método</li><li><input type=\"checkbox\" disabled=\"\"> Campo Java</li><li><input type=\"checkbox\" disabled=\"\"> Invocação do método Java</li><li><input type=\"checkbox\" disabled=\"\"> Variável Local e Escopo</li><li><input type=\"checkbox\" disabled=\"\"> Método de recursão</li></ul>",
+    "ID" : "<p>Itu adalah anggota tubuh makhluk asing besar yang tidak diketahui yang menghalangi jalan. Mereka terhubung ke menara pertahanan di bawah tanah, sehingga siapa pun yang mendekat akan diserang oleh menara pertahanan. Meski terlihat menakutkan, makhluk ini sebenarnya sangat rapuh. Setelah keluar dari perlindungan menara pertahanan, makhluk asing ini akan berubah menjadi abu dengan satu sentuhan. Oleh karena itu, untuk melewatinya, menara pertahanan yang terhubung harus dinonaktifkan atau dihancurkan.</p><p> Menara pertahanan dinonaktifkan atau dihancurkan:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Metode Jawa</li><li><input type=\"checkbox\" disabled=\"\"> Metode Overload</li><li><input type=\"checkbox\" disabled=\"\"> Lapangan Jawa</li><li><input type=\"checkbox\" disabled=\"\"> Pemanggilan Metode Java</li><li><input type=\"checkbox\" disabled=\"\"> Variabel Lokal dan Lingkup</li><li><input type=\"checkbox\" disabled=\"\"> Metode Rekursi</li></ul>",
+    "FR" : "<p>C&#39;est le membre d&#39;une énorme créature extraterrestre inconnue qui bloque le chemin. Ils sont reliés aux tours de défense souterraines, ainsi toute personne s&#39;approchant sera attaquée par les tours de défense. Bien qu&#39;elles aient l&#39;air effrayantes, ces créatures sont en réalité incroyablement fragiles. Une fois hors de la protection des tours de défense, ces créatures extraterrestres se transformeront en cendres d&#39;un simple toucher. Par conséquent, pour passer, les tours de défense connectées doivent être désactivées ou détruites.</p><p> Tours de défense désactivées ou détruites :</p><ul><li><input type=\"checkbox\" disabled=\"\"> Méthode Java</li><li><input type=\"checkbox\" disabled=\"\"> Surcharge de méthode</li><li><input type=\"checkbox\" disabled=\"\"> Champ Java</li><li><input type=\"checkbox\" disabled=\"\"> Appel de méthode Java</li><li><input type=\"checkbox\" disabled=\"\"> Variable locale et portée</li><li><input type=\"checkbox\" disabled=\"\"> Récursivité de la méthode</li></ul>",
+    "JA" : "<p>道を塞ぐのは、未知の巨大なエイリアンの手足です。それらは地下の防御塔に接続されているため、接近する人は誰でも防御塔に攻撃されます。彼らは怖いように見えますが、これらの生き物は実際には信じられないほど壊れやすいです。防御塔の保護が解除されると、これらのエイリアンの生き物はワンタッチで灰に変わります。したがって、通過するには、接続されている防御タワーを無効にするか、破壊する必要があります。</p><p>防衛塔が無効化または破壊された：</p><ul><li><input type=\"checkbox\" disabled=\"\"> Javaメソッド</li><li><input type=\"checkbox\" disabled=\"\">メソッドのオーバーロード</li><li><input type=\"checkbox\" disabled=\"\">Javaフィールド</li><li><input type=\"checkbox\" disabled=\"\">Javaメソッド呼び出し</li><li><input type=\"checkbox\" disabled=\"\">ローカル変数とスコープ</li><li><input type=\"checkbox\" disabled=\"\">メソッドの再帰</li></ul>",
+    "RU" : "<p>Путь преграждает конечность огромного неизвестного инопланетного существа. Они связаны с оборонительными башнями под землей, поэтому любой приближающийся будет атакован оборонительными башнями. Хотя они выглядят устрашающе, эти существа на самом деле невероятно хрупкие. Выйдя из-под защиты оборонительных башен, эти инопланетные существа превратятся в пепел одним прикосновением. Поэтому для прохождения связанные защитные башни должны быть выведены из строя или уничтожены.</p><p> Защитные башни отключены или уничтожены:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Java-метод</li><li><input type=\"checkbox\" disabled=\"\"> Перегрузка метода</li><li><input type=\"checkbox\" disabled=\"\"> Поле Java</li><li><input type=\"checkbox\" disabled=\"\"> Вызов метода Java</li><li><input type=\"checkbox\" disabled=\"\"> Локальная переменная и область видимости</li><li><input type=\"checkbox\" disabled=\"\"> Рекурсия метода</li></ul>",
+    "DE" : "<p>Es ist das Glied einer riesigen unbekannten außerirdischen Kreatur, die den Weg blockiert. Sie sind unterirdisch mit den Verteidigungstürmen verbunden, so dass jeder, der sich nähert, von den Verteidigungstürmen angegriffen wird. Obwohl sie unheimlich aussehen, sind diese Kreaturen tatsächlich unglaublich zerbrechlich. Außerhalb des Schutzes der Verteidigungstürme verwandeln sich diese außerirdischen Kreaturen mit einer Berührung in Asche. Um zu bestehen, müssen daher die verbundenen Verteidigungstürme deaktiviert oder zerstört werden.</p><p> Verteidigungstürme deaktiviert oder zerstört:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Java-Methode</li><li><input type=\"checkbox\" disabled=\"\"> Methodenüberladung</li><li><input type=\"checkbox\" disabled=\"\"> Java-Feld</li><li><input type=\"checkbox\" disabled=\"\"> Java-Methodenaufruf</li><li><input type=\"checkbox\" disabled=\"\"> Lokale Variable und Geltungsbereich</li><li><input type=\"checkbox\" disabled=\"\"> Methodenrekursion</li></ul>",
+    "KO" : "<p>길을 막고 있는 것은 거대한 미지의 외계 생명체의 사지입니다. 지하의 방어탑과 연결되어 있어 접근하는 사람은 방어탑의 공격을 받습니다. 무서운 것처럼 보이지만 실제로는 매우 연약한 생물입니다. 방어 타워의 보호를 벗어나면 이 외계 생명체는 터치 한 번으로 잿더미로 변합니다. 따라서 통과하려면 연결된 방어 타워를 비활성화하거나 파괴해야 합니다.</p><p> 방어 타워 비활성화 또는 파괴:</p><ul><li><input type=\"checkbox\" disabled=\"\"> 자바 메소드</li><li><input type=\"checkbox\" disabled=\"\"> 메소드 과부하</li><li><input type=\"checkbox\" disabled=\"\"> 자바 필드</li><li><input type=\"checkbox\" disabled=\"\"> 자바 메소드 호출</li><li><input type=\"checkbox\" disabled=\"\"> 지역 변수와 범위</li><li><input type=\"checkbox\" disabled=\"\"> 메소드 재귀</li></ul>",
+    "IT" : "<p>È l&#39;arto di un&#39;enorme creatura aliena sconosciuta che blocca la strada. Sono collegati alle torri di difesa sotterranee, quindi chiunque si avvicini verrà attaccato dalle torri di difesa. Sebbene sembrino spaventose, queste creature sono in realtà incredibilmente fragili. Una volta fuori dalla protezione delle torri di difesa, queste creature aliene si trasformeranno in cenere con un solo tocco. Pertanto, per passare, le torri di difesa collegate devono essere disabilitate o distrutte.</p><p> Torri di difesa disabilitate o distrutte:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Metodo Java</li><li><input type=\"checkbox\" disabled=\"\"> Sovraccarico del metodo</li><li><input type=\"checkbox\" disabled=\"\"> Campo Java</li><li><input type=\"checkbox\" disabled=\"\"> Invocazione del metodo Java</li><li><input type=\"checkbox\" disabled=\"\"> Variabile locale e ambito</li><li><input type=\"checkbox\" disabled=\"\"> Metodo ricorsione</li></ul>"
   },
   "format" : "HTML"
 }, {
   "id" : "JavaBasicStructure-challenge-text",
   "data" : {
-    "EN" : "<p>To pass, you need to destroy 3 defense towers in this region:</p>\n<ul>\n<li><input type=\"checkbox\" disabled=\"\"> Create a New Class</li>\n<li><input type=\"checkbox\" disabled=\"\"> Import Class</li>\n<li><input type=\"checkbox\" disabled=\"\"> Import Class from 3rd Party Package</li>\n</ul>\n",
-    "ZH_HANS" : "<p>要从这里通过，你需要摧毁这个区域的三座防御塔：</p>\n<ul>\n<li><input type=\"checkbox\" disabled=\"\"> 创建一个类</li>\n<li><input type=\"checkbox\" disabled=\"\"> 导入类</li>\n<li><input type=\"checkbox\" disabled=\"\"> 导入第三方包的类</li>\n</ul>\n",
-    "ZH_HANT" : "<p>要從這里通過，你需要摧毀這個區域的三座防禦塔：</p><ul><li><input type=\"checkbox\" disabled=\"\">創建一個類</li><li><input type=\"checkbox\" disabled=\"\">導入類</li><li><input type=\"checkbox\" disabled=\"\">導入第三方包的類</li></ul>",
-    "ES" : "<p>Para pasar, debes destruir 3 torres de defensa en esta región:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Crear una nueva clase</li><li><input type=\"checkbox\" disabled=\"\"> Importar clase</li><li><input type=\"checkbox\" disabled=\"\"> Importar clase de paquete de terceros</li></ul>",
-    "AR" : "<p style=\";text-align:right;direction:rtl\">للمرور ، تحتاج إلى تدمير 3 أبراج دفاعية في هذه المنطقة:</p><ul style=\";text-align:right;direction:rtl\"><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> قم بإنشاء فصل جديد</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> فئة الاستيراد</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> فئة الاستيراد من حزمة الطرف الثالث</li></ul>",
-    "PT" : "<p>Para passar, você precisa destruir 3 torres de defesa nesta região:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Criar uma nova classe</li><li><input type=\"checkbox\" disabled=\"\"> Classe de importação</li><li><input type=\"checkbox\" disabled=\"\"> Importar classe de pacote de terceiros</li></ul>",
-    "ID" : "<p>Untuk lulus, Anda perlu menghancurkan 3 menara pertahanan di wilayah ini:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Buat Kelas Baru</li><li><input type=\"checkbox\" disabled=\"\"> Kelas Impor</li><li><input type=\"checkbox\" disabled=\"\"> Impor Kelas dari Paket Pihak Ketiga</li></ul>",
-    "FR" : "<p>Pour passer, vous devez détruire 3 tours de défense dans cette région :</p><ul><li><input type=\"checkbox\" disabled=\"\"> Créer une nouvelle classe</li><li><input type=\"checkbox\" disabled=\"\"> Classe d&#39;importation</li><li><input type=\"checkbox\" disabled=\"\"> Importer une classe à partir d&#39;un package tiers</li></ul>",
-    "JA" : "<p>合格するには、この地域の3つの防衛塔を破壊する必要があります。</p><ul><li><input type=\"checkbox\" disabled=\"\">新しいクラスを作成する</li><li><input type=\"checkbox\" disabled=\"\">クラスのインポート</li><li><input type=\"checkbox\" disabled=\"\">サードパーティパッケージからクラスをインポートする</li></ul>",
-    "RU" : "<p>Чтобы пройти, вам нужно разрушить 3 оборонительные башни в этом районе:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Создать новый класс</li><li><input type=\"checkbox\" disabled=\"\"> Класс импорта</li><li><input type=\"checkbox\" disabled=\"\"> Импортировать класс из стороннего пакета</li></ul>",
-    "DE" : "<p>Um zu bestehen, müssen Sie 3 Verteidigungstürme in dieser Region zerstören:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Erstellen Sie eine neue Klasse</li><li><input type=\"checkbox\" disabled=\"\"> Klasse importieren</li><li><input type=\"checkbox\" disabled=\"\"> Klasse aus Drittanbieterpaket importieren</li></ul>",
-    "KO" : "<p>통과하려면 이 지역에서 3개의 방어 타워를 파괴해야 합니다.</p><ul><li><input type=\"checkbox\" disabled=\"\"> 새 클래스 만들기</li><li><input type=\"checkbox\" disabled=\"\"> 클래스 가져오기</li><li><input type=\"checkbox\" disabled=\"\"> 타사 패키지에서 클래스 가져오기</li></ul>",
-    "IT" : "<p>Per passare, devi distruggere 3 torri di difesa in questa regione:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Crea una nuova classe</li><li><input type=\"checkbox\" disabled=\"\"> Importa classe</li><li><input type=\"checkbox\" disabled=\"\"> Classe di importazione dal pacchetto di terze parti</li></ul>"
+    "EN" : "<p>It's the limb of huge unknown alien creature that blocks the way.\nThey are connected to the defense towers underground,\nthus anyone approaching will be attacked by the defense towers.\nAlthough they look scary, these creatures are actually\nincredibly fragile. Once out of protection of the defense towers,\nthese alien creatures will turn to ashes at one touch.\nTherefore, to pass, the connected defense towers\nmust be disabled or destroyed.</p>\n<p>Defense towers disabled or destroyed:</p>\n<ul>\n<li><input type=\"checkbox\" disabled=\"\"> Create a New Class</li>\n<li><input type=\"checkbox\" disabled=\"\"> Import Class</li>\n<li><input type=\"checkbox\" disabled=\"\"> Import Class from 3rd Party Package</li>\n</ul>\n",
+    "ZH_HANS" : "<p>阻塞道路的是埋在地下的巨大的不明外星生物的肢体，\n它们在地下和防御塔相连，因此任何接近它们的人都会被防御塔攻击。\n虽然看上去十分恐怖，这些生物实际上异常脆弱，\n一旦脱离了防御塔的保护，这些外星生物一碰就会成为灰烬。\n因此，要想从这里通过，必须瘫痪或摧毁与其相连的防御塔。</p>\n<p>防御塔已瘫痪/摧毁：</p>\n<ul>\n<li><input type=\"checkbox\" disabled=\"\"> 创建一个类</li>\n<li><input type=\"checkbox\" disabled=\"\"> 导入类</li>\n<li><input type=\"checkbox\" disabled=\"\"> 导入第三方包的类</li>\n</ul>\n",
+    "ZH_HANT" : "<p>阻塞道路的是埋在地下的巨大的不明外星生物的肢體， 它們在地下和防禦塔相連，因此任何接近它們的人都會被防禦塔攻擊。雖然看上去十分恐怖，這些生物實際上異常脆弱， 一旦脫離了防禦塔的保護，這些外星生物一碰就會成為灰燼。因此，要想從這里通過，必須癱瘓或摧毀與其相連的防禦塔。</p><p>防禦塔已癱瘓/摧毀：</p><ul><li><input type=\"checkbox\" disabled=\"\">創建一個類</li><li><input type=\"checkbox\" disabled=\"\">導入類</li><li><input type=\"checkbox\" disabled=\"\">導入第三方包的類</li></ul>",
+    "ES" : "<p>Es la extremidad de una enorme criatura alienígena desconocida que bloquea el camino. Están conectados a las torres de defensa subterráneas, por lo que cualquiera que se acerque será atacado por las torres de defensa. Aunque dan miedo, estas criaturas son en realidad increíblemente frágiles. Una vez fuera de la protección de las torres de defensa, estas criaturas alienígenas se convertirán en cenizas con un solo toque. Por lo tanto, para pasar, las torres de defensa conectadas deben desactivarse o destruirse.</p><p> Torres de defensa inhabilitadas o destruidas:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Crear una nueva clase</li><li><input type=\"checkbox\" disabled=\"\"> clase de importación</li><li><input type=\"checkbox\" disabled=\"\"> Importar clase de un paquete de terceros</li></ul>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">إنه طرف مخلوق فضائي ضخم غير معروف الذي يسد الطريق. إنها متصلة بأبراج الدفاع تحت الأرض ، وبالتالي فإن أي شخص يقترب سيتعرض للهجوم من قبل الأبراج الدفاعية. على الرغم من أنها تبدو مخيفة ، إلا أن هذه المخلوقات هشة للغاية في الواقع. بمجرد الخروج من حماية الأبراج الدفاعية ، ستتحول هذه المخلوقات الفضائية إلى رماد بلمسة واحدة. لذلك ، للتمرير ، يجب تعطيل أو تدمير أبراج الدفاع المتصلة.</p><p style=\";text-align:right;direction:rtl\"> أبراج الدفاع المعطلة أو المدمرة:</p><ul style=\";text-align:right;direction:rtl\"><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> قم بإنشاء فصل جديد</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> فئة الاستيراد</li><li style=\";text-align:right;direction:rtl\"><input type=\"checkbox\" disabled=\"\"> فئة الاستيراد من حزمة الطرف الثالث</li></ul>",
+    "PT" : "<p>É o membro de uma enorme criatura alienígena desconhecida que bloqueia o caminho. Eles estão conectados às torres de defesa no subsolo, portanto, quem se aproximar será atacado pelas torres de defesa. Embora pareçam assustadoras, essas criaturas são incrivelmente frágeis. Uma vez fora da proteção das torres de defesa, essas criaturas alienígenas se transformarão em cinzas com um toque. Portanto, para passar, as torres de defesa conectadas devem ser desativadas ou destruídas.</p><p> Torres de defesa desativadas ou destruídas:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Criar uma nova classe</li><li><input type=\"checkbox\" disabled=\"\"> Classe de importação</li><li><input type=\"checkbox\" disabled=\"\"> Classe de importação do pacote de terceiros</li></ul>",
+    "ID" : "<p>Itu adalah anggota tubuh makhluk asing besar yang tidak diketahui yang menghalangi jalan. Mereka terhubung ke menara pertahanan di bawah tanah, sehingga siapa pun yang mendekat akan diserang oleh menara pertahanan. Meski terlihat menakutkan, makhluk ini sebenarnya sangat rapuh. Setelah keluar dari perlindungan menara pertahanan, makhluk asing ini akan berubah menjadi abu dengan satu sentuhan. Oleh karena itu, untuk melewatinya, menara pertahanan yang terhubung harus dinonaktifkan atau dihancurkan.</p><p> Menara pertahanan dinonaktifkan atau dihancurkan:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Buat Kelas Baru</li><li><input type=\"checkbox\" disabled=\"\"> Kelas Impor</li><li><input type=\"checkbox\" disabled=\"\"> Impor Kelas dari Paket Pihak Ketiga</li></ul>",
+    "FR" : "<p>C&#39;est le membre d&#39;une énorme créature extraterrestre inconnue qui bloque le chemin. Ils sont reliés aux tours de défense souterraines, ainsi toute personne s&#39;approchant sera attaquée par les tours de défense. Bien qu&#39;elles aient l&#39;air effrayantes, ces créatures sont en réalité incroyablement fragiles. Une fois hors de la protection des tours de défense, ces créatures extraterrestres se transformeront en cendres d&#39;un simple toucher. Par conséquent, pour passer, les tours de défense connectées doivent être désactivées ou détruites.</p><p> Tours de défense désactivées ou détruites :</p><ul><li><input type=\"checkbox\" disabled=\"\"> Créer une nouvelle classe</li><li><input type=\"checkbox\" disabled=\"\"> Classe d&#39;importation</li><li><input type=\"checkbox\" disabled=\"\"> Importer une classe à partir d&#39;un package tiers</li></ul>",
+    "JA" : "<p>道を塞ぐのは、未知の巨大なエイリアンの手足です。それらは地下の防御塔に接続されているため、接近する人は誰でも防御塔に攻撃されます。彼らは怖いように見えますが、これらの生き物は実際には信じられないほど壊れやすいです。防御塔の保護が解除されると、これらのエイリアンの生き物はワンタッチで灰に変わります。したがって、通過するには、接続されている防御タワーを無効にするか、破壊する必要があります。</p><p>防衛塔が無効化または破壊された：</p><ul><li><input type=\"checkbox\" disabled=\"\">新しいクラスを作成する</li><li><input type=\"checkbox\" disabled=\"\">クラスのインポート</li><li><input type=\"checkbox\" disabled=\"\">サードパーティパッケージからクラスをインポートする</li></ul>",
+    "RU" : "<p>Путь преграждает конечность огромного неизвестного инопланетного существа. Они связаны с оборонительными башнями под землей, поэтому любой приближающийся будет атакован оборонительными башнями. Хотя они выглядят устрашающе, эти существа на самом деле невероятно хрупкие. Оказавшись вне защиты оборонительных башен, эти инопланетные существа превратятся в пепел одним прикосновением. Поэтому для прохождения связанные защитные башни должны быть выведены из строя или уничтожены.</p><p> Защитные башни отключены или уничтожены:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Создать новый класс</li><li><input type=\"checkbox\" disabled=\"\"> Класс импорта</li><li><input type=\"checkbox\" disabled=\"\"> Импорт класса из стороннего пакета</li></ul>",
+    "DE" : "<p>Es ist das Glied einer riesigen unbekannten außerirdischen Kreatur, die den Weg blockiert. Sie sind unterirdisch mit den Verteidigungstürmen verbunden, so dass jeder, der sich nähert, von den Verteidigungstürmen angegriffen wird. Obwohl sie unheimlich aussehen, sind diese Kreaturen tatsächlich unglaublich zerbrechlich. Außerhalb des Schutzes der Verteidigungstürme verwandeln sich diese außerirdischen Kreaturen mit einer Berührung in Asche. Um zu bestehen, müssen daher die verbundenen Verteidigungstürme deaktiviert oder zerstört werden.</p><p> Verteidigungstürme deaktiviert oder zerstört:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Erstellen Sie eine neue Klasse</li><li><input type=\"checkbox\" disabled=\"\"> Klasse importieren</li><li><input type=\"checkbox\" disabled=\"\"> Klasse aus Drittanbieterpaket importieren</li></ul>",
+    "KO" : "<p>길을 막고 있는 것은 거대한 미지의 외계 생명체의 사지입니다. 지하의 방어탑과 연결되어 있어 접근하는 사람은 방어탑의 공격을 받습니다. 무서운 것처럼 보이지만 실제로는 매우 연약한 생물입니다. 방어 타워의 보호를 벗어나면 이 외계 생명체는 터치 한 번으로 잿더미로 변합니다. 따라서 통과하려면 연결된 방어 타워를 비활성화하거나 파괴해야 합니다.</p><p> 방어 타워 비활성화 또는 파괴:</p><ul><li><input type=\"checkbox\" disabled=\"\"> 새 클래스 만들기</li><li><input type=\"checkbox\" disabled=\"\"> 클래스 가져오기</li><li><input type=\"checkbox\" disabled=\"\"> 타사 패키지에서 클래스 가져오기</li></ul>",
+    "IT" : "<p>È l&#39;arto di un&#39;enorme creatura aliena sconosciuta che blocca la strada. Sono collegati alle torri di difesa sotterranee, quindi chiunque si avvicini verrà attaccato dalle torri di difesa. Sebbene sembrino spaventose, queste creature sono in realtà incredibilmente fragili. Una volta fuori dalla protezione delle torri di difesa, queste creature aliene si trasformeranno in cenere con un solo tocco. Pertanto, per passare, le torri di difesa collegate devono essere disabilitate o distrutte.</p><p> Torri di difesa disabilitate o distrutte:</p><ul><li><input type=\"checkbox\" disabled=\"\"> Crea una nuova classe</li><li><input type=\"checkbox\" disabled=\"\"> Classe di importazione</li><li><input type=\"checkbox\" disabled=\"\"> Classe di importazione da pacchetto di terze parti</li></ul>"
   },
   "format" : "HTML"
 }, {

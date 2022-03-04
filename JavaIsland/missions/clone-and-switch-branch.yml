@@ -40,3 +40,5 @@ tutorials:
     href: https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/docs/zh/switch-jdk-idea.md
     type: text/markdown
     language: ZH_HANS
+onFinish:
+  items: ['door-key:JavaIsland:clone-and-switch-branch']

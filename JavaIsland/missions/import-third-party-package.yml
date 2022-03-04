@@ -20,4 +20,9 @@ challenges:
     spec: github.com/ByteLegendQuest/java-import-3rd-party-class
 discussions:
   url: https://github.com/ByteLegendQuest/java-import-3rd-party-class/discussions
+onFinish:
+  items:
+    - iron-sword:JavaIsland:import-third-party-package
+    - silver-sword:JavaIsland:import-third-party-package
+    - gold-sword:JavaIsland:import-third-party-package
 

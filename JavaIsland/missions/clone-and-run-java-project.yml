@@ -30,3 +30,5 @@ tutorials:
     href: https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/docs/zh/clone-and-run-idea.md
     type: text/markdown
     language: ZH_HANS
+onFinish:
+  items: ['door-key:JavaIsland:clone-and-run-java-project']

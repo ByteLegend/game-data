@@ -18,20 +18,83 @@
     ZH_HANS: 哦对不起，我只允许拥有【<span style='color:red'>{0}</span>】的人通过，但是你没有。
 - id: DoYouWantToHaveADrink
   data:
-    EN: Hey dude! Today is the end of the world, so why not come in for a 🍺?
+    EN: Hey dude! Today is THE END OF THE WORLD, why not come in for a 🍺?
     ZH_HANS: 嘿，老哥！今天是世界末日，还不进来喝一杯🍺嘛？
 - id: StepCloserToOpenTheBook
   data:
     EN: Step closer to open the book!
     ZH_HANS: 离近点才能打开！
-- id: CanYouPleaseGrabACoffee
+- id: CanYouGetMeACoffee
   data:
-    EN: Hey, can you please grab a coffee for me?
-    ZH_HANS: 嘿，你能给我弄杯咖啡嘛？
+    EN: Hey, young man, THE END OF THE WORLD is coming, can you get me a cup of coffee?
+    ZH_HANS: 嘿，年轻人，世界末日马上就要到了，你能给我弄杯咖啡嘛？
 - id: ThankYouForYourCoffee
   data:
-    EN: Thank you for your coffee!
-    ZH_HANS: 谢谢你的咖啡！
+    EN: Young man, thank you for your coffee! What's your name?
+    ZH_HANS: 年轻人，谢谢你的咖啡！你叫什么名字？
+- id: MyNameIs
+  format: HTML
+  data:
+    EN: My name is <span style='color:red'>{0}</span>.
+    ZH_HANS: 我叫<span style='color:red'>{0}</span>。
+- id: YouAreFinallyHere
+  format: HTML
+  data:
+    EN: <span style='color:red'>{0}</span>, <span style='color:red'>The One</span>, you are finally here.
+    ZH_HANS: <span style='color:red'>{0}</span>，<span style='color:red'>救世主</span>，你终于还是来了。
+- id: HowToEliminateBugs
+  format: HTML
+  data:
+    EN: To be honest, I have no idea why you call me <span style='color:red'>The One</span> and how to eliminate bugs, can you tell me?
+    ZH_HANS: 说实话，我不知道为什么你叫我<span style='color:red'>救世主</span>，也不知道怎么消灭虫子，你能告诉我么？
+- id: BugsAreScoutOfFleet
+  format: HTML
+  data:
+    EN: |
+      The bugs on Java Island are scout of a huge alien fleet wandering in the universe.
+      Whenever the bugs find a resource-rich planet, they land and build huge defense towers to communicate with the alien fleet.
+      Upon signals, the fleet will quickly come and squeeze up all resources on that planet - air, water, and mineral, turning it into a death planet without any life.
+    ZH_HANS: |
+      爪哇岛上的虫子是一支巨大流浪在宇宙中的外星舰队的先遣队，每当它们发现资源丰富的星球，就会着陆并建造巨大的防御塔和外星流浪舰队通信。
+      舰队收到信号后会迅速赶来榨干目标星球的一切资源——空气、水、矿物，将它变成一颗没有任何生命的死星。
+- id: DestroyBugTowers
+  format: HTML
+  data:
+    EN: |
+      The defense towers will be ready on full moon night and begin signaling the alien fleet.
+      Destroying towers is not easy, as towers are heavily guarded and will attack anyone who comes close.
+      There are countless people in the world who have tried and failed.
+      The prophecy says that <span style='color:red'>The One</span> with power to vanquish the bugs is named <span style='color:red'>{0}</span>.
+    ZH_HANS: |
+      防御塔在月圆之夜前就会建造完毕，开始向外星舰队发射信号。摧毁防御塔并不是一件容易的事情，因为防御塔被重重保护，并且会攻击一切靠近的人。
+      世上有无数人都曾经尝试过，但是都失败了。老夫夜观天象，预言说只有一个名为<span style='color:red'>{0}</span>的<span style='color:red'>救世主</span>才拥有彻底消灭虫子的能力。
+- id: SoIOnlyNeedToDestroyTowers
+  format: HTML
+  data:
+    EN: So I can vanquish the bugs by destroying defense towers?
+    ZH_HANS: 所以我只要摧毁防御塔，就能消灭虫子了？
+- id: BugsInCastle
+  format: HTML
+  data:
+    EN: |
+      No, destroying defense towers only prevents the bugs from communicating with the fleet.
+      The bug mastermind is in <span style='color:red'>{0}</span> castle, which must be eliminated to avoid all later troubles.
+    ZH_HANS: 不，摧毁防御塔只是阻止了虫子和舰队通信，虫子的主脑在<span style='color:red'>{0}</span>坐标的城堡里，必须彻底消灭它才能永绝后患。
+- id: IWillGoNow
+  format: HTML
+  data:
+    EN: I see. I will go right now.
+    ZH_HANS: 我知道了，我现在就去。
+- id: GoodLuckFateOfWorldInYourHands
+  format: HTML
+  data:
+    EN: Good luck. The fate of the world is in your hands.
+    ZH_HANS: 祝你好运，世界的命运在你手中。
+- id: RememberDestroyTowers
+  format: HTML
+  data:
+    EN: Remember, destroy defense towers, and eliminate the Bug Mastermind in <span style='color:red'>{0}</span> castle.
+    ZH_HANS: 记住，摧毁爪哇岛上的防御塔，消灭<span style='color:red'>{0}</span>城堡里的虫子主脑。
 - id: WhereToFindStar
   data:
     EN: But where can I get this medal?
@@ -138,53 +201,25 @@
     ZH_HANS: |
       完成<span style='color:red'>{0}</span>坐标处的任务你就可以获得此勋章。
       移动鼠标，你可以在窗口的左上角看到对应格子的坐标。
-- id: ImSupposedToDoSomething
-  data:
-    EN: I'm supposed to do something, but the author hasn't finished the code...
-    ZH_HANS: 我本来应该做点什么的，但是作者还没写完这部分的代码……
 - id: OutsideWorldIsDangerous
   format: HTML
   data:
-    EN: Where are you going? The outside world is full of dangerous monsters, evils ... and <span style='color:red'>poisonous <span class='notranslate'>bugs</span></span>.
-    ZH_HANS: 你要去哪儿？外面的世界充满了危险，到处都是怪物、恶魔……以及<span style='color:red'>有毒的幺蛾子</span>。
-- id: OutsideWorldIsDangerousButIHaveToLetYouGo
-  format: HTML
+    EN: Where are you going? The outside world is full of dangerous monsters, evils,  ... and poisonous alien bugs.
+    ZH_HANS: 你要去哪儿？外面的世界充满了危险，到处都是怪物、恶魔……以及有毒的外星虫子。
+- id: WouldTheBugsDisappear
   data:
-    EN: Even though the outside world is full of dangerous monsters, evils ... and <span style='color:red'>poisonous <span class='notranslate'>bugs</span></span>, I have to let you go.
-    ZH_HANS: 虽然外面的世界充满了危险，到处都是怪物、恶魔……以及<span style='color:red'>有毒的幺蛾子</span>，但是我还是得让你过去。
-- id: ButIHaveToDoSomething
-  data:
-    EN: But I have to do something, to eradicate the bugs, I don't want to stay at home all the time!
-    ZH_HANS: 但是我必须做点什么终结所有的幺蛾子！我不想整天呆在家里！
-- id: YouCanFindHolyJavaCoffee
-  format: HTML
-  data:
-    EN: There is a way... you can find <span style='color:red'>Holy Java Coffee</span> in the castle at <span style='color:red'>{0}</span>...
-    ZH_HANS: 有一个办法……在<span style='color:red'>{0}坐标</span>的城堡里有<span style='color:red'>神圣爪哇咖啡</span>……
-- id: HolyJavaCoffeeIsAntidote
-  format: HTML
-  data:
-    EN: which is the antidote of <span style='color:red'>poisonous <span class='notranslate'>bugs</span></span>.
-    ZH_HANS: 是<span style='color:red'>有毒的幺蛾子</span>的克星。
-- id: ButYouHaveToGoThroughJavaIsland
-  data:
-    EN: But you have to go through Java island, with dangerous bugs all over the island.
-    ZH_HANS: 但是你必须穿越满是危险幺蛾子的爪哇岛。
-- id: WithItICanDate
-  format: HTML
-  data:
-    EN: So with <span style='color:red'>Holy Java Coffee</span> I can date girls, I mean, heal the world?
-    ZH_HANS: 所以有了<span style='color:red'>神圣爪哇咖啡</span>我就可以和女孩子约会……我的意思是……拯救世界了？
+    EN: Would the alien bugs disappear if I do nothing but sit at home all day?
+    ZH_HANS: 难道我整天坐在家里，外星虫子就会凭空消失吗？
 - id: LeaveYourName
   format: HTML
   data:
-    EN: Yes... brave person, if you insist, leave your name on the noticeboard at coordinate <span style='color:red'>{0}</span>, we'll remember your forever.
-    ZH_HANS: 是的。勇敢的人啊，如果你非要去，请在<span style='color:red'>{0}</span>坐标的公告牌留下你的名字吧，你会永远活在我们心中的。
-- id: GoodLuckPursueHolyJavaCoffee
+    EN: ... You are right. Brave person, if you insist, leave your name on the noticeboard at coordinate <span style='color:red'>{0}</span>, we'll remember your forever.
+    ZH_HANS: ……你是对的。勇敢的人啊，如果你非要去，请在<span style='color:red'>{0}</span>坐标的公告牌留下你的名字吧，你会永远活在我们心中的。
+- id: OutsideWorldIsDangerousButIHaveToLetYouGo
   format: HTML
   data:
-    EN: Good luck pursuing <span style='color:red'>Holy Java Coffee</span>!
-    ZH_HANS: 祝你追寻<span style='color:red'>神圣爪哇咖啡</span>好运！
+    EN: Even though the outside world is full of dangerous monsters, evils, and poisonous alien bugs., I have to let you go.
+    ZH_HANS: 虽然外面的世界充满了危险，到处都是怪物、恶魔以及有毒的外星虫子，但是我还是得让你过去。
 - id: BasicSkillRegionName
   data:
     EN: Basic skills
@@ -987,30 +1022,46 @@
       或者
 
       ![vscode-about.png](https://raw.githubusercontent.com/ByteLegend/game-data/master/JavaIsland/docs/install-java-ide/vscode-about.png)
-- id: YouMustGetBronzeGitMedal
+- id: YouMustGetGitAmulet
   format: HTML
   data:
     EN: |
-      I only allow people with <span style='color:red'>Bronze Git Medal</span> to pass.
+      Are you sure going to Java Island? The journey will be arduous, only the bravest people can survive.
+      The bugs are poisonous, you must have a <span style='color:red'>Git Amulet</span>.
+      Without it, you can't even survive the first door.
     ZH_HANS: |
-      我只允许拥有<span style='color:red'>青铜Git勋章</span>的人通过。
+      你确定要去爪哇岛吗？旅途将会千辛万苦，只有最勇敢的人才能坚持下来。
+      那里的虫子非常毒，你必须拥有<span style='color:red'>Git护身符</span>才行。
+      没有它，你甚至撑不过第一扇门。
+- id: WhereToGetGitAmulet
+  format: HTML
+  data:
+    EN: So where can I get a <span style='color:red'>Git护身符</span>?
+    ZH_HANS: 那我要去哪里才能得到<span style='color:red'>Git护身符</span>？
+- id: GitAmuletOnGitIsland
+  format: HTML
+  data:
+    EN: |
+      There is a <span style='color:red'>Git Island</span> in the distance.
+      The items on the island are fantastic - they are resistant to the poison of bugs.
+    ZH_HANS: 远方有一座<span style='color:red'>Git岛</span>，岛上的物品拥有神奇的魔力，能够抵抗虫子的剧毒。
 - id: WouldYouLikeToGitIsland
+  format: HTML
   data:
     EN: |
       Would you like to Git Island? Pay me 50 gold and I'll take you there.
+      If you don't have enough gold, there is more gold under the tree at coordinate <span style='color:red'>{0}</span>.
     ZH_HANS: |
-      你想去Git岛么？付我50金币，我就带你去。
-- id: BravePeopleISeeYourBronzeGitMedal
+      你想去Git岛么？付我50金币，我就带你去。如果你的金币不够，在<span style='color:red'>{0}</span>的树下有更多的金币。
+- id: BravePeopleISeeYourGitAmulet
   format: HTML
   data:
     ZH_HANS: |
-      勇敢的人啊，我看到了你的<span style='color:red'>青铜Git勋章</span>和勇气，
-      请答应我，一定要坚持到底，找到<span style='color:red'>神圣爪哇咖啡</span>，
-      拯救我们的家园！
+      勇敢的人啊，我看到了你的<span style='color:red'>青铜Git护身符</span>和勇气，
+      请答应我，一定要坚持到底，消灭虫子，拯救我们的家园！
     EN: |
-      Brave man, I see your <span style='color:red'>Brave Git Medal</span> and courage,
-      promise me, keep on until you find <span style='color:red'>Holy Java Coffee</span>,
-      save our home!
+      Brave man, I see your <span style='color:red'>Git Amulet</span> and courage,
+      promise me, keep on until you eliminate all bugs, save our home!
 - id: IPromise
   data:
     ZH_HANS: 我答应你。
@@ -1027,7 +1078,13 @@
   format: MARKDOWN
   data:
     ZH_HANS: |
-      要从这里通过，你需要摧毁这个区域的防御塔：
+      阻塞道路的是埋在地下的巨大的不明外星生物的肢体，
+      它们在地下和防御塔相连，因此任何接近它们的人都会被防御塔攻击。
+      虽然看上去十分恐怖，这些生物实际上异常脆弱，
+      一旦脱离了防御塔的保护，这些外星生物一碰就会成为灰烬。
+      因此，要想从这里通过，必须瘫痪或摧毁与其相连的防御塔。
+
+      防御塔已瘫痪/摧毁：
 
       - [ ] Java的方法
       - [ ] 方法的重载
@@ -1036,7 +1093,16 @@
       - [ ] 局部变量与作用域
       - [ ] 方法的递归
     EN: |
-      To pass, you need to destroy the defense towers in this region:
+      It's the limb of huge unknown alien creature that blocks the way.
+      They are connected to the defense towers underground,
+      thus anyone approaching will be attacked by the defense towers.
+      Although they look scary, these creatures are actually
+      incredibly fragile. Once out of protection of the defense towers,
+      these alien creatures will turn to ashes at one touch.
+      Therefore, to pass, the connected defense towers
+      must be disabled or destroyed.
+
+      Defense towers disabled or destroyed:
 
       - [ ] Java Method
       - [ ] Method Overload
@@ -1048,13 +1114,28 @@
   format: MARKDOWN
   data:
     ZH_HANS: |
-      要从这里通过，你需要摧毁这个区域的三座防御塔：
+      阻塞道路的是埋在地下的巨大的不明外星生物的肢体，
+      它们在地下和防御塔相连，因此任何接近它们的人都会被防御塔攻击。
+      虽然看上去十分恐怖，这些生物实际上异常脆弱，
+      一旦脱离了防御塔的保护，这些外星生物一碰就会成为灰烬。
+      因此，要想从这里通过，必须瘫痪或摧毁与其相连的防御塔。
+
+      防御塔已瘫痪/摧毁：
 
       - [ ] 创建一个类
       - [ ] 导入类
       - [ ] 导入第三方包的类
     EN: |
-      To pass, you need to destroy 3 defense towers in this region:
+      It's the limb of huge unknown alien creature that blocks the way.
+      They are connected to the defense towers underground,
+      thus anyone approaching will be attacked by the defense towers.
+      Although they look scary, these creatures are actually
+      incredibly fragile. Once out of protection of the defense towers,
+      these alien creatures will turn to ashes at one touch.
+      Therefore, to pass, the connected defense towers
+      must be disabled or destroyed.
+
+      Defense towers disabled or destroyed:
 
       - [ ] Create a New Class
       - [ ] Import Class

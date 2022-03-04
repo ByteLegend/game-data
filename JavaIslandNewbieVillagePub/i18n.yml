@@ -84,68 +84,98 @@
   data:
     EN: Install <span class="notranslate">Java</span>
     ZH_HANS: 安装<span class="notranslate">Java</span>
-- id: WillYouGoOutWithMe
+- id: WhyEveryoneIsTalkingAboutEndOfWorld
   data:
-    EN: Hmm... I know this sounds a bit crazy, but would you go out with me sometime, like, tonight?
-    ZH_HANS: 嗯……我知道这听上去有点突然，但是你有空的时候和我一起出去玩么？比如说，今天晚上？
+    EN: Now can you tell me why everyone is talking about THE END OF THE WORLD?
+    ZH_HANS: 现在可以告诉我了吗？为什么每个人都在说世界末日？
+- id: WhatsYourName
+  data:
+    EN: You are an outlander, aren't you? What's you name?
+    ZH_HANS: 你是外乡人吧，你叫什么名字？
+- id: YesMyNameIs
+  format: HTML
+  data:
+    EN: Yes, my name is <span style='color:red'>{0}</span>.
+    ZH_HANS: 是的，我叫<span style='color:red'>{0}</span>。
+- id: OhMyGod
+  data:
+    EN: Oh my god...dad, this guy...
+    ZH_HANS: 我的天……爸爸，这个人……
 - id: StayAwayFromMyDaughter
   data:
-    EN: Hey! Stay away from my daughter!
-    ZH_HANS: 喂！离我女儿远一点！
-- id: SorryMyFatherDoesntAllow
+    EN: Did this kid touch you? Kid, stay away from my daughter!
+    ZH_HANS: 这小子对你动手动脚了是不是？你这个小子离我女儿远一点！
+- id: NoHeIsTheOne
+  format: HTML
   data:
-    EN: Sorry, my father doesn't allow me to go out.
-    ZH_HANS: 对不起，我爸爸不让我出去。
-- id: Why
+    EN: No... he says he is <span style='color:red'>{0}</span>, <span style='color:red'>The One</span> mentioned by <span style='color:red'>The Oracle</span> is here!
+    ZH_HANS: 不是……他说他是<span style='color:red'>{0}</span>，<span style='color:red'>先知</span>说的<span style='color:red'>救世主</span>来了！
+- id: WhatOracle
+  format: HTML
   data:
-    EN: Why?
-    ZH_HANS: 为什么？
-- id: HugeBugsOnJavaIsland
+    EN: What's <span style='color:red'>The Oracle</span>? What's <span style='color:red'>The One</span>?
+    ZH_HANS: 什么<span style='color:red'>先知</span>，什么<span style='color:red'>救世主</span>？
+- id: JavaIslandWasBeautifulIsland
   format: HTML
   data:
     EN: |
-      Java island used to be a beautiful and fertile land, but since some point there are many poisonous <span style='color:red'>bugs</span> on the island.
+      Java island used to be a beautiful and fertile land, but since some point many poisonous alien bugs appeared on the island.
+      They have seized our land, and we have organized many revolts that have failed.
+      <span style='color:red'>The Oracle</span> in the village told us that only <span style='color:red'>The One</span> named <span style='color:red'>{0}</span> can eliminate all the bugs.
+      However, if <span style='color:red'>The One</span> does not show up before the full moon, the bugs will completely destroy the world.
     ZH_HANS: |
-      爪哇岛从前是一块美丽富饶的土地，但是不知道从什么时候开始，岛上出现了很多有毒的<span style='color:red'>幺蛾子</span>。
-- id: Bugs
+      爪哇岛从前是一块美丽富饶的土地，但是不知道从什么时候开始，岛上出现了很多有毒的外星<ruby>虫子<rt>Bug</rt></ruby>。
+      它们强占了我们的土地，我们组织了很多次反抗都失败了。村子里的<span style='color:red'>先知</span>告诉我们，只有一个名叫<span style='color:red'>{0}</span>的<span style='color:red'>救世主</span>才能消灭所有的虫子。
+      但是，如果<span style='color:red'>救世主</span>没能在月圆之夜前出现，虫子就会彻底毁灭这个世界。
+- id: TodayIsFullMoon
+  data:
+    EN: And today is the full moon night. We thought you wouldn't be coming, thank goodness you are here!
+    ZH_HANS: 而今天，就是月圆之夜。我们以为你不会来了，谢天谢地你来了！
+- id: HowShallIDo
   format: HTML
   data:
-    EN: Poisonous <span style='color:red'>bugs</span>?
-    ZH_HANS: 有毒的<span style='color:red'>幺蛾子</span>？
-- id: IWillEliminateAllBugs
+    EN: Me? <span style='color:red'>The One</span>? So what shall I do?
+    ZH_HANS: 我？<span style='color:red'>救世主</span>？那我要怎么做？
+- id: GoToSeeOracle
   format: HTML
   data:
-    EN: If I can eliminate all <span style='color:red'>bugs</span>, would you like to go out with me?
-    ZH_HANS: 如果我能清除掉所有的<span style='color:red'>幺蛾子</span>，你愿意和我一起出去玩吗？
-- id: HmmmYes
+    EN: |
+      Please go to see <span style='color:red'>The Oracle</span> at <span style='color:red'>the entrance of Newbie Village</span>.
+      Don't forget to bring a Java coffee. <span style='color:red'>The Oracle</span> likes Java so much that he spent a lot of money on Java.
+    ZH_HANS: |
+      请去<span style='color:red'>新手村村口</span>找<span style='color:red'>先知</span>，他会告诉你更多。
+      记得带爪哇咖啡去，<ruby><span style='color:red'>先知</span><rt>Oracle</rt></ruby>非常喜欢<ruby>爪哇咖啡<rt>Java</rt></ruby>，他花了很多钱买爪哇咖啡。
+- id: WhatEndOfWorld
   data:
-    EN: Hmmm... yes.
-    ZH_HANS: 嗯……愿意。
+    EN: What's the end of the world?
+    ZH_HANS: 什么世界末日？
+- id: GoToMakeACoffeeAndIWillTellYou
+  data:
+    EN: That's a long story... go to make a coffee and I'll tell you.
+    ZH_HANS: 说来话长……去泡杯咖啡来，我慢慢告诉你。
 - id: SeeTheCoffeeMachine
   format: HTML
   data:
-    EN: Are you looking for coffee? You have to do it by yourself - the coffee machine at <span style='color:red'>{0}</span>.
-    ZH_HANS: 你在找咖啡么？你得自己动手了，<span style='color:red'>{0}</span>有一个咖啡机。
-- id: ThatsWhyWeDontGoOutAfterDark
+    EN: Sorry, Today is THE END OF THE WORLD, everybody enjoys being drunk, nobody drinks coffee. You have to make it by yourself - there is a coffee machine at <span style='color:red'>{0}</span>, with detailed instructions.
+    ZH_HANS: 抱歉，今天是世界末日，每个人都想要一醉方休，没有人喝咖啡的。要咖啡的话你得自己做，<span style='color:red'>{0}</span>有一个咖啡机，上面有详细说明。
+- id: CanIHaveACoffee
   data:
-    EN: Yes. And the poison is contagious - it is said that bugs are the biggest crisis on the island since COVID.
-    ZH_HANS: 是的。并且幺蛾子毒会传染，据说幺蛾子是自新冠病毒以来岛上最大的危机。
-- id: DoYouHaveCoffee
-  data:
-    EN: Hi, do you have coffee?
+    EN: Hi, can I have a coffee, please?
     ZH_HANS: 你好，请问有咖啡么？
 - id: WeDontSellCoffee
   data:
-    EN: Coffee? Are you kidding me? Today is THE END OF THE WORLD!
-    ZH_HANS: 你在逗我吧？世界末日了还喝什么咖啡！
-- id: DidYouEliminateAllBugs
+    EN: Coffee? Are you kidding me? Today is THE END OF THE WORLD! Come and drink a vodca!
+    ZH_HANS: 你在逗我吧？世界末日了还喝什么咖啡！来一杯伏特加吧！
+- id: HaveYouSeenTheOracle
+  format: HTML
   data:
-    EN: Did you eliminate all bugs on Java island?
-    ZH_HANS: 你清除掉爪哇岛上的所有幺蛾子了么？
-- id: NoIWillDoRightNow
+    EN: Have you seen <span style='color:red'>the Oracle</span> at <span style='color:red'>the entrance of Newbie Village</span>?
+    ZH_HANS: 你见到<span style='color:red'>新手村村口</span>的<span style='color:red'>先知</span>了么？
+- id: NoIWillGoToSeeTheOracleRightNow
+  format: HTML
   data:
-    EN: No... I will do right now.
-    ZH_HANS: 还没有……我现在就去。
+    EN: Not yet... I will go to see <span style='color:red'>the Oracle</span> at <span style='color:red'>the entrance of Newbie Village</span> right now.
+    ZH_HANS: 还没有……我现在就去见<span style='color:red'>新手村村口</span>的<span style='color:red'>先知</span>。
 - id: install-java-tldr
   format: MARKDOWN
   data:

@@ -340,4 +340,22 @@
     "IT" : "<p>Installa <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> e incolla l&#39;output della riga di comando della <code class=\"notranslate\">git version</code></p>"
   },
   "format" : "HTML"
+}, {
+  "id" : "GitIslandOnlyOpenHere",
+  "data" : {
+    "EN" : "Git Island is only developed this far... if you already have <span style='color:red'>Git Amulet</span>, go back to Java Island.",
+    "ZH_HANS" : "Git岛只开发到这里，如果你已经拿到了<span style='color:red'>Git护身符</span>，那就回Java岛去吧。",
+    "ZH_HANT" : "Git島只開發到這裡，如果你已經拿到了<span style='color:red'>Git護身符</span>，那就回Java島去吧。",
+    "ES" : "Git Island solo se ha desarrollado hasta aquí... si ya tienes <span style='color:red'>Git Amulet</span> , vuelve a Java Island.",
+    "AR" : "تم تطوير Git Island فقط حتى الآن ... إذا كان لديك <span style='color:red'>Git Amulet</span> بالفعل ، فارجع إلى جزيرة Java.",
+    "PT" : "O Git Island só foi desenvolvido até aqui... se você já tem o <span style='color:red'>Git Amulet</span> , volte para o Java Island.",
+    "ID" : "Pulau Git hanya dikembangkan sejauh ini... jika sudah memiliki <span style='color:red'>Git Amulet</span> , kembalilah ke Pulau Jawa.",
+    "FR" : "Git Island n&#39;est développé que jusqu&#39;ici... si vous avez déjà <span style='color:red'>Git Amulet</span> , retournez sur Java Island.",
+    "JA" : "Git Islandはここまでしか開発されていません...すでにGitAmuletをお持ちの場合は、 <span style='color:red'>JavaIsland</span>に戻ってください。",
+    "RU" : "Git Island разработан только на этом этапе... если у вас уже есть <span style='color:red'>Git Amulet</span> , вернитесь на остров Java.",
+    "DE" : "Git Island ist nur so weit entwickelt ... wenn Sie bereits <span style='color:red'>Git Amulet</span> haben, gehen Sie zurück zu Java Island.",
+    "KO" : "Git Island는 여기까지만 개발되었습니다... 이미 <span style='color:red'>Git Amulet</span> 이 있다면 Java Island로 돌아가십시오.",
+    "IT" : "Git Island è stato sviluppato solo fino a questo punto... se hai già <span style='color:red'>Git Amulet</span> , torna a Java Island."
+  },
+  "format" : "HTML"
 } ]

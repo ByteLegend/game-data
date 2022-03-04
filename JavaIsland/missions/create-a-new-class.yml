@@ -20,4 +20,8 @@ challenges:
     spec: github.com/ByteLegendQuest/java-create-a-new-class
 discussions:
   url: https://github.com/ByteLegendQuest/java-create-a-new-class/discussions
-
+onFinish:
+  items:
+    - iron-sword:JavaIsland:create-a-new-class
+    - silver-sword:JavaIsland:creat-a-new-class
+    - gold-sword:JavaIsland:create-a-new-class

@@ -20,3 +20,8 @@ challenges:
     spec: github.com/ByteLegendQuest/java-first-code-refactoring
 discussions:
   url: https://github.com/ByteLegendQuest/java-first-code-refactoring/discussions
+onFinish:
+  items:
+    - iron-sword:JavaIsland:java-method-invocation
+    - silver-sword:JavaIsland:java-method-invocation
+    - gold-sword:JavaIsland:java-method-invocation

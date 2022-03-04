@@ -20,5 +20,4 @@ challenges:
     spec: github.com/ByteLegendQuest/fix-typo
 discussions:
   url: https://github.com/ByteLegendQuest/fix-typo/discussions
-onFinish:
-  achievements: ['bronze-git-medal']
+

@@ -57,4 +57,7 @@ tutorials:
     type: video/bilibili
     language: ZH_HANS
 onFinish:
-  coin: 100
+  items: [ "", "key:JavaIsland:install-java-ide" ]
+onItemUsed:
+  "key:JavaIsland:install-java-ide":
+    coin: 100

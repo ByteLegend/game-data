@@ -21,8 +21,7 @@ challenges:
     tldr: install-java-tldr
     readme: install-java-readme
 onFinish:
-  items:
-    add: ["coffee-icon"]
+  items: ["coffee-icon"]
 tutorials:
   - id: InstallJavaZhHans
     title: Win10安装JDK

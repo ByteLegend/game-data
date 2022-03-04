@@ -16,7 +16,9 @@ title: fix-simple-add-title
 challenges:
   - id: java-fix-add
     type: PullRequest
-    star: 3
+    star: 1
     spec: github.com/ByteLegendQuest/java-fix-add
 discussions:
   url: https://github.com/ByteLegendQuest/java-fix-add/discussions
+onFinish:
+  items: ['dagger:JavaIsland:fix-simple-add']

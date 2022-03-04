@@ -20,3 +20,8 @@ challenges:
     readme: install-git-challenge-readme
     star: 1
     spec: '(?s)git version [.\d]+.*'
+onFinish:
+  items: ['key:GitIsland:install-git']
+onItemUsed:
+  'key:GitIsland:install-git':
+    achievements: ['bronze-git-medal']

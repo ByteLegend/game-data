@@ -92,3 +92,8 @@
   data:
     EN: Install [Git](https://git-scm.com/downloads), and paste the `git version` command line output into the input box below.
     ZH_HANS: 安装[Git](https://git-scm.com/downloads)，然后将`git version`命令行的输出粘贴到下面的输入框里。
+- id: GitIslandOnlyOpenHere
+  format: HTML
+  data:
+    EN: Git Island is only developed this far... if you already have <span style='color:red'>Git Amulet</span>, go back to Java Island.
+    ZH_HANS: Git岛只开发到这里，如果你已经拿到了<span style='color:red'>Git护身符</span>，那就回Java岛去吧。

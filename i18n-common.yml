@@ -660,14 +660,35 @@
   data:
     EN: My Achievement
     ZH_HANS: 我的成就
-- id: bronze-git-medal-name
+- id: git-amulet-name
   data:
-    EN: Bronze Git Medal
-    ZH_HANS: 青铜Git勋章
-- id: bronze-git-medal-desc
+    EN: Git Amulet
+    ZH_HANS: Git护身符
+- id: git-amulet-desc
   data:
-    EN: Bronze Git Medal
-    ZH_HANS: 青铜Git勋章
+    EN: |
+      An amulet made of jade, infiltrating the powerful magic of Git,
+      can empower programmers with better insights into bugs.
+      Git has become the cornerstone of modern software development - we can't imagine a world without it.
+    ZH_HANS: |
+      由玉制成的护身符，浸润了Git的强大魔力，能赋予程序员更好的洞察bug的能力。
+      Git已经成为了现代软件开发的基石，我们无法想象没有Git的世界。
+- id: item-door-key-name
+  data:
+    EN: Door Key
+    ZH_HANS: 大门钥匙
+- id: item-door-key-desc
+  data:
+    EN: A key which to open a door.
+    ZH_HANS: 一把用来打开大门的钥匙。
+- id: item-dagger-name
+  data:
+    EN: Dagger
+    ZH_HANS: 短刀
+- id: item-dagger-desc
+  data:
+    EN: A razor-sharp knife that even beginners can use to kill slow-moving bugs easily.
+    ZH_HANS: 一把锋利的短刀，即使初学者也能轻松用它击杀行动缓慢的虫子。
 - id: silver-git-medal-name
   data:
     EN: Silver Git Medal
@@ -865,8 +886,8 @@
 - id: ItemCanOnlyBeUsedOnMission
   format: HTML
   data:
-    EN: <span style='color:gold'>This item can be only used for mission <span style='color:red'>[{0}]</span>.</span>
-    ZH_HANS: <span style='color:gold'>此物品只能用在关卡<span style='color:red'>【{0}】</span>上。</span>
+    EN: <span style='color:gold'>This item can be used for mission <span style='color:red'>[{0}]</span>.</span>
+    ZH_HANS: <span style='color:gold'>此物品可用于关卡<span style='color:red'>【{0}】</span>。</span>
 - id: "item-key-name"
   data:
     EN: Chest Key
@@ -877,12 +898,17 @@
     ZH_HANS: 一把用来打开宝箱的钥匙。
 - id: "item-coffee-name"
   data:
-    EN: A coffee
-    ZH_HANS: 咖啡
+    EN: Java Coffee
+    ZH_HANS: 爪哇咖啡
 - id: "item-coffee-desc"
   data:
-    EN: A coffee
-    ZH_HANS: 一杯普普通通的咖啡
+    EN: |
+      A cup of coffee made from the best coffee beans produced in Java Island.
+      The coffee is less and less because Java Island has been occupied by alien bugs.
+      It is said that The Oracle of Newbie Village likes Java Coffee very much and has spent a lot of money on it.
+    ZH_HANS: |
+      一杯使用爪哇岛出产的上好咖啡豆制成的咖啡，由于爪哇岛被外星虫子占领，喝一杯少一杯。
+      据说新手村的先知非常喜欢这个口味，曾经花了很多钱买爪哇咖啡。
 - id: "item-iron-sword-name"
   data:
     EN: Iron Sword
@@ -908,3 +934,12 @@
   data:
     EN: A sword made of gold, with powerful magic. A defense tower will smash into pieces immediately when it's chopped by this gold sword.
     ZH_HANS: 一把黄金打造、淬有强大魔法的大宝剑。防御塔在它的劈砍下立成齑粉。
+- id: "UseItemFailed"
+  data:
+    EN: Failed to use item
+    ZH_HANS: 使用物品失败
+- id: "UseItemFailedWith"
+  format: HTML
+  data:
+    EN: "Failed to use item [<span style='color:red'>{0}</span>]. It may help to refresh the page. {1}"
+    ZH_HANS: 使用物品【<span style='color:red'>{0}</span>】失败。刷新页面可能有助于解决此问题。{1}

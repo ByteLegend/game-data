@@ -20,3 +20,8 @@ challenges:
     spec: github.com/ByteLegendQuest/java-write-overloading-methods
 discussions:
   url: https://github.com/ByteLegendQuest/java-write-overloading-methods/discussions
+onFinish:
+  items:
+    - iron-sword:JavaIsland:java-method-overloading
+    - silver-sword:JavaIsland:java-method-overloading
+    - gold-sword:JavaIsland:java-method-overloading
