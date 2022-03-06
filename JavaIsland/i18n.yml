@@ -1045,14 +1045,22 @@
       There is a <span style='color:red'>Git Island</span> in the distance.
       The items on the island are fantastic - they are resistant to the poison of bugs.
     ZH_HANS: 远方有一座<span style='color:red'>Git岛</span>，岛上的物品拥有神奇的魔力，能够抵抗虫子的剧毒。
+- id: MoreGold
+  data:
+    EN: More Glod
+    ZH_HANS: 更多金币
+- id: ThereIsMoreGold
+  format: HTML
+  data:
+    EN: If you don't have enough gold, there is more gold under the tree at coordinate <span style='color:red'>{0}</span>.
+    ZH_HANS: 如果你的金币不够，在<span style='color:red'>{0}</span>的树下有更多的金币。
 - id: WouldYouLikeToGitIsland
   format: HTML
   data:
     EN: |
       Would you like to Git Island? Pay me 50 gold and I'll take you there.
-      If you don't have enough gold, there is more gold under the tree at coordinate <span style='color:red'>{0}</span>.
     ZH_HANS: |
-      你想去Git岛么？付我50金币，我就带你去。如果你的金币不够，在<span style='color:red'>{0}</span>的树下有更多的金币。
+      你想去Git岛么？付我50金币，我就带你去。
 - id: BravePeopleISeeYourGitAmulet
   format: HTML
   data:

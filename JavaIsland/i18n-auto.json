@@ -3779,21 +3779,57 @@
   },
   "format" : "HTML"
 }, {
+  "id" : "MoreGold",
+  "data" : {
+    "EN" : "More Glod",
+    "ZH_HANS" : "更多金币",
+    "ZH_HANT" : "更多金幣",
+    "ES" : "más oro",
+    "AR" : "المزيد من جلود",
+    "PT" : "Mais Glória",
+    "ID" : "Lebih banyak",
+    "FR" : "Plus de gloire",
+    "JA" : "もっとグロド",
+    "RU" : "Больше Глод",
+    "DE" : "Mehr Glod",
+    "KO" : "더 글로드",
+    "IT" : "Più gloria"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "ThereIsMoreGold",
+  "data" : {
+    "EN" : "If you don't have enough gold, there is more gold under the tree at coordinate <span style='color:red'>{0}</span>.",
+    "ZH_HANS" : "如果你的金币不够，在<span style='color:red'>{0}</span>的树下有更多的金币。",
+    "ZH_HANT" : "如果你的金幣不夠，在<span style='color:red'>{0}</span>的樹下有更多的金幣。",
+    "ES" : "Si no tienes suficiente oro, hay más oro debajo del árbol en la coordenada <span style='color:red'>{0}</span> .",
+    "AR" : "إذا لم يكن لديك ما يكفي من الذهب ، فهناك المزيد من الذهب تحت الشجرة عند الإحداثيات <span style='color:red'>{0}</span> .",
+    "PT" : "Se você não tiver ouro suficiente, há mais ouro sob a árvore na coordenada <span style='color:red'>{0}</span> .",
+    "ID" : "Jika Anda tidak memiliki cukup emas, ada lebih banyak emas di bawah pohon di koordinat <span style='color:red'>{0}</span> .",
+    "FR" : "Si vous n&#39;avez pas assez d&#39;or, il y en a plus sous l&#39;arbre à la coordonnée <span style='color:red'>{0}</span> .",
+    "JA" : "十分な金がない場合は、座標<span style='color:red'>{0}</span>のツリーの下にさらに多くの金があります。",
+    "RU" : "Если у вас недостаточно золота, под деревом с координатой <span style='color:red'>{0}</span> есть еще золото.",
+    "DE" : "Wenn Sie nicht genug Gold haben, gibt es mehr Gold unter dem Baum bei Koordinate <span style='color:red'>{0}</span> .",
+    "KO" : "골드가 충분하지 않으면 좌표 <span style='color:red'>{0}</span> 에 있는 나무 아래에 더 많은 골드가 있습니다.",
+    "IT" : "Se non hai abbastanza oro, c&#39;è più oro sotto l&#39;albero alla coordinata <span style='color:red'>{0}</span> ."
+  },
+  "format" : "HTML"
+}, {
   "id" : "WouldYouLikeToGitIsland",
   "data" : {
-    "EN" : "Would you like to Git Island? Pay me 50 gold and I'll take you there.\nIf you don't have enough gold, there is more gold under the tree at coordinate <span style='color:red'>{0}</span>.\n",
-    "ZH_HANS" : "你想去Git岛么？付我50金币，我就带你去。如果你的金币不够，在<span style='color:red'>{0}</span>的树下有更多的金币。\n",
-    "ZH_HANT" : "你想去Git島麼？付我50金幣，我就帶你去。如果你的金幣不夠，在<span style='color:red'>{0}</span>的樹下有更多的金幣。",
-    "ES" : "¿Te gustaría ir a la isla Git? Págame 50 de oro y te llevaré allí. Si no tienes suficiente oro, hay más oro debajo del árbol en la coordenada <span style='color:red'>{0}</span> .",
-    "AR" : "هل ترغب في جزيرة جيت؟ ادفع لي 50 ذهبًا وسآخذك إلى هناك. إذا لم يكن لديك ما يكفي من الذهب ، فهناك المزيد من الذهب تحت الشجرة عند الإحداثيات <span style='color:red'>{0}</span> .",
-    "PT" : "Você gostaria de Git Island? Pague-me 50 de ouro e eu te levo até lá. Se você não tiver ouro suficiente, há mais ouro sob a árvore na coordenada <span style='color:red'>{0}</span> .",
-    "ID" : "Apakah Anda ingin ke Pulau Git? Bayar saya 50 emas dan saya akan membawa Anda ke sana. Jika Anda tidak memiliki cukup emas, ada lebih banyak emas di bawah pohon di koordinat <span style='color:red'>{0}</span> .",
-    "FR" : "Aimeriez-vous Git Island? Payez-moi 50 pièces d&#39;or et je vous emmènerai là-bas. Si vous n&#39;avez pas assez d&#39;or, il y en a plus sous l&#39;arbre à la coordonnée <span style='color:red'>{0}</span> .",
-    "JA" : "Git Islandに行きませんか？私に50ゴールドを払えば、私はあなたをそこに連れて行きます。十分なゴールドがない場合は、ツリーの下の座標<span style='color:red'>{0}</span>にさらにゴールドがあります。",
-    "RU" : "Хотите на остров Гит? Заплати мне 50 золотых, и я отведу тебя туда. Если у вас недостаточно золота, под деревом с координатой <span style='color:red'>{0}</span> есть еще золото.",
-    "DE" : "Möchtest du nach Git Island? Zahl mir 50 Gold und ich bringe dich hin. Wenn Sie nicht genug Gold haben, gibt es mehr Gold unter dem Baum bei Koordinate <span style='color:red'>{0}</span> .",
-    "KO" : "Git Island에 가고 싶습니까? 나에게 50골드를 지불하면 당신을 그곳으로 데려다 드리겠습니다. 골드가 충분하지 않다면 좌표 <span style='color:red'>{0}</span> 에 있는 나무 아래에 더 많은 골드가 있습니다.",
-    "IT" : "Ti piacerebbe Git Island? Pagami 50 monete d&#39;oro e ti ci porto. Se non hai abbastanza oro, c&#39;è più oro sotto l&#39;albero alla coordinata <span style='color:red'>{0}</span> ."
+    "EN" : "Would you like to Git Island? Pay me 50 gold and I'll take you there.\n",
+    "ZH_HANS" : "你想去Git岛么？付我50金币，我就带你去。\n",
+    "ZH_HANT" : "你想去Git島麼？付我50金幣，我就帶你去。",
+    "ES" : "¿Te gustaría ir a la isla Git? Págame 50 de oro y te llevaré allí.",
+    "AR" : "هل ترغب في جزيرة جيت؟ ادفع لي 50 ذهبًا وسآخذك إلى هناك.",
+    "PT" : "Você gostaria de Ilha Git? Pague-me 50 de ouro e eu te levo até lá.",
+    "ID" : "Apakah Anda ingin ke Pulau Git? Bayar saya 50 emas dan saya akan membawa Anda ke sana.",
+    "FR" : "Aimeriez-vous Git Island? Payez-moi 50 pièces d&#39;or et je vous emmènerai là-bas.",
+    "JA" : "Git Islandに行きませんか？私に50ゴールドを払えば、私はあなたをそこに連れて行きます。",
+    "RU" : "Хотите на остров Гит? Заплати мне 50 золотых, и я отведу тебя туда.",
+    "DE" : "Möchtest du nach Git Island? Zahl mir 50 Gold und ich bringe dich hin.",
+    "KO" : "Git Island에 가고 싶습니까? 나에게 50골드를 지불하면 당신을 그곳으로 데려다 드리겠습니다.",
+    "IT" : "Ti piacerebbe Git Island? Pagami 50 monete d&#39;oro e ti ci porto."
   },
   "format" : "HTML"
 }, {
