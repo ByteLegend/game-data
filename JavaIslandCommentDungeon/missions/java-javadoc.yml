@@ -25,3 +25,8 @@ challenges:
     spec: github.com/ByteLegendQuest/java-fix-broken-javadoc
 discussions:
   url: https://github.com/ByteLegendQuest/java-write-javadoc/discussions
+onFinish:
+  items: [ 'key:JavaIslandCommentDungeon:java-javadoc' ]
+onItemUsed:
+  'key:JavaIslandCommentDungeon:java-javadoc':
+    coin: 100

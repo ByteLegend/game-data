@@ -20,4 +20,7 @@ challenges:
     spec: ".*af8a682253b28bde360686d818ac0b1a.*"
     readme: https://github.com/ByteLegendQuest/java-set-a-conditional-breakpoint/blob/main/README.md
 onFinish:
-  coin: 100
+  items: [ 'key:JavaIslandDebuggerDungeon:java-debugger-conditional-breakpoint' ]
+onItemUsed:
+  'key:JavaIslandDebuggerDungeon:java-debugger-conditional-breakpoint':
+    coin: 200

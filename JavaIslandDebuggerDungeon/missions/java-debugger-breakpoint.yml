@@ -20,4 +20,7 @@ challenges:
     spec: ".*74dbeff789e6b3020caea1c54258c93e.*"
     readme: https://github.com/ByteLegendQuest/java-set-a-breakpoint/blob/main/README.md
 onFinish:
-  coin: 100
+  items: [ 'key:JavaIslandDebuggerDungeon:java-debugger-breakpoint' ]
+onItemUsed:
+  'key:JavaIslandDebuggerDungeon:java-debugger-breakpoint':
+    coin: 100

@@ -21,3 +21,8 @@ challenges:
     spec: github.com/ByteLegendQuest/java-single-multi-line-comment
 discussions:
   url: https://github.com/ByteLegendQuest/java-single-multi-line-comment/discussions
+onFinish:
+  items: ['key:JavaIslandCommentDungeon:java-comment']
+onItemUsed:
+  'key:JavaIslandCommentDungeon:java-comment':
+    coin: 100
