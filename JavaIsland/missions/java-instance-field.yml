@@ -18,3 +18,8 @@ challenges:
     type: PullRequest
     star: 3
     spec: github.com/ByteLegendQuest/java-create-object-modify-field
+onFinish:
+  items:
+    - iron-sword:JavaIsland:java-instance-field
+    - silver-sword:JavaIsland:java-instance-field
+    - gold-sword:JavaIsland:java-instance-field

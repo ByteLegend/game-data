@@ -26,3 +26,8 @@ challenges:
     type: PullRequest
     star: 3
     spec: github.com/ByteLegendQuest/java-fix-missing-default-constructor
+onFinish:
+  items:
+    - iron-sword:JavaIsland:java-constructor
+    - silver-sword:JavaIsland:java-constructor
+    - gold-sword:JavaIsland:java-constructor

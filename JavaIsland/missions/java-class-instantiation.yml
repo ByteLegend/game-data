@@ -22,3 +22,8 @@ challenges:
     type: PullRequest
     star: 3
     spec: github.com/ByteLegendQuest/java-fix-same-reference
+onFinish:
+  items:
+    - iron-sword:JavaIsland:java-class-instantiation
+    - silver-sword:JavaIsland:java-class-instantiation
+    - gold-sword:JavaIsland:java-class-instantiation

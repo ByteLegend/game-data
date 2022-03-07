@@ -18,3 +18,8 @@ challenges:
     type: PullRequest
     star: 3
     spec: github.com/ByteLegendQuest/java-create-instance-method
+onFinish:
+  items:
+    - iron-sword:JavaIsland:java-instance-method
+    - silver-sword:JavaIsland:java-instance-method
+    - gold-sword:JavaIsland:java-instance-method

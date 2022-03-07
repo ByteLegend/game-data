@@ -26,3 +26,8 @@ challenges:
     type: PullRequest
     star: 3
     spec: github.com/ByteLegendQuest/java-deep-copy
+onFinish:
+  items:
+    - iron-sword:JavaIsland:java-reference-and-value
+    - silver-sword:JavaIsland:java-reference-and-value
+    - gold-sword:JavaIsland:java-reference-and-value

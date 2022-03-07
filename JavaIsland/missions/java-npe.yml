@@ -22,3 +22,8 @@ challenges:
     type: PullRequest
     star: 3
     spec: github.com/ByteLegendQuest/java-fix-method-return-npe
+onFinish:
+  items:
+    - iron-sword:JavaIsland:java-npe
+    - silver-sword:JavaIsland:java-npe
+    - gold-sword:JavaIsland:java-npe
