@@ -78,6 +78,13 @@
       Would you like to Java Island? Pay me 50 gold and I'll take you there.
     ZH_HANS: |
       你想去爪哇岛么？付我50金币，我就带你去。
+- id: YouDidNotUseYourChestKey
+  format: HTML
+  data:
+    EN: |
+      Are you sure not to use your <span style='color:red'>Chest Key</span>?
+    ZH_HANS: |
+      你确定不要使用你的<span style='color:red'>宝箱钥匙</span>吗？
 - id: GitIslandToJavaIslandText
   data:
     EN: To Java Island

@@ -287,6 +287,24 @@
   },
   "format" : "TEXT"
 }, {
+  "id" : "YouDidNotUseYourChestKey",
+  "data" : {
+    "EN" : "Are you sure not to use your <span style='color:red'>Chest Key</span>?\n",
+    "ZH_HANS" : "你确定不要使用你的<span style='color:red'>宝箱钥匙</span>吗？\n",
+    "ZH_HANT" : "你確定不要使用你的<span style='color:red'>寶箱鑰匙</span>嗎？",
+    "ES" : "¿Estás seguro de no usar tu <span style='color:red'>Chest Key</span> ?",
+    "AR" : "هل أنت متأكد من عدم استخدام <span style='color:red'>مفتاح الصدر</span> الخاص بك؟",
+    "PT" : "Tem certeza de que não usa sua <span style='color:red'>Chest Key</span> ?",
+    "ID" : "Apakah Anda yakin untuk tidak menggunakan <span style='color:red'>Kunci Dada</span> Anda?",
+    "FR" : "Êtes-vous sûr de ne pas utiliser votre <span style='color:red'>clé de coffre</span> ?",
+    "JA" : "<span style='color:red'>チェストキー</span>を使用しないでよろしいですか？",
+    "RU" : "Вы уверены, что не используете свой <span style='color:red'>ключ от сундука</span> ?",
+    "DE" : "Bist du sicher, dass du deinen <span style='color:red'>Truhenschlüssel</span> nicht benutzen wirst?",
+    "KO" : "<span style='color:red'>가슴 열쇠</span> 를 사용하지 않으시겠습니까?",
+    "IT" : "Sei sicuro di non usare la tua <span style='color:red'>chiave del forziere</span> ?"
+  },
+  "format" : "HTML"
+}, {
   "id" : "GitIslandToJavaIslandText",
   "data" : {
     "EN" : "To Java Island",
