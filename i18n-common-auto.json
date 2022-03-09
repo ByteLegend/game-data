@@ -2285,7 +2285,7 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "NiceDayHuh",
+  "id" : "NiceDayButEndOfTheWorld",
   "data" : {
     "EN" : "Nice day, huh? But it's THE END OF THE WORLD...",
     "ZH_HANS" : "今天天气不错！可惜是世界末日……",
@@ -2300,6 +2300,24 @@
     "DE" : "Schönen Tag, oder? Aber es ist DAS ENDE DER WELT...",
     "KO" : "좋은 하루, 응? 그러나 그것은 세계의 끝입니다 ...",
     "IT" : "Bella giornata, eh? Ma è LA FINE DEL MONDO..."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "NiceDayHuh",
+  "data" : {
+    "EN" : "Nice day, huh?",
+    "ZH_HANS" : "今天天气不错！",
+    "ZH_HANT" : "今天天氣不錯！",
+    "ES" : "Bonito día, ¿eh?",
+    "AR" : "يوم جميل ، أليس كذلك؟",
+    "PT" : "Bom dia, hein?",
+    "ID" : "Hari yang menyenangkan, ya?",
+    "FR" : "Belle journée, hein ?",
+    "JA" : "いい日ですね",
+    "RU" : "Хороший день, да?",
+    "DE" : "Schönen Tag, oder?",
+    "KO" : "좋은 하루, 응?",
+    "IT" : "Bella giornata, eh?"
   },
   "format" : "TEXT"
 }, {

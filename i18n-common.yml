@@ -621,10 +621,14 @@
   data:
     EN: Continuous login reward
     ZH_HANS: 连续登录奖励
-- id: NiceDayHuh
+- id: NiceDayButEndOfTheWorld
   data:
     EN: Nice day, huh? But it's THE END OF THE WORLD...
     ZH_HANS: 今天天气不错！可惜是世界末日……
+- id: NiceDayHuh
+  data:
+    EN: Nice day, huh?
+    ZH_HANS: 今天天气不错！
 - id: MissionAccomplishedReward
   data:
     EN: Mission accomplished reward
