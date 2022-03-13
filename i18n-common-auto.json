@@ -287,6 +287,24 @@
   },
   "format" : "TEXT"
 }, {
+  "id" : "MenuLeaderboardTitle",
+  "data" : {
+    "EN" : "Leaderboard",
+    "ZH_HANS" : "排行榜",
+    "ZH_HANT" : "排行榜",
+    "ES" : "Tabla de clasificación",
+    "AR" : "ليدربورد",
+    "PT" : "Entre os melhores",
+    "ID" : "Papan peringkat",
+    "FR" : "Classement",
+    "JA" : "リーダーボード",
+    "RU" : "Таблица лидеров",
+    "DE" : "Bestenliste",
+    "KO" : "리더보드",
+    "IT" : "Classifica"
+  },
+  "format" : "TEXT"
+}, {
   "id" : "MenuHelpTitle",
   "data" : {
     "EN" : "Help",
@@ -3454,4 +3472,58 @@
     "IT" : "Impossibile utilizzare l&#39;elemento [ <span style='color:red'>{0}</span> ]. Potrebbe essere utile aggiornare la pagina. {1}"
   },
   "format" : "HTML"
+}, {
+  "id" : "Ranking",
+  "data" : {
+    "EN" : "Ranking",
+    "ZH_HANS" : "排名",
+    "ZH_HANT" : "排名",
+    "ES" : "Clasificación",
+    "AR" : "تصنيف",
+    "PT" : "Classificação",
+    "ID" : "Peringkat",
+    "FR" : "Classement",
+    "JA" : "ランキング",
+    "RU" : "Рейтинг",
+    "DE" : "Rangfolge",
+    "KO" : "순위",
+    "IT" : "classifica"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "Player",
+  "data" : {
+    "EN" : "Player",
+    "ZH_HANS" : "玩家",
+    "ZH_HANT" : "玩家",
+    "ES" : "Jugador",
+    "AR" : "لاعب",
+    "PT" : "Jogador",
+    "ID" : "Pemain",
+    "FR" : "Joueur",
+    "JA" : "プレーヤー",
+    "RU" : "Игрок",
+    "DE" : "Spieler",
+    "KO" : "플레이어",
+    "IT" : "Giocatore"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "Star",
+  "data" : {
+    "EN" : "Star",
+    "ZH_HANS" : "星星",
+    "ZH_HANT" : "星星",
+    "ES" : "Estrella",
+    "AR" : "نجمة",
+    "PT" : "Estrela",
+    "ID" : "Bintang",
+    "FR" : "Star",
+    "JA" : "星",
+    "RU" : "Звезда",
+    "DE" : "Stern",
+    "KO" : "별",
+    "IT" : "Stella"
+  },
+  "format" : "TEXT"
 } ]

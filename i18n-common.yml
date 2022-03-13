@@ -85,6 +85,10 @@
     ZH_HANS: |
       字节传说是一个全球分布式系统，所有玩家的数据不分区。
       显示服务器位置有助于团队发现和处理服务器问题。
+- id: MenuLeaderboardTitle
+  data:
+    EN: Leaderboard
+    ZH_HANS: 排行榜
 - id: MenuHelpTitle
   data:
     EN: Help
@@ -947,3 +951,15 @@
   data:
     EN: "Failed to use item [<span style='color:red'>{0}</span>]. It may help to refresh the page. {1}"
     ZH_HANS: 使用物品【<span style='color:red'>{0}</span>】失败。刷新页面可能有助于解决此问题。{1}
+- id: Ranking
+  data:
+    EN: Ranking
+    ZH_HANS: 排名
+- id: Player
+  data:
+    EN: Player
+    ZH_HANS: 玩家
+- id: Star
+  data:
+    EN: Star
+    ZH_HANS: 星星
