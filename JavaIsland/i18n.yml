@@ -170,6 +170,14 @@
   data:
     EN: Fix Bug by PR
     ZH_HANS: 使用PR修复bug
+- id: JavaDataStructureBlocker-title
+  data:
+    EN: "Java Basic: Data Structure"
+    ZH_HANS: Java基础：数据结构
+- id: JavaClassObjectBlocker-title
+  data:
+    EN: "Java Basic: Class & Object"
+    ZH_HANS: Java基础：类与对象
 - id: JavaBasicStructure-title
   data:
     EN: "Java Basic Structure: Class & Package"
@@ -396,10 +404,6 @@
   data:
     EN: Java Array
     ZH_HANS: Java的数组
-- id: primitive-data-type-title
-  data:
-    EN: Primitive Data Type
-    ZH_HANS: 原生数据类型
 - id: type-conversion-promotion-title
   data:
     EN: Type Conversion and Promotion
@@ -1118,6 +1122,41 @@
       - [ ] Java Method Invocation
       - [ ] Local Variable and Scope
       - [ ] Method Recursion
+- id: JavaClassObjectBlocker-challenge-text
+  format: MARKDOWN
+  data:
+    ZH_HANS: |
+      阻塞道路的是埋在地下的巨大的不明外星生物的肢体，
+      它们在地下和防御塔相连，因此任何接近它们的人都会被防御塔攻击。
+      虽然看上去十分恐怖，这些生物实际上异常脆弱，
+      一旦脱离了防御塔的保护，这些外星生物一碰就会成为灰烬。
+      因此，要想从这里通过，必须瘫痪或摧毁与其相连的防御塔。
+
+      防御塔已瘫痪/摧毁：
+      - [ ] 实例化
+      - [ ] 实例字段
+      - [ ] 实例方法
+      - [ ] 实例构造器
+      - [ ] Java的空指针异常
+      - [ ] Java的引用与值
+    EN: |
+      It's the limb of huge unknown alien creature that blocks the way.
+      They are connected to the defense towers underground,
+      thus anyone approaching will be attacked by the defense towers.
+      Although they look scary, these creatures are actually
+      incredibly fragile. Once out of protection of the defense towers,
+      these alien creatures will turn to ashes at one touch.
+      Therefore, to pass, the connected defense towers
+      must be disabled or destroyed.
+
+      Defense towers disabled or destroyed:
+
+      - [ ] Class Instantiation
+      - [ ] Instance Field
+      - [ ] Instance Method
+      - [ ] Instance Constructor
+      - [ ] Java NullPointerException
+      - [ ] Java Reference and Value
 - id: JavaBasicStructure-challenge-text
   format: MARKDOWN
   data:
