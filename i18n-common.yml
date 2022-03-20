@@ -242,6 +242,23 @@
   data:
     EN: About & Contact
     ZH_HANS: 关于 & 联系
+- id: NotOptimizedForMobileDevices
+  data:
+    EN: Not Optimized for Mobile Devices
+    ZH_HANS: 尚未适配移动端
+- id: YouMayExperienceIssuesOnMobileDevices
+  format: MARKDOWN
+  data:
+    EN: |
+      Your User-Agent is: `{0}`
+
+      You may experience issues on mobile devices. We're sorry for that.
+      Please feel free to report an issue at [https://github.com/ByteLegend/ByteLegend/issues](https://github.com/ByteLegend/ByteLegend/issues).
+    ZH_HANS: |
+      您的User-Agent是：`{0}`
+
+      您可能会遇到兼容性问题，我们深感抱歉。
+      请移步[https://github.com/ByteLegend/ByteLegend/issues](https://github.com/ByteLegend/ByteLegend/issues)报告此问题。
 - id: AboutByteLegendBody
   format: MARKDOWN
   data:

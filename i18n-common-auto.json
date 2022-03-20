@@ -863,6 +863,42 @@
   },
   "format" : "TEXT"
 }, {
+  "id" : "NotOptimizedForMobileDevices",
+  "data" : {
+    "EN" : "Not Optimized for Mobile Devices",
+    "ZH_HANS" : "尚未适配移动端",
+    "ZH_HANT" : "尚未適配移動端",
+    "ES" : "No optimizado para dispositivos móviles",
+    "AR" : "غير محسن للأجهزة المحمولة",
+    "PT" : "Não otimizado para dispositivos móveis",
+    "ID" : "Tidak Dioptimalkan untuk Perangkat Seluler",
+    "FR" : "Non optimisé pour les appareils mobiles",
+    "JA" : "モバイルデバイス用に最適化されていません",
+    "RU" : "Не оптимизирован для мобильных устройств",
+    "DE" : "Nicht für Mobilgeräte optimiert",
+    "KO" : "모바일 장치에 최적화되지 않음",
+    "IT" : "Non ottimizzato per dispositivi mobili"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "YouMayExperienceIssuesOnMobileDevices",
+  "data" : {
+    "EN" : "<p>Your User-Agent is: <code class=\"notranslate\">{0}</code></p>\n<p>You may experience issues on mobile devices. We're sorry for that.\nPlease feel free to report an issue at <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">https://github.com/ByteLegend/ByteLegend/issues</a>.</p>\n",
+    "ZH_HANS" : "<p>您的User-Agent是：<code class=\"notranslate\">{0}</code></p>\n<p>您可能会遇到兼容性问题，我们深感抱歉。\n请移步<a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">https://github.com/ByteLegend/ByteLegend/issues</a>报告此问题。</p>\n",
+    "ZH_HANT" : "<p>尚未適配移動端</p>",
+    "ES" : "<p>Su agente de usuario es: <code class=\"notranslate\">{0}</code></p><p> Es posible que experimente problemas en los dispositivos móviles. Lo sentimos por eso. No dude en informar un problema en <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">https://github.com/ByteLegend/ByteLegend/issues</a> .</p>",
+    "AR" : "<p style=\";text-align:right;direction:rtl\">وكيل المستخدم الخاص بك هو: <code class=\"notranslate\">{0}</code></p><p style=\";text-align:right;direction:rtl\"> قد تواجهك مشاكل على الأجهزة المحمولة. نحن آسفون لذلك. لا تتردد في الإبلاغ عن مشكلة على <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">https://github.com/ByteLegend/ByteLegend/issues</a> .</p>",
+    "PT" : "<p>Seu User-Agent é: <code class=\"notranslate\">{0}</code></p><p> Você pode ter problemas em dispositivos móveis. Lamentamos por isso. Sinta-se à vontade para relatar um problema em <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">https://github.com/ByteLegend/ByteLegend/issues</a> .</p>",
+    "ID" : "<p>Agen-Pengguna Anda adalah: <code class=\"notranslate\">{0}</code></p><p> Anda mungkin mengalami masalah pada perangkat seluler. Kami minta maaf untuk itu. Silakan laporkan masalah di <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">https://github.com/ByteLegend/ByteLegend/issues</a> .</p>",
+    "FR" : "<p>Votre agent utilisateur est : <code class=\"notranslate\">{0}</code></p><p> Vous pouvez rencontrer des problèmes sur les appareils mobiles. Nous en sommes désolés. N&#39;hésitez pas à signaler un problème sur <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">https://github.com/ByteLegend/ByteLegend/issues</a> .</p>",
+    "JA" : "<p>ユーザーエージェントは次のとおりです： <code class=\"notranslate\">{0}</code></p><p>モバイルデバイスで問題が発生する可能性があります。申し訳ありません。 <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">https://github.com/ByteLegend/ByteLegend/issues</a>で問題を報告してください。</p>",
+    "RU" : "<p>Ваш пользовательский агент: <code class=\"notranslate\">{0}</code></p><p> У вас могут возникнуть проблемы с мобильными устройствами. Мы сожалеем об этом. Пожалуйста, не стесняйтесь сообщать о проблеме на <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">странице https://github.com/ByteLegend/ByteLegend/issues</a> .</p>",
+    "DE" : "<p>Ihr User-Agent ist: <code class=\"notranslate\">{0}</code></p><p> Auf Mobilgeräten können Probleme auftreten. Das tut uns leid. Bitte zögern Sie nicht, ein Problem unter <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">https://github.com/ByteLegend/ByteLegend/issues</a> zu melden.</p>",
+    "KO" : "<p>사용자 에이전트: <code class=\"notranslate\">{0}</code></p><p> 모바일 장치에서 문제가 발생할 수 있습니다. 죄송합니다. <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">https://github.com/ByteLegend/ByteLegend/issues</a> 에서 문제를 신고해 주세요.</p>",
+    "IT" : "<p>Il tuo User-Agent è: <code class=\"notranslate\">{0}</code></p><p> Potresti riscontrare problemi sui dispositivi mobili. Siamo spiacenti per questo. Non esitare a segnalare un problema su <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">https://github.com/ByteLegend/ByteLegend/issues</a> .</p>"
+  },
+  "format" : "HTML"
+}, {
   "id" : "AboutByteLegendBody",
   "data" : {
     "EN" : "<h5>About ByteLegend</h5>\n<p>ByteLegend is a MMORPG game in which you can learn programming skills.\nIt's a little hobby project in my free time.</p>\n<h5>Bug Report &amp; Feature Request</h5>\n<p>Please go to <a href=\"https://github.com/ByteLegend/ByteLegend/issues\" target=\"_blank\">GitHub issues</a> to submit bug report or feature request.</p>\n<h5>Discuss How to Play</h5>\n<p>Join the players all over the world to discuss the game at <a href=\"https://discord.gg/35RreUUGWt\" target=\"_blank\">Discord</a>.</p>\n<h5>Contact Us</h5>\n<p>If you have any questions, suggestions or coorperation opportunities,\nplease feel free to contact us at <a href=\"mailto:contact@bytelegend.com\" target=\"_blank\">contact@bytelegend.com</a>.</p>\n",
