@@ -18,7 +18,7 @@ challenges:
     type: Question
     readme: https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/README.md
     star: 1
-    spec: "(?s)SGVsbG8sIEJ5dGVMZWdlbmQh"
+    spec: '(?s)\s*SGVsbG8sIEJ5dGVMZWdlbmQh\s*'
 tutorials:
   - id: clone-and-run-in-idea-en
     title: Clone, Import, and Run a Project in IntelliJ IDEA

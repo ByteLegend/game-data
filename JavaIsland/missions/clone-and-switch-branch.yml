@@ -18,7 +18,7 @@ challenges:
     type: Question
     readme: https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/README.md
     star: 1
-    spec: "(?s)SGVsbG8sIEJ5dGVMZWdlbmRKREsxNyE="
+    spec: '(?s)\s*SGVsbG8sIEJ5dGVMZWdlbmRKREsxNyE=\s*'
 tutorials:
   - id: switch-branch-idea-en
     title: Switch git Branch in IDEA
