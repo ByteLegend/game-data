@@ -398,7 +398,7 @@
     ZH_HANS: 自动装箱与拆箱
 - id: data-representation-in-computer-title
   data:
-    EN: Data Presentation in Computer
+    EN: Data Representation in Computer
     ZH_HANS: 数据在计算机中的表示
 - id: java-array-title
   data:
@@ -1145,7 +1145,7 @@
 
       Defense towers disabled or destroyed:
 
-      - [ ] Data Presentation in Computer
+      - [ ] Data Representation in Computer
       - [ ] Type Conversion and Promotion
       - [ ] Autoboxing and Unboxing
       - [ ] Java Array
