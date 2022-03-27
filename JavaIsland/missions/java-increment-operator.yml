@@ -1,15 +1,27 @@
 # Copyright 2021 ByteLegend Technologies and the original author or authors.
-# 
+#
 # Licensed under the GNU Affero General Public License v3.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
-# 
+#
 #      https://github.com/ByteLegend/ByteLegend/blob/master/LICENSE
-# 
+#
 # Unless required by applicable law or agreed to in writing, software
 # distributed under the License is distributed on an "AS IS" BASIS,
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-id: java-tenary-operator
-title: java-tenary-operator-title
+id: java-increment-operator
+title: java-increment-operator-title
+challenges:
+  - id: java-fix-increment-bug
+    type: PullRequest
+    star: 3
+    spec: github.com/ByteLegendQuest/java-fix-increment-bug
+discussions:
+  url: https://github.com/ByteLegendQuest/java-fix-increment-bug/discussions
+onFinish:
+  items:
+    - iron-sword:JavaIsland:java-increment-operator
+    - silver-sword:JavaIsland:java-increment-operator
+    - gold-sword:JavaIsland:java-increment-operator
