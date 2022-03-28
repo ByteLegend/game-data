@@ -327,7 +327,7 @@
   "data" : {
     "EN" : "<p>Install <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a>, and paste the <code class=\"notranslate\">git version</code> command line output into the input box below.</p>\n",
     "ZH_HANS" : "<p>安装<a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a>，然后将<code class=\"notranslate\">git version</code>命令行的输出粘贴到下面的输入框里。</p>\n",
-    "ZH_HANT" : "<p>安裝</p>",
+    "ZH_HANT" : "<p>安裝<a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a>，然後將<code class=\"notranslate\">git version</code>命令行的輸出粘貼到下面的輸入框裡。</p>\n",
     "ES" : "<p>Instale <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> y pegue la salida de la línea de comando de la <code class=\"notranslate\">git version</code></p>",
     "AR" : "<p style=\";text-align:right;direction:rtl\">قم بتثبيت <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> ، ولصق <code class=\"notranslate\">git version</code> في مربع الإدخال أدناه.</p>",
     "PT" : "<p>Instale o <a href=\"https://git-scm.com/downloads\" target=\"_blank\">Git</a> e cole a saída da linha de comando da <code class=\"notranslate\">git version</code></p>",
