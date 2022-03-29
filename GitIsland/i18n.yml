@@ -100,6 +100,7 @@
   data:
     EN: Install [Git](https://git-scm.com/downloads), and paste the `git version` command line output into the input box below.
     ZH_HANS: 安装[Git](https://git-scm.com/downloads)，然后将`git version`命令行的输出粘贴到下面的输入框里。
+    ZH_HANT: 安裝[Git](https://git-scm.com/downloads)，然後將`git version`命令行的輸出粘貼到下面的輸入框裡。
 - id: GitIslandOnlyOpenHere
   format: HTML
   data:
