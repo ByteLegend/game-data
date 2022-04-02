@@ -1421,6 +1421,96 @@
   },
   "format" : "TEXT"
 }, {
+  "id" : "Time",
+  "data" : {
+    "EN" : "Time",
+    "ZH_HANS" : "时间",
+    "ZH_HANT" : "時間",
+    "ES" : "Hora",
+    "AR" : "زمن",
+    "PT" : "Tempo",
+    "ID" : "Waktu",
+    "FR" : "Temps",
+    "JA" : "時間",
+    "RU" : "Время",
+    "DE" : "Zeit",
+    "KO" : "시간",
+    "IT" : "Volta"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "Change",
+  "data" : {
+    "EN" : "Change",
+    "ZH_HANS" : "增减",
+    "ZH_HANT" : "增減",
+    "ES" : "Cambiar",
+    "AR" : "يتغيرون",
+    "PT" : "Mudar",
+    "ID" : "Mengubah",
+    "FR" : "Changement",
+    "JA" : "変化する",
+    "RU" : "Изменять",
+    "DE" : "Ändern",
+    "KO" : "변화",
+    "IT" : "Modificare"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "Reason",
+  "data" : {
+    "EN" : "Reason",
+    "ZH_HANS" : "原因",
+    "ZH_HANT" : "原因",
+    "ES" : "Razón",
+    "AR" : "سبب",
+    "PT" : "Razão",
+    "ID" : "Alasan",
+    "FR" : "Raison",
+    "JA" : "理由",
+    "RU" : "Причина",
+    "DE" : "Grund",
+    "KO" : "이유",
+    "IT" : "Motivo"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "Amount",
+  "data" : {
+    "EN" : "Amount",
+    "ZH_HANS" : "数量",
+    "ZH_HANT" : "數量",
+    "ES" : "Cantidad",
+    "AR" : "مقدار",
+    "PT" : "Montante",
+    "ID" : "Jumlah",
+    "FR" : "Montant",
+    "JA" : "額",
+    "RU" : "Количество",
+    "DE" : "Menge",
+    "KO" : "양",
+    "IT" : "Quantità"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "MyCoinHistory",
+  "data" : {
+    "EN" : "My Gold History",
+    "ZH_HANS" : "金币历史",
+    "ZH_HANT" : "金幣歷史",
+    "ES" : "Mi historial de oro",
+    "AR" : "تاريخ الذهب الخاص بي",
+    "PT" : "Minha história de ouro",
+    "ID" : "Sejarah Emas Saya",
+    "FR" : "Mon histoire d'or",
+    "JA" : "私の金の歴史",
+    "RU" : "Моя золотая история",
+    "DE" : "Meine Goldgeschichte",
+    "KO" : "나의 골드 히스토리",
+    "IT" : "La mia storia d'oro"
+  },
+  "format" : "TEXT"
+}, {
   "id" : "UpdateTime",
   "data" : {
     "EN" : "Update time",

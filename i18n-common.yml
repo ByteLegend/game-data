@@ -427,6 +427,26 @@
   data:
     EN: Order by
     ZH_HANS: 排序
+- id: Time
+  data:
+    EN: Time
+    ZH_HANS: 时间
+- id: Change
+  data:
+    EN: Change
+    ZH_HANS: 增减
+- id: Reason
+  data:
+    EN: Reason
+    ZH_HANS: 原因
+- id: Amount
+  data:
+    EN: Amount
+    ZH_HANS: 数量
+- id: MyCoinHistory
+  data:
+    EN: My Gold History
+    ZH_HANS: 金币历史
 - id: UpdateTime
   data:
     EN: Update time
