@@ -432,18 +432,14 @@
   data:
     EN: Ternary Operator
     ZH_HANS: 三元运算符
-- id: java-break-continue-title
+- id: java-loop-break-continue-title
   format: HTML
   data:
-    EN: <span class='notranslate'>break & continue</span>
-- id: java-control-flow-title
-  data:
-    EN: Control Flow
-    ZH_HANS: 控制流
-- id: java-do-while-title
+    EN: "Loop: <span class='notranslate'>break & continue</span>"
+- id: java-loop-title
   format: HTML
   data:
-    EN: <span class='notranslate'>do & while</span>
+    EN: "Loop: <span class='notranslate'>do & while</span>"
 - id: java-if-else-title
   format: HTML
   data:
@@ -452,16 +448,16 @@
   format: HTML
   data:
     EN: <span class='notranslate'>switch</span>
-- id: java-enhanced-switch-jep361-title
+- id: java-pattern-matching-switch-title
   format: HTML
   data:
-    EN: "JEP 361: Enhanced <span class='notranslate'>switch</span>"
-    ZH_HANS: "JEP 361: 增强的<span class='notranslate'>switch</span>"
-- id: java-for-loop-title
+    EN: "JEP: Enhanced <span class='notranslate'>switch</span>"
+    ZH_HANS: "JEP: 增强的<span class='notranslate'>switch</span>"
+- id: java-loop-senior-title
   format: HTML
   data:
-    EN: <span class='notranslate'>for</span> loop
-    ZH_HANS: <span class='notranslate'>for</span>循环
+    EN: Complex Loop
+    ZH_HANS: 复杂循环
 - id: JavaIslandToDataStructureIslandText
   data:
     EN: To Data Structure Island
@@ -1118,6 +1114,41 @@
       - [ ] Java Method Invocation
       - [ ] Local Variable and Scope
       - [ ] Method Recursion
+- id: JavaOperatorsBlocker-challenge-text
+  format: MARKDOWN
+  data:
+    ZH_HANS: |
+      阻塞道路的是埋在地下的巨大的不明外星生物的肢体，
+      它们在地下和防御塔相连，因此任何接近它们的人都会被防御塔攻击。
+      虽然看上去十分恐怖，这些生物实际上异常脆弱，
+      一旦脱离了防御塔的保护，这些外星生物一碰就会成为灰烬。
+      因此，要想从这里通过，必须瘫痪或摧毁与其相连的防御塔。
+
+      防御塔已瘫痪/摧毁：
+      - [ ] 运算符优先级
+      - [ ] 位运算符
+      - [ ] 自增/自减运算符
+      - [ ] 逻辑运算符
+      - [ ] 三元运算符
+      - [ ] 基本运算符
+    EN: |
+      It's the limb of huge unknown alien creature that blocks the way.
+      They are connected to the defense towers underground,
+      thus anyone approaching will be attacked by the defense towers.
+      Although they look scary, these creatures are actually
+      incredibly fragile. Once out of protection of the defense towers,
+      these alien creatures will turn to ashes at one touch.
+      Therefore, to pass, the connected defense towers
+      must be disabled or destroyed.
+
+      Defense towers disabled or destroyed:
+
+      - [ ] Operator Precedence
+      - [ ] Bitwise Operators
+      - [ ] Increment/Decrement Operator
+      - [ ] Logical Operators
+      - [ ] Ternary Operator
+      - [ ] Basic Operators
 - id: JavaDataStructureBlocker-challenge-text
   format: MARKDOWN
   data:

@@ -18,6 +18,10 @@ challenges:
     type: PullRequest
     star: 3
     spec: github.com/ByteLegendQuest/java-hexadecimal-character
+  - id: java-is-leap-year
+    type: PullRequest
+    star: 3
+    spec: github.com/ByteLegendQuest/java-is-leap-year
 onFinish:
   items:
     - iron-sword:JavaIsland:java-logical-operators
