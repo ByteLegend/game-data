@@ -672,12 +672,12 @@
     ZH_HANS: 今天天气不错！
 - id: MissionAccomplishedReward
   data:
-    EN: Mission accomplished reward
-    ZH_HANS: 任务完成奖励
+    EN: "Mission accomplished reward: {0}"
+    ZH_HANS: "任务完成奖励：{0}"
 - id: MapSwitchingToll
   data:
-    EN: Toll for Another Map
-    ZH_HANS: 地图通行费
+    EN: "Toll for Another Map: [{0}]->[{1}]"
+    ZH_HANS: "地图通行费：【{0}】->【{1}】"
 - id: SorryYouDontHaveEnoughCoin
   data:
     EN: Sorry, you don't have enough gold.

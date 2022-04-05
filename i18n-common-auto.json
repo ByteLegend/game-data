@@ -2467,37 +2467,37 @@
 }, {
   "id" : "MissionAccomplishedReward",
   "data" : {
-    "EN" : "Mission accomplished reward",
-    "ZH_HANS" : "任务完成奖励",
+    "EN" : "Mission accomplished reward: {0}",
+    "ZH_HANS" : "任务完成奖励：{0}",
     "ZH_HANT" : "任務完成獎勵",
-    "ES" : "Recompensa por misión cumplida",
-    "AR" : "مكافأة أنجزت المهمة",
-    "PT" : "Recompensa de missão cumprida",
-    "ID" : "Hadiah misi tercapai",
-    "FR" : "Récompense mission accomplie",
-    "JA" : "任務完了演説",
-    "RU" : "Награда за выполненную миссию",
-    "DE" : "Mission erfüllt Belohnung",
-    "KO" : "미션 달성 보상",
-    "IT" : "Ricompensa missione compiuta"
+    "ES" : "Recompensa de misión cumplida: {0}",
+    "AR" : "مكافأة إنجاز المهمة: {0}",
+    "PT" : "Recompensa da missão cumprida: {0}",
+    "ID" : "Hadiah misi tercapai: {0}",
+    "FR" : "Récompense de mission accomplie : {0}",
+    "JA" : "ミッション達成報酬：{0}",
+    "RU" : "Награда за выполненную миссию: {0}",
+    "DE" : "Belohnung für erfüllte Mission: {0}",
+    "KO" : "임무 완수 보상: {0}",
+    "IT" : "Ricompensa missione compiuta: {0}"
   },
   "format" : "TEXT"
 }, {
   "id" : "MapSwitchingToll",
   "data" : {
-    "EN" : "Toll for Another Map",
-    "ZH_HANS" : "地图通行费",
-    "ZH_HANT" : "地圖通行費",
-    "ES" : "Peaje por otro mapa",
-    "AR" : "رسم خريطة أخرى",
-    "PT" : "Pedágio para outro mapa",
-    "ID" : "Tol untuk Peta Lain",
-    "FR" : "Péage pour une autre carte",
-    "JA" : "別の地図の通行料",
-    "RU" : "Плата за другую карту",
-    "DE" : "Maut für eine andere Karte",
-    "KO" : "다른 지도에 대한 통행료",
-    "IT" : "Pedaggio per un'altra mappa"
+    "EN" : "Toll for Another Map: [{0}]->[{1}]",
+    "ZH_HANS" : "地图通行费：【{0}】->【{1}】",
+    "ZH_HANT" : "地圖通行費：【{0}】->【{1}】",
+    "ES" : "Peaje para otro mapa: [{0}]->[{1}]",
+    "AR" : "رسم خريطة أخرى: [{0}] -> [{1}]",
+    "PT" : "Pedágio para outro mapa: [{0}]->[{1}]",
+    "ID" : "Tol untuk Peta Lain: [{0}]->[{1}]",
+    "FR" : "Péage pour une autre carte : [{0}]->[{1}]",
+    "JA" : "別の地図の通行料：[{0}]-> [{1}]",
+    "RU" : "Плата за другую карту: [{0}]->[{1}]",
+    "DE" : "Maut für eine andere Karte: [{0}]->[{1}]",
+    "KO" : "다른 지도의 통행료: [{0}]->[{1}]",
+    "IT" : "Pedaggio per un'altra mappa: [{0}]->[{1}]"
   },
   "format" : "TEXT"
 }, {
