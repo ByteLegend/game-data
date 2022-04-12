@@ -482,10 +482,6 @@
   data:
     EN: Singleton Pattern
     ZH_HANS: 单例模式
-- id: java-platform-module-system-title
-  data:
-    EN: Java Platform Module System
-    ZH_HANS: Java模块化系统
 - id: java-object-hierachy-title
   data:
     EN: Object Hierachy
@@ -498,7 +494,7 @@
   data:
     EN: Inheritance
     ZH_HANS: 继承
-- id: java-importance-of-encapsulation-title
+- id: java-encapsulation-title
   data:
     EN: Importance of Encapsulation
     ZH_HANS: 封装的必要性
@@ -1114,6 +1110,37 @@
       - [ ] Java Method Invocation
       - [ ] Local Variable and Scope
       - [ ] Method Recursion
+- id: JavaControlFlow-challenge-text
+  format: MARKDOWN
+  data:
+    ZH_HANS: |
+      阻塞道路的是埋在地下的巨大的不明外星生物的肢体，
+      它们在地下和防御塔相连，因此任何接近它们的人都会被防御塔攻击。
+      虽然看上去十分恐怖，这些生物实际上异常脆弱，
+      一旦脱离了防御塔的保护，这些外星生物一碰就会成为灰烬。
+      因此，要想从这里通过，必须瘫痪或摧毁与其相连的防御塔。
+
+      防御塔已瘫痪/摧毁：
+      - [ ] <span class='notranslate'>if & else</span>
+      - [ ] 循环： <span class='notranslate'>break & continue</span>
+      - [ ] 循环： <span class='notranslate'>do & while</span>
+      - [ ] <span class='notranslate'>switch</span>
+    EN: |
+      It's the limb of huge unknown alien creature that blocks the way.
+      They are connected to the defense towers underground,
+      thus anyone approaching will be attacked by the defense towers.
+      Although they look scary, these creatures are actually
+      incredibly fragile. Once out of protection of the defense towers,
+      these alien creatures will turn to ashes at one touch.
+      Therefore, to pass, the connected defense towers
+      must be disabled or destroyed.
+
+      Defense towers disabled or destroyed:
+
+      - [ ] <span class='notranslate'>if & else</span>
+      - [ ] Loop: <span class='notranslate'>break & continue</span>
+      - [ ] Loop: <span class='notranslate'>do & while</span>
+      - [ ] <span class='notranslate'>switch</span>
 - id: JavaOperatorsBlocker-challenge-text
   format: MARKDOWN
   data:
