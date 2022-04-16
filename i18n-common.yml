@@ -359,10 +359,14 @@
 
       我们对您的贡献感激不尽。
 
-- id: MissionTutorials
+- id: Tutorials
   data:
     EN: Tutorials
     ZH_HANS: 教程
+- id: AskForHelp
+  data:
+    EN: Ask For Help
+    ZH_HANS: 请求帮助
 - id: MissionChallenge
   data:
     EN: Challenge
@@ -1000,3 +1004,34 @@
   data:
     EN: Star
     ZH_HANS: 星星
+- id: Unlock
+  format: HTML
+  data:
+    EN: Unlock
+    ZH_HANS: 解锁
+- id: PayCoinToUnlockTutorialsInVSCode
+  format: HTML
+  data:
+    EN: Tutorials for this mission haven't been unlocked yet. <br>Would like to pay <span style='color:red'>{0}</span> gold to unlock the tutorials?
+    ZH_HANS: 此关卡的教程尚未解锁。<br>你愿意付<span style='color:red'>{0}</span>金币解锁教程吗？
+- id: PayCoinToUnlockTutorials
+  format: HTML
+  data:
+    EN: Tutorials for this mission haven't been unlocked yet.<br>Would like to pay <span style='color:red'>{0}</span> gold to unlock the tutorials? You currently have <span style='color:green'>{1}</span> gold.
+    ZH_HANS: 此关卡的教程尚未解锁。<br>你愿意付<span style='color:red'>{0}</span>金币解锁教程吗？你当前拥有<span style='color:green'>{1}</span>金币。
+- id: NoEnoughCoin
+  data:
+    EN: No Enough Gold
+    ZH_HANS: 没有足够的金币
+- id: YouDonHaveEnoughCoin
+  data:
+    EN: You don't have enough gold to perform this operation.
+    ZH_HANS: 你没有足够的金币执行此操作。
+- id: UnlockMissionTutorials
+  data:
+    EN: "Unlock mission tutorials: [{1}]"
+    ZH_HANS: "解锁关卡教程：【{1}】"
+- id: AskingForHelpIsWIP
+  data:
+    EN: This feature is WIP. Players will be able to help each other via real-world collaboration (GitHub pull request/code review) and earn gold/reputation.
+    ZH_HANS: 我们正在开发这个功能。玩家之间将通过真实世界里的团队协作方式（GitHub pull request/code review）进行互相帮助，获取金币和声望奖励，敬请期待！

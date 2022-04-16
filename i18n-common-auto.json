@@ -1115,7 +1115,7 @@
   },
   "format" : "HTML"
 }, {
-  "id" : "MissionTutorials",
+  "id" : "Tutorials",
   "data" : {
     "EN" : "Tutorials",
     "ZH_HANS" : "教程",
@@ -1130,6 +1130,24 @@
     "DE" : "Tutorials",
     "KO" : "튜토리얼",
     "IT" : "Tutorial"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "AskForHelp",
+  "data" : {
+    "EN" : "Ask For Help",
+    "ZH_HANS" : "请求帮助",
+    "ZH_HANT" : "請求幫助",
+    "ES" : "Pedir ayuda",
+    "AR" : "طلب المساعدة",
+    "PT" : "Peça por ajuda",
+    "ID" : "Meminta bantuan",
+    "FR" : "Demander de l'aide",
+    "JA" : "助けを求める",
+    "RU" : "Просить помощи",
+    "DE" : "Bitten Sie um Hilfe",
+    "KO" : "도움을 요청",
+    "IT" : "Chiedere aiuto"
   },
   "format" : "TEXT"
 }, {
@@ -3650,6 +3668,132 @@
     "DE" : "Stern",
     "KO" : "별",
     "IT" : "Stella"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "Unlock",
+  "data" : {
+    "EN" : "Unlock",
+    "ZH_HANS" : "解锁",
+    "ZH_HANT" : "解鎖",
+    "ES" : "desbloquear",
+    "AR" : "الغاء القفل",
+    "PT" : "Desbloquear",
+    "ID" : "Membuka kunci",
+    "FR" : "Ouvrir",
+    "JA" : "ロックを解除する",
+    "RU" : "Разблокировать",
+    "DE" : "Freischalten",
+    "KO" : "터놓다",
+    "IT" : "Sbloccare"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "PayCoinToUnlockTutorialsInVSCode",
+  "data" : {
+    "EN" : "Tutorials for this mission haven't been unlocked yet. <br>Would like to pay <span style='color:red'>{0}</span> gold to unlock the tutorials?",
+    "ZH_HANS" : "此关卡的教程尚未解锁。<br>你愿意付<span style='color:red'>{0}</span>金币解锁教程吗？",
+    "ZH_HANT" : "此關卡的教程尚未解鎖。<br>你願意付<span style='color:red'>{0}</span>金幣解鎖教程嗎？",
+    "ES" : "Los tutoriales para esta misión aún no se han desbloqueado.<br> ¿Le gustaría pagar <span style='color:red'>{0}</span> de oro para desbloquear los tutoriales?",
+    "AR" : "لم يتم فتح البرامج التعليمية لهذه المهمة بعد.<br> هل ترغب في دفع <span style='color:red'>{0}</span> ذهبًا لفتح البرامج التعليمية؟",
+    "PT" : "Tutoriais para esta missão ainda não foram desbloqueados.<br> Gostaria de pagar <span style='color:red'>{0}</span> ouro para desbloquear os tutoriais?",
+    "ID" : "Tutorial untuk misi ini belum dibuka.<br> Ingin membayar <span style='color:red'>{0}</span> emas untuk membuka kunci tutorial?",
+    "FR" : "Les tutoriels pour cette mission n&#39;ont pas encore été déverrouillés.<br> Souhaitez-vous payer <span style='color:red'>{0}</span> pièces d&#39;or pour déverrouiller les didacticiels ?",
+    "JA" : "このミッションのチュートリアルはまだロック解除されていません。<br>チュートリアルのロックを解除するために<span style='color:red'>{0}</span>ゴールドを支払いたいですか？",
+    "RU" : "Учебники для этой миссии еще не разблокированы.<br> Хотите заплатить <span style='color:red'>{0}</span> золота, чтобы разблокировать учебники?",
+    "DE" : "Tutorials für diese Mission wurden noch nicht freigeschaltet.<br> Möchten Sie <span style='color:red'>{0}</span> Gold bezahlen, um die Tutorials freizuschalten?",
+    "KO" : "이 임무의 튜토리얼은 아직 잠금 해제되지 않았습니다.<br> 튜토리얼을 잠금 해제하기 위해 <span style='color:red'>{0}</span> 골드를 지불하시겠습니까?",
+    "IT" : "I tutorial per questa missione non sono stati ancora sbloccati.<br> Vorresti pagare <span style='color:red'>{0}</span> oro per sbloccare i tutorial?"
+  },
+  "format" : "HTML"
+}, {
+  "id" : "PayCoinToUnlockTutorials",
+  "data" : {
+    "EN" : "Tutorials for this mission haven't been unlocked yet.<br>Would like to pay <span style='color:red'>{0}</span> gold to unlock the tutorials? You currently have <span style='color:green'>{1}</span> gold.",
+    "ZH_HANS" : "此关卡的教程尚未解锁。<br>你愿意付<span style='color:red'>{0}</span>金币解锁教程吗？你当前拥有<span style='color:green'>{1}</span>金币。",
+    "ZH_HANT" : "此關卡的教程尚未解鎖。<br>你願意付<span style='color:red'>{0}</span>金幣解鎖教程嗎？你當前擁有<span style='color:green'>{1}</span>金幣。",
+    "ES" : "Los tutoriales para esta misión aún no se han desbloqueado.<br> ¿Le gustaría pagar <span style='color:red'>{0}</span> de oro para desbloquear los tutoriales? Actualmente tienes <span style='color:green'>{1}</span> oro.",
+    "AR" : "لم يتم فتح البرامج التعليمية لهذه المهمة بعد.<br> هل ترغب في دفع <span style='color:red'>{0}</span> ذهبًا لفتح البرامج التعليمية؟ لديك حاليًا <span style='color:green'>{1}</span> ذهب.",
+    "PT" : "Tutoriais para esta missão ainda não foram desbloqueados.<br> Gostaria de pagar <span style='color:red'>{0}</span> ouro para desbloquear os tutoriais? Atualmente você tem <span style='color:green'>{1}</span> ouro.",
+    "ID" : "Tutorial untuk misi ini belum dibuka.<br> Ingin membayar <span style='color:red'>{0}</span> emas untuk membuka kunci tutorial? Saat ini Anda memiliki <span style='color:green'>{1}</span> emas.",
+    "FR" : "Les tutoriels pour cette mission n&#39;ont pas encore été déverrouillés.<br> Souhaitez-vous payer <span style='color:red'>{0}</span> pièces d&#39;or pour déverrouiller les didacticiels ? Vous avez actuellement <span style='color:green'>{1} pièces</span> d&#39;or.",
+    "JA" : "このミッションのチュートリアルはまだロック解除されていません。<br>チュートリアルのロックを解除するために<span style='color:red'>{0}</span>ゴールドを支払いたいですか？あなたは現在<span style='color:green'>{1}</span>ゴールドを持っています。",
+    "RU" : "Учебники для этой миссии еще не разблокированы.<br> Хотите заплатить <span style='color:red'>{0}</span> золота, чтобы разблокировать учебники? В настоящее время у вас есть <span style='color:green'>{1}</span> золота.",
+    "DE" : "Tutorials für diese Mission wurden noch nicht freigeschaltet.<br> Möchten Sie <span style='color:red'>{0}</span> Gold bezahlen, um die Tutorials freizuschalten? Sie haben derzeit <span style='color:green'>{1}</span> Gold.",
+    "KO" : "이 임무의 튜토리얼은 아직 잠금 해제되지 않았습니다.<br> 튜토리얼을 잠금 해제하기 위해 <span style='color:red'>{0}</span> 골드를 지불하시겠습니까? 현재 <span style='color:green'>{1}</span> 골드가 있습니다.",
+    "IT" : "I tutorial per questa missione non sono stati ancora sbloccati.<br> Vorresti pagare <span style='color:red'>{0}</span> oro per sbloccare i tutorial? Al momento hai <span style='color:green'>{1}</span> oro."
+  },
+  "format" : "HTML"
+}, {
+  "id" : "NoEnoughCoin",
+  "data" : {
+    "EN" : "No Enough Gold",
+    "ZH_HANS" : "没有足够的金币",
+    "ZH_HANT" : "沒有足夠的金幣",
+    "ES" : "No hay suficiente oro",
+    "AR" : "لا يكفي الذهب",
+    "PT" : "Não há ouro suficiente",
+    "ID" : "Tidak Cukup Emas",
+    "FR" : "Pas assez d'or",
+    "JA" : "十分な金がありません",
+    "RU" : "Недостаточно золота",
+    "DE" : "Nicht genug Gold",
+    "KO" : "금이 부족하다",
+    "IT" : "Non abbastanza oro"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "YouDonHaveEnoughCoin",
+  "data" : {
+    "EN" : "You don't have enough gold to perform this operation.",
+    "ZH_HANS" : "你没有足够的金币执行此操作。",
+    "ZH_HANT" : "你沒有足夠的金幣執行此操作。",
+    "ES" : "No tienes suficiente oro para realizar esta operación.",
+    "AR" : "ليس لديك ما يكفي من الذهب لإجراء هذه العملية.",
+    "PT" : "Você não tem ouro suficiente para realizar esta operação.",
+    "ID" : "Anda tidak memiliki cukup emas untuk melakukan operasi ini.",
+    "FR" : "Vous n'avez pas assez d'or pour effectuer cette opération.",
+    "JA" : "この操作を実行するのに十分なゴールドがありません。",
+    "RU" : "У вас недостаточно золота для выполнения этой операции.",
+    "DE" : "Du hast nicht genug Gold, um diese Operation durchzuführen.",
+    "KO" : "이 작업을 수행하기에 충분한 골드가 없습니다.",
+    "IT" : "Non hai abbastanza oro per eseguire questa operazione."
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "UnlockMissionTutorials",
+  "data" : {
+    "EN" : "Unlock mission tutorials: [{1}]",
+    "ZH_HANS" : "解锁关卡教程：【{1}】",
+    "ZH_HANT" : "解鎖關卡教程：【{1}】",
+    "ES" : "Desbloquear tutoriales de misiones: [{1}]",
+    "AR" : "فتح برامج تعليمية حول المهمة: [{1}]",
+    "PT" : "Desbloqueie tutoriais de missão: [{1}]",
+    "ID" : "Buka kunci tutorial misi: [{1}]",
+    "FR" : "Déverrouillez les didacticiels de mission : [{1}]",
+    "JA" : "ミッションチュートリアルのロックを解除する：[{1}]",
+    "RU" : "Разблокировать обучающие миссии: [{1}]",
+    "DE" : "Missions-Tutorials freischalten: [{1}]",
+    "KO" : "미션 튜토리얼 잠금 해제: [{1}]",
+    "IT" : "Sblocca i tutorial sulle missioni: [{1}]"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "AskingForHelpIsWIP",
+  "data" : {
+    "EN" : "This feature is WIP. Players will be able to help each other via real-world collaboration (GitHub pull request/code review) and earn gold/reputation.",
+    "ZH_HANS" : "我们正在开发这个功能。玩家之间将通过真实世界里的团队协作方式（GitHub pull request/code review）进行互相帮助，获取金币和声望奖励，敬请期待！",
+    "ZH_HANT" : "我們正在開發這個功能。玩家之間將通過真實世界裡的團隊協作方式（GitHub pull request/code review）進行互相幫助，獲取金幣和聲望獎勵，敬請期待！",
+    "ES" : "Esta función es WIP. Los jugadores podrán ayudarse entre sí a través de la colaboración en el mundo real (solicitud de extracción de GitHub/revisión de código) y ganar oro/reputación.",
+    "AR" : "هذه الميزة هي العمل قيد التقدم. سيتمكن اللاعبون من مساعدة بعضهم البعض من خلال التعاون في العالم الحقيقي (طلب سحب GitHub / مراجعة الكود) وكسب الذهب / السمعة.",
+    "PT" : "Este recurso é WIP. Os jogadores poderão ajudar uns aos outros por meio de colaboração no mundo real (solicitação de pull do GitHub/revisão de código) e ganhar ouro/reputação.",
+    "ID" : "Fitur ini adalah WIP. Pemain akan dapat saling membantu melalui kolaborasi dunia nyata (permintaan tarik GitHub/tinjauan kode) dan mendapatkan emas/reputasi.",
+    "FR" : "Cette fonctionnalité est WIP. Les joueurs pourront s'entraider via une collaboration dans le monde réel (demande d'extraction GitHub/révision de code) et gagner de l'or/de la réputation.",
+    "JA" : "この機能はWIPです。プレーヤーは、実際のコラボレーション（GitHubプルリクエスト/コードレビュー）を介して互いに助け合い、ゴールド/評判を獲得することができます。",
+    "RU" : "Эта функция является незавершенной. Игроки смогут помогать друг другу посредством совместной работы в реальном мире (GitHub pull request/code review) и зарабатывать золото/репутацию.",
+    "DE" : "Diese Funktion ist WIP. Die Spieler können sich gegenseitig durch Zusammenarbeit in der realen Welt (GitHub-Pull-Request/Code-Review) helfen und Gold/Reputation verdienen.",
+    "KO" : "이 기능은 WIP입니다. 플레이어는 실제 협업(GitHub pull 요청/코드 검토)을 통해 서로를 돕고 골드/평판을 얻을 수 있습니다.",
+    "IT" : "Questa funzione è WIP. I giocatori potranno aiutarsi a vicenda tramite la collaborazione nel mondo reale (richiesta pull GitHub/revisione del codice) e guadagnare oro/reputazione."
   },
   "format" : "TEXT"
 } ]
