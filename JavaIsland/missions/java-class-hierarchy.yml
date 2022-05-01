@@ -1,15 +1,29 @@
 # Copyright 2021 ByteLegend Technologies and the original author or authors.
-# 
+#
 # Licensed under the GNU Affero General Public License v3.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
-# 
+#
 #      https://github.com/ByteLegend/ByteLegend/blob/master/LICENSE
-# 
+#
 # Unless required by applicable law or agreed to in writing, software
 # distributed under the License is distributed on an "AS IS" BASIS,
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-id: java-object-hierachy
-title: java-object-hierachy-title
+id: java-class-hierarchy
+title: java-class-hierarchy-title
+challenges:
+  - id: java-common-classes-hierarchies
+    type: PullRequest
+    star: 3
+    spec: github.com/ByteLegendQuest/java-common-classes-hierarchies
+  - id: java-fix-super-errors
+    type: PullRequest
+    star: 3
+    spec: github.com/ByteLegendQuest/java-fix-super-errors
+onFinish:
+  items:
+    - iron-sword:JavaIsland:java-class-hierarchy
+    - silver-sword:JavaIsland:java-class-hierarchy
+    - gold-sword:JavaIsland:java-class-hierarchy

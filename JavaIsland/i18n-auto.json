@@ -1727,23 +1727,23 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "java-upcast-downcast-title",
+  "id" : "java-instanceof-typecast-title",
   "data" : {
-    "EN" : "Upcasting & Downcasting",
-    "ZH_HANS" : "向上/向下转型",
-    "ZH_HANT" : "向上/向下轉型",
-    "ES" : "Upcasting y Downcasting",
-    "AR" : "Upcasting & Downcasting",
-    "PT" : "Upcasting e Downcasting",
-    "ID" : "Upcasting & Downcasting",
-    "FR" : "Conversion ascendante et descendante",
-    "JA" : "アップキャスティングとダウンキャスティング",
-    "RU" : "Повышающее и понижающее преобразование",
-    "DE" : "Upcasting & Downcasting",
-    "KO" : "업캐스팅 및 다운캐스팅",
-    "IT" : "Upcasting e downcasting"
+    "EN" : "<span class='notranslate'>instanceof</span> & Typecast",
+    "ZH_HANS" : "instanceof & 类型转换",
+    "ZH_HANT" : "instanceof &amp; 類型轉換",
+    "ES" : "<span class='notranslate'>instanceof</span> de &amp; Typecast",
+    "AR" : "<span class='notranslate'>instanceof</span> من و Typecast",
+    "PT" : "<span class='notranslate'>instanceof</span> &amp; Typecast",
+    "ID" : "<span class='notranslate'>instanceof</span> &amp; Typecast",
+    "FR" : "<span class='notranslate'>instanceof</span> &amp; Typecast",
+    "JA" : "<span class='notranslate'>instanceof</span> ＆Typecast",
+    "RU" : "<span class='notranslate'>instanceof</span> и приведение типов",
+    "DE" : "<span class='notranslate'>instanceof</span> von &amp; Typecast",
+    "KO" : "<span class='notranslate'>instanceof</span> 및 Typecast",
+    "IT" : "<span class='notranslate'>instanceof</span> &amp; Typecast"
   },
-  "format" : "TEXT"
+  "format" : "HTML"
 }, {
   "id" : "java-template-pattern-title",
   "data" : {
@@ -1799,39 +1799,21 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "java-object-hierachy-title",
+  "id" : "java-class-hierarchy-title",
   "data" : {
-    "EN" : "Object Hierachy",
-    "ZH_HANS" : "Object继承体系",
-    "ZH_HANT" : "Object繼承體系",
-    "ES" : "Jerarquía de objetos",
-    "AR" : "كائن Hierachy",
-    "PT" : "Hierarquia do objeto",
-    "ID" : "Hirarki Objek",
-    "FR" : "Hiérarchie des objets",
-    "JA" : "オブジェクト階層",
-    "RU" : "Объект Иерахи",
-    "DE" : "Objekthierarchie",
-    "KO" : "개체 계층",
-    "IT" : "Gerarchia degli oggetti"
-  },
-  "format" : "TEXT"
-}, {
-  "id" : "java-method-override-title",
-  "data" : {
-    "EN" : "Method Override",
-    "ZH_HANS" : "方法的覆盖",
-    "ZH_HANT" : "方法的覆蓋",
-    "ES" : "Anulación de método",
-    "AR" : "تجاوز الطريقة",
-    "PT" : "Substituição de método",
-    "ID" : "Penggantian Metode",
-    "FR" : "Remplacement de méthode",
-    "JA" : "メソッドのオーバーライド",
-    "RU" : "Переопределение метода",
-    "DE" : "Methodenüberschreibung",
-    "KO" : "메서드 재정의",
-    "IT" : "Sostituzione del metodo"
+    "EN" : "Class Hierarchy",
+    "ZH_HANS" : "类继承体系",
+    "ZH_HANT" : "類繼承體系",
+    "ES" : "Jerarquía de clases",
+    "AR" : "التسلسل الهرمي للفئة",
+    "PT" : "Hierarquia de Classe",
+    "ID" : "Hirarki Kelas",
+    "FR" : "Hiérarchie des classes",
+    "JA" : "クラス階層",
+    "RU" : "Иерархия классов",
+    "DE" : "Klassenhierarchie",
+    "KO" : "클래스 계층",
+    "IT" : "Gerarchia di classe"
   },
   "format" : "TEXT"
 }, {
@@ -1943,21 +1925,21 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "java-composition-vs-inheritance-title",
+  "id" : "java-inheritance-vs-composition-title",
   "data" : {
-    "EN" : "Composition vs Inheritance",
-    "ZH_HANS" : "组合vs继承",
-    "ZH_HANT" : "組合vs繼承",
-    "ES" : "Composición vs herencia",
-    "AR" : "التكوين مقابل الميراث",
-    "PT" : "Composição vs. Herança",
-    "ID" : "Komposisi vs Warisan",
-    "FR" : "Composition vs héritage",
-    "JA" : "構成と継承",
-    "RU" : "Состав против наследования",
-    "DE" : "Zusammensetzung vs. Vererbung",
-    "KO" : "구성 대 상속",
-    "IT" : "Composizione vs eredità"
+    "EN" : "Inheritance vs Composition",
+    "ZH_HANS" : "继承vs继承",
+    "ZH_HANT" : "繼承vs繼承",
+    "ES" : "Herencia vs Composición",
+    "AR" : "الميراث مقابل التكوين",
+    "PT" : "Herança vs Composição",
+    "ID" : "Warisan vs Komposisi",
+    "FR" : "Héritage vs Composition",
+    "JA" : "継承と構成",
+    "RU" : "Наследование против композиции",
+    "DE" : "Vererbung vs. Komposition",
+    "KO" : "상속 대 구성",
+    "IT" : "Ereditarietà vs composizione"
   },
   "format" : "TEXT"
 }, {
@@ -2015,7 +1997,7 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "java-interface-and-abstract-class-title",
+  "id" : "java-interface-abstract-class-title",
   "data" : {
     "EN" : "Interface and Abstract Class",
     "ZH_HANS" : "接口与抽象类",
@@ -2105,21 +2087,39 @@
   },
   "format" : "TEXT"
 }, {
-  "id" : "java-enum-title",
+  "id" : "java-polymorphism-title",
   "data" : {
-    "EN" : "<span class='notranslate'>enum</span>",
-    "ZH_HANS" : "枚举(enum)",
-    "ZH_HANT" : "枚舉(enum)",
-    "ES" : "<span class='notranslate'>enum</span>",
-    "AR" : "<span class='notranslate'>enum</span>",
-    "PT" : "<span class='notranslate'>enum</span>",
-    "ID" : "<span class='notranslate'>enum</span>",
-    "FR" : "<span class='notranslate'>enum</span>",
-    "JA" : "<span class='notranslate'>enum</span>",
-    "RU" : "<span class='notranslate'>enum</span>",
-    "DE" : "<span class='notranslate'>enum</span>",
-    "KO" : "<span class='notranslate'>enum</span>",
-    "IT" : "<span class='notranslate'>enum</span>"
+    "EN" : "Java Polymorphism",
+    "ZH_HANS" : "Java的多态",
+    "ZH_HANT" : "Java的多態",
+    "ES" : "Polimorfismo de Java",
+    "AR" : "جافا تعدد الأشكال",
+    "PT" : "Polimorfismo Java",
+    "ID" : "Polimorfisme Jawa",
+    "FR" : "Polymorphisme Java",
+    "JA" : "Javaポリモーフィズム",
+    "RU" : "Java-полиморфизм",
+    "DE" : "Java-Polymorphismus",
+    "KO" : "자바 다형성",
+    "IT" : "Polimorfismo di Giava"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "java-object-override-title",
+  "data" : {
+    "EN" : "Override <span class='notranslate'>Object</span> Methods",
+    "ZH_HANS" : "覆盖Object的方法",
+    "ZH_HANT" : "覆蓋Object的方法",
+    "ES" : "Anular métodos de <span class='notranslate'>Object</span>",
+    "AR" : "طرق تجاوز <span class='notranslate'>Object</span>",
+    "PT" : "Substituir métodos <span class='notranslate'>Object</span>",
+    "ID" : "Ganti Metode <span class='notranslate'>Object</span>",
+    "FR" : "Remplacer les méthodes d&#39; <span class='notranslate'>Object</span>",
+    "JA" : "<span class='notranslate'>Object</span>メソッドをオーバーライドする",
+    "RU" : "Переопределить методы <span class='notranslate'>Object</span>",
+    "DE" : "<span class='notranslate'>Object</span> überschreiben",
+    "KO" : "<span class='notranslate'>Object</span> 메서드 재정의",
+    "IT" : "Sostituisci i metodi <span class='notranslate'>Object</span>"
   },
   "format" : "HTML"
 }, {

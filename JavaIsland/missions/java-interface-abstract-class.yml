@@ -11,19 +11,23 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-id: java-inheritance
-title: java-inheritance-title
+id: java-interface-abstract-class
+title: java-interface-abstract-class-title
 challenges:
-  - id: java-refactor-to-base-class
+  - id: java-interface-mixin
     type: PullRequest
     star: 3
-    spec: github.com/ByteLegendQuest/java-refactor-to-base-class
-  - id: java-refactor-to-more-base-classes
+    spec: https://github.com/ByteLegendQuest/java-interface-mixin
+  - id: java-refactor-interface-abstract-class
     type: PullRequest
     star: 3
-    spec: https://github.com/ByteLegendQuest/java-refactor-to-more-base-classes
+    spec: https://github.com/ByteLegendQuest/java-refactor-interface-abstract-class
+  - id: java-interface-static-method
+    type: PullRequest
+    star: 3
+    spec: https://github.com/ByteLegendQuest/java-interface-static-method
 onFinish:
   items:
-    - iron-sword:JavaIsland:java-inheritance
-    - silver-sword:JavaIsland:java-inheritance
-    - gold-sword:JavaIsland:java-inheritance
+    - iron-sword:JavaIsland:java-interface-abstract-class
+    - silver-sword:JavaIsland:java-interface-abstract-class
+    - gold-sword:JavaIsland:java-interface-abstract-class

@@ -466,10 +466,11 @@
   data:
     EN: To Algorithm Island
     ZH_HANS: 去往算法岛
-- id: java-upcast-downcast-title
+- id: java-instanceof-typecast-title
+  format: HTML
   data:
-    EN: Upcasting & Downcasting
-    ZH_HANS: 向上/向下转型
+    EN: <span class='notranslate'>instanceof</span> & Typecast
+    ZH_HANS: instanceof & 类型转换
 - id: java-template-pattern-title
   data:
     EN: Template Pattern
@@ -482,14 +483,10 @@
   data:
     EN: Singleton Pattern
     ZH_HANS: 单例模式
-- id: java-object-hierachy-title
+- id: java-class-hierarchy-title
   data:
-    EN: Object Hierachy
-    ZH_HANS: Object继承体系
-- id: java-method-override-title
-  data:
-    EN: Method Override
-    ZH_HANS: 方法的覆盖
+    EN: Class Hierarchy
+    ZH_HANS: 类继承体系
 - id: java-inheritance-title
   data:
     EN: Inheritance
@@ -514,10 +511,10 @@
   data:
     EN: final Keyword
     ZH_HANS: final关键字
-- id: "java-composition-vs-inheritance-title"
+- id: "java-inheritance-vs-composition-title"
   data:
-    EN: Composition vs Inheritance
-    ZH_HANS: 组合vs继承
+    EN: Inheritance vs Composition
+    ZH_HANS: 继承vs继承
 - id: "java-dynamic-method-dispatch-title"
   data:
     EN: Dynamic Method Dispatch
@@ -530,7 +527,7 @@
   data:
     EN: Class Modifiers
     ZH_HANS: 类的访问控制符
-- id: "java-interface-and-abstract-class-title"
+- id: "java-interface-abstract-class-title"
   data:
     EN: Interface and Abstract Class
     ZH_HANS: 接口与抽象类
@@ -550,11 +547,15 @@
   data:
     EN: Basic Design Pattern
     ZH_HANS: 基本设计模式
-- id: "java-enum-title"
+- id: java-polymorphism-title
+  data:
+    EN: Java Polymorphism
+    ZH_HANS: Java的多态
+- id: "java-object-override-title"
   format: HTML
   data:
-    EN: "<span class='notranslate'>enum</span>"
-    ZH_HANS: 枚举(enum)
+    EN: "Override <span class='notranslate'>Object</span> Methods"
+    ZH_HANS: 覆盖Object的方法
 - id: "java-set-title"
   format: HTML
   data:

@@ -13,6 +13,7 @@
 # limitations under the License.
 id: clone-and-run-java-project
 title: clone-and-run-java-project-title
+tutorialsPrice: 1
 challenges:
   - id: clone-and-run-java-project-challenge
     type: Question
