@@ -17,15 +17,15 @@ challenges:
   - id: java-interface-mixin
     type: PullRequest
     star: 3
-    spec: https://github.com/ByteLegendQuest/java-interface-mixin
+    spec: github.com/ByteLegendQuest/java-interface-mixin
   - id: java-refactor-interface-abstract-class
     type: PullRequest
     star: 3
-    spec: https://github.com/ByteLegendQuest/java-refactor-interface-abstract-class
+    spec: github.com/ByteLegendQuest/java-refactor-interface-abstract-class
   - id: java-interface-static-method
     type: PullRequest
     star: 3
-    spec: https://github.com/ByteLegendQuest/java-interface-static-method
+    spec: github.com/ByteLegendQuest/java-interface-static-method
 onFinish:
   items:
     - iron-sword:JavaIsland:java-interface-abstract-class

@@ -21,7 +21,7 @@ challenges:
   - id: java-fix-class-cast-exception
     type: PullRequest
     star: 3
-    spec: https://github.com/ByteLegendQuest/java-fix-class-cast-exception
+    spec: github.com/ByteLegendQuest/java-fix-class-cast-exception
 onFinish:
   items:
     - iron-sword:JavaIsland:java-instanceof-typecast
