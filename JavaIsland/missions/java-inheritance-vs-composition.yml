@@ -14,10 +14,10 @@
 id: java-inheritance-vs-composition
 title: java-inheritance-vs-composition-title
 challenges:
-  - id: java-refactor-to-base-class
+  - id: java-fix-counting-hash-set
     type: PullRequest
     star: 3
-    spec: github.com/ByteLegendQuest/java-refactor-to-base-class
+    spec: github.com/ByteLegendQuest/java-fix-counting-hash-set
 onFinish:
   items:
     - iron-sword:JavaIsland:java-inheritance-vs-composition
