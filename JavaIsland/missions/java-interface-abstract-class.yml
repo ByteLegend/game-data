@@ -18,10 +18,10 @@ challenges:
     type: PullRequest
     star: 3
     spec: github.com/ByteLegendQuest/java-interface-mixin
-  - id: java-refactor-interface-abstract-class
+  - id: java-interface-abstract-class-in-action
     type: PullRequest
     star: 3
-    spec: github.com/ByteLegendQuest/java-refactor-interface-abstract-class
+    spec: github.com/ByteLegendQuest/java-interface-abstract-class-in-action
   - id: java-interface-static-method
     type: PullRequest
     star: 3
