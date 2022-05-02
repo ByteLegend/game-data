@@ -17,7 +17,7 @@ challenges:
   - id: java-fix-overload-method-selection
     type: PullRequest
     star: 3
-    spec: https://github.com/ByteLegendQuest/java-fix-overload-method-selection
+    spec: github.com/ByteLegendQuest/java-fix-overload-method-selection
 onFinish:
   items:
     - iron-sword:JavaIsland:java-dynamic-method-dispatch

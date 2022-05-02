@@ -21,11 +21,11 @@ challenges:
   - id: java-file-filter
     type: PullRequest
     star: 3
-    spec: https://github.com/ByteLegendQuest/java-file-filter
+    spec: github.com/ByteLegendQuest/java-file-filter
   - id: java-sort-by-multiple-fields
     type: PullRequest
     star: 3
-    spec: https://github.com/ByteLegendQuest/java-sort-by-multiple-fields
+    spec: github.com/ByteLegendQuest/java-sort-by-multiple-fields
 onFinish:
   items:
     - iron-sword:JavaIsland:java-polymorphism
