@@ -514,7 +514,7 @@
 - id: "java-inheritance-vs-composition-title"
   data:
     EN: Inheritance vs Composition
-    ZH_HANS: 继承vs继承
+    ZH_HANS: 继承vs组合
 - id: "java-dynamic-method-dispatch-title"
   data:
     EN: Dynamic Method Dispatch

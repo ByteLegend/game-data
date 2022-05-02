@@ -1928,7 +1928,7 @@
   "id" : "java-inheritance-vs-composition-title",
   "data" : {
     "EN" : "Inheritance vs Composition",
-    "ZH_HANS" : "继承vs继承",
+    "ZH_HANS" : "继承vs组合",
     "ZH_HANT" : "繼承vs繼承",
     "ES" : "Herencia vs Composición",
     "AR" : "الميراث مقابل التكوين",
