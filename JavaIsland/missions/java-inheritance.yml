@@ -21,7 +21,7 @@ challenges:
   - id: java-refactor-to-more-base-classes
     type: PullRequest
     star: 3
-    spec: https://github.com/ByteLegendQuest/java-refactor-to-more-base-classes
+    spec: github.com/ByteLegendQuest/java-refactor-to-more-base-classes
 onFinish:
   items:
     - iron-sword:JavaIsland:java-inheritance
