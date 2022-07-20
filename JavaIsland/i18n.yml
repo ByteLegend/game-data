@@ -1290,3 +1290,11 @@
   data:
     EN: What is Dungeon?
     ZH_HANS: 地下城是什么？
+- id: tag-github
+  data:
+    EN: GitHub
+    ZH_HANS: GitHub
+- id: tag-pull-request
+  data:
+    EN: Pull Request
+    ZH_HANS: 拉取请求

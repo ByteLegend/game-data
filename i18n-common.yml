@@ -1035,3 +1035,7 @@
   data:
     EN: This feature is WIP. Players will be able to help each other via real-world collaboration (GitHub pull request/code review) and earn gold/reputation.
     ZH_HANS: 我们正在开发这个功能。玩家之间将通过真实世界里的团队协作方式（GitHub pull request/code review）进行互相帮助，获取金币和声望奖励，敬请期待！
+- id: Tag
+  data:
+    EN: "Tag: "
+    ZH_HANS: "标签："

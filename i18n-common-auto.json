@@ -3796,4 +3796,22 @@
     "IT" : "Questa funzione è WIP. I giocatori potranno aiutarsi a vicenda tramite la collaborazione nel mondo reale (richiesta pull GitHub/revisione del codice) e guadagnare oro/reputazione."
   },
   "format" : "TEXT"
+}, {
+  "id" : "Tag",
+  "data" : {
+    "EN" : "Tag: ",
+    "ZH_HANS" : "标签：",
+    "ZH_HANT" : "標籤：",
+    "ES" : "Etiqueta:",
+    "AR" : "بطاقة شعار:",
+    "PT" : "Marcação:",
+    "ID" : "Menandai:",
+    "FR" : "Étiquette:",
+    "JA" : "鬼ごっこ：",
+    "RU" : "Ярлык:",
+    "DE" : "Schild:",
+    "KO" : "꼬리표:",
+    "IT" : "Etichetta:"
+  },
+  "format" : "TEXT"
 } ]
