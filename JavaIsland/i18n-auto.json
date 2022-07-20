@@ -4012,4 +4012,40 @@
     "IT" : "Cos'è il Dungeon?"
   },
   "format" : "TEXT"
+}, {
+  "id" : "tag-github",
+  "data" : {
+    "EN" : "GitHub",
+    "ZH_HANS" : "GitHub",
+    "ZH_HANT" : "GitHub",
+    "ES" : "GitHub",
+    "AR" : "جيثب",
+    "PT" : "GitHubGenericName",
+    "ID" : "GitHub",
+    "FR" : "GitHub",
+    "JA" : "GitHub",
+    "RU" : "Гитхаб",
+    "DE" : "GitHub",
+    "KO" : "깃허브",
+    "IT" : "GitHub"
+  },
+  "format" : "TEXT"
+}, {
+  "id" : "tag-pull-request",
+  "data" : {
+    "EN" : "Pull Request",
+    "ZH_HANS" : "拉取请求",
+    "ZH_HANT" : "拉取請求",
+    "ES" : "Solicitud de extracción",
+    "AR" : "طلب سحب",
+    "PT" : "Solicitação de recebimento",
+    "ID" : "Tarik Permintaan",
+    "FR" : "Demande d'extraction",
+    "JA" : "プルリクエスト",
+    "RU" : "Пулл-реквест",
+    "DE" : "Pull-Anfrage",
+    "KO" : "풀 리퀘스트",
+    "IT" : "Tirare la richiesta"
+  },
+  "format" : "TEXT"
 } ]

@@ -13,6 +13,9 @@
 # limitations under the License.
 id: remember-brave-people
 title: remember-brave-people-title
+tags:
+  - tag-github
+  - tag-pull-request
 challenges:
   - id: remember-brave-people-challenge
     type: HeroNoticeboard
